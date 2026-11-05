@@ -1,8 +1,17 @@
+<div align="center">
+
 # Do Semantic Distance Tests *Actually* Predict Creativity in Large Language Models?
 
-Code and data for the NeurIPS 2026 paper by Samuel Schapiro, Alexi Gladstone, Jonah Black and Heng Ji.
+**Samuel Schapiro, Alexi Gladstone, Jonah Black, Heng Ji**
 
-[Project page](https://schapiro.ai/semantic-distance-tests/) · [Paper](https://openreview.net/forum?id=VflIpUsCvC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
+[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-4b44ce.svg)](https://openreview.net/forum?id=VflIpUsCvC)
+[![Project page](https://img.shields.io/badge/%F0%9F%94%97%20Project%20page-semantic--distance--tests-blue)](https://schapiro.ai/semantic-distance-tests/)
+
+<img src="assets/overview.png" alt="Overview: semantic distance tests like the Divergent Association Task ask respondents to name maximally dissimilar words and score the answer by embedding distance; this work asks whether such tests actually predict creativity in LLMs." width="100%">
+
+</div>
 
 We give LLMs the semantic distance tests used to measure human creativity, the Divergent Association Task (DAT), the Conditional DAT (CDAT, with its novelty and appropriateness parts) and PACE, plus the Remote Associates Test (RAT). Then we ask whether their scores predict creativity benchmarks in four areas: creative writing, output diversity, combinatorial creativity and scientific ideation. For each test and benchmark we report validity (the correlation with the benchmark) and specificity (the correlation with the part of the benchmark that general ability, measured by MMLU-Pro, does not explain). This repository holds the model responses behind the paper's numbers, the scores computed from them, and the scripts that produce the paper's tables and figures.
 
