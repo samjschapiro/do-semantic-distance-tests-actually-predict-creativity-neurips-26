@@ -2,281 +2,721 @@
   {
     "trial": 0,
     "seed": 1000,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"lullaby\", \"furnace\", \"theorem\", \"moss\", \"bankruptcy\", \"umbrella\", \"nostalgia\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "lullaby",
+      "furnace",
+      "theorem",
+      "moss",
+      "bankruptcy",
+      "umbrella",
+      "nostalgia"
+    ],
+    "api_error": null
   },
   {
     "trial": 1,
     "seed": 1001,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"grief\", \"algebra\", \"chimney\", \"perfume\", \"thursday\", \"canoe\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "grief",
+      "algebra",
+      "chimney",
+      "perfume",
+      "thursday",
+      "canoe"
+    ],
+    "api_error": null
   },
   {
     "trial": 2,
     "seed": 1002,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quarantine\", \"tambourine\", \"galaxy\", \"plumber\", \"vinegar\", \"oath\", \"daffodil\", \"algorithm\", \"furniture\", \"tsunami\"]",
+    "words": [
+      "quarantine",
+      "tambourine",
+      "galaxy",
+      "plumber",
+      "vinegar",
+      "oath",
+      "daffodil",
+      "algorithm",
+      "furniture",
+      "tsunami"
+    ],
+    "api_error": null
   },
   {
     "trial": 3,
     "seed": 1003,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"lullaby\", \"furnace\", \"paragraph\", \"ankle\", \"drought\", \"chimney\", \"gratitude\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "lullaby",
+      "furnace",
+      "paragraph",
+      "ankle",
+      "drought",
+      "chimney",
+      "gratitude"
+    ],
+    "api_error": null
   },
   {
     "trial": 4,
     "seed": 1004,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"soprano\", \"firmware\", \"cinnamon\", \"drought\", \"origami\", \"pendulum\", \"folklore\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "soprano",
+      "firmware",
+      "cinnamon",
+      "drought",
+      "origami",
+      "pendulum",
+      "folklore"
+    ],
+    "api_error": null
   },
   {
     "trial": 5,
     "seed": 1005,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quarantine\", \"melody\", \"gravel\", \"philosophy\", \"shrimp\", \"thunderbolt\", \"envelope\", \"nostalgia\", \"trapezoid\", \"custard\"]",
+    "words": [
+      "quarantine",
+      "melody",
+      "gravel",
+      "philosophy",
+      "shrimp",
+      "thunderbolt",
+      "envelope",
+      "nostalgia",
+      "trapezoid",
+      "custard"
+    ],
+    "api_error": null
   },
   {
     "trial": 6,
     "seed": 1006,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"soprano\", \"furnace\", \"paragraph\", \"ankle\", \"tsunami\", \"cinnamon\", \"guilt\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "soprano",
+      "furnace",
+      "paragraph",
+      "ankle",
+      "tsunami",
+      "cinnamon",
+      "guilt"
+    ],
+    "api_error": null
   },
   {
     "trial": 7,
     "seed": 1007,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"glacier\", \"syntax\", \"cinnamon\", \"drought\", \"envelope\", \"trapeze\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "glacier",
+      "syntax",
+      "cinnamon",
+      "drought",
+      "envelope",
+      "trapeze"
+    ],
+    "api_error": null
   },
   {
     "trial": 8,
     "seed": 1008,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"fog\", \"carburetor\", \"lullaby\", \"trapezoid\", \"cinnamon\", \"grief\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "fog",
+      "carburetor",
+      "lullaby",
+      "trapezoid",
+      "cinnamon",
+      "grief"
+    ],
+    "api_error": null
   },
   {
     "trial": 9,
     "seed": 1009,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"soprano\", \"threshold\", \"cinnamon\", \"glacier\", \"paradox\", \"furniture\", \"enzyme\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "soprano",
+      "threshold",
+      "cinnamon",
+      "glacier",
+      "paradox",
+      "furniture",
+      "enzyme"
+    ],
+    "api_error": null
   },
   {
     "trial": 10,
     "seed": 1010,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"envelope\", \"tungsten\", \"lullaby\", \"archipelago\", \"furnace\", \"gratitude\", \"thumbnail\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "envelope",
+      "tungsten",
+      "lullaby",
+      "archipelago",
+      "furnace",
+      "gratitude",
+      "thumbnail"
+    ],
+    "api_error": null
   },
   {
     "trial": 11,
     "seed": 1011,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"soprano\", \"thumbtack\", \"nostalgia\", \"blizzard\", \"furnace\", \"etymology\", \"canoe\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "soprano",
+      "thumbtack",
+      "nostalgia",
+      "blizzard",
+      "furnace",
+      "etymology",
+      "canoe"
+    ],
+    "api_error": null
   },
   {
     "trial": 12,
     "seed": 1012,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"glacier\", \"footnote\", \"cinnamon\", \"lullaby\", \"trapezoid\", \"drought\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "glacier",
+      "footnote",
+      "cinnamon",
+      "lullaby",
+      "trapezoid",
+      "drought"
+    ],
+    "api_error": null
   },
   {
     "trial": 13,
     "seed": 1013,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"grief\", \"antenna\", \"plumbing\", \"oath\", \"cinnamon\", \"trajectory\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "grief",
+      "antenna",
+      "plumbing",
+      "oath",
+      "cinnamon",
+      "trajectory"
+    ],
+    "api_error": null
   },
   {
     "trial": 14,
     "seed": 1014,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"whisper\", \"cactus\", \"democracy\", \"fingernail\", \"obsidian\", \"lullaby\", \"tsunami\", \"algebra\", \"motherhood\", \"furnace\"]",
+    "words": [
+      "whisper",
+      "cactus",
+      "democracy",
+      "fingernail",
+      "obsidian",
+      "lullaby",
+      "tsunami",
+      "algebra",
+      "motherhood",
+      "furnace"
+    ],
+    "api_error": null
   },
   {
     "trial": 15,
     "seed": 1015,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"lullaby\", \"furnace\", \"epistemology\", \"thumbtack\", \"glacier\", \"cinnamon\", \"mortgage\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "lullaby",
+      "furnace",
+      "epistemology",
+      "thumbtack",
+      "glacier",
+      "cinnamon",
+      "mortgage"
+    ],
+    "api_error": null
   },
   {
     "trial": 16,
     "seed": 1016,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"footprint\", \"lullaby\", \"embargo\", \"trapezoid\", \"cinnamon\", \"nostalgia\", \"wheelchair\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "footprint",
+      "lullaby",
+      "embargo",
+      "trapezoid",
+      "cinnamon",
+      "nostalgia",
+      "wheelchair"
+    ],
+    "api_error": null
   },
   {
     "trial": 17,
     "seed": 1017,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"nostalgia\", \"furnace\", \"syllable\", \"meadow\", \"bankruptcy\", \"thumbtack\", \"lullaby\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "nostalgia",
+      "furnace",
+      "syllable",
+      "meadow",
+      "bankruptcy",
+      "thumbtack",
+      "lullaby"
+    ],
+    "api_error": null
   },
   {
     "trial": 18,
     "seed": 1018,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quarantine\", \"thumbtack\", \"mythology\", \"jellyfish\", \"furnace\", \"algebra\", \"dewdrop\", \"parliament\", \"cinnamon\", \"silhouette\"]",
+    "words": [
+      "quarantine",
+      "thumbtack",
+      "mythology",
+      "jellyfish",
+      "furnace",
+      "algebra",
+      "dewdrop",
+      "parliament",
+      "cinnamon",
+      "silhouette"
+    ],
+    "api_error": null
   },
   {
     "trial": 19,
     "seed": 1019,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"forgiveness\", \"chimney\", \"algebra\", \"perfume\", \"thunderstorm\", \"ankle\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "forgiveness",
+      "chimney",
+      "algebra",
+      "perfume",
+      "thunderstorm",
+      "ankle"
+    ],
+    "api_error": null
   },
   {
     "trial": 20,
     "seed": 1020,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"fog\", \"algebra\", \"curtain\", \"sympathy\", \"plumber\", \"longitude\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "fog",
+      "algebra",
+      "curtain",
+      "sympathy",
+      "plumber",
+      "longitude"
+    ],
+    "api_error": null
   },
   {
     "trial": 21,
     "seed": 1021,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"grief\", \"algebra\", \"chimney\", \"droplet\", \"folklore\", \"sandal\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "grief",
+      "algebra",
+      "chimney",
+      "droplet",
+      "folklore",
+      "sandal"
+    ],
+    "api_error": null
   },
   {
     "trial": 22,
     "seed": 1022,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"empathy\", \"jalape\u00f1o\", \"blockchain\", \"walrus\", \"origami\", \"thunderstorm\", \"lullaby\", \"treason\", \"archipelago\"]",
+    "words": [
+      "quartz",
+      "empathy",
+      "jalape\u00f1o",
+      "blockchain",
+      "walrus",
+      "origami",
+      "thunderstorm",
+      "lullaby",
+      "treason",
+      "archipelago"
+    ],
+    "api_error": null
   },
   {
     "trial": 23,
     "seed": 1023,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"fog\", \"algebra\", \"cupboard\", \"nostalgia\", \"thorn\", \"avalanche\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "fog",
+      "algebra",
+      "cupboard",
+      "nostalgia",
+      "thorn",
+      "avalanche"
+    ],
+    "api_error": null
   },
   {
     "trial": 24,
     "seed": 1024,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"whisper\", \"cactus\", \"democracy\", \"anvil\", \"lullaby\", \"phosphorus\", \"glacier\", \"tantrum\", \"origami\", \"drought\"]",
+    "words": [
+      "whisper",
+      "cactus",
+      "democracy",
+      "anvil",
+      "lullaby",
+      "phosphorus",
+      "glacier",
+      "tantrum",
+      "origami",
+      "drought"
+    ],
+    "api_error": null
   },
   {
     "trial": 25,
     "seed": 1025,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"melody\", \"broccoli\", \"citizenship\", \"envelope\", \"thunderstorm\", \"kneepad\", \"folklore\", \"penguin\", \"algebra\"]",
+    "words": [
+      "quartz",
+      "melody",
+      "broccoli",
+      "citizenship",
+      "envelope",
+      "thunderstorm",
+      "kneepad",
+      "folklore",
+      "penguin",
+      "algebra"
+    ],
+    "api_error": null
   },
   {
     "trial": 26,
     "seed": 1026,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"lullaby\", \"fungus\", \"democracy\", \"envelope\", \"knee\", \"tornado\", \"algebra\", \"custard\", \"shipwreck\"]",
+    "words": [
+      "quartz",
+      "lullaby",
+      "fungus",
+      "democracy",
+      "envelope",
+      "knee",
+      "tornado",
+      "algebra",
+      "custard",
+      "shipwreck"
+    ],
+    "api_error": null
   },
   {
     "trial": 27,
     "seed": 1027,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tempo\", \"blanket\", \"logarithm\", \"grief\", \"cathedral\", \"yam\", \"friction\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tempo",
+      "blanket",
+      "logarithm",
+      "grief",
+      "cathedral",
+      "yam",
+      "friction"
+    ],
+    "api_error": null
   },
   {
     "trial": 28,
     "seed": 1028,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"lullaby\", \"furnace\", \"algorithm\", \"meadow\", \"tooth\", \"capitalism\", \"origami\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "lullaby",
+      "furnace",
+      "algorithm",
+      "meadow",
+      "tooth",
+      "capitalism",
+      "origami"
+    ],
+    "api_error": null
   },
   {
     "trial": 29,
     "seed": 1029,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"empathy\", \"jungle\", \"algorithm\", \"mushroom\", \"cathedral\", \"whisper\", \"anvil\", \"democracy\", \"plankton\"]",
+    "words": [
+      "quartz",
+      "empathy",
+      "jungle",
+      "algorithm",
+      "mushroom",
+      "cathedral",
+      "whisper",
+      "anvil",
+      "democracy",
+      "plankton"
+    ],
+    "api_error": null
   },
   {
     "trial": 30,
     "seed": 1030,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"lullaby\", \"democracy\", \"mushroom\", \"telescope\", \"grief\", \"ankle\", \"thunder\", \"bibliography\", \"cinnamon\"]",
+    "words": [
+      "quartz",
+      "lullaby",
+      "democracy",
+      "mushroom",
+      "telescope",
+      "grief",
+      "ankle",
+      "thunder",
+      "bibliography",
+      "cinnamon"
+    ],
+    "api_error": null
   },
   {
     "trial": 31,
     "seed": 1031,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"melody\", \"fungus\", \"obligation\", \"trousers\", \"archipelago\", \"kindness\", \"vacuum\", \"thumbnail\", \"prophecy\"]",
+    "words": [
+      "quartz",
+      "melody",
+      "fungus",
+      "obligation",
+      "trousers",
+      "archipelago",
+      "kindness",
+      "vacuum",
+      "thumbnail",
+      "prophecy"
+    ],
+    "api_error": null
   },
   {
     "trial": 32,
     "seed": 1032,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"soprano\", \"thunderstorm\", \"furniture\", \"algorithm\", \"cinnamon\", \"parenthood\", \"glacier\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "soprano",
+      "thunderstorm",
+      "furniture",
+      "algorithm",
+      "cinnamon",
+      "parenthood",
+      "glacier"
+    ],
+    "api_error": null
   },
   {
     "trial": 33,
     "seed": 1033,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"lullaby\", \"furnace\", \"theorem\", \"cinnamon\", \"glacier\", \"umbrella\", \"nostalgia\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "lullaby",
+      "furnace",
+      "theorem",
+      "cinnamon",
+      "glacier",
+      "umbrella",
+      "nostalgia"
+    ],
+    "api_error": null
   },
   {
     "trial": 34,
     "seed": 1034,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"glacier\", \"syntax\", \"cinnamon\", \"drought\", \"origami\", \"pulpit\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "glacier",
+      "syntax",
+      "cinnamon",
+      "drought",
+      "origami",
+      "pulpit"
+    ],
+    "api_error": null
   },
   {
     "trial": 35,
     "seed": 1035,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"glacier\", \"nostalgia\", \"cinnamon\", \"polygon\", \"lullaby\", \"fungus\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "glacier",
+      "nostalgia",
+      "cinnamon",
+      "polygon",
+      "lullaby",
+      "fungus"
+    ],
+    "api_error": null
   },
   {
     "trial": 36,
     "seed": 1036,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"nostalgia\", \"furnace\", \"syllable\", \"meadow\", \"bankruptcy\", \"thumbnail\", \"cinnamon\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "nostalgia",
+      "furnace",
+      "syllable",
+      "meadow",
+      "bankruptcy",
+      "thumbnail",
+      "cinnamon"
+    ],
+    "api_error": null
   },
   {
     "trial": 37,
     "seed": 1037,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quarantine\", \"symphony\", \"gravel\", \"motherhood\", \"telescope\", \"jurisprudence\", \"cinnamon\", \"glacier\", \"whimsy\", \"socket\"]",
+    "words": [
+      "quarantine",
+      "symphony",
+      "gravel",
+      "motherhood",
+      "telescope",
+      "jurisprudence",
+      "cinnamon",
+      "glacier",
+      "whimsy",
+      "socket"
+    ],
+    "api_error": null
   },
   {
     "trial": 38,
     "seed": 1038,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"tambourine\", \"glacier\", \"nostalgia\", \"blueprint\", \"cinnamon\", \"elbow\", \"paradox\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "tambourine",
+      "glacier",
+      "nostalgia",
+      "blueprint",
+      "cinnamon",
+      "elbow",
+      "paradox"
+    ],
+    "api_error": null
   },
   {
     "trial": 39,
     "seed": 1039,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"quartz\", \"democracy\", \"jellyfish\", \"odor\", \"lullaby\", \"tundra\", \"envelope\", \"grief\", \"algebra\", \"furniture\"]",
+    "words": [
+      "quartz",
+      "democracy",
+      "jellyfish",
+      "odor",
+      "lullaby",
+      "tundra",
+      "envelope",
+      "grief",
+      "algebra",
+      "furniture"
+    ],
+    "api_error": null
   }
 ]

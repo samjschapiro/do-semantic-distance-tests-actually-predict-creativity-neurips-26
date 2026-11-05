@@ -112,9 +112,8 @@ Model folders use OpenRouter IDs with `/` and `.` replaced, e.g. `openai/gpt-4.1
 Notes on the saved data:
 
 - `data/scores/` holds the scores exactly as the paper used them. `outputs/cells.json` matches the paper's numbers.
-- For six models (`anthropic_claude-opus-4-6`, `anthropic_claude-sonnet-4-6`, `deepseek_deepseek-chat-v3-0324`, `meta-llama_llama-3-3-70b-instruct`, `microsoft_phi-4`, `openai_gpt-5`) we later collected a second set of DAT and CDAT responses. `data/responses/` holds the first set, which is the one the paper's scores came from.
-- Rerunning `cdat_gate.py`, `rescore_multi_embed.py` and `score_evals.py` on `data/responses/` reproduces `multi_embed_scores.json` and `per_model/` (exactly for GloVe and FastText, within 1e-5 for Sentence-BERT), so Table 1 follows from the raw responses.
-- `cdat_gated_scores.json` is the gate file the paper's appendix per-temperature table used. It was computed after those six models' second response sets were collected, so for them its pass/fail flags differ from a rerun of `cdat_gate.py` on the responses here. Table 1 does not read this file.
+- For six models (`anthropic_claude-opus-4-6`, `anthropic_claude-sonnet-4-6`, `deepseek_deepseek-chat-v3-0324`, `meta-llama_llama-3-3-70b-instruct`, `microsoft_phi-4`, `openai_gpt-5`), `data/responses/` holds a second set of DAT and CDAT responses. The first runs of Claude Opus 4.6 and Sonnet 4.6 were cut short by a 256-token output cap, so most of their DAT and CDAT answers were empty; the other four were re-run through OpenRouter so all six share one version. Their PACE responses are from the first run, which was complete.
+- `cdat_gate.py` writes `cdat_gated_scores.json`; `rescore_multi_embed.py` then writes `multi_embed_scores.json` and `score_evals.py` the per-model scores. Rerunning all three on `data/responses/` reproduces the files in `data/scores/` (exactly for GloVe and FastText, within 1e-5 for Sentence-BERT), so every table and figure follows from the raw responses.
 
 ## Citation
 

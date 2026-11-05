@@ -1,302 +1,852 @@
 {
   "rock": {
     "seed": 2000,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"stone\", \"music\", \"cradle\", \"boulder\", \"guitar\", \"geology\", \"candy\", \"stability\", \"cliff\", \"mineral\"]",
+    "words": [
+      "stone",
+      "music",
+      "cradle",
+      "boulder",
+      "guitar",
+      "geology",
+      "candy",
+      "stability",
+      "cliff",
+      "mineral"
+    ],
+    "api_error": null
   },
   "rain": {
     "seed": 2001,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"umbrella\", \"puddle\", \"cloud\", \"drought\", \"petrichor\", \"flood\", \"gutter\", \"monsoon\", \"mud\", \"rainbow\"]",
+    "words": [
+      "umbrella",
+      "puddle",
+      "cloud",
+      "drought",
+      "petrichor",
+      "flood",
+      "gutter",
+      "monsoon",
+      "mud",
+      "rainbow"
+    ],
+    "api_error": null
   },
   "fire": {
     "seed": 2002,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"flame\", \"ash\", \"firefighter\", \"hearth\", \"smoke\", \"termination\", \"ember\", \"passion\", \"cannon\", \"tinder\"]",
+    "words": [
+      "flame",
+      "ash",
+      "firefighter",
+      "hearth",
+      "smoke",
+      "termination",
+      "ember",
+      "passion",
+      "cannon",
+      "tinder"
+    ],
+    "api_error": null
   },
   "ocean": {
     "seed": 2003,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"wave\", \"depth\", \"salt\", \"horizon\", \"coral\", \"trench\", \"tide\", \"sailor\", \"abyss\", \"kelp\"]",
+    "words": [
+      "wave",
+      "depth",
+      "salt",
+      "horizon",
+      "coral",
+      "trench",
+      "tide",
+      "sailor",
+      "abyss",
+      "kelp"
+    ],
+    "api_error": null
   },
   "shadow": {
     "seed": 2004,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"darkness\", \"silhouette\", \"phantom\", \"surveillance\", \"eclipse\", \"penumbra\", \"follower\", \"dusk\", \"reflection\", \"canopy\"]",
+    "words": [
+      "darkness",
+      "silhouette",
+      "phantom",
+      "surveillance",
+      "eclipse",
+      "penumbra",
+      "follower",
+      "dusk",
+      "reflection",
+      "canopy"
+    ],
+    "api_error": null
   },
   "eagle": {
     "seed": 2005,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"nest\", \"talon\", \"golf\", \"feather\", \"scout\", \"prey\", \"altitude\", \"emblem\", \"wingspan\", \"raptor\"]",
+    "words": [
+      "nest",
+      "talon",
+      "golf",
+      "feather",
+      "scout",
+      "prey",
+      "altitude",
+      "emblem",
+      "wingspan",
+      "raptor"
+    ],
+    "api_error": null
   },
   "spider": {
     "seed": 2006,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"web\", \"venom\", \"silk\", \"arachnid\", \"leg\", \"trap\", \"crawling\", \"insect\", \"bite\", \"nest\"]\n\nWait, I need to use only single nouns and reconsider \"crawling\" (it's a gerund/adjective). Let me redo:\n\n[\"web\", \"venom\", \"silk\", \"arachnid\", \"leg\", \"trap\", \"predator\", \"bite\", \"nest\", \"cocoon\"]",
+    "words": [
+      "web",
+      "venom",
+      "silk",
+      "arachnid",
+      "leg",
+      "trap",
+      "crawling",
+      "insect",
+      "bite",
+      "nest"
+    ],
+    "api_error": null
   },
   "whale": {
     "seed": 2007,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"ocean\", \"blubber\", \"harpoon\", \"mammal\", \"song\", \"pod\", \"leviathan\", \"krill\", \"spout\", \"behemoth\"]",
+    "words": [
+      "ocean",
+      "blubber",
+      "harpoon",
+      "mammal",
+      "song",
+      "pod",
+      "leviathan",
+      "krill",
+      "spout",
+      "behemoth"
+    ],
+    "api_error": null
   },
   "butterfly": {
     "seed": 2008,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"wing\", \"cocoon\", \"metamorphosis\", \"nectar\", \"lepidopterist\", \"stomach\", \"stroke\", \"chrysalis\", \"pollinator\", \"net\"]",
+    "words": [
+      "wing",
+      "cocoon",
+      "metamorphosis",
+      "nectar",
+      "lepidopterist",
+      "stomach",
+      "stroke",
+      "chrysalis",
+      "pollinator",
+      "net"
+    ],
+    "api_error": null
   },
   "wolf": {
     "seed": 2009,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"pack\", \"fang\", \"sheep\", \"howl\", \"predator\", \"forest\", \"pup\", \"den\", \"hunter\", \"disguise\"]",
+    "words": [
+      "pack",
+      "fang",
+      "sheep",
+      "howl",
+      "predator",
+      "forest",
+      "pup",
+      "den",
+      "hunter",
+      "disguise"
+    ],
+    "api_error": null
   },
   "bread": {
     "seed": 2010,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"loaf\", \"yeast\", \"wheat\", \"toast\", \"dough\", \"oven\", \"crust\", \"butter\", \"sandwich\", \"flour\"]",
+    "words": [
+      "loaf",
+      "yeast",
+      "wheat",
+      "toast",
+      "dough",
+      "oven",
+      "crust",
+      "butter",
+      "sandwich",
+      "flour"
+    ],
+    "api_error": null
   },
   "pepper": {
     "seed": 2011,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"spice\", \"capsaicin\", \"grinder\", \"seasoning\", \"jalape\u00f1o\", \"shaker\", \"heat\", \"condiment\", \"vegetable\", \"spray\"]",
+    "words": [
+      "spice",
+      "capsaicin",
+      "grinder",
+      "seasoning",
+      "jalape\u00f1o",
+      "shaker",
+      "heat",
+      "condiment",
+      "vegetable",
+      "spray"
+    ],
+    "api_error": null
   },
   "honey": {
     "seed": 2012,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"bee\", \"sweetness\", \"amber\", \"comb\", \"nectar\", \"jar\", \"darling\", \"wax\", \"clover\", \"gold\"]",
+    "words": [
+      "bee",
+      "sweetness",
+      "amber",
+      "comb",
+      "nectar",
+      "jar",
+      "darling",
+      "wax",
+      "clover",
+      "gold"
+    ],
+    "api_error": null
   },
   "salt": {
     "seed": 2013,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"mineral\", \"ocean\", \"seasoning\", \"shaker\", \"tears\", \"preservation\", \"crystal\", \"wound\", \"cellar\", \"brine\"]",
+    "words": [
+      "mineral",
+      "ocean",
+      "seasoning",
+      "shaker",
+      "tears",
+      "preservation",
+      "crystal",
+      "wound",
+      "cellar",
+      "brine"
+    ],
+    "api_error": null
   },
   "wine": {
     "seed": 2014,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"grape\", \"barrel\", \"sommelier\", \"fermentation\", \"cork\", \"vineyard\", \"tannin\", \"goblet\", \"vintage\", \"decanter\"]",
+    "words": [
+      "grape",
+      "barrel",
+      "sommelier",
+      "fermentation",
+      "cork",
+      "vineyard",
+      "tannin",
+      "goblet",
+      "vintage",
+      "decanter"
+    ],
+    "api_error": null
   },
   "heart": {
     "seed": 2015,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"ventricle\", \"love\", \"courage\", \"pulse\", \"core\", \"grief\", \"transplant\", \"valentine\", \"artery\", \"soul\"]",
+    "words": [
+      "ventricle",
+      "love",
+      "courage",
+      "pulse",
+      "core",
+      "grief",
+      "transplant",
+      "valentine",
+      "artery",
+      "soul"
+    ],
+    "api_error": null
   },
   "bone": {
     "seed": 2016,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"marrow\", \"skeleton\", \"calcium\", \"fossil\", \"cartilage\", \"dice\", \"ivory\", \"fracture\", \"archaeology\", \"broth\"]",
+    "words": [
+      "marrow",
+      "skeleton",
+      "calcium",
+      "fossil",
+      "cartilage",
+      "dice",
+      "ivory",
+      "fracture",
+      "archaeology",
+      "broth"
+    ],
+    "api_error": null
   },
   "blood": {
     "seed": 2017,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"vein\", \"transfusion\", \"hemoglobin\", \"clot\", \"plasma\", \"pressure\", \"lineage\", \"vampire\", \"sacrifice\", \"hound\"]",
+    "words": [
+      "vein",
+      "transfusion",
+      "hemoglobin",
+      "clot",
+      "plasma",
+      "pressure",
+      "lineage",
+      "vampire",
+      "sacrifice",
+      "hound"
+    ],
+    "api_error": null
   },
   "skin": {
     "seed": 2018,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"dermis\", \"peel\", \"hide\", \"complexion\", \"melanin\", \"pore\", \"membrane\", \"rash\", \"fur\", \"epidermis\"]",
+    "words": [
+      "dermis",
+      "peel",
+      "hide",
+      "complexion",
+      "melanin",
+      "pore",
+      "membrane",
+      "rash",
+      "fur",
+      "epidermis"
+    ],
+    "api_error": null
   },
   "eye": {
     "seed": 2019,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"pupil\", \"hurricane\", \"needle\", \"vision\", \"lash\", \"potato\", \"telescope\", \"tear\", \"socket\", \"surveillance\"]",
+    "words": [
+      "pupil",
+      "hurricane",
+      "needle",
+      "vision",
+      "lash",
+      "potato",
+      "telescope",
+      "tear",
+      "socket",
+      "surveillance"
+    ],
+    "api_error": null
   },
   "anger": {
     "seed": 2020,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"fury\", \"tantrum\", \"vein\", \"steam\", \"reconciliation\", \"trigger\", \"volcano\", \"injustice\", \"fist\", \"serenity\"]",
+    "words": [
+      "fury",
+      "tantrum",
+      "vein",
+      "steam",
+      "reconciliation",
+      "trigger",
+      "volcano",
+      "injustice",
+      "fist",
+      "serenity"
+    ],
+    "api_error": null
   },
   "joy": {
     "seed": 2021,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"laughter\", \"tear\", \"celebration\", \"sunlight\", \"child\", \"festival\", \"bliss\", \"dance\", \"gift\", \"heart\"]",
+    "words": [
+      "laughter",
+      "tear",
+      "celebration",
+      "sunlight",
+      "child",
+      "festival",
+      "bliss",
+      "dance",
+      "gift",
+      "heart"
+    ],
+    "api_error": null
   },
   "fear": {
     "seed": 2022,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"dread\", \"monster\", \"trembling\", \"darkness\", \"nightmare\", \"cowardice\", \"adrenaline\", \"threat\", \"phobia\", \"shadow\"]",
+    "words": [
+      "dread",
+      "monster",
+      "trembling",
+      "darkness",
+      "nightmare",
+      "cowardice",
+      "adrenaline",
+      "threat",
+      "phobia",
+      "shadow"
+    ],
+    "api_error": null
   },
   "grief": {
     "seed": 2023,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"loss\", \"tears\", \"funeral\", \"widow\", \"eulogy\", \"mourning\", \"heartbreak\", \"cemetery\", \"despair\", \"requiem\"]",
+    "words": [
+      "loss",
+      "tears",
+      "funeral",
+      "widow",
+      "eulogy",
+      "mourning",
+      "heartbreak",
+      "cemetery",
+      "despair",
+      "requiem"
+    ],
+    "api_error": null
   },
   "hope": {
     "seed": 2024,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"aspiration\", \"despair\", \"prayer\", \"future\", \"anchor\", \"light\", \"wish\", \"disappointment\", \"rainbow\", \"seed\"]",
+    "words": [
+      "aspiration",
+      "despair",
+      "prayer",
+      "future",
+      "anchor",
+      "light",
+      "wish",
+      "disappointment",
+      "rainbow",
+      "seed"
+    ],
+    "api_error": null
   },
   "dawn": {
     "seed": 2025,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"sunrise\", \"twilight\", \"cockerel\", \"horizon\", \"dew\", \"awakening\", \"light\", \"beginning\", \"sky\", \"hope\"]",
+    "words": [
+      "sunrise",
+      "twilight",
+      "cockerel",
+      "horizon",
+      "dew",
+      "awakening",
+      "light",
+      "beginning",
+      "sky",
+      "hope"
+    ],
+    "api_error": null
   },
   "winter": {
     "seed": 2026,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"snow\", \"fireplace\", \"hibernation\", \"solstice\", \"mittens\", \"frost\", \"sledge\", \"icicle\", \"influenza\", \"darkness\"]",
+    "words": [
+      "snow",
+      "fireplace",
+      "hibernation",
+      "solstice",
+      "mittens",
+      "frost",
+      "sledge",
+      "icicle",
+      "influenza",
+      "darkness"
+    ],
+    "api_error": null
   },
   "midnight": {
     "seed": 2027,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"darkness\", \"clock\", \"witching\", \"silence\", \"star\", \"threshold\", \"dream\", \"toll\", \"shadow\", \"celebration\"]",
+    "words": [
+      "darkness",
+      "clock",
+      "witching",
+      "silence",
+      "star",
+      "threshold",
+      "dream",
+      "toll",
+      "shadow",
+      "celebration"
+    ],
+    "api_error": null
   },
   "decay": {
     "seed": 2028,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"rot\", \"entropy\", \"mold\", \"skeleton\", \"rust\", \"decomposition\", \"tooth\", \"radiation\", \"rubble\", \"fungus\"]",
+    "words": [
+      "rot",
+      "entropy",
+      "mold",
+      "skeleton",
+      "rust",
+      "decomposition",
+      "tooth",
+      "radiation",
+      "rubble",
+      "fungus"
+    ],
+    "api_error": null
   },
   "rhythm": {
     "seed": 2029,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"beat\", \"tempo\", \"syncopation\", \"pulse\", \"meter\", \"cadence\", \"groove\", \"pattern\", \"oscillation\", \"heartbeat\"]",
+    "words": [
+      "beat",
+      "tempo",
+      "syncopation",
+      "pulse",
+      "meter",
+      "cadence",
+      "groove",
+      "pattern",
+      "oscillation",
+      "heartbeat"
+    ],
+    "api_error": null
   },
   "crown": {
     "seed": 2030,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"royalty\", \"tooth\", \"apex\", \"jewel\", \"sovereignty\", \"wreath\", \"achievement\", \"head\", \"coin\", \"glory\"]",
+    "words": [
+      "royalty",
+      "tooth",
+      "apex",
+      "jewel",
+      "sovereignty",
+      "wreath",
+      "achievement",
+      "head",
+      "coin",
+      "glory"
+    ],
+    "api_error": null
   },
   "prison": {
     "seed": 2031,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"cell\", \"warden\", \"sentence\", \"bars\", \"inmate\", \"rehabilitation\", \"shackle\", \"escape\", \"conviction\", \"yard\"]",
+    "words": [
+      "cell",
+      "warden",
+      "sentence",
+      "bars",
+      "inmate",
+      "rehabilitation",
+      "shackle",
+      "escape",
+      "conviction",
+      "yard"
+    ],
+    "api_error": null
   },
   "market": {
     "seed": 2032,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"stall\", \"commodity\", \"vendor\", \"demand\", \"exchange\", \"bazaar\", \"price\", \"competition\", \"consumer\", \"fluctuation\"]",
+    "words": [
+      "stall",
+      "commodity",
+      "vendor",
+      "demand",
+      "exchange",
+      "bazaar",
+      "price",
+      "competition",
+      "consumer",
+      "fluctuation"
+    ],
+    "api_error": null
   },
   "temple": {
     "seed": 2033,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"forehead\", \"shrine\", \"column\", \"worship\", \"Judaism\", \"anatomy\", \"architect\", \"incense\", \"deity\", \"ruin\"]",
+    "words": [
+      "forehead",
+      "shrine",
+      "column",
+      "worship",
+      "judaism",
+      "anatomy",
+      "architect",
+      "incense",
+      "deity",
+      "ruin"
+    ],
+    "api_error": null
   },
   "bridge": {
     "seed": 2034,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"span\", \"trump\", \"crossing\", \"arch\", \"conductor\", \"gap\", \"teeth\", \"river\", \"connection\", \"deck\"]",
+    "words": [
+      "span",
+      "trump",
+      "crossing",
+      "arch",
+      "conductor",
+      "gap",
+      "teeth",
+      "river",
+      "connection",
+      "deck"
+    ],
+    "api_error": null
   },
   "silence": {
     "seed": 2035,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"whisper\", \"void\", \"tomb\", \"mute\", \"hush\", \"darkness\", \"peace\", \"pause\", \"desert\", \"prayer\"]",
+    "words": [
+      "whisper",
+      "void",
+      "tomb",
+      "mute",
+      "hush",
+      "darkness",
+      "peace",
+      "pause",
+      "desert",
+      "prayer"
+    ],
+    "api_error": null
   },
   "chaos": {
     "seed": 2036,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"disorder\", \"turbulence\", \"entropy\", \"pandemonium\", \"maelstrom\", \"rubble\", \"noise\", \"anarchy\", \"bedlam\", \"flux\"]",
+    "words": [
+      "disorder",
+      "turbulence",
+      "entropy",
+      "pandemonium",
+      "maelstrom",
+      "rubble",
+      "noise",
+      "anarchy",
+      "bedlam",
+      "flux"
+    ],
+    "api_error": null
   },
   "truth": {
     "seed": 2037,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"fact\", \"lie\", \"transparency\", \"gospel\", \"sincerity\", \"reality\", \"oath\", \"illusion\", \"proof\", \"conscience\"]",
+    "words": [
+      "fact",
+      "lie",
+      "transparency",
+      "gospel",
+      "sincerity",
+      "reality",
+      "oath",
+      "illusion",
+      "proof",
+      "conscience"
+    ],
+    "api_error": null
   },
   "dream": {
     "seed": 2038,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"sleep\", \"aspiration\", \"nightmare\", \"vision\", \"illusion\", \"fantasy\", \"pillow\", \"subconscious\", \"hallucination\", \"goal\"]",
+    "words": [
+      "sleep",
+      "aspiration",
+      "nightmare",
+      "vision",
+      "illusion",
+      "fantasy",
+      "pillow",
+      "subconscious",
+      "hallucination",
+      "goal"
+    ],
+    "api_error": null
   },
   "memory": {
     "seed": 2039,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"recollection\", \"RAM\", \"photograph\", \"amnesia\", \"nostalgia\", \"engram\", \"flashback\", \"keepsake\", \"hippocampus\", \"archive\"]",
+    "words": [
+      "recollection",
+      "ram",
+      "photograph",
+      "amnesia",
+      "nostalgia",
+      "engram",
+      "flashback",
+      "keepsake",
+      "hippocampus",
+      "archive"
+    ],
+    "api_error": null
   },
   "needle": {
     "seed": 2040,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"thread\", \"compass\", \"injection\", \"pine\", \"syringe\", \"haystack\", \"knitting\", \"acupuncture\", \"record\", \"gauge\"]",
+    "words": [
+      "thread",
+      "compass",
+      "injection",
+      "pine",
+      "syringe",
+      "haystack",
+      "knitting",
+      "acupuncture",
+      "record",
+      "gauge"
+    ],
+    "api_error": null
   },
   "mirror": {
     "seed": 2041,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"reflection\", \"glass\", \"vanity\", \"symmetry\", \"lake\", \"twin\", \"illusion\", \"silver\", \"echo\", \"portal\"]",
+    "words": [
+      "reflection",
+      "glass",
+      "vanity",
+      "symmetry",
+      "lake",
+      "twin",
+      "illusion",
+      "silver",
+      "echo",
+      "portal"
+    ],
+    "api_error": null
   },
   "wheel": {
     "seed": 2042,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"axle\", \"spoke\", \"rotation\", \"vehicle\", \"rudder\", \"potter\", \"casino\", \"bicycle\", \"helm\", \"gear\"]",
+    "words": [
+      "axle",
+      "spoke",
+      "rotation",
+      "vehicle",
+      "rudder",
+      "potter",
+      "casino",
+      "bicycle",
+      "helm",
+      "gear"
+    ],
+    "api_error": null
   },
   "candle": {
     "seed": 2043,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"flame\",\"wax\",\"wick\",\"holder\",\"darkness\",\"birthday\",\"scent\",\"drip\",\"illumination\",\"vigil\"]",
+    "words": [
+      "flame",
+      "wax",
+      "wick",
+      "holder",
+      "darkness",
+      "birthday",
+      "scent",
+      "drip",
+      "illumination",
+      "vigil"
+    ],
+    "api_error": null
   },
   "bell": {
     "seed": 2044,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"clapper\", \"tower\", \"chime\", \"ring\", \"sound\", \"metal\", \"church\", \"alarm\", \"striker\", \"dome\"]",
+    "words": [
+      "clapper",
+      "tower",
+      "chime",
+      "ring",
+      "sound",
+      "metal",
+      "church",
+      "alarm",
+      "striker",
+      "dome"
+    ],
+    "api_error": null
   },
   "forest": {
     "seed": 2045,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"canopy\", \"mushroom\", \"axe\", \"silence\", \"wolf\", \"undergrowth\", \"lumber\", \"dappling\", \"ranger\", \"spore\"]",
+    "words": [
+      "canopy",
+      "mushroom",
+      "axe",
+      "silence",
+      "wolf",
+      "undergrowth",
+      "lumber",
+      "dappling",
+      "ranger",
+      "spore"
+    ],
+    "api_error": null
   },
   "river": {
     "seed": 2046,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"current\", \"bank\", \"tributary\", \"delta\", \"kayak\", \"flood\", \"sediment\", \"bridge\", \"fish\", \"meander\"]",
+    "words": [
+      "current",
+      "bank",
+      "tributary",
+      "delta",
+      "kayak",
+      "flood",
+      "sediment",
+      "bridge",
+      "fish",
+      "meander"
+    ],
+    "api_error": null
   },
   "storm": {
     "seed": 2047,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"lightning\", \"umbrella\", \"devastation\", \"forecast\", \"shelter\", \"electricity\", \"puddle\", \"fury\", \"cloud\", \"flood\"]",
+    "words": [
+      "lightning",
+      "umbrella",
+      "devastation",
+      "forecast",
+      "shelter",
+      "electricity",
+      "puddle",
+      "fury",
+      "cloud",
+      "flood"
+    ],
+    "api_error": null
   },
   "dust": {
     "seed": 2048,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"particle\", \"broom\", \"allergy\", \"desert\", \"galaxy\", \"vacuum\", \"mite\", \"shelf\", \"explosion\", \"cemetery\"]",
+    "words": [
+      "particle",
+      "broom",
+      "allergy",
+      "desert",
+      "galaxy",
+      "vacuum",
+      "mite",
+      "shelf",
+      "explosion",
+      "cemetery"
+    ],
+    "api_error": null
   },
   "crystal": {
     "seed": 2049,
-    "raw_response": null,
-    "words": [],
-    "api_error": "RuntimeError: provider returned null content"
+    "raw_response": "[\"glass\", \"lattice\", \"ball\", \"meth\", \"clarity\", \"gemstone\", \"formation\", \"radio\", \"chandelier\", \"snowflake\"]",
+    "words": [
+      "glass",
+      "lattice",
+      "ball",
+      "meth",
+      "clarity",
+      "gemstone",
+      "formation",
+      "radio",
+      "chandelier",
+      "snowflake"
+    ],
+    "api_error": null
   }
 }
