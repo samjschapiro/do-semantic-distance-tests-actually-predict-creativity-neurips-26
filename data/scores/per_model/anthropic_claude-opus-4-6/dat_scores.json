@@ -1,0 +1,28 @@
+{
+  "mean_score": 89.69776389144715,
+  "by_temperature": {
+    "1.5": {
+      "mean_score": 90.66294346536908,
+      "n_trials": 1,
+      "n_sufficient": 1,
+      "scores": [
+        90.66294346536908
+      ]
+    },
+    "2.0": {
+      "mean_score": 0.0,
+      "n_trials": 0,
+      "n_sufficient": 0,
+      "scores": []
+    },
+    "1.0": {
+      "mean_score": 88.73258431752524,
+      "n_trials": 1,
+      "n_sufficient": 1,
+      "scores": [
+        88.73258431752524
+      ]
+    }
+  },
+  "n_temperatures": 3
+}

@@ -1,0 +1,10 @@
+# secrets
+.env
+# embeddings (downloaded separately, see README)
+resources/
+# generated
+outputs/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

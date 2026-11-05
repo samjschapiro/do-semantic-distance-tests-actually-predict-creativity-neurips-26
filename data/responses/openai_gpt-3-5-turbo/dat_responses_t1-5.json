@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"elephant\", \"happiness\", \"octagon\", \"sunrise\", \"jazz\", \"thunderstorm\", \"museum\", \"cake\", \"internet\", \"velocity\"]",
+    "words": [
+      "elephant",
+      "happiness",
+      "octagon",
+      "sunrise",
+      "jazz",
+      "thunderstorm",
+      "museum",
+      "cake",
+      "internet",
+      "velocity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"car\", \"whale\", \"sand\", \"love\", \"sword\", \"chair\", \"apple\", \"cow\", \"music\", \"bottle\"]",
+    "words": [
+      "car",
+      "whale",
+      "sand",
+      "love",
+      "sword",
+      "chair",
+      "apple",
+      "cow",
+      "music",
+      "bottle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"chair\", \"airplane\", \"elephant\", \"ocean\", \"computer\", \"pizza\", \"football\", \"diamond\",\"bridge, \"book\"]",
+    "words": [
+      "chair",
+      "airplane",
+      "elephant",
+      "ocean",
+      "computer",
+      "pizza",
+      "football",
+      "diamond",
+      "bridge",
+      "book"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"dog\", \"chocolate\", \"airplane\", \"fire\", \"pear\", \"mountain\", \"dinosaur\", \"keyboard\", \"ocean\", \"sugar\"]",
+    "words": [
+      "dog",
+      "chocolate",
+      "airplane",
+      "fire",
+      "pear",
+      "mountain",
+      "dinosaur",
+      "keyboard",
+      "ocean",
+      "sugar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"car\", \"apple\", \"mountain\", \"cushion\", \"banana\", \"computer\", \"sunset\", \"elephant\", \"battery\", \"dance\"]",
+    "words": [
+      "car",
+      "apple",
+      "mountain",
+      "cushion",
+      "banana",
+      "computer",
+      "sunset",
+      "elephant",
+      "battery",
+      "dance"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"airplane\", \"peanut\", \"mountain\", \"clock\", \"motorcycle\", \"jungle\", \"glass\", \"bottle\", \"dictionary\", \"flower\"]",
+    "words": [
+      "airplane",
+      "peanut",
+      "mountain",
+      "clock",
+      "motorcycle",
+      "jungle",
+      "glass",
+      "bottle",
+      "dictionary",
+      "flower"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"Dog\", \"Paper\", \"Sun\", \"Ocean\", \"Chair\", \"Computer\", \"Pizza\", \"Diamond\", \"Football\", \"Apple\"]",
+    "words": [
+      "dog",
+      "paper",
+      "sun",
+      "ocean",
+      "chair",
+      "computer",
+      "pizza",
+      "diamond",
+      "football",
+      "apple"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"apple\", \"sky\", \"engine\", \"music\", \"monster\", \"bracelet\", \"pizza\", \"database\", \"ocean\", \"key\"]",
+    "words": [
+      "apple",
+      "sky",
+      "engine",
+      "music",
+      "monster",
+      "bracelet",
+      "pizza",
+      "database",
+      "ocean",
+      "key"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"flower\", \"carrot\", \"spirit\", \"foot\", \"reality\", \"melon\", \"castle\", \"sunset\", \"firefighter\", \"triangle\"]",
+    "words": [
+      "flower",
+      "carrot",
+      "spirit",
+      "foot",
+      "reality",
+      "melon",
+      "castle",
+      "sunset",
+      "firefighter",
+      "triangle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"dog\", \"coffee\", \"sky\", \"shoe\", \"peanut\", \"bubble\", \"love\", \"rainbow\", \"hammer\", \"music\"]",
+    "words": [
+      "dog",
+      "coffee",
+      "sky",
+      "shoe",
+      "peanut",
+      "bubble",
+      "love",
+      "rainbow",
+      "hammer",
+      "music"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"house\", \"apple\", \"wheel\", \"knowledge\", \"elephant\", \"laughter\", \"bridge\", \"thunderstorm\", \"freedom\", \"inspiration\"]",
+    "words": [
+      "house",
+      "apple",
+      "wheel",
+      "knowledge",
+      "elephant",
+      "laughter",
+      "bridge",
+      "thunderstorm",
+      "freedom",
+      "inspiration"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"elephant\", \"dessert\", \"telescope\", \"happiness\", \"tornado\", \"calendar\", \"shoe\", \"motorcycle\", \"vampire\", \"lighthouse\"]",
+    "words": [
+      "elephant",
+      "dessert",
+      "telescope",
+      "happiness",
+      "tornado",
+      "calendar",
+      "shoe",
+      "motorcycle",
+      "vampire",
+      "lighthouse"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"sparrow\", \"coconut\", \"justice\", \"diamond\", \"painting\", \"intern\", \"firearm\", \"sofa\", \"orchestra\", \"forehead\"]",
+    "words": [
+      "sparrow",
+      "coconut",
+      "justice",
+      "diamond",
+      "painting",
+      "intern",
+      "firearm",
+      "sofa",
+      "orchestra",
+      "forehead"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"cat\", \"chair\", \"happiness\", \"mountain\", \"book\", \"elephant\", \"window\", \"emotions\", \"star\", \"food\"]",
+    "words": [
+      "cat",
+      "chair",
+      "happiness",
+      "mountain",
+      "book",
+      "elephant",
+      "window",
+      "emotions",
+      "star",
+      "food"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"elephant\", \"airplane\", \"pineapple\", \"pyramid\", \"computer\", \"ship\", \"mountain\", \"clock\", \"shoe\", \"sugar\"]",
+    "words": [
+      "elephant",
+      "airplane",
+      "pineapple",
+      "pyramid",
+      "computer",
+      "ship",
+      "mountain",
+      "clock",
+      "shoe",
+      "sugar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"elephant\", \"airplane\", \"cheese\", \"happiness\", \"computer\", \"mountain\", \"wallet\", \"hopscotch\", \"sunflower\", \"galaxy\"]",
+    "words": [
+      "elephant",
+      "airplane",
+      "cheese",
+      "happiness",
+      "computer",
+      "mountain",
+      "wallet",
+      "hopscotch",
+      "sunflower",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"elephant\", \"apple\", \"science\", \"sleep\", \"fire\", \"mountain\", \"book\", \"computer\", \"cloud\", \"happiness\"]",
+    "words": [
+      "elephant",
+      "apple",
+      "science",
+      "sleep",
+      "fire",
+      "mountain",
+      "book",
+      "computer",
+      "cloud",
+      "happiness"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"dog\", \"airplane\", \"cookie\", \"time\", \"explosion\", \"song\", \"mountain\", \"computer\", \"umbrella\", \"moon\"]  ",
+    "words": [
+      "dog",
+      "airplane",
+      "cookie",
+      "time",
+      "explosion",
+      "song",
+      "mountain",
+      "computer",
+      "umbrella",
+      "moon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"apple\", \"elephant\", \"book\", \"mountain\", \"shoe\", \"music\", \"hammer\", \"ocean\", \"pencil\", \"fire\"]",
+    "words": [
+      "apple",
+      "elephant",
+      "book",
+      "mountain",
+      "shoe",
+      "music",
+      "hammer",
+      "ocean",
+      "pencil",
+      "fire"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"apple\", \"freedom\", \"water\", \"mountain\", \"book\", \"happiness\",\"elephant\", \"airplane\", \"music\", \"sunshine\"]",
+    "words": [
+      "apple",
+      "freedom",
+      "water",
+      "mountain",
+      "book",
+      "happiness",
+      "elephant",
+      "airplane",
+      "music",
+      "sunshine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"cat\", \"computer\", \"mountain\", \"apple\", \"book\", \"ocean\", \"chair\", \"cloud\", \"hammer\", \"truth\"]",
+    "words": [
+      "cat",
+      "computer",
+      "mountain",
+      "apple",
+      "book",
+      "ocean",
+      "chair",
+      "cloud",
+      "hammer",
+      "truth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"banana\", \"mountain\", \"fireplace\", \"library\", \"elephant\", \"telescope\", \"turtle\", \"champagne\", \"volcano\", \"daisy\"]",
+    "words": [
+      "banana",
+      "mountain",
+      "fireplace",
+      "library",
+      "elephant",
+      "telescope",
+      "turtle",
+      "champagne",
+      "volcano",
+      "daisy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"elephant\", \"cookie\", \"happiness\", \"brick\", \"ocean\", \"computer\", \"laughter\", \"mountain\", \"vacuum\", \"ballet\"]",
+    "words": [
+      "elephant",
+      "cookie",
+      "happiness",
+      "brick",
+      "ocean",
+      "computer",
+      "laughter",
+      "mountain",
+      "vacuum",
+      "ballet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"cat\", \"airplane\", \"mountain\", \"coffee\", \"sock\", \"love\", \"computer\", \"diamond\", \"courage\", \"rainbow\"]",
+    "words": [
+      "cat",
+      "airplane",
+      "mountain",
+      "coffee",
+      "sock",
+      "love",
+      "computer",
+      "diamond",
+      "courage",
+      "rainbow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"car\", \"apple\", artery\", \"love\", \"book\", \"mountain\",\" piano\", \"cloud\", \"happiness\", \"rocket\"]",
+    "words": [
+      "car",
+      "apple",
+      "artery",
+      "love",
+      "book",
+      "mountain",
+      "piano",
+      "cloud",
+      "happiness",
+      "rocket"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"cat\", \"chair\", \"banana\", \"peace\", \"city\", \"love\", \"computer\", \"mountain\", \"keyboard\", \"history\"]",
+    "words": [
+      "cat",
+      "chair",
+      "banana",
+      "peace",
+      "city",
+      "love",
+      "computer",
+      "mountain",
+      "keyboard",
+      "history"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"book\", \"dragon\", \"potato\", \"sun\", \"hammer\", \"gravity\", \"guitar\", \"ocean\", \"glass\", \"light\"]",
+    "words": [
+      "book",
+      "dragon",
+      "potato",
+      "sun",
+      "hammer",
+      "gravity",
+      "guitar",
+      "ocean",
+      "glass",
+      "light"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"dog\", \"chocolate\", \"book\", \"star\", \"bike\", \"apple\", \"rock\", \"chair\", \"music\", \"fire\"]",
+    "words": [
+      "dog",
+      "chocolate",
+      "book",
+      "star",
+      "bike",
+      "apple",
+      "rock",
+      "chair",
+      "music",
+      "fire"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"apple\", \"airplane\", \"love\", \"rock\", \"elf\", \"music\", \"pizza\", \"tiger\", \"rain\", \"society\"]",
+    "words": [
+      "apple",
+      "airplane",
+      "love",
+      "rock",
+      "elf",
+      "music",
+      "pizza",
+      "tiger",
+      "rain",
+      "society"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"elephant\", \"star\", \"banana\", \"technology\", \"couch\", \"laughter\", \"mountain\", \"keyboard\", \"ocean\", \"coffee\"]",
+    "words": [
+      "elephant",
+      "star",
+      "banana",
+      "technology",
+      "couch",
+      "laughter",
+      "mountain",
+      "keyboard",
+      "ocean",
+      "coffee"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"dog\", \"ocean\", \"laptop\", \"triangle\", \"happiness\", \"giraffe\", \"hammer\", \"apartment\", \"swing\", \"cactus\"]",
+    "words": [
+      "dog",
+      "ocean",
+      "laptop",
+      "triangle",
+      "happiness",
+      "giraffe",
+      "hammer",
+      "apartment",
+      "swing",
+      "cactus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"banana\", \"dragon\", \"calculator\", \"painting\", \"star\", \"bridge\", \"diamond\", \"whisper\", \"giraffe\", \"volcano\"]",
+    "words": [
+      "banana",
+      "dragon",
+      "calculator",
+      "painting",
+      "star",
+      "bridge",
+      "diamond",
+      "whisper",
+      "giraffe",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"dog\", \"reflection\", \"chocolate\", \"football\", \"ocean\", \"telephone\", \"fire\", \"book\", \"airplane\", \"laptop\"]",
+    "words": [
+      "dog",
+      "reflection",
+      "chocolate",
+      "football",
+      "ocean",
+      "telephone",
+      "fire",
+      "book",
+      "airplane",
+      "laptop"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"dog\", \"elephant\", \"hair\", \"pizza\", \"mountain\", \"calculator\", \"truth\", \"balance\", \"wind\", \"painting\"]",
+    "words": [
+      "dog",
+      "elephant",
+      "hair",
+      "pizza",
+      "mountain",
+      "calculator",
+      "truth",
+      "balance",
+      "wind",
+      "painting"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"chair\", \"elephant\", \"broccoli\", \"moon\", \"hypothesis\", \"book\", \"firefighter\", \"pen\", \"swimming\", \"strawberry\"]",
+    "words": [
+      "chair",
+      "elephant",
+      "broccoli",
+      "moon",
+      "hypothesis",
+      "book",
+      "firefighter",
+      "pen",
+      "swimming",
+      "strawberry"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"elbow\", \"unicorn\", \"peanut\", \"mountain\", \"jump\", \"economics\", \"infinity\", \"balloon\", \"lobster\", \"sparkle\"]",
+    "words": [
+      "elbow",
+      "unicorn",
+      "peanut",
+      "mountain",
+      "jump",
+      "economics",
+      "infinity",
+      "balloon",
+      "lobster",
+      "sparkle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"cucumber\", \"laughter\", \"clay\", \"tornado\", \"library\", \"giraffe\", \"postcard\", \"euphoria\", \"skeleton\", \"carousel\"]",
+    "words": [
+      "cucumber",
+      "laughter",
+      "clay",
+      "tornado",
+      "library",
+      "giraffe",
+      "postcard",
+      "euphoria",
+      "skeleton",
+      "carousel"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"car\", \"apple\", \"football\", \"sun\", \"book\", \"butterfly\", \"hammer\", \"piano\", \"cloud\", \"tree\"]",
+    "words": [
+      "car",
+      "apple",
+      "football",
+      "sun",
+      "book",
+      "butterfly",
+      "hammer",
+      "piano",
+      "cloud",
+      "tree"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"elephant\", \"harmony\", \"candle\", \"nectar\", \"mountain\", \"compass\", \"banana\", \"technique\", \"jacket\", \"laughter\"]",
+    "words": [
+      "elephant",
+      "harmony",
+      "candle",
+      "nectar",
+      "mountain",
+      "compass",
+      "banana",
+      "technique",
+      "jacket",
+      "laughter"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"elephant\", \"moon\", \"football\", \"piano\", \"banana\", \"firefighter\", \"sunrise\", \"computer\", \"ocean\", \"hammer\"]",
+    "words": [
+      "elephant",
+      "moon",
+      "football",
+      "piano",
+      "banana",
+      "firefighter",
+      "sunrise",
+      "computer",
+      "ocean",
+      "hammer"
+    ],
+    "api_error": null
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "```json\n[\"adventure\", \"bubble\", \"camouflage\", \"detonation\", \"elephant\", \"fortitude\", \"galaxy\", \"habitat\", \"illusion\", \"jungle\"]\n```",
+    "words": [
+      "adventure",
+      "bubble",
+      "camouflage",
+      "detonation",
+      "elephant",
+      "fortitude",
+      "galaxy",
+      "habitat",
+      "illusion",
+      "jungle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "```json\n[\n    \"mountain\",\n    \"echo\",\n    \"oxygen\",\n    \"star\",\n    \"cactus\",\n    \"shadow\",\n    \"rhythm\",\n    \"puzzle\",\n    \"breeze\",\n    \"galaxy\"\n]\n```",
+    "words": [
+      "mountain",
+      "echo",
+      "oxygen",
+      "star",
+      "cactus",
+      "shadow",
+      "rhythm",
+      "puzzle",
+      "breeze",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"apple\", \"tree\", \"mountain\", \"universe\", \"harmony\", \"gravity\", \"whisper\", \"freedom\", \"laughter\", \"butterfly\"]",
+    "words": [
+      "apple",
+      "tree",
+      "mountain",
+      "universe",
+      "harmony",
+      "gravity",
+      "whisper",
+      "freedom",
+      "laughter",
+      "butterfly"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "```json\n[\n  \"apple\",\n  \"sky\",\n  \"harmony\",\n  \"ocean\",\n  \"dream\",\n  \"mountain\",\n  \"whisper\",\n  \"shadow\",\n  \"freedom\",\n  \"cycle\"\n]\n```",
+    "words": [
+      "apple",
+      "sky",
+      "harmony",
+      "ocean",
+      "dream",
+      "mountain",
+      "whisper",
+      "shadow",
+      "freedom",
+      "cycle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "```json\n[\n  \"adventure\",\n  \"butterfly\",\n  \"canoe\",\n  \"diligence\",\n  \"eclipse\",\n  \"forest\",\n  \"gossip\",\n  \"habitat\",\n  \"iris\",\n  \"jungle\"\n]\n```",
+    "words": [
+      "adventure",
+      "butterfly",
+      "canoe",
+      "diligence",
+      "eclipse",
+      "forest",
+      "gossip",
+      "habitat",
+      "iris",
+      "jungle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "```json\n[\n  \"mountain\",\n  \"theory\",\n  \"butterfly\",\n  \"algorithm\",\n  \"compassion\",\n  \"galaxy\",\n  \"illusion\",\n  \"fossil\",\n  \"echo\",\n  \"rhythm\"\n]\n```",
+    "words": [
+      "mountain",
+      "theory",
+      "butterfly",
+      "algorithm",
+      "compassion",
+      "galaxy",
+      "illusion",
+      "fossil",
+      "echo",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "```json\n[\n  \"dog\",\n  \"philosophy\",\n  \"tree\",\n  \"algorithm\",\n  \"love\",\n  \"volcano\",\n  \"music\",\n  \"desert\",\n  \"universe\",\n  \"algorithm\"\n]\n```",
+    "words": [
+      "dog",
+      "philosophy",
+      "tree",
+      "algorithm",
+      "love",
+      "volcano",
+      "music",
+      "desert",
+      "universe",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "```json\n[\n    \"acorn\", \n    \"emotion\", \n    \"galaxy\", \n    \"harmony\", \n    \"journey\", \n    \"knowledge\", \n    \"mystery\", \n    \"oasis\", \n    \"paradox\", \n    \"serenity\"\n]\n```",
+    "words": [
+      "acorn",
+      "emotion",
+      "galaxy",
+      "harmony",
+      "journey",
+      "knowledge",
+      "mystery",
+      "oasis",
+      "paradox",
+      "serenity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "```json\n[\n    \"acorn\",\n    \"breeze\",\n    \"chandelier\",\n    \"dragonfly\",\n    \"elixir\",\n    \"forest\",\n    \"grapefruit\",\n    \"habitat\",\n    \"icicle\",\n    \"jellyfish\"\n]\n```",
+    "words": [
+      "acorn",
+      "breeze",
+      "chandelier",
+      "dragonfly",
+      "elixir",
+      "forest",
+      "grapefruit",
+      "habitat",
+      "icicle",
+      "jellyfish"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "```json\n[\"apple\", \"forest\", \"mystery\", \"journey\", \"sparkle\", \"freedom\", \"theory\", \"grape\", \"glacier\", \"emotion\"]\n```",
+    "words": [
+      "apple",
+      "forest",
+      "mystery",
+      "journey",
+      "sparkle",
+      "freedom",
+      "theory",
+      "grape",
+      "glacier",
+      "emotion"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "```json\n[\"apple\", \"mountain\", \"happiness\", \"ocean\", \"star\", \"butterfly\", \"rain\", \"freedom\", \"shadow\", \"mystery\"]\n```",
+    "words": [
+      "apple",
+      "mountain",
+      "happiness",
+      "ocean",
+      "star",
+      "butterfly",
+      "rain",
+      "freedom",
+      "shadow",
+      "mystery"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "```json\n[\n    \"algorithm\",\n    \"whisper\",\n    \"matrix\",\n    \"paradox\",\n    \"aurora\",\n    \"nexus\",\n    \"cascade\",\n    \"ferret\",\n    \"echo\",\n    \"lattice\"\n]\n```",
+    "words": [
+      "algorithm",
+      "whisper",
+      "matrix",
+      "paradox",
+      "aurora",
+      "nexus",
+      "cascade",
+      "ferret",
+      "echo",
+      "lattice"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "```json\n[\n    \"idea\", \n    \"universe\", \n    \"whisper\", \n    \"sunset\", \n    \"freedom\", \n    \"ocean\", \n    \"shadow\", \n    \"puzzle\", \n    \"harvest\", \n    \"rhythm\"\n]\n```",
+    "words": [
+      "idea",
+      "universe",
+      "whisper",
+      "sunset",
+      "freedom",
+      "ocean",
+      "shadow",
+      "puzzle",
+      "harvest",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "```json\n[\n  \"apple\",\n  \"breeze\",\n  \"curiosity\",\n  \"domino\",\n  \"echo\",\n  \"forest\",\n  \"galaxy\",\n  \"harbor\",\n  \"illusion\",\n  \"journey\"\n]\n```",
+    "words": [
+      "apple",
+      "breeze",
+      "curiosity",
+      "domino",
+      "echo",
+      "forest",
+      "galaxy",
+      "harbor",
+      "illusion",
+      "journey"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "```json\n[\n  \"apple\",\n  \"courage\",\n  \"dynamo\",\n  \"echo\",\n  \"forest\",\n  \"galaxy\",\n  \"horizon\",\n  \"illusion\",\n  \"journey\",\n  \"kernel\"\n]\n```",
+    "words": [
+      "apple",
+      "courage",
+      "dynamo",
+      "echo",
+      "forest",
+      "galaxy",
+      "horizon",
+      "illusion",
+      "journey",
+      "kernel"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "```json\n[\n  \"stone\",\n  \"whisper\",\n  \"forest\",\n  \"freedom\",\n  \"whisper\",\n  \"harmony\",\n  \"echo\",\n  \"starlight\",\n  \"silence\",\n  \"ocean\"\n]\n```",
+    "words": [
+      "stone",
+      "whisper",
+      "forest",
+      "freedom",
+      "whisper",
+      "harmony",
+      "echo",
+      "starlight",
+      "silence",
+      "ocean"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "```json\n[\n  \"bumblebee\",\n  \"galaxy\",\n  \"solitude\",\n  \"spectrum\",\n  \"cascade\",\n  \"vortex\",\n  \"mantle\",\n  \"echo\",\n  \"quintet\",\n  \"zephyr\"\n]\n```",
+    "words": [
+      "bumblebee",
+      "galaxy",
+      "solitude",
+      "spectrum",
+      "cascade",
+      "vortex",
+      "mantle",
+      "echo",
+      "quintet",
+      "zephyr"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "```json\n[\n    \"apple\",\n    \"mountain\",\n    \"butterfly\",\n    \"raindrop\",\n    \"universe\",\n    \"shadow\",\n    \"rhythm\",\n    \"freedom\",\n    \"courage\",\n    \"galaxy\"\n]\n```",
+    "words": [
+      "apple",
+      "mountain",
+      "butterfly",
+      "raindrop",
+      "universe",
+      "shadow",
+      "rhythm",
+      "freedom",
+      "courage",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "```json\n[\n    \"Algorithm\",\n    \"Courage\",\n    \"Drone\",\n    \"Foliage\",\n    \"Gourmet\",\n    \"Hydrogen\",\n    \"Illusion\",\n    \"Jubilation\",\n    \"Kaleidoscope\"\n]\n```",
+    "words": [
+      "algorithm",
+      "courage",
+      "drone",
+      "foliage",
+      "gourmet",
+      "hydrogen",
+      "illusion",
+      "jubilation",
+      "kaleidoscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "```json\n[\"mountain\", \"whisper\", \"harmony\", \"velocity\", \"crystal\", \"ocean\", \"friction\", \"spectrum\", \"solitude\", \"fermentation\"]\n```",
+    "words": [
+      "mountain",
+      "whisper",
+      "harmony",
+      "velocity",
+      "crystal",
+      "ocean",
+      "friction",
+      "spectrum",
+      "solitude",
+      "fermentation"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "```json\n[\n  \"angel\",\n  \"cactus\",\n  \"dialogue\",\n  \"evaporate\",\n  \"fungus\",\n  \"galaxy\",\n  \"horizon\",\n  \"jewel\",\n  \"kitten\",\n  \"latitude\"\n]\n```",
+    "words": [
+      "angel",
+      "cactus",
+      "dialogue",
+      "evaporate",
+      "fungus",
+      "galaxy",
+      "horizon",
+      "jewel",
+      "kitten",
+      "latitude"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "```json\n[\n  \"dog\",\n  \"ocean\",\n  \"theory\",\n  \"breeze\",\n  \"pyramid\",\n  \"whisper\",\n  \"matrix\",\n  \"grape\",\n  \"compass\",\n  \"shadow\"\n]\n```",
+    "words": [
+      "dog",
+      "ocean",
+      "theory",
+      "breeze",
+      "pyramid",
+      "whisper",
+      "matrix",
+      "grape",
+      "compass",
+      "shadow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "```json\n[\n    \"apple\",\n    \"sky\",\n    \"feather\",\n    \"river\",\n    \"mountain\",\n    \"honey\",\n    \"rainbow\",\n    \"dream\",\n    \"universe\",\n    \"ocean\"\n]\n```",
+    "words": [
+      "apple",
+      "sky",
+      "feather",
+      "river",
+      "mountain",
+      "honey",
+      "rainbow",
+      "dream",
+      "universe",
+      "ocean"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "```json\n[\"apple\", \"breeze\", \"cascade\", \"deluge\", \"elixir\", \"forest\", \"galaxy\", \"horizon\", \"illusion\", \"journey\"]\n```",
+    "words": [
+      "apple",
+      "breeze",
+      "cascade",
+      "deluge",
+      "elixir",
+      "forest",
+      "galaxy",
+      "horizon",
+      "illusion",
+      "journey"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "```json\n[\n    \"mountain\",\n    \"butterfly\",\n    \"universe\",\n    \"silence\",\n    \"shadow\",\n    \"echo\",\n    \"sand\",\n    \"rain\",\n    \"dream\",\n    \"key\"\n]\n```",
+    "words": [
+      "mountain",
+      "butterfly",
+      "universe",
+      "silence",
+      "shadow",
+      "echo",
+      "sand",
+      "rain",
+      "dream",
+      "key"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "```json\n[\"cloud\", \"bridge\", \"forest\", \"desert\", \"ocean\", \"mountain\", \"shadow\", \"wind\", \"sound\", \"color\"]\n```",
+    "words": [
+      "cloud",
+      "bridge",
+      "forest",
+      "desert",
+      "ocean",
+      "mountain",
+      "shadow",
+      "wind",
+      "sound",
+      "color"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "```json\n[\"apple\", \"bridge\", \"concept\", \"dolphin\", \"echo\", \"forest\", \"galaxy\", \"history\", \"illusion\", \"jungle\"]\n```",
+    "words": [
+      "apple",
+      "bridge",
+      "concept",
+      "dolphin",
+      "echo",
+      "forest",
+      "galaxy",
+      "history",
+      "illusion",
+      "jungle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"dog\", \"mountain\", \"song\", \"theory\", \"bubble\", \"freedom\", \"lamp\", \"scarcity\", \"vision\", \"algorithm\"]",
+    "words": [
+      "dog",
+      "mountain",
+      "song",
+      "theory",
+      "bubble",
+      "freedom",
+      "lamp",
+      "scarcity",
+      "vision",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "```json\n[\"atmosphere\", \"catalyst\", \"dichotomy\", \"enigma\", \"forest\", \"genesis\", \"horizon\", \"icon\", \"junction\", \"kinetic\"]\n```",
+    "words": [
+      "atmosphere",
+      "catalyst",
+      "dichotomy",
+      "enigma",
+      "forest",
+      "genesis",
+      "horizon",
+      "icon",
+      "junction",
+      "kinetic"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "```json\n[\"clock\", \"ocean\", \"butterfly\", \"whisper\", \"journey\", \"freedom\", \"mountain\", \"candle\", \"illusion\", \"rhythm\"]\n```",
+    "words": [
+      "clock",
+      "ocean",
+      "butterfly",
+      "whisper",
+      "journey",
+      "freedom",
+      "mountain",
+      "candle",
+      "illusion",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "```json\n[\"philosophy\", \"forest\", \"whisper\", \"ocean\", \"gravity\", \"echo\", \"shadow\", \"harmony\", \"illusion\", \"gravity\"]\n```",
+    "words": [
+      "philosophy",
+      "forest",
+      "whisper",
+      "ocean",
+      "gravity",
+      "echo",
+      "shadow",
+      "harmony",
+      "illusion",
+      "gravity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "```json\n[\"apple\", \"theory\", \"whisper\", \"mountain\", \"clock\", \"courage\", \"algorithm\", \"silhouette\", \"freedom\", \"circuit\"]\n```",
+    "words": [
+      "apple",
+      "theory",
+      "whisper",
+      "mountain",
+      "clock",
+      "courage",
+      "algorithm",
+      "silhouette",
+      "freedom",
+      "circuit"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "```json\n[\n    \"apple\",\n    \"philosophy\",\n    \"symphony\",\n    \"ocean\",\n    \"freedom\",\n    \"microscope\",\n    \"desert\",\n    \"courage\",\n    \"legend\",\n    \"chaos\"\n]\n```",
+    "words": [
+      "apple",
+      "philosophy",
+      "symphony",
+      "ocean",
+      "freedom",
+      "microscope",
+      "desert",
+      "courage",
+      "legend",
+      "chaos"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "```json\n[\n  \"apple\",\n  \"courage\",\n  \"mountain\",\n  \"whisper\",\n  \"horizon\",\n  \"algorithm\",\n  \"symphony\",\n  \"texture\",\n  \"echo\",\n  \"equation\"\n]\n```",
+    "words": [
+      "apple",
+      "courage",
+      "mountain",
+      "whisper",
+      "horizon",
+      "algorithm",
+      "symphony",
+      "texture",
+      "echo",
+      "equation"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[{\"word\":\"theory\"}, {\"word\":\"river\"}, {\"word\":\"clock\"}, {\"word\":\"bliss\"}, {\"word\":\"ocean\"}, {\"word\":\"mountain\"}, {\"word\":\"shadow\"}, {\"word\":\"whisper\"}, {\"word\":\"paradox\"}, {\"word\":\"whisper\"}]",
+    "words": [],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "```json\n[\"cat\", \"mountain\", \"justice\", \"echo\", \"feather\", \"algorithm\", \"gravity\", \"symphony\", \"artifact\", \"freedom\"]\n```",
+    "words": [
+      "cat",
+      "mountain",
+      "justice",
+      "echo",
+      "feather",
+      "algorithm",
+      "gravity",
+      "symphony",
+      "artifact",
+      "freedom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "```json\n[\"rock\", \"butterfly\", \"mountain\", \"smile\", \"telescope\", \"echo\", \"swamp\", \"puzzle\", \"ember\", \"cloud\"]\n```",
+    "words": [
+      "rock",
+      "butterfly",
+      "mountain",
+      "smile",
+      "telescope",
+      "echo",
+      "swamp",
+      "puzzle",
+      "ember",
+      "cloud"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "```json\n[\n  \"apple\",\n  \"courage\",\n  \"dinosaur\",\n  \"emotion\",\n  \"forest\",\n  \"garden\",\n  \"harmony\",\n  \"illusion\",\n  \"journey\",\n  \"knowledge\"\n]\n```",
+    "words": [
+      "apple",
+      "courage",
+      "dinosaur",
+      "emotion",
+      "forest",
+      "garden",
+      "harmony",
+      "illusion",
+      "journey",
+      "knowledge"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "```json\n[\n  \"apple\",\n  \"bicycle\",\n  \"city\",\n  \"dream\",\n  \"engine\",\n  \"forest\",\n  \"hill\",\n  \"joy\",\n  \"knowledge\",\n  \"lake\"\n]\n```",
+    "words": [
+      "apple",
+      "bicycle",
+      "city",
+      "dream",
+      "engine",
+      "forest",
+      "hill",
+      "joy",
+      "knowledge",
+      "lake"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "```json\n[\n  \"caterpillar\",\n  \"harmony\",\n  \"tesseract\",\n  \"urgency\",\n  \"vengeance\",\n  \"xenophobia\",\n  \"yolk\",\n  \"zen\",\n  \"aquiline\",\n  \"banal\"\n]\n```",
+    "words": [
+      "caterpillar",
+      "harmony",
+      "tesseract",
+      "urgency",
+      "vengeance",
+      "xenophobia",
+      "yolk",
+      "zen",
+      "aquiline",
+      "banal"
+    ],
+    "api_error": null
+  }
+]

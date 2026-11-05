@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"elephant\", \"mathematics\", \"sadness\", \"screwdriver\", \"thunder\", \"bacteria\", \"symphony\", \"diamond\", \"democracy\", \"nausea\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "sadness",
+      "screwdriver",
+      "thunder",
+      "bacteria",
+      "symphony",
+      "diamond",
+      "democracy",
+      "nausea"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"elephant\", \"mathematics\", \"tornado\", \"microscope\", \"democracy\", \"sandwich\", \"molecule\", \"symphony\", \"volcano\", \"telescope\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "tornado",
+      "microscope",
+      "democracy",
+      "sandwich",
+      "molecule",
+      "symphony",
+      "volcano",
+      "telescope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"elephant\", \"mathematics\", \"sorrow\", \"volcano\", \"symphony\", \"bacteria\", \"justice\", \"refrigerator\", \"diamond\", \"tornado\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "sorrow",
+      "volcano",
+      "symphony",
+      "bacteria",
+      "justice",
+      "refrigerator",
+      "diamond",
+      "tornado"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"elephant\", \"mathematics\", \"sorrow\", \"telescope\", \"bread\", \"thunder\", \"molecule\", \"justice\", \"coral\", \"symphony\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "sorrow",
+      "telescope",
+      "bread",
+      "thunder",
+      "molecule",
+      "justice",
+      "coral",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunderstorm\", \"microscope\", \"democracy\", \"symphony\", \"molecule\", \"lighthouse\", \"butterfly\", \"archaeology\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunderstorm",
+      "microscope",
+      "democracy",
+      "symphony",
+      "molecule",
+      "lighthouse",
+      "butterfly",
+      "archaeology"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"volcano\", \"microscope\", \"happiness\", \"triangle\", \"elephant\", \"symphony\", \"bacteria\", \"democracy\", \"texture\", \"velocity\"]",
+    "words": [
+      "volcano",
+      "microscope",
+      "happiness",
+      "triangle",
+      "elephant",
+      "symphony",
+      "bacteria",
+      "democracy",
+      "texture",
+      "velocity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"elephant\", \"mathematics\", \"tornado\", \"guilt\", \"refrigerator\", \"democracy\", \"photosynthesis\", \"asteroid\", \"symphony\", \"bacteria\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "tornado",
+      "guilt",
+      "refrigerator",
+      "democracy",
+      "photosynthesis",
+      "asteroid",
+      "symphony",
+      "bacteria"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"elephant\", \"mathematics\", \"screwdriver\", \"melody\", \"volcano\", \"democracy\", \"protein\", \"telescope\", \"tornado\", \"butterfly\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "screwdriver",
+      "melody",
+      "volcano",
+      "democracy",
+      "protein",
+      "telescope",
+      "tornado",
+      "butterfly"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"elephant\", \"mathematics\", \"sorrow\", \"bicycle\", \"thunder\", \"molecule\", \"justice\", \"telescope\", \"bread\", \"nightmare\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "sorrow",
+      "bicycle",
+      "thunder",
+      "molecule",
+      "justice",
+      "telescope",
+      "bread",
+      "nightmare"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"spaghetti\", \"democracy\", \"microscope\", \"jealousy\", \"volcano\", \"silk\", \"surgery\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "spaghetti",
+      "democracy",
+      "microscope",
+      "jealousy",
+      "volcano",
+      "silk",
+      "surgery"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"microscope\", \"jealousy\", \"sandwich\", \"volcano\", \"democracy\", \"bacteria\", \"symphony\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "microscope",
+      "jealousy",
+      "sandwich",
+      "volcano",
+      "democracy",
+      "bacteria",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"elephant\", \"mathematics\", \"hammer\", \"sadness\", \"ocean\", \"electricity\", \"sandwich\", \"democracy\", \"microscope\", \"thunder\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "hammer",
+      "sadness",
+      "ocean",
+      "electricity",
+      "sandwich",
+      "democracy",
+      "microscope",
+      "thunder"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"spoon\", \"democracy\", \"molecule\", \"crimson\", \"violin\", \"concrete\", \"dream\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "spoon",
+      "democracy",
+      "molecule",
+      "crimson",
+      "violin",
+      "concrete",
+      "dream"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"butterfly\", \"mathematics\", \"volcano\", \"sandwich\", \"melody\", \"microscope\", \"thunder\", \"fabric\", \"democracy\", \"skeleton\"]",
+    "words": [
+      "butterfly",
+      "mathematics",
+      "volcano",
+      "sandwich",
+      "melody",
+      "microscope",
+      "thunder",
+      "fabric",
+      "democracy",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"elephant\", \"mathematics\", \"spoon\", \"democracy\", \"volcano\", \"symphony\", \"bacteria\", \"grief\", \"telescope\", \"bread\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "spoon",
+      "democracy",
+      "volcano",
+      "symphony",
+      "bacteria",
+      "grief",
+      "telescope",
+      "bread"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"elephant\", \"mathematics\", \"loneliness\", \"tornado\", \"microscope\", \"symphony\", \"gravity\", \"democracy\", \"poison\", \"constellation\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "loneliness",
+      "tornado",
+      "microscope",
+      "symphony",
+      "gravity",
+      "democracy",
+      "poison",
+      "constellation"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"elephant\", \"mathematics\", \"sorrow\", \"telescope\", \"sandwich\", \"thunder\", \"molecule\", \"democracy\", \"velvet\", \"surgery\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "sorrow",
+      "telescope",
+      "sandwich",
+      "thunder",
+      "molecule",
+      "democracy",
+      "velvet",
+      "surgery"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunderstorm\", \"refrigerator\", \"democracy\", \"chromosome\", \"violin\", \"concrete\", \"nostalgia\", \"photosynthesis\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunderstorm",
+      "refrigerator",
+      "democracy",
+      "chromosome",
+      "violin",
+      "concrete",
+      "nostalgia",
+      "photosynthesis"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunderstorm\", \"microscope\", \"betrayal\", \"sandwich\", \"volcano\", \"symphony\", \"bacteria\", \"diamond\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunderstorm",
+      "microscope",
+      "betrayal",
+      "sandwich",
+      "volcano",
+      "symphony",
+      "bacteria",
+      "diamond"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"microscope\", \"sorrow\", \"hydrogen\", \"symphony\", \"asteroid\", \"democracy\", \"photosynthesis\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "microscope",
+      "sorrow",
+      "hydrogen",
+      "symphony",
+      "asteroid",
+      "democracy",
+      "photosynthesis"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"microscope\", \"democracy\", \"spaghetti\", \"volcano\", \"symphony\", \"bacteria\", \"diamond\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "microscope",
+      "democracy",
+      "spaghetti",
+      "volcano",
+      "symphony",
+      "bacteria",
+      "diamond"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"elephant\", \"mathematics\", \"whisper\", \"volcano\", \"telescope\", \"democracy\", \"sandwich\", \"lightning\", \"molecule\", \"symphony\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "whisper",
+      "volcano",
+      "telescope",
+      "democracy",
+      "sandwich",
+      "lightning",
+      "molecule",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"elephant\", \"mathematics\", \"hurricane\", \"sorrow\", \"telescope\", \"bread\", \"symphony\", \"molecule\", \"democracy\", \"velvet\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "hurricane",
+      "sorrow",
+      "telescope",
+      "bread",
+      "symphony",
+      "molecule",
+      "democracy",
+      "velvet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"elephant\", \"mathematics\", \"screwdriver\", \"melody\", \"volcano\", \"microscope\", \"butterfly\", \"justice\", \"refrigerator\", \"thunderstorm\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "screwdriver",
+      "melody",
+      "volcano",
+      "microscope",
+      "butterfly",
+      "justice",
+      "refrigerator",
+      "thunderstorm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"elephant\", \"mathematics\", \"violin\", \"tornado\", \"microscope\", \"democracy\", \"butter\", \"galaxy\", \"skeleton\", \"poetry\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "violin",
+      "tornado",
+      "microscope",
+      "democracy",
+      "butter",
+      "galaxy",
+      "skeleton",
+      "poetry"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"elephant\", \"mathematics\", \"sorrow\", \"telescope\", \"bakery\", \"thunder\", \"surgery\", \"diamond\", \"folklore\", \"oxygen\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "sorrow",
+      "telescope",
+      "bakery",
+      "thunder",
+      "surgery",
+      "diamond",
+      "folklore",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"mathematics\", \"butterfly\", \"hammer\", \"sorrow\", \"telescope\", \"bread\", \"thunder\", \"hospital\", \"diamond\", \"ocean\"]",
+    "words": [
+      "mathematics",
+      "butterfly",
+      "hammer",
+      "sorrow",
+      "telescope",
+      "bread",
+      "thunder",
+      "hospital",
+      "diamond",
+      "ocean"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"electron\", \"symphony\", \"volcano\", \"democracy\", \"enzyme\", \"telescope\", \"hurricane\", \"sculpture\", \"neuron\", \"galaxy\"]",
+    "words": [
+      "electron",
+      "symphony",
+      "volcano",
+      "democracy",
+      "enzyme",
+      "telescope",
+      "hurricane",
+      "sculpture",
+      "neuron",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"microscope\", \"democracy\", \"spaghetti\", \"volcano\", \"friendship\", \"telescope\", \"butterfly\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "microscope",
+      "democracy",
+      "spaghetti",
+      "volcano",
+      "friendship",
+      "telescope",
+      "butterfly"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"microscope\", \"democracy\", \"pizza\", \"asteroid\", \"symphony\", \"bacteria\", \"velvet\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "microscope",
+      "democracy",
+      "pizza",
+      "asteroid",
+      "symphony",
+      "bacteria",
+      "velvet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"elephant\", \"mathematics\", \"volcano\", \"whisper\", \"microscope\", \"democracy\", \"bicycle\", \"thunder\", \"surgery\", \"constellation\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "volcano",
+      "whisper",
+      "microscope",
+      "democracy",
+      "bicycle",
+      "thunder",
+      "surgery",
+      "constellation"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"electron\", \"symphony\", \"cactus\", \"methodology\", \"tsunami\", \"arthritis\", \"constellation\", \"democracy\", \"enzyme\", \"glacier\"]",
+    "words": [
+      "electron",
+      "symphony",
+      "cactus",
+      "methodology",
+      "tsunami",
+      "arthritis",
+      "constellation",
+      "democracy",
+      "enzyme",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"elephant\", \"mathematics\", \"spoon\", \"thunder\", \"justice\", \"bacteria\", \"velvet\", \"sorrow\", \"engine\", \"salt\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "spoon",
+      "thunder",
+      "justice",
+      "bacteria",
+      "velvet",
+      "sorrow",
+      "engine",
+      "salt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"elephant\", \"quantum\", \"sorrow\", \"bicycle\", \"melody\", \"photograph\", \"mathematics\", \"thunder\", \"sandwich\", \"democracy\"]",
+    "words": [
+      "elephant",
+      "quantum",
+      "sorrow",
+      "bicycle",
+      "melody",
+      "photograph",
+      "mathematics",
+      "thunder",
+      "sandwich",
+      "democracy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"microscope\", \"democracy\", \"pizza\", \"betrayal\", \"glacier\", \"surgery\", \"melody\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "microscope",
+      "democracy",
+      "pizza",
+      "betrayal",
+      "glacier",
+      "surgery",
+      "melody"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"molecule\", \"compassion\", \"triangle\", \"surgery\", \"glacier\", \"melody\", \"democracy\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "molecule",
+      "compassion",
+      "triangle",
+      "surgery",
+      "glacier",
+      "melody",
+      "democracy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"microscope\", \"democracy\", \"loneliness\", \"bicycle\", \"oxygen\", \"cathedral\", \"laughter\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "microscope",
+      "democracy",
+      "loneliness",
+      "bicycle",
+      "oxygen",
+      "cathedral",
+      "laughter"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"spoon\", \"democracy\", \"molecule\", \"laughter\", \"fabric\", \"volcano\", \"melody\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "spoon",
+      "democracy",
+      "molecule",
+      "laughter",
+      "fabric",
+      "volcano",
+      "melody"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"elephant\", \"mathematics\", \"thunder\", \"microscope\", \"happiness\", \"volcano\", \"refrigerator\", \"democracy\", \"butterfly\", \"surgery\"]",
+    "words": [
+      "elephant",
+      "mathematics",
+      "thunder",
+      "microscope",
+      "happiness",
+      "volcano",
+      "refrigerator",
+      "democracy",
+      "butterfly",
+      "surgery"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"molecule\", \"symphony\", \"grief\", \"telescope\", \"sandwich\", \"democracy\", \"fur\", \"algorithm\", \"volcano\", \"laughter\"]",
+    "words": [
+      "molecule",
+      "symphony",
+      "grief",
+      "telescope",
+      "sandwich",
+      "democracy",
+      "fur",
+      "algorithm",
+      "volcano",
+      "laughter"
+    ],
+    "api_error": null
+  }
+]

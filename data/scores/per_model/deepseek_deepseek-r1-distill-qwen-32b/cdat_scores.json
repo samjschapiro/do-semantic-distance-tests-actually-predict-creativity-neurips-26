@@ -1,0 +1,31 @@
+{
+  "mean_novelty": 0.0,
+  "mean_appropriateness": 0.0,
+  "by_temperature": {
+    "1.0": {
+      "mean_novelty": 0.0,
+      "mean_appropriateness": 0.0,
+      "n_cues": 0,
+      "n_sufficient": 0,
+      "novelty_scores": [],
+      "appropriateness_scores": []
+    },
+    "2.0": {
+      "mean_novelty": 0.0,
+      "mean_appropriateness": 0.0,
+      "n_cues": 0,
+      "n_sufficient": 0,
+      "novelty_scores": [],
+      "appropriateness_scores": []
+    },
+    "1.5": {
+      "mean_novelty": 0.0,
+      "mean_appropriateness": 0.0,
+      "n_cues": 2,
+      "n_sufficient": 0,
+      "novelty_scores": [],
+      "appropriateness_scores": []
+    }
+  },
+  "n_temperatures": 3
+}

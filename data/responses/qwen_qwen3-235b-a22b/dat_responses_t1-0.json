@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"Justice\", \"Hammer\", \"Asteroid\", \"Bacteria\", \"Storm\", \"Desert\", \"Oxygen\", \"Mirror\", \"Hour\", \"Cheese\"]",
+    "words": [
+      "justice",
+      "hammer",
+      "asteroid",
+      "bacteria",
+      "storm",
+      "desert",
+      "oxygen",
+      "mirror",
+      "hour",
+      "cheese"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"Thunderstorm\", \"Gear\", \"Quartz\", \"Sausage\", \"Antibiotic\", \"Umbrella\", \"Galaxy\", \"Teaspoon\", \"Magnet\", \"Justice\"]",
+    "words": [
+      "thunderstorm",
+      "gear",
+      "quartz",
+      "sausage",
+      "antibiotic",
+      "umbrella",
+      "galaxy",
+      "teaspoon",
+      "magnet",
+      "justice"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"oak\", \"quasar\", \"circuit\", \"justice\", \"enzyme\", \"tornado\", \"hammer\", \"void\", \"dune\", \"palette\"]",
+    "words": [
+      "oak",
+      "quasar",
+      "circuit",
+      "justice",
+      "enzyme",
+      "tornado",
+      "hammer",
+      "void",
+      "dune",
+      "palette"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"Time\", \"Star\", \"Chair\", \"Economy\", \"Cloud\", \"Ocean\", \"Biology\", \"Hammer\", \"Justice\", \"Atom\"]",
+    "words": [
+      "time",
+      "star",
+      "chair",
+      "economy",
+      "cloud",
+      "ocean",
+      "biology",
+      "hammer",
+      "justice",
+      "atom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"Chair\", \"Tree\", \"Time\", \"Justice\", \"Gravity\", \"Milk\", \"Storm\", \"Hammer\", \"Atom\", \"Idea\"]",
+    "words": [
+      "chair",
+      "tree",
+      "time",
+      "justice",
+      "gravity",
+      "milk",
+      "storm",
+      "hammer",
+      "atom",
+      "idea"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"storm\", \"screwdriver\", \"idea\", \"elephant\", \"bicycle\", \"laptop\", \"star\", \"sock\", \"bridge\", \"tree\"]",
+    "words": [
+      "storm",
+      "screwdriver",
+      "idea",
+      "elephant",
+      "bicycle",
+      "laptop",
+      "star",
+      "sock",
+      "bridge",
+      "tree"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"chair\", \"justice\", \"hammer\", \"hurricane\", \"kilogram\", \"cactus\", \"algorithm\", \"guitar\", \"disease\", \"ocean\"]",
+    "words": [
+      "chair",
+      "justice",
+      "hammer",
+      "hurricane",
+      "kilogram",
+      "cactus",
+      "algorithm",
+      "guitar",
+      "disease",
+      "ocean"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"planet\", \"chair\", \"justice\", \"tree\", \"ocean\", \"bread\", \"society\", \"stone\", \"storm\", \"sorrow\"]",
+    "words": [
+      "planet",
+      "chair",
+      "justice",
+      "tree",
+      "ocean",
+      "bread",
+      "society",
+      "stone",
+      "storm",
+      "sorrow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"ocean\", \"bicycle\", \"love\", \"computer\", \"bacteria\", \"chair\", \"thunder\", \"iron\", \"time\", \"fruit\"]",
+    "words": [
+      "ocean",
+      "bicycle",
+      "love",
+      "computer",
+      "bacteria",
+      "chair",
+      "thunder",
+      "iron",
+      "time",
+      "fruit"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"Mountain\", \"Atom\", \"Chair\", \"Sorrow\", \"Lightning\", \"Hammer\", \"Tongue\", \"Silence\", \"Quasar\", \"Hour\"]",
+    "words": [
+      "mountain",
+      "atom",
+      "chair",
+      "sorrow",
+      "lightning",
+      "hammer",
+      "tongue",
+      "silence",
+      "quasar",
+      "hour"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"quasar\", \"sausage\", \"algorithm\", \"happiness\", \"canoe\", \"ballet\", \"neuron\", \"magnet\", \"thunderstorm\", \"pyramid\"]",
+    "words": [
+      "quasar",
+      "sausage",
+      "algorithm",
+      "happiness",
+      "canoe",
+      "ballet",
+      "neuron",
+      "magnet",
+      "thunderstorm",
+      "pyramid"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"tree\", \"galaxy\", \"decade\", \"joy\", \"screwdriver\", \"ocean\", \"octopus\", \"bicycle\", \"quark\", \"symphony\"]",
+    "words": [
+      "tree",
+      "galaxy",
+      "decade",
+      "joy",
+      "screwdriver",
+      "ocean",
+      "octopus",
+      "bicycle",
+      "quark",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"galaxy\", \"happiness\", \"hammer\", \"oxygen\", \"thunderstorm\", \"cactus\", \"economy\", \"computer\", \"gravity\", \"ballet\"]",
+    "words": [
+      "galaxy",
+      "happiness",
+      "hammer",
+      "oxygen",
+      "thunderstorm",
+      "cactus",
+      "economy",
+      "computer",
+      "gravity",
+      "ballet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"tree\", \"anger\", \"microscope\", \"table\", \"water\", \"star\", \"fish\", \"hammer\", \"tsunami\", \"idea\"]",
+    "words": [
+      "tree",
+      "anger",
+      "microscope",
+      "table",
+      "water",
+      "star",
+      "fish",
+      "hammer",
+      "tsunami",
+      "idea"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"copper\", \"jam\", \"sock\", \"gear\", \"moon\", \"river\", \"beetle\", \"freedom\", \"thought\", \"time\"]",
+    "words": [
+      "copper",
+      "jam",
+      "sock",
+      "gear",
+      "moon",
+      "river",
+      "beetle",
+      "freedom",
+      "thought",
+      "time"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"tree\", \"justice\", \"engine\", \"ocean\", \"meter\", \"star\", \"hammer\", \"laughter\", \"microchip\", \"sock\"]",
+    "words": [
+      "tree",
+      "justice",
+      "engine",
+      "ocean",
+      "meter",
+      "star",
+      "hammer",
+      "laughter",
+      "microchip",
+      "sock"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"sun\", \"microscope\", \"ocean\", \"airplane\", \"bacteria\", \"quartz\", \"thunderstorm\", \"sculpture\", \"hydrogen\", \"fungus\"]",
+    "words": [
+      "sun",
+      "microscope",
+      "ocean",
+      "airplane",
+      "bacteria",
+      "quartz",
+      "thunderstorm",
+      "sculpture",
+      "hydrogen",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"tree\", \"network\", \"neon\", \"justice\", \"asteroid\", \"gear\", \"spoon\", \"cloud\", \"sorrow\", \"vortex\"]",
+    "words": [
+      "tree",
+      "network",
+      "neon",
+      "justice",
+      "asteroid",
+      "gear",
+      "spoon",
+      "cloud",
+      "sorrow",
+      "vortex"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"ocean\", \"atom\", \"circuit\", \"serenity\", \"oak\", \"symphony\", \"tornado\", \"dune\", \"vaccine\", \"galaxy\"]",
+    "words": [
+      "ocean",
+      "atom",
+      "circuit",
+      "serenity",
+      "oak",
+      "symphony",
+      "tornado",
+      "dune",
+      "vaccine",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"hammer\", \"pixel\", \"river\", \"apple\", \"liver\", \"justice\", \"second\", \"planet\", \"bridge\", \"fungus\"]",
+    "words": [
+      "hammer",
+      "pixel",
+      "river",
+      "apple",
+      "liver",
+      "justice",
+      "second",
+      "planet",
+      "bridge",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"chair\", \"justice\", \"otter\", \"cloud\", \"wrench\", \"bicycle\", \"apple\", \"century\", \"kilogram\", \"satellite\"]",
+    "words": [
+      "chair",
+      "justice",
+      "otter",
+      "cloud",
+      "wrench",
+      "bicycle",
+      "apple",
+      "century",
+      "kilogram",
+      "satellite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"tree\", \"computer\", \"ocean\", \"happiness\", \"hour\", \"shirt\", \"car\", \"hammer\", \"galaxy\", \"candle\"]",
+    "words": [
+      "tree",
+      "computer",
+      "ocean",
+      "happiness",
+      "hour",
+      "shirt",
+      "car",
+      "hammer",
+      "galaxy",
+      "candle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"hammer\", \"justice\", \"tree\", \"happiness\", \"star\", \"bicycle\", \"microbe\", \"sunset\", \"symphony\", \"quark\"]",
+    "words": [
+      "hammer",
+      "justice",
+      "tree",
+      "happiness",
+      "star",
+      "bicycle",
+      "microbe",
+      "sunset",
+      "symphony",
+      "quark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"elephant\", \"satellite\", \"justice\", \"hammer\", \"ocean\", \"asteroid\", \"second\", \"skyscraper\", \"cactus\", \"saxophone\"]",
+    "words": [
+      "elephant",
+      "satellite",
+      "justice",
+      "hammer",
+      "ocean",
+      "asteroid",
+      "second",
+      "skyscraper",
+      "cactus",
+      "saxophone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"hammer\", \"justice\", \"tree\", \"plastic\", \"server\", \"lightning\", \"marriage\", \"meter\", \"canvas\", \"asteroid\"]",
+    "words": [
+      "hammer",
+      "justice",
+      "tree",
+      "plastic",
+      "server",
+      "lightning",
+      "marriage",
+      "meter",
+      "canvas",
+      "asteroid"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"chair\", \"liberty\", \"circuit\", \"sunflower\", \"sprocket\", \"quark\", \"marathon\", \"thunderstorm\", \"syllable\", \"asteroid\"]",
+    "words": [
+      "chair",
+      "liberty",
+      "circuit",
+      "sunflower",
+      "sprocket",
+      "quark",
+      "marathon",
+      "thunderstorm",
+      "syllable",
+      "asteroid"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"lamp\", \"planet\", \"happiness\", \"petal\", \"sugar\", \"minute\", \"screwdriver\", \"strawberry\", \"democracy\", \"jellyfish\"]",
+    "words": [
+      "lamp",
+      "planet",
+      "happiness",
+      "petal",
+      "sugar",
+      "minute",
+      "screwdriver",
+      "strawberry",
+      "democracy",
+      "jellyfish"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"Galaxy\", \"Bacteria\", \"Paradox\", \"Engine\", \"Oxygen\", \"Thunderstorm\", \"Sculpture\", \"Euphoria\", \"Momentum\", \"Desert\"]",
+    "words": [
+      "galaxy",
+      "bacteria",
+      "paradox",
+      "engine",
+      "oxygen",
+      "thunderstorm",
+      "sculpture",
+      "euphoria",
+      "momentum",
+      "desert"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"quark\", \"asteroid\", \"empathy\", \"symphony\", \"fractal\", \"hurricane\", \"cell\", \"circuit\", \"anarchy\", \"glacier\"]",
+    "words": [
+      "quark",
+      "asteroid",
+      "empathy",
+      "symphony",
+      "fractal",
+      "hurricane",
+      "cell",
+      "circuit",
+      "anarchy",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"ocean\", \"justice\", \"microchip\", \"spider\", \"planet\", \"bridge\", \"sleeve\", \"vaccine\", \"melody\", \"anchor\"]",
+    "words": [
+      "ocean",
+      "justice",
+      "microchip",
+      "spider",
+      "planet",
+      "bridge",
+      "sleeve",
+      "vaccine",
+      "melody",
+      "anchor"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"tree\", \"algorithm\", \"jellyfish\", \"bicycle\", \"thunderstorm\", \"atom\", \"nebula\", \"sapphire\", \"democracy\", \"quilt\"]",
+    "words": [
+      "tree",
+      "algorithm",
+      "jellyfish",
+      "bicycle",
+      "thunderstorm",
+      "atom",
+      "nebula",
+      "sapphire",
+      "democracy",
+      "quilt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"chair\", \"justice\", \"cloud\", \"cell\", \"century\", \"river\", \"hope\", \"star\", \"knife\", \"idea\"]",
+    "words": [
+      "chair",
+      "justice",
+      "cloud",
+      "cell",
+      "century",
+      "river",
+      "hope",
+      "star",
+      "knife",
+      "idea"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"tree\", \"wrench\", \"computer\", \"freedom\", \"bread\", \"star\", \"fish\", \"jar\", \"time\", \"atom\"]",
+    "words": [
+      "tree",
+      "wrench",
+      "computer",
+      "freedom",
+      "bread",
+      "star",
+      "fish",
+      "jar",
+      "time",
+      "atom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"hammer\", \"river\", \"satellite\", \"bacteria\", \"symphony\", \"quartz\", \"justice\", \"comet\", \"umbrella\", \"fungus\"]",
+    "words": [
+      "hammer",
+      "river",
+      "satellite",
+      "bacteria",
+      "symphony",
+      "quartz",
+      "justice",
+      "comet",
+      "umbrella",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"thought\", \"ocean\", \"fungus\", \"lightning\", \"anchor\", \"desert\", \"melody\", \"virus\", \"granite\", \"liberty\"]",
+    "words": [
+      "thought",
+      "ocean",
+      "fungus",
+      "lightning",
+      "anchor",
+      "desert",
+      "melody",
+      "virus",
+      "granite",
+      "liberty"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"quark\", \"democracy\", \"glacier\", \"echidna\", \"oxygen\", \"algorithm\", \"justice\", \"chair\", \"lightning\", \"painting\"]",
+    "words": [
+      "quark",
+      "democracy",
+      "glacier",
+      "echidna",
+      "oxygen",
+      "algorithm",
+      "justice",
+      "chair",
+      "lightning",
+      "painting"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"sunlight\", \"justice\", \"hammer\", \"octopus\", \"century\", \"whisper\", \"triangle\", \"tongue\", \"blizzard\", \"satellite\"]",
+    "words": [
+      "sunlight",
+      "justice",
+      "hammer",
+      "octopus",
+      "century",
+      "whisper",
+      "triangle",
+      "tongue",
+      "blizzard",
+      "satellite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"quantum\", \"ocean\", \"bicycle\", \"happiness\", \"saxophone\", \"algebra\", \"desert\", \"gravity\", \"orchestra\", \"cinnamon\"]",
+    "words": [
+      "quantum",
+      "ocean",
+      "bicycle",
+      "happiness",
+      "saxophone",
+      "algebra",
+      "desert",
+      "gravity",
+      "orchestra",
+      "cinnamon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"ocean\", \"cell\", \"tree\", \"bridge\", \"justice\", \"emotion\", \"asteroid\", \"chair\", \"melody\", \"desert\"]",
+    "words": [
+      "ocean",
+      "cell",
+      "tree",
+      "bridge",
+      "justice",
+      "emotion",
+      "asteroid",
+      "chair",
+      "melody",
+      "desert"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"table\", \"love\", \"quantum\", \"apple\", \"river\", \"justice\", \"thunder\", \"eclipse\", \"silence\", \"hour\"]",
+    "words": [
+      "table",
+      "love",
+      "quantum",
+      "apple",
+      "river",
+      "justice",
+      "thunder",
+      "eclipse",
+      "silence",
+      "hour"
+    ],
+    "api_error": null
+  }
+]

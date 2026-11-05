@@ -1,0 +1,2522 @@
+[
+  {
+    "trial": 0,
+    "words": [
+      "standby",
+      "tubercle",
+      "won",
+      "diocletian",
+      "info",
+      "mashi",
+      "approach",
+      "cedarwood",
+      "eds",
+      "inch"
+    ],
+    "scores_per_embed": {
+      "glove": 107.25063993817284,
+      "fasttext": 91.16900336174739,
+      "sbert": 85.54519556817554
+    },
+    "mean_across_embeds": 94.65494628936524
+  },
+  {
+    "trial": 1,
+    "words": [
+      "joel",
+      "conjunction",
+      "villainess",
+      "inch",
+      "argali",
+      "comment",
+      "photoflash",
+      "eds",
+      "childcare",
+      "defeated"
+    ],
+    "scores_per_embed": {
+      "glove": 106.76092306772868,
+      "fasttext": 89.55375069663638,
+      "sbert": 83.95068759009952
+    },
+    "mean_across_embeds": 93.42178711815485
+  },
+  {
+    "trial": 2,
+    "words": [
+      "spaceflight",
+      "pickerel",
+      "filter",
+      "surrejoinder",
+      "feat",
+      "consultation",
+      "thb",
+      "fan",
+      "stachyose",
+      "microfiche"
+    ],
+    "scores_per_embed": {
+      "glove": 106.43805009978158,
+      "fasttext": 90.76770629201617,
+      "sbert": 83.10543866384596
+    },
+    "mean_across_embeds": 93.43706501854791
+  },
+  {
+    "trial": 3,
+    "words": [
+      "showing",
+      "trm",
+      "assassinator",
+      "technology",
+      "softback",
+      "dinner",
+      "sind",
+      "workfellow",
+      "defeated",
+      "transaminase"
+    ],
+    "scores_per_embed": {
+      "glove": 106.94971311660039,
+      "fasttext": 92.50954077357338,
+      "sbert": 83.03468227386475
+    },
+    "mean_across_embeds": 94.16464538801284
+  },
+  {
+    "trial": 4,
+    "words": [
+      "quivering",
+      "category",
+      "diphylla",
+      "visit",
+      "stenograph",
+      "watt",
+      "xiii",
+      "collaboration",
+      "overcoating",
+      "mit"
+    ],
+    "scores_per_embed": {
+      "glove": 106.8434945174626,
+      "fasttext": 91.18964274724325,
+      "sbert": 82.5412304628463
+    },
+    "mean_across_embeds": 93.52478924251739
+  },
+  {
+    "trial": 5,
+    "words": [
+      "phrenology",
+      "operator",
+      "brie",
+      "installment",
+      "mcg",
+      "das",
+      "defeated",
+      "pulex",
+      "click",
+      "criticalness"
+    ],
+    "scores_per_embed": {
+      "glove": 106.20858442215693,
+      "fasttext": 91.64278024718875,
+      "sbert": 83.02135836510432
+    },
+    "mean_across_embeds": 93.62424101148333
+  },
+  {
+    "trial": 6,
+    "words": [
+      "inappropriateness",
+      "edition",
+      "welder",
+      "plantigrade",
+      "defeated",
+      "click",
+      "morus",
+      "mit",
+      "funding",
+      "spindrift"
+    ],
+    "scores_per_embed": {
+      "glove": 106.3240871542976,
+      "fasttext": 93.30740315573556,
+      "sbert": 84.9871712071555
+    },
+    "mean_across_embeds": 94.8728871723962
+  },
+  {
+    "trial": 7,
+    "words": [
+      "unpredictability",
+      "mit",
+      "pogge",
+      "sent",
+      "aleut",
+      "mile",
+      "nitride",
+      "eds",
+      "accessory",
+      "reaffirmation"
+    ],
+    "scores_per_embed": {
+      "glove": 107.40439976964677,
+      "fasttext": 90.23600674810864,
+      "sbert": 86.74346691086178
+    },
+    "mean_across_embeds": 94.79462447620574
+  },
+  {
+    "trial": 8,
+    "words": [
+      "pussycat",
+      "conjunction",
+      "putout",
+      "mailbag",
+      "rating",
+      "cutwork",
+      "born",
+      "thb",
+      "parts",
+      "heimdal"
+    ],
+    "scores_per_embed": {
+      "glove": 107.25525106702531,
+      "fasttext": 91.08438066073826,
+      "sbert": 83.96685861405872
+    },
+    "mean_across_embeds": 94.1021634472741
+  },
+  {
+    "trial": 9,
+    "words": [
+      "honeycreeper",
+      "tire",
+      "collaboration",
+      "sind",
+      "embarkation",
+      "read",
+      "modillion",
+      "defeated",
+      "capful",
+      "eds"
+    ],
+    "scores_per_embed": {
+      "glove": 107.32945515995934,
+      "fasttext": 91.6139324506124,
+      "sbert": 80.72224883806139
+    },
+    "mean_across_embeds": 93.22187881621103
+  },
+  {
+    "trial": 10,
+    "words": [
+      "sampling",
+      "cager",
+      "http",
+      "diaphoretic",
+      "won",
+      "aloneness",
+      "inch",
+      "castries",
+      "update",
+      "scablands"
+    ],
+    "scores_per_embed": {
+      "glove": 106.73062205314636,
+      "fasttext": 93.18513870239258,
+      "sbert": 85.0400998478844
+    },
+    "mean_across_embeds": 94.98528686780777
+  },
+  {
+    "trial": 11,
+    "words": [
+      "campground",
+      "velours",
+      "category",
+      "emda",
+      "activist",
+      "capacitor",
+      "preview",
+      "varuna",
+      "hours",
+      "freightage"
+    ],
+    "scores_per_embed": {
+      "glove": 106.46662002518063,
+      "fasttext": 91.28881851832072,
+      "sbert": 81.56444941248212
+    },
+    "mean_across_embeds": 93.10662931866115
+  },
+  {
+    "trial": 12,
+    "words": [
+      "nra",
+      "arrangement",
+      "philologist",
+      "msg",
+      "debut",
+      "chamaecyparis",
+      "daily",
+      "blowup",
+      "kyanite",
+      "zip"
+    ],
+    "scores_per_embed": {
+      "glove": 105.64801125299364,
+      "fasttext": 94.23003395398459,
+      "sbert": 82.4701243922824
+    },
+    "mean_across_embeds": 94.11605653308688
+  },
+  {
+    "trial": 13,
+    "words": [
+      "tenantry",
+      "graphic",
+      "min",
+      "rupicola",
+      "president",
+      "graviton",
+      "item",
+      "sind",
+      "tubeless",
+      "botulism"
+    ],
+    "scores_per_embed": {
+      "glove": 106.48851110821678,
+      "fasttext": 92.73179729779561,
+      "sbert": 83.05900806472415
+    },
+    "mean_across_embeds": 94.09310549024552
+  },
+  {
+    "trial": 14,
+    "words": [
+      "cellulosic",
+      "watch",
+      "trotskyist",
+      "courtesy",
+      "mcg",
+      "gerrymander",
+      "client",
+      "eds",
+      "zayin",
+      "inch"
+    ],
+    "scores_per_embed": {
+      "glove": 106.52832559176855,
+      "fasttext": 92.9137396812439,
+      "sbert": 82.31158625511897
+    },
+    "mean_across_embeds": 93.91788384271047
+  },
+  {
+    "trial": 15,
+    "words": [
+      "truelove",
+      "area",
+      "mit",
+      "restatement",
+      "debut",
+      "shlep",
+      "filter",
+      "olmec",
+      "secretary",
+      "tetrachloromethane"
+    ],
+    "scores_per_embed": {
+      "glove": 107.47617142541068,
+      "fasttext": 92.44420471645537,
+      "sbert": 83.3013736066364
+    },
+    "mean_across_embeds": 94.40724991616749
+  },
+  {
+    "trial": 16,
+    "words": [
+      "manipulation",
+      "tootle",
+      "finalist",
+      "www",
+      "wolfbane",
+      "shipping",
+      "entailment",
+      "aged",
+      "sind",
+      "spokesman"
+    ],
+    "scores_per_embed": {
+      "glove": 106.80771129471916,
+      "fasttext": 90.91720978418985,
+      "sbert": 83.36852533476693
+    },
+    "mean_across_embeds": 93.6978154712253
+  },
+  {
+    "trial": 17,
+    "words": [
+      "reed",
+      "pyelogram",
+      "spending",
+      "autocatalysis",
+      "preview",
+      "mit",
+      "sobriquet",
+      "contact",
+      "monardella",
+      "inch"
+    ],
+    "scores_per_embed": {
+      "glove": 106.42304505620683,
+      "fasttext": 91.03788023903256,
+      "sbert": 86.37797775722686
+    },
+    "mean_across_embeds": 94.61296768415542
+  },
+  {
+    "trial": 18,
+    "words": [
+      "teg",
+      "addition",
+      "antananarivo",
+      "won",
+      "frustum",
+      "email",
+      "pickaninny",
+      "mit",
+      "cleaners",
+      "arcsec"
+    ],
+    "scores_per_embed": {
+      "glove": 107.0279686223893,
+      "fasttext": 92.25221395492554,
+      "sbert": 80.66815137863159
+    },
+    "mean_across_embeds": 93.3161113186488
+  },
+  {
+    "trial": 19,
+    "words": [
+      "muzzle",
+      "jacobi",
+      "purchase",
+      "mit",
+      "unguiculata",
+      "years",
+      "semiquaver",
+      "recap",
+      "farness",
+      "database"
+    ],
+    "scores_per_embed": {
+      "glove": 107.1551257655734,
+      "fasttext": 88.95685899825322,
+      "sbert": 85.56549974850246
+    },
+    "mean_across_embeds": 93.89249483744304
+  },
+  {
+    "trial": 20,
+    "words": [
+      "teargas",
+      "description",
+      "variometer",
+      "won",
+      "skuld",
+      "storage",
+      "rapscallion",
+      "joining",
+      "eds",
+      "inch"
+    ],
+    "scores_per_embed": {
+      "glove": 106.93027320362272,
+      "fasttext": 91.97809383982704,
+      "sbert": 82.69964910688854
+    },
+    "mean_across_embeds": 93.86933871677944
+  },
+  {
+    "trial": 21,
+    "words": [
+      "equisetum",
+      "point",
+      "trevithick",
+      "http",
+      "debut",
+      "scoffer",
+      "pump",
+      "severalty",
+      "item",
+      "mashi"
+    ],
+    "scores_per_embed": {
+      "glove": 106.59439677283878,
+      "fasttext": 91.5303639570872,
+      "sbert": 84.88910907790775
+    },
+    "mean_across_embeds": 94.33795660261124
+  },
+  {
+    "trial": 22,
+    "words": [
+      "sacerdotalism",
+      "month",
+      "disambiguation",
+      "glass",
+      "barstow",
+      "cardioid",
+      "sur",
+      "coauthor",
+      "disabled",
+      "oxaloacetate"
+    ],
+    "scores_per_embed": {
+      "glove": 106.79862130255925,
+      "fasttext": 90.15705869311378,
+      "sbert": 85.17615454537528
+    },
+    "mean_across_embeds": 94.0439448470161
+  },
+  {
+    "trial": 23,
+    "words": [
+      "annuitant",
+      "clean",
+      "leonurus",
+      "conference",
+      "arcsec",
+      "isherwood",
+      "comment",
+      "callowness",
+      "series",
+      "shipping"
+    ],
+    "scores_per_embed": {
+      "glove": 106.30568918727694,
+      "fasttext": 92.2391015291214,
+      "sbert": 83.06848378408522
+    },
+    "mean_across_embeds": 93.87109150016119
+  },
+  {
+    "trial": 24,
+    "words": [
+      "greaves",
+      "location",
+      "gerontocracy",
+      "won",
+      "mit",
+      "corrigenda",
+      "listening",
+      "phosphoprotein",
+      "click",
+      "monardella"
+    ],
+    "scores_per_embed": {
+      "glove": 107.01127336138771,
+      "fasttext": 92.47083209809803,
+      "sbert": 83.52162213552565
+    },
+    "mean_across_embeds": 94.3345758650038
+  },
+  {
+    "trial": 25,
+    "words": [
+      "leishmaniasis",
+      "straight",
+      "seamster",
+      "listing",
+      "abelard",
+      "duo",
+      "thb",
+      "spectrometer",
+      "unrespectability",
+      "won"
+    ],
+    "scores_per_embed": {
+      "glove": 106.2303670815059,
+      "fasttext": 92.53462694940113,
+      "sbert": 82.56884359178089
+    },
+    "mean_across_embeds": 93.7779458742293
+  },
+  {
+    "trial": 26,
+    "words": [
+      "stretching",
+      "stemmer",
+      "newsletter",
+      "paratyphoid",
+      "inch",
+      "director",
+      "pervaporation",
+      "svr",
+      "view",
+      "nailfile"
+    ],
+    "scores_per_embed": {
+      "glove": 106.99672386759804,
+      "fasttext": 91.30457384245736,
+      "sbert": 82.91375154540653
+    },
+    "mean_across_embeds": 93.73834975182064
+  },
+  {
+    "trial": 27,
+    "words": [
+      "abridgment",
+      "star",
+      "etanercept",
+      "vat",
+      "forum",
+      "tarweed",
+      "defeated",
+      "harmonics",
+      "thb",
+      "browse"
+    ],
+    "scores_per_embed": {
+      "glove": 105.87984238352095,
+      "fasttext": 91.56333236467272,
+      "sbert": 81.63176292464847
+    },
+    "mean_across_embeds": 93.0249792242807
+  },
+  {
+    "trial": 28,
+    "words": [
+      "phagocyte",
+      "think",
+      "oesterreich",
+      "section",
+      "losings",
+      "debut",
+      "dba",
+      "charcoal",
+      "menhir",
+      "rating"
+    ],
+    "scores_per_embed": {
+      "glove": 106.62261673382349,
+      "fasttext": 92.66580263773601,
+      "sbert": 83.7665836016337
+    },
+    "mean_across_embeds": 94.35166765773106
+  },
+  {
+    "trial": 29,
+    "words": [
+      "turboprop",
+      "tab",
+      "profuseness",
+      "interview",
+      "isochrone",
+      "defeated",
+      "annum",
+      "lens",
+      "bocci",
+      "eds"
+    ],
+    "scores_per_embed": {
+      "glove": 107.44009074710665,
+      "fasttext": 93.13568552335103,
+      "sbert": 83.16990193866548
+    },
+    "mean_across_embeds": 94.5818927363744
+  },
+  {
+    "trial": 30,
+    "words": [
+      "boot",
+      "canavanine",
+      "relations",
+      "qiang",
+      "winner",
+      "arcsec",
+      "softback",
+      "soda",
+      "radiotelephone",
+      "feat"
+    ],
+    "scores_per_embed": {
+      "glove": 106.37359619140625,
+      "fasttext": 89.64747814905077,
+      "sbert": 86.42278228487287
+    },
+    "mean_across_embeds": 94.1479522084433
+  },
+  {
+    "trial": 31,
+    "words": [
+      "mayoress",
+      "more",
+      "doi",
+      "chordophone",
+      "premium",
+      "inkblot",
+      "talks",
+      "atropos",
+      "inch",
+      "villard"
+    ],
+    "scores_per_embed": {
+      "glove": 106.43550640060788,
+      "fasttext": 92.46882512455895,
+      "sbert": 82.58458347547621
+    },
+    "mean_across_embeds": 93.82963833354768
+  },
+  {
+    "trial": 32,
+    "words": [
+      "sweats",
+      "census",
+      "epenthesis",
+      "showcase",
+      "dia",
+      "reactance",
+      "successor",
+      "elbe",
+      "email",
+      "pufferfish"
+    ],
+    "scores_per_embed": {
+      "glove": 106.20899938401722,
+      "fasttext": 93.41650236220586,
+      "sbert": 83.5833001704443
+    },
+    "mean_across_embeds": 94.40293397222246
+  },
+  {
+    "trial": 33,
+    "words": [
+      "swimming",
+      "magh",
+      "item",
+      "malthus",
+      "talks",
+      "ohm",
+      "logotype",
+      "dba",
+      "innings",
+      "tetrachloromethane"
+    ],
+    "scores_per_embed": {
+      "glove": 107.49285760379972,
+      "fasttext": 92.84313440322876,
+      "sbert": 84.72596719151451
+    },
+    "mean_across_embeds": 95.02065306618101
+  },
+  {
+    "trial": 34,
+    "words": [
+      "automaker",
+      "thorpe",
+      "null",
+      "saraband",
+      "working",
+      "unrespectability",
+      "inch",
+      "anemometry",
+      "review",
+      "kieselguhr"
+    ],
+    "scores_per_embed": {
+      "glove": 106.45968743732996,
+      "fasttext": 94.2216145992279,
+      "sbert": 85.1284975097293
+    },
+    "mean_across_embeds": 95.26993318209573
+  },
+  {
+    "trial": 35,
+    "words": [
+      "bolus",
+      "partnership",
+      "skagway",
+      "read",
+      "ensis",
+      "sind",
+      "inch",
+      "menhir",
+      "makeup",
+      "eds"
+    ],
+    "scores_per_embed": {
+      "glove": 107.14746373040336,
+      "fasttext": 90.09313424428304,
+      "sbert": 80.72661502020699
+    },
+    "mean_across_embeds": 92.65573766496448
+  },
+  {
+    "trial": 36,
+    "words": [
+      "greenhouse",
+      "ranula",
+      "playing",
+      "muleteer",
+      "email",
+      "intensifier",
+      "cbr",
+      "affirmed",
+      "inch",
+      "lotte"
+    ],
+    "scores_per_embed": {
+      "glove": 106.37601500465756,
+      "fasttext": 90.55782329468501,
+      "sbert": 82.29080750828697
+    },
+    "mean_across_embeds": 93.07488193587652
+  },
+  {
+    "trial": 37,
+    "words": [
+      "chemiluminescence",
+      "want",
+      "rajab",
+      "ref",
+      "darnel",
+      "inch",
+      "chairwoman",
+      "services",
+      "boxershorts",
+      "feat"
+    ],
+    "scores_per_embed": {
+      "glove": 106.42551609448023,
+      "fasttext": 91.23295187950134,
+      "sbert": 82.15473067192805
+    },
+    "mean_across_embeds": 93.27106621530321
+  },
+  {
+    "trial": 38,
+    "words": [
+      "dialysis",
+      "lagopus",
+      "grab",
+      "plantsman",
+      "rating",
+      "patriarchate",
+      "mit",
+      "hologram",
+      "polypody",
+      "page"
+    ],
+    "scores_per_embed": {
+      "glove": 106.56082942372277,
+      "fasttext": 92.60283197675433,
+      "sbert": 82.83990139052982
+    },
+    "mean_across_embeds": 94.0011875970023
+  },
+  {
+    "trial": 39,
+    "words": [
+      "wesley",
+      "display",
+      "murmurer",
+      "week",
+      "dryas",
+      "polyamide",
+      "feat",
+      "dumps",
+      "subsidiary",
+      "sialis"
+    ],
+    "scores_per_embed": {
+      "glove": 106.19703701564245,
+      "fasttext": 92.18314170837402,
+      "sbert": 84.17062049820309
+    },
+    "mean_across_embeds": 94.18359974073985
+  },
+  {
+    "trial": 40,
+    "words": [
+      "micropenis",
+      "latest",
+      "tetri",
+      "filter",
+      "defeated",
+      "frontlet",
+      "parks",
+      "doi",
+      "intercessor",
+      "shipping"
+    ],
+    "scores_per_embed": {
+      "glove": 107.5133496806735,
+      "fasttext": 95.55471698443095,
+      "sbert": 83.18862404142108
+    },
+    "mean_across_embeds": 95.41889690217518
+  },
+  {
+    "trial": 41,
+    "words": [
+      "perspicaciousness",
+      "group",
+      "colima",
+      "emulator",
+      "carpet",
+      "coauthor",
+      "inch",
+      "drosera",
+      "comment",
+      "patriarchate"
+    ],
+    "scores_per_embed": {
+      "glove": 106.70084754625957,
+      "fasttext": 91.68699820836385,
+      "sbert": 87.98210734412784
+    },
+    "mean_across_embeds": 95.45665103291708
+  },
+  {
+    "trial": 42,
+    "words": [
+      "bicuspid",
+      "net",
+      "teju",
+      "visit",
+      "diagramming",
+      "eds",
+      "watts",
+      "pitchman",
+      "album",
+      "shamefacedness"
+    ],
+    "scores_per_embed": {
+      "glove": 106.75459702809651,
+      "fasttext": 90.94044168790182,
+      "sbert": 83.5874583039965
+    },
+    "mean_across_embeds": 93.76083233999827
+  },
+  {
+    "trial": 43,
+    "words": [
+      "leone",
+      "overall",
+      "bargeman",
+      "permission",
+      "bubblejet",
+      "mit",
+      "homeobox",
+      "latest",
+      "raskolnikov",
+      "mile"
+    ],
+    "scores_per_embed": {
+      "glove": 106.39472461882092,
+      "fasttext": 91.50033082280841,
+      "sbert": 84.12689850443886
+    },
+    "mean_across_embeds": 94.00731798202271
+  },
+  {
+    "trial": 44,
+    "words": [
+      "pharmacologist",
+      "image",
+      "pax",
+      "copperware",
+      "debut",
+      "dba",
+      "overheating",
+      "whipcord",
+      "discussion",
+      "sind"
+    ],
+    "scores_per_embed": {
+      "glove": 106.35692108245122,
+      "fasttext": 90.8678480557033,
+      "sbert": 83.35195978482565
+    },
+    "mean_across_embeds": 93.52557630766006
+  },
+  {
+    "trial": 45,
+    "words": [
+      "trawl",
+      "wellness",
+      "saccharum",
+      "reply",
+      "blowup",
+      "stablemate",
+      "apr",
+      "unconfessed",
+      "director",
+      "watts"
+    ],
+    "scores_per_embed": {
+      "glove": 106.27214738300867,
+      "fasttext": 92.18616315296718,
+      "sbert": 85.17626978102184
+    },
+    "mean_across_embeds": 94.5448601056659
+  },
+  {
+    "trial": 46,
+    "words": [
+      "lector",
+      "range",
+      "epispadias",
+      "defeated",
+      "mit",
+      "feedbag",
+      "click",
+      "nightbird",
+      "clearance",
+      "sitcom"
+    ],
+    "scores_per_embed": {
+      "glove": 107.96318962460472,
+      "fasttext": 92.23011306353978,
+      "sbert": 83.94819015548343
+    },
+    "mean_across_embeds": 94.71383094787598
+  },
+  {
+    "trial": 47,
+    "words": [
+      "blind",
+      "peppiness",
+      "series",
+      "earthnut",
+      "booking",
+      "mcg",
+      "chapeau",
+      "http",
+      "subsidiary",
+      "inch"
+    ],
+    "scores_per_embed": {
+      "glove": 106.10662556829907,
+      "fasttext": 93.77519249916077,
+      "sbert": 83.990725732985
+    },
+    "mean_across_embeds": 94.62418126681496
+  },
+  {
+    "trial": 48,
+    "words": [
+      "cagney",
+      "month",
+      "disambiguation",
+      "inconel",
+      "environment",
+      "polyphone",
+      "inch",
+      "recco",
+      "won",
+      "unrespectability"
+    ],
+    "scores_per_embed": {
+      "glove": 107.02555718876066,
+      "fasttext": 90.8744482199351,
+      "sbert": 84.14154960995629
+    },
+    "mean_across_embeds": 94.01385167288402
+  },
+  {
+    "trial": 49,
+    "words": [
+      "apoptosis",
+      "wellington",
+      "moniker",
+      "dumps",
+      "pood",
+      "click",
+      "nombril",
+      "spoke",
+      "multicollinearity",
+      "sind"
+    ],
+    "scores_per_embed": {
+      "glove": 105.37849551155453,
+      "fasttext": 91.05504910151164,
+      "sbert": 82.17328843616303
+    },
+    "mean_across_embeds": 92.86894434974306
+  },
+  {
+    "trial": 50,
+    "words": [
+      "sauropod",
+      "office",
+      "tartuffe",
+      "feat",
+      "filter",
+      "granth",
+      "shipping",
+      "yellowlegs",
+      "debut",
+      "http"
+    ],
+    "scores_per_embed": {
+      "glove": 106.98858272461665,
+      "fasttext": 94.9295727411906,
+      "sbert": 84.70065962700617
+    },
+    "mean_across_embeds": 95.5396050309378
+  },
+  {
+    "trial": 51,
+    "words": [
+      "grimace",
+      "storage",
+      "encyclical",
+      "dari",
+      "scores",
+      "coreopsis",
+      "exclusive",
+      "charybdis",
+      "spokesman",
+      "cbr"
+    ],
+    "scores_per_embed": {
+      "glove": 106.10763941492354,
+      "fasttext": 94.2393856389182,
+      "sbert": 84.40167421386356
+    },
+    "mean_across_embeds": 94.91623308923509
+  },
+  {
+    "trial": 52,
+    "words": [
+      "vivification",
+      "out",
+      "liturgics",
+      "dba",
+      "feat",
+      "width",
+      "cestrum",
+      "campaign",
+      "nitrocellulose",
+      "price"
+    ],
+    "scores_per_embed": {
+      "glove": 107.06216409092858,
+      "fasttext": 89.36024961017426,
+      "sbert": 85.36460342861358
+    },
+    "mean_across_embeds": 93.92900570990548
+  },
+  {
+    "trial": 53,
+    "words": [
+      "ribaldry",
+      "key",
+      "min",
+      "redbug",
+      "magazine",
+      "cardinalfish",
+      "defeated",
+      "warranty",
+      "epitaxy",
+      "mapquest"
+    ],
+    "scores_per_embed": {
+      "glove": 107.03251730828059,
+      "fasttext": 92.44575926235744,
+      "sbert": 81.63105277788073
+    },
+    "mean_across_embeds": 93.70310978283959
+  },
+  {
+    "trial": 54,
+    "words": [
+      "excommunication",
+      "showcase",
+      "loti",
+      "inch",
+      "dispatcher",
+      "eds",
+      "mouthwash",
+      "sind",
+      "polls",
+      "mastaba"
+    ],
+    "scores_per_embed": {
+      "glove": 106.76815935543604,
+      "fasttext": 93.98098162242344,
+      "sbert": 86.53774516923087
+    },
+    "mean_across_embeds": 95.76229538236346
+  },
+  {
+    "trial": 55,
+    "words": [
+      "viscosity",
+      "haymaker",
+      "sponsor",
+      "eds",
+      "inch",
+      "relistening",
+      "html",
+      "ringleader",
+      "amenities",
+      "peplos"
+    ],
+    "scores_per_embed": {
+      "glove": 106.81968842233931,
+      "fasttext": 91.49716723532903,
+      "sbert": 87.50867786861602
+    },
+    "mean_across_embeds": 95.27517784209478
+  },
+  {
+    "trial": 56,
+    "words": [
+      "gerontologist",
+      "parts",
+      "cyrus",
+      "obolus",
+      "meeting",
+      "tenonitis",
+      "click",
+      "outsole",
+      "chinaberry",
+      "debut"
+    ],
+    "scores_per_embed": {
+      "glove": 106.42718161855424,
+      "fasttext": 93.70241244633992,
+      "sbert": 83.69363915352595
+    },
+    "mean_across_embeds": 94.60774440614004
+  },
+  {
+    "trial": 57,
+    "words": [
+      "azalea",
+      "data",
+      "archimandrite",
+      "sequel",
+      "pillion",
+      "mit",
+      "goal",
+      "creese",
+      "coupon",
+      "tensiometer"
+    ],
+    "scores_per_embed": {
+      "glove": 106.17183503650485,
+      "fasttext": 92.25493243762425,
+      "sbert": 82.49785332452684
+    },
+    "mean_across_embeds": 93.64154026621866
+  },
+  {
+    "trial": 58,
+    "words": [
+      "ligan",
+      "full",
+      "tularemia",
+      "won",
+      "socket",
+      "petronius",
+      "visit",
+      "ssw",
+      "mit",
+      "subtraction"
+    ],
+    "scores_per_embed": {
+      "glove": 106.40597684042794,
+      "fasttext": 92.709881067276,
+      "sbert": 81.56729482469105
+    },
+    "mean_across_embeds": 93.56105091079833
+  },
+  {
+    "trial": 59,
+    "words": [
+      "scouter",
+      "environment",
+      "unq",
+      "album",
+      "armhole",
+      "chairman",
+      "subornation",
+      "coupon",
+      "mit",
+      "encephalitis"
+    ],
+    "scores_per_embed": {
+      "glove": 106.91372979254949,
+      "fasttext": 89.59905420030866,
+      "sbert": 79.55626107397534
+    },
+    "mean_across_embeds": 92.02301502227783
+  },
+  {
+    "trial": 60,
+    "words": [
+      "cling",
+      "cofounder",
+      "total",
+      "pogge",
+      "washerman",
+      "review",
+      "centrex",
+      "mit",
+      "tetrode",
+      "click"
+    ],
+    "scores_per_embed": {
+      "glove": 106.8031214532398,
+      "fasttext": 93.73668460618883,
+      "sbert": 81.60591466086251
+    },
+    "mean_across_embeds": 94.04857357343037
+  },
+  {
+    "trial": 61,
+    "words": [
+      "hope",
+      "redonda",
+      "submenu",
+      "gazella",
+      "hours",
+      "deflator",
+      "founder",
+      "microfiche",
+      "longwool",
+      "review"
+    ],
+    "scores_per_embed": {
+      "glove": 107.10947570346652,
+      "fasttext": 92.57673422495523,
+      "sbert": 85.32709025201343
+    },
+    "mean_across_embeds": 95.0044333934784
+  },
+  {
+    "trial": 62,
+    "words": [
+      "indefatigability",
+      "play",
+      "chamaecyparis",
+      "details",
+      "liter",
+      "washingtonian",
+      "born",
+      "obstruent",
+      "browsing",
+      "thb"
+    ],
+    "scores_per_embed": {
+      "glove": 106.82227639924913,
+      "fasttext": 93.752720952034,
+      "sbert": 85.29239637511117
+    },
+    "mean_across_embeds": 95.28913124213143
+  },
+  {
+    "trial": 63,
+    "words": [
+      "insolvency",
+      "pic",
+      "fieldworker",
+      "polyester",
+      "inaugural",
+      "mips",
+      "solfeggio",
+      "more",
+      "eds",
+      "pepys"
+    ],
+    "scores_per_embed": {
+      "glove": 105.68970129603431,
+      "fasttext": 91.24108155568442,
+      "sbert": 85.0156190849486
+    },
+    "mean_across_embeds": 93.98213397888911
+  },
+  {
+    "trial": 64,
+    "words": [
+      "ligation",
+      "racing",
+      "stoup",
+      "click",
+      "rira",
+      "former",
+      "misconstrual",
+      "mit",
+      "humidity",
+      "radiocommunication"
+    ],
+    "scores_per_embed": {
+      "glove": 106.89986490067982,
+      "fasttext": 92.14415470759074,
+      "sbert": 83.94848335356939
+    },
+    "mean_across_embeds": 94.3308343206133
+  },
+  {
+    "trial": 65,
+    "words": [
+      "clioquinol",
+      "image",
+      "eds",
+      "hours",
+      "kuki",
+      "linebacker",
+      "exclusive",
+      "pepys",
+      "injector",
+      "mit"
+    ],
+    "scores_per_embed": {
+      "glove": 107.17834745134627,
+      "fasttext": 92.52426681064424,
+      "sbert": 81.57191333316621
+    },
+    "mean_across_embeds": 93.75817586505224
+  },
+  {
+    "trial": 66,
+    "words": [
+      "underpayment",
+      "ready",
+      "sheldrake",
+      "http",
+      "kniphofia",
+      "diameter",
+      "former",
+      "ticktock",
+      "microfiche",
+      "duet"
+    ],
+    "scores_per_embed": {
+      "glove": 107.51028401511056,
+      "fasttext": 91.86219800086248,
+      "sbert": 86.4173792657398
+    },
+    "mean_across_embeds": 95.26328709390428
+  },
+  {
+    "trial": 67,
+    "words": [
+      "scab",
+      "edition",
+      "monardella",
+      "executing",
+      "asmara",
+      "visit",
+      "reprehension",
+      "inch",
+      "lgv",
+      "feat"
+    ],
+    "scores_per_embed": {
+      "glove": 106.51529261044092,
+      "fasttext": 93.60624551773071,
+      "sbert": 80.48856769289289
+    },
+    "mean_across_embeds": 93.53670194035483
+  },
+  {
+    "trial": 68,
+    "words": [
+      "kitty",
+      "knowledgeability",
+      "conjunction",
+      "kbit",
+      "view",
+      "putout",
+      "thrace",
+      "bestseller",
+      "mil",
+      "guitarist"
+    ],
+    "scores_per_embed": {
+      "glove": 106.50413235028584,
+      "fasttext": 88.76110996518817,
+      "sbert": 81.92144660722643
+    },
+    "mean_across_embeds": 92.39556297423348
+  },
+  {
+    "trial": 69,
+    "words": [
+      "ascendence",
+      "report",
+      "cartridge",
+      "lunda",
+      "favorite",
+      "mit",
+      "soliton",
+      "mile",
+      "cussedness",
+      "ref"
+    ],
+    "scores_per_embed": {
+      "glove": 107.13278026807875,
+      "fasttext": 91.48874708584377,
+      "sbert": 85.41629484721592
+    },
+    "mean_across_embeds": 94.67927406704615
+  },
+  {
+    "trial": 70,
+    "words": [
+      "paratroops",
+      "topic",
+      "miser",
+      "inch",
+      "apeldoorn",
+      "partnership",
+      "monardella",
+      "rerun",
+      "transcription",
+      "cowhide"
+    ],
+    "scores_per_embed": {
+      "glove": 107.1100550038474,
+      "fasttext": 92.95606076717377,
+      "sbert": 79.06636680875506
+    },
+    "mean_across_embeds": 93.04416085992541
+  },
+  {
+    "trial": 71,
+    "words": [
+      "vanilla",
+      "deviationist",
+      "interview",
+      "isochrone",
+      "price",
+      "disambiguation",
+      "maimed",
+      "ardea",
+      "waterproof",
+      "eds"
+    ],
+    "scores_per_embed": {
+      "glove": 107.11096156211126,
+      "fasttext": 92.10099549520582,
+      "sbert": 84.55211435045514
+    },
+    "mean_across_embeds": 94.58802380259074
+  },
+  {
+    "trial": 72,
+    "words": [
+      "vanishing",
+      "dph",
+      "review",
+      "unrespectability",
+      "won",
+      "troponym",
+      "outsole",
+      "mit",
+      "asyndeton",
+      "data"
+    ],
+    "scores_per_embed": {
+      "glove": 107.27551920073373,
+      "fasttext": 94.15136655171712,
+      "sbert": 83.1447788647243
+    },
+    "mean_across_embeds": 94.85722153905839
+  },
+  {
+    "trial": 73,
+    "words": [
+      "siris",
+      "time",
+      "mit",
+      "demotic",
+      "distributor",
+      "workfellow",
+      "squeaker",
+      "review",
+      "deoxyribose",
+      "acres"
+    ],
+    "scores_per_embed": {
+      "glove": 106.19794385773795,
+      "fasttext": 90.94087719917297,
+      "sbert": 84.1877335593814
+    },
+    "mean_across_embeds": 93.77551820543079
+  },
+  {
+    "trial": 74,
+    "words": [
+      "contravention",
+      "favorite",
+      "bize",
+      "tomography",
+      "price",
+      "bryony",
+      "editor",
+      "psi",
+      "hosta",
+      "defeated"
+    ],
+    "scores_per_embed": {
+      "glove": 106.3416682538532,
+      "fasttext": 91.4367159207662,
+      "sbert": 84.3196505591983
+    },
+    "mean_across_embeds": 94.0326782446059
+  },
+  {
+    "trial": 75,
+    "words": [
+      "persona",
+      "turkistan",
+      "review",
+      "hdl",
+      "ninepins",
+      "hours",
+      "viscountcy",
+      "coupling",
+      "winner",
+      "dba"
+    ],
+    "scores_per_embed": {
+      "glove": 106.55456497555687,
+      "fasttext": 90.91528177261353,
+      "sbert": 85.80954301924932
+    },
+    "mean_across_embeds": 94.42646325580658
+  },
+  {
+    "trial": 76,
+    "words": [
+      "mince",
+      "aviatrix",
+      "programming",
+      "recto",
+      "rating",
+      "hosta",
+      "carjacking",
+      "visit",
+      "mudguard",
+      "eds"
+    ],
+    "scores_per_embed": {
+      "glove": 105.77936314401173,
+      "fasttext": 91.14833190327599,
+      "sbert": 80.81869454610914
+    },
+    "mean_across_embeds": 92.58212986446563
+  },
+  {
+    "trial": 77,
+    "words": [
+      "attila",
+      "close",
+      "kieselguhr",
+      "latest",
+      "ensis",
+      "doi",
+      "inch",
+      "panellist",
+      "services",
+      "abjuration"
+    ],
+    "scores_per_embed": {
+      "glove": 107.24693508375258,
+      "fasttext": 88.88489717528934,
+      "sbert": 79.2358622664497
+    },
+    "mean_across_embeds": 91.78923150849721
+  },
+  {
+    "trial": 78,
+    "words": [
+      "ras",
+      "seller",
+      "sidestroke",
+      "lineup",
+      "geophysicist",
+      "prong",
+      "http",
+      "talkativeness",
+      "years",
+      "castanea"
+    ],
+    "scores_per_embed": {
+      "glove": 105.9428524403345,
+      "fasttext": 91.93874285334633,
+      "sbert": 84.87803283191863
+    },
+    "mean_across_embeds": 94.25320937519983
+  },
+  {
+    "trial": 79,
+    "words": [
+      "bosk",
+      "today",
+      "pleat",
+      "fica",
+      "database",
+      "lancelet",
+      "riding",
+      "kimberlite",
+      "columnist",
+      "ohm"
+    ],
+    "scores_per_embed": {
+      "glove": 106.23937873613268,
+      "fasttext": 89.71042916888283,
+      "sbert": 84.83484131949288
+    },
+    "mean_across_embeds": 93.59488307483612
+  },
+  {
+    "trial": 80,
+    "words": [
+      "thymus",
+      "weekend",
+      "masoud",
+      "subsidiary",
+      "cbr",
+      "item",
+      "proxemics",
+      "lockstitch",
+      "more",
+      "gossipmonger"
+    ],
+    "scores_per_embed": {
+      "glove": 107.53489647592818,
+      "fasttext": 91.54627777281262,
+      "sbert": 84.28819463366554
+    },
+    "mean_across_embeds": 94.45645629413544
+  },
+  {
+    "trial": 81,
+    "words": [
+      "atarax",
+      "hitting",
+      "spleenwort",
+      "review",
+      "photogravure",
+      "unrespectability",
+      "coordinate",
+      "mit",
+      "defeated",
+      "monogamist"
+    ],
+    "scores_per_embed": {
+      "glove": 106.17340547697884,
+      "fasttext": 92.63014623097011,
+      "sbert": 82.70530246552967
+    },
+    "mean_across_embeds": 93.83628472449287
+  },
+  {
+    "trial": 82,
+    "words": [
+      "puma",
+      "stent",
+      "courtesy",
+      "disbeliever",
+      "revising",
+      "malachite",
+      "monardella",
+      "click",
+      "mit",
+      "sitcom"
+    ],
+    "scores_per_embed": {
+      "glove": 106.42915878977095,
+      "fasttext": 92.80267437299092,
+      "sbert": 80.96405778612409
+    },
+    "mean_across_embeds": 93.39863031629532
+  },
+  {
+    "trial": 83,
+    "words": [
+      "remotion",
+      "story",
+      "litre",
+      "dba",
+      "shirtsleeves",
+      "member",
+      "gossipmonger",
+      "shipping",
+      "doi",
+      "playing"
+    ],
+    "scores_per_embed": {
+      "glove": 106.39913905234563,
+      "fasttext": 91.09802359626407,
+      "sbert": 84.35993819009691
+    },
+    "mean_across_embeds": 93.95236694623554
+  },
+  {
+    "trial": 84,
+    "words": [
+      "peafowl",
+      "rating",
+      "keyboardist",
+      "dekagram",
+      "free",
+      "shua",
+      "multiprocessor",
+      "des",
+      "veneer",
+      "mph"
+    ],
+    "scores_per_embed": {
+      "glove": 106.97836989448184,
+      "fasttext": 90.46877878052848,
+      "sbert": 85.79689860343933
+    },
+    "mean_across_embeds": 94.4146824261499
+  },
+  {
+    "trial": 85,
+    "words": [
+      "proventil",
+      "feature",
+      "toona",
+      "president",
+      "motorway",
+      "cbr",
+      "ounce",
+      "xenotime",
+      "blog",
+      "elicitation"
+    ],
+    "scores_per_embed": {
+      "glove": 107.16686447461446,
+      "fasttext": 91.0435037953513,
+      "sbert": 85.2911426907494
+    },
+    "mean_across_embeds": 94.50050365357173
+  },
+  {
+    "trial": 86,
+    "words": [
+      "veronal",
+      "today",
+      "disambiguation",
+      "exhaust",
+      "videodisc",
+      "intrepidity",
+      "guest",
+      "blowup",
+      "wpm",
+      "soy"
+    ],
+    "scores_per_embed": {
+      "glove": 107.12217120897203,
+      "fasttext": 94.68365748723348,
+      "sbert": 87.71156328065055
+    },
+    "mean_across_embeds": 96.50579732561869
+  },
+  {
+    "trial": 87,
+    "words": [
+      "nyse",
+      "perfect",
+      "nombril",
+      "constituency",
+      "aeneas",
+      "release",
+      "mit",
+      "speciousness",
+      "read",
+      "waterdog"
+    ],
+    "scores_per_embed": {
+      "glove": 106.07608868962242,
+      "fasttext": 94.21587526798248,
+      "sbert": 83.82554196176075
+    },
+    "mean_across_embeds": 94.70583530645523
+  },
+  {
+    "trial": 88,
+    "words": [
+      "layup",
+      "thailand",
+      "dekagram",
+      "publisher",
+      "affright",
+      "resolution",
+      "castanea",
+      "category",
+      "bassist",
+      "ouse"
+    ],
+    "scores_per_embed": {
+      "glove": 105.72364472207569,
+      "fasttext": 88.7767913795653,
+      "sbert": 82.47935374577841
+    },
+    "mean_across_embeds": 92.32659661580647
+  },
+  {
+    "trial": 89,
+    "words": [
+      "stomatitis",
+      "set",
+      "javan",
+      "sur",
+      "cosmologist",
+      "payroll",
+      "filter",
+      "tlingit",
+      "debut",
+      "tetrachloromethane"
+    ],
+    "scores_per_embed": {
+      "glove": 106.34991696902685,
+      "fasttext": 90.97908054079328,
+      "sbert": 83.23461782364619
+    },
+    "mean_across_embeds": 93.52120511115544
+  },
+  {
+    "trial": 90,
+    "words": [
+      "pedal",
+      "tanager",
+      "awarding",
+      "http",
+      "hexahedron",
+      "market",
+      "signora",
+      "mit",
+      "radiocarbon",
+      "episode"
+    ],
+    "scores_per_embed": {
+      "glove": 106.32254963829403,
+      "fasttext": 92.0078144187019,
+      "sbert": 82.87901055245173
+    },
+    "mean_across_embeds": 93.73645820314921
+  },
+  {
+    "trial": 91,
+    "words": [
+      "rbc",
+      "doubt",
+      "bonesetter",
+      "mit",
+      "microfiche",
+      "area",
+      "ribes",
+      "debut",
+      "eln",
+      "thread"
+    ],
+    "scores_per_embed": {
+      "glove": 106.41521726335799,
+      "fasttext": 88.44544688860574,
+      "sbert": 81.31517881438846
+    },
+    "mean_across_embeds": 92.0586143221174
+  },
+  {
+    "trial": 92,
+    "words": [
+      "individuation",
+      "news",
+      "quandong",
+      "inch",
+      "antiarrhythmic",
+      "coauthor",
+      "parking",
+      "forseti",
+      "click",
+      "gitano"
+    ],
+    "scores_per_embed": {
+      "glove": 106.9898511682238,
+      "fasttext": 93.60138802301317,
+      "sbert": 85.86514393488565
+    },
+    "mean_across_embeds": 95.48546104204088
+  },
+  {
+    "trial": 93,
+    "words": [
+      "vendetta",
+      "compressibility",
+      "newsletter",
+      "seats",
+      "syringa",
+      "born",
+      "antiphon",
+      "min",
+      "biodefense",
+      "acrobat"
+    ],
+    "scores_per_embed": {
+      "glove": 106.09212631271,
+      "fasttext": 92.19585685502916,
+      "sbert": 85.08380566324506
+    },
+    "mean_across_embeds": 94.4572629436614
+  },
+  {
+    "trial": 94,
+    "words": [
+      "approximation",
+      "pflp",
+      "home",
+      "grus",
+      "item",
+      "cbr",
+      "saxitoxin",
+      "director",
+      "shamefacedness",
+      "inch"
+    ],
+    "scores_per_embed": {
+      "glove": 106.11123329117184,
+      "fasttext": 90.00512599945068,
+      "sbert": 85.9195868174235
+    },
+    "mean_across_embeds": 94.01198203601534
+  },
+  {
+    "trial": 95,
+    "words": [
+      "inebriant",
+      "news",
+      "inch",
+      "kib",
+      "performing",
+      "eds",
+      "nucleoplasm",
+      "won",
+      "monogamist",
+      "page"
+    ],
+    "scores_per_embed": {
+      "glove": 108.15593912487938,
+      "fasttext": 92.8915091923305,
+      "sbert": 82.50189451944262
+    },
+    "mean_across_embeds": 94.5164476122175
+  },
+  {
+    "trial": 96,
+    "words": [
+      "smooth",
+      "mazer",
+      "census",
+      "mit",
+      "pompousness",
+      "month",
+      "corditis",
+      "click",
+      "nightbird",
+      "former"
+    ],
+    "scores_per_embed": {
+      "glove": 107.57127460979281,
+      "fasttext": 92.27619687716167,
+      "sbert": 85.98254067557198
+    },
+    "mean_across_embeds": 95.27667072084216
+  },
+  {
+    "trial": 97,
+    "words": [
+      "capricorn",
+      "courtesy",
+      "wadding",
+      "implement",
+      "ribes",
+      "episode",
+      "esthete",
+      "inch",
+      "subsidiary",
+      "jammer"
+    ],
+    "scores_per_embed": {
+      "glove": 106.48699033828008,
+      "fasttext": 93.1534923258282,
+      "sbert": 80.12364790553139
+    },
+    "mean_across_embeds": 93.25471018987987
+  },
+  {
+    "trial": 98,
+    "words": [
+      "flashlight",
+      "academism",
+      "recent",
+      "geb",
+      "click",
+      "trousering",
+      "min",
+      "gossipmonger",
+      "partnership",
+      "alnico"
+    ],
+    "scores_per_embed": {
+      "glove": 106.14938083149137,
+      "fasttext": 92.37154041017804,
+      "sbert": 80.49819469451904
+    },
+    "mean_across_embeds": 93.00637197872948
+  },
+  {
+    "trial": 99,
+    "words": [
+      "verst",
+      "check",
+      "palaeoecology",
+      "won",
+      "vibraphone",
+      "view",
+      "monardella",
+      "ene",
+      "inch",
+      "founder"
+    ],
+    "scores_per_embed": {
+      "glove": 107.13172867184593,
+      "fasttext": 90.07260958353679,
+      "sbert": 84.18016575631641
+    },
+    "mean_across_embeds": 93.79483467056637
+  },
+  {
+    "trial": 100,
+    "words": [
+      "rozelle",
+      "here",
+      "telemeter",
+      "annual",
+      "compositor",
+      "unrespectability",
+      "inch",
+      "matchmaking",
+      "schwa",
+      "doi"
+    ],
+    "scores_per_embed": {
+      "glove": 107.43687010946728,
+      "fasttext": 92.33970755622501,
+      "sbert": 86.57368166106087
+    },
+    "mean_across_embeds": 95.45008644225106
+  },
+  {
+    "trial": 101,
+    "words": [
+      "excitant",
+      "out",
+      "eln",
+      "category",
+      "chinaberry",
+      "mit",
+      "officiating",
+      "outsole",
+      "schematic",
+      "million"
+    ],
+    "scores_per_embed": {
+      "glove": 107.12257084392367,
+      "fasttext": 92.12746898333232,
+      "sbert": 81.64139219692775
+    },
+    "mean_across_embeds": 93.63047734139458
+  },
+  {
+    "trial": 102,
+    "words": [
+      "implant",
+      "fandango",
+      "executive",
+      "sind",
+      "workfellow",
+      "item",
+      "aristophanes",
+      "rpm",
+      "defeated",
+      "birchbark"
+    ],
+    "scores_per_embed": {
+      "glove": 106.88374979155404,
+      "fasttext": 92.85768926143646,
+      "sbert": 85.69037034398033
+    },
+    "mean_across_embeds": 95.14393646565695
+  },
+  {
+    "trial": 103,
+    "words": [
+      "melchior",
+      "out",
+      "conjugation",
+      "seriocomedy",
+      "sale",
+      "unrespectability",
+      "won",
+      "extern",
+      "volution",
+      "click"
+    ],
+    "scores_per_embed": {
+      "glove": 106.63005851563953,
+      "fasttext": 89.78100475810822,
+      "sbert": 82.82735205831982
+    },
+    "mean_across_embeds": 93.07947177735586
+  },
+  {
+    "trial": 104,
+    "words": [
+      "primitive",
+      "nopalea",
+      "won",
+      "poplin",
+      "microfiche",
+      "min",
+      "judiciousness",
+      "partnership",
+      "disambiguation",
+      "snoring"
+    ],
+    "scores_per_embed": {
+      "glove": 106.95248927388872,
+      "fasttext": 93.10100634892781,
+      "sbert": 82.39523938723973
+    },
+    "mean_across_embeds": 94.14957833668541
+  },
+  {
+    "trial": 105,
+    "words": [
+      "dyke",
+      "item",
+      "paratyphoid",
+      "director",
+      "kbit",
+      "vulvectomy",
+      "light",
+      "sind",
+      "coaching",
+      "asio"
+    ],
+    "scores_per_embed": {
+      "glove": 106.34020169576009,
+      "fasttext": 90.91674316497075,
+      "sbert": 81.8241834640503
+    },
+    "mean_across_embeds": 93.02704277492705
+  },
+  {
+    "trial": 106,
+    "words": [
+      "mayweed",
+      "match",
+      "magazine",
+      "taoiseach",
+      "overburden",
+      "felucca",
+      "review",
+      "kph",
+      "auricula",
+      "code"
+    ],
+    "scores_per_embed": {
+      "glove": 106.62968811534701,
+      "fasttext": 91.9758365267799,
+      "sbert": 80.89312314987183
+    },
+    "mean_across_embeds": 93.16621593066624
+  },
+  {
+    "trial": 107,
+    "words": [
+      "bookworm",
+      "operations",
+      "signior",
+      "album",
+      "thb",
+      "hurling",
+      "link",
+      "carthamus",
+      "reactance",
+      "inch"
+    ],
+    "scores_per_embed": {
+      "glove": 106.71564113526118,
+      "fasttext": 92.54208150364104,
+      "sbert": 81.92546396028429
+    },
+    "mean_across_embeds": 93.72772886639551
+  },
+  {
+    "trial": 108,
+    "words": [
+      "accelerometer",
+      "nombril",
+      "who",
+      "chungking",
+      "edition",
+      "cleanup",
+      "castanea",
+      "min",
+      "hosta",
+      "partnership"
+    ],
+    "scores_per_embed": {
+      "glove": 107.19464449655443,
+      "fasttext": 94.33372914791107,
+      "sbert": 85.61563520204454
+    },
+    "mean_across_embeds": 95.71466961550334
+  },
+  {
+    "trial": 109,
+    "words": [
+      "mercator",
+      "attention",
+      "thb",
+      "solenoid",
+      "compilation",
+      "langtry",
+      "visit",
+      "monardella",
+      "mit",
+      "novelisation"
+    ],
+    "scores_per_embed": {
+      "glove": 106.28509294419062,
+      "fasttext": 89.36269992873783,
+      "sbert": 82.9257017090207
+    },
+    "mean_across_embeds": 92.85783152731638
+  },
+  {
+    "trial": 110,
+    "words": [
+      "nerve",
+      "kib",
+      "winner",
+      "chinaware",
+      "inch",
+      "polypody",
+      "comment",
+      "superintendence",
+      "mit",
+      "smallholder"
+    ],
+    "scores_per_embed": {
+      "glove": 107.12128962789262,
+      "fasttext": 87.67649957111904,
+      "sbert": 81.51800206729344
+    },
+    "mean_across_embeds": 92.10526375543503
+  },
+  {
+    "trial": 111,
+    "words": [
+      "josephus",
+      "move",
+      "dosimeter",
+      "mit",
+      "provincial",
+      "smoothhound",
+      "page",
+      "blowup",
+      "lycopersicum",
+      "cushioning"
+    ],
+    "scores_per_embed": {
+      "glove": 105.97467990148634,
+      "fasttext": 90.62493982769195,
+      "sbert": 86.13422087260655
+    },
+    "mean_across_embeds": 94.24461353392827
+  },
+  {
+    "trial": 112,
+    "words": [
+      "confit",
+      "organization",
+      "nebe",
+      "latest",
+      "diazoxide",
+      "fps",
+      "softback",
+      "defeated",
+      "coupon",
+      "dunghill"
+    ],
+    "scores_per_embed": {
+      "glove": 106.57952626546223,
+      "fasttext": 90.13493259747824,
+      "sbert": 86.70259118080139
+    },
+    "mean_across_embeds": 94.47235001458063
+  },
+  {
+    "trial": 113,
+    "words": [
+      "eleven",
+      "schmoozer",
+      "info",
+      "simoon",
+      "eds",
+      "electrode",
+      "cussedness",
+      "return",
+      "ghz",
+      "feat"
+    ],
+    "scores_per_embed": {
+      "glove": 106.79912680671329,
+      "fasttext": 91.34155829747517,
+      "sbert": 80.93474592481341
+    },
+    "mean_across_embeds": 93.02514367633397
+  },
+  {
+    "trial": 114,
+    "words": [
+      "chickadee",
+      "als",
+      "prior",
+      "sheeny",
+      "rating",
+      "cheops",
+      "talks",
+      "teaspoon",
+      "microfiche",
+      "vidua"
+    ],
+    "scores_per_embed": {
+      "glove": 106.09765762374515,
+      "fasttext": 93.98696303367615,
+      "sbert": 82.57394574937366
+    },
+    "mean_across_embeds": 94.21952213559831
+  },
+  {
+    "trial": 115,
+    "words": [
+      "organist",
+      "html",
+      "chamaecyparis",
+      "market",
+      "raskolnikov",
+      "airing",
+      "diameter",
+      "eds",
+      "intrepidity",
+      "defeated"
+    ],
+    "scores_per_embed": {
+      "glove": 107.0344538915725,
+      "fasttext": 92.89403080940247,
+      "sbert": 85.08198119345165
+    },
+    "mean_across_embeds": 95.00348863147553
+  },
+  {
+    "trial": 116,
+    "words": [
+      "defacement",
+      "meet",
+      "hazlitt",
+      "inch",
+      "doi",
+      "carminative",
+      "spokesperson",
+      "bootstrap",
+      "album",
+      "mysis"
+    ],
+    "scores_per_embed": {
+      "glove": 106.75826782271976,
+      "fasttext": 94.41547234853108,
+      "sbert": 83.28790551140195
+    },
+    "mean_across_embeds": 94.82054856088426
+  },
+  {
+    "trial": 117,
+    "words": [
+      "calyptra",
+      "place",
+      "noemi",
+      "stock",
+      "crystallography",
+      "mit",
+      "campaign",
+      "ngb",
+      "doorman",
+      "disambiguation"
+    ],
+    "scores_per_embed": {
+      "glove": 107.16014390900021,
+      "fasttext": 91.12009207407633,
+      "sbert": 85.81548645382836
+    },
+    "mean_across_embeds": 94.69857414563496
+  },
+  {
+    "trial": 118,
+    "words": [
+      "guru",
+      "sorrowfulness",
+      "page",
+      "lansat",
+      "won",
+      "hydrocarbon",
+      "aristophanes",
+      "inch",
+      "disjunction",
+      "visit"
+    ],
+    "scores_per_embed": {
+      "glove": 107.39658957435971,
+      "fasttext": 91.82231028874716,
+      "sbert": 85.78482327007112
+    },
+    "mean_across_embeds": 95.00124104439266
+  },
+  {
+    "trial": 119,
+    "words": [
+      "humaneness",
+      "date",
+      "whitecap",
+      "front",
+      "castries",
+      "category",
+      "cuprite",
+      "min",
+      "founder",
+      "aditi"
+    ],
+    "scores_per_embed": {
+      "glove": 106.46327279862903,
+      "fasttext": 92.53391702969869,
+      "sbert": 79.36590739658901
+    },
+    "mean_across_embeds": 92.78769907497224
+  }
+]

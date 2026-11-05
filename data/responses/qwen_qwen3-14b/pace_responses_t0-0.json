@@ -1,0 +1,1914 @@
+{
+  "rock": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "cloud": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "dust": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "rainbow": {
+    "stage1_raw": "{\"results\": [{\"word\": \"prism\", \"reason\": \"A prism refracts light into the colors of a rainbow.\"}, {\"word\": \"spectrum\", \"reason\": \"A rainbow represents the visible spectrum of light.\"}, {\"word\": \"arc\", \"reason\": \"A rainbow is naturally shaped like an arc.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "prism",
+        "reason": "A prism refracts light into the colors of a rainbow."
+      },
+      {
+        "word": "spectrum",
+        "reason": "A rainbow represents the visible spectrum of light."
+      },
+      {
+        "word": "arc",
+        "reason": "A rainbow is naturally shaped like an arc."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "prism",
+          "reason": "A prism refracts light into the colors of a rainbow."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"prism\", \"reason\": \"A prism refracts light into the colors of a rainbow.\"},\n    {\"word\": \"light\", \"reason\": \"A prism works by splitting light into a spectrum.\"},\n    {\"word\": \"spectrum\", \"reason\": \"Light passing through a prism creates a visible spectrum.\"},\n    {\"word\": \"color\", \"reason\": \"A spectrum consists of multiple distinct colors.\"},\n    {\"word\": \"paint\", \"reason\": \"Colors in a spectrum can be mixed using paint.\"},\n    {\"word\": \"brush\", \"reason\": \"Paint is applied to surfaces using a brush.\"},\n    {\"word\": \"stroke\", \"reason\": \"A brush creates strokes when painting.\"},\n    {\"word\": \"line\", \"reason\": \"A stroke can form a continuous line.\"},\n    {\"word\": \"shape\", \"reason\": \"Lines can be combined to create shapes.\"},\n    {\"word\": \"form\", \"reason\": \"Shapes contribute to the overall form of an object.\"},\n    {\"word\": \"structure\", \"reason\": \"Form is essential in defining the structure of something.\"},\n    {\"word\": \"building\", \"reason\": \"A structure can be a physical building.\"},\n    {\"word\": \"roof\", \"reason\": \"A building has a roof as part of its structure.\"},\n    {\"word\": \"tile\", \"reason\": \"Roofs can be covered with tiles.\"},\n    {\"word\": \"floor\", \"reason\": \"Tiles are also commonly used on floors.\"},\n    {\"word\": \"wall\", \"reason\": \"Floors and walls are both components of a building.\"},\n    {\"word\": \"brick\", \"reason\": \"Walls can be constructed using bricks.\"},\n    {\"word\": \"masonry\", \"reason\": \"Bricks are a material used in masonry work.\"},\n    {\"word\": \"stone\", \"reason\": \"Masonry often involves working with stone.\"},\n    {\"word\": \"rock\", \"reason\": \"Stone is a natural form of rock.\"}\n  ]\n}",
+        "chain": [
+          "rainbow",
+          "prism",
+          "prism",
+          "light",
+          "spectrum",
+          "color",
+          "paint",
+          "brush",
+          "stroke",
+          "line",
+          "shape",
+          "form",
+          "structure",
+          "building",
+          "roof",
+          "tile",
+          "floor",
+          "wall",
+          "brick",
+          "masonry"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "spectrum",
+          "reason": "A rainbow represents the visible spectrum of light."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"spectrum\", \"reason\": \"A rainbow represents the visible spectrum of light.\"},\n    {\"word\": \"light\", \"reason\": \"The spectrum is a range of light wavelengths.\"},\n    {\"word\": \"color\", \"reason\": \"Light is composed of different colors in the spectrum.\"},\n    {\"word\": \"paint\", \"reason\": \"Colors are used to create paint mixtures.\"},\n    {\"word\": \"brush\", \"reason\": \"Paint is applied using a brush.\"},\n    {\"word\": \"stroke\", \"reason\": \"A brush creates a stroke of paint.\"},\n    {\"word\": \"line\", \"reason\": \"A stroke can form a line.\"},\n    {\"word\": \"shape\", \"reason\": \"Lines can be used to create shapes.\"},\n    {\"word\": \"form\", \"reason\": \"A shape can be described as a form.\"},\n    {\"word\": \"structure\", \"reason\": \"A form can be part of a structure.\"},\n    {\"word\": \"building\", \"reason\": \"A structure can be a building.\"},\n    {\"word\": \"roof\", \"reason\": \"A building has a roof.\"},\n    {\"word\": \"tile\", \"reason\": \"Roofs can be covered with tiles.\"},\n    {\"word\": \"floor\", \"reason\": \"Tiles are also used on floors.\"},\n    {\"word\": \"wall\", \"reason\": \"Floors and walls are parts of a building.\"},\n    {\"word\": \"brick\", \"reason\": \"Walls can be made of bricks.\"},\n    {\"word\": \"masonry\", \"reason\": \"Bricks are a type of masonry material.\"},\n    {\"word\": \"stone\", \"reason\": \"Masonry often involves working with stone.\"},\n    {\"word\": \"rock\", \"reason\": \"Stone is a type of rock.\"},\n    {\"word\": \"mountain\", \"reason\": \"Rocks can form mountains.\"}\n  ]\n}",
+        "chain": [
+          "rainbow",
+          "spectrum",
+          "spectrum",
+          "light",
+          "color",
+          "paint",
+          "brush",
+          "stroke",
+          "line",
+          "shape",
+          "form",
+          "structure",
+          "building",
+          "roof",
+          "tile",
+          "floor",
+          "wall",
+          "brick",
+          "masonry",
+          "stone"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "arc",
+          "reason": "A rainbow is naturally shaped like an arc."
+        },
+        "raw_response": null,
+        "chain": [
+          "rainbow",
+          "arc"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "volcano": {
+    "stage1_raw": "{\"results\": [{\"word\": \"lava\", \"reason\": \"Lava is molten rock expelled by a volcano during an eruption.\"}, {\"word\": \"ash\", \"reason\": \"Volcanic ash is a fine, powdery material ejected during a volcanic eruption.\"}, {\"word\": \"magma\", \"reason\": \"Magma is the molten rock beneath the Earth's surface that can erupt as lava from a volcano.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "lava",
+        "reason": "Lava is molten rock expelled by a volcano during an eruption."
+      },
+      {
+        "word": "ash",
+        "reason": "Volcanic ash is a fine, powdery material ejected during a volcanic eruption."
+      },
+      {
+        "word": "magma",
+        "reason": "Magma is the molten rock beneath the Earth's surface that can erupt as lava from a volcano."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "lava",
+          "reason": "Lava is molten rock expelled by a volcano during an eruption."
+        },
+        "raw_response": null,
+        "chain": [
+          "volcano",
+          "lava"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "ash",
+          "reason": "Volcanic ash is a fine, powdery material ejected during a volcanic eruption."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"volcano\", \"reason\": \"A volcano is a geological feature that can erupt, producing ash.\"},\n    {\"word\": \"ash\", \"reason\": \"Volcanic ash is a fine, powdery material ejected during a volcanic eruption.\"},\n    {\"word\": \"fire\", \"reason\": \"Volcanic eruptions involve intense heat and fire, which can produce ash.\"},\n    {\"word\": \"heat\", \"reason\": \"Fire generates heat, which is a direct byproduct of combustion or volcanic activity.\"},\n    {\"word\": \"energy\", \"reason\": \"Heat is a form of energy, often released through natural processes like fire.\"},\n    {\"word\": \"power\", \"reason\": \"Energy can be harnessed into power, such as through thermal energy conversion.\"},\n    {\"word\": \"machine\", \"reason\": \"Power is used to operate machines, which rely on energy sources.\"},\n    {\"word\": \"tool\", \"reason\": \"Machines often incorporate tools to perform specific tasks efficiently.\"},\n    {\"word\": \"work\", \"reason\": \"Tools are used to accomplish work, which requires physical or mental effort.\"},\n    {\"word\": \"effort\", \"reason\": \"Work typically demands effort, whether physical or intellectual.\"},\n    {\"word\": \"struggle\", \"reason",
+        "chain": [
+          "volcano",
+          "ash"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "magma",
+          "reason": "Magma is the molten rock beneath the Earth's surface that can erupt as lava from a volcano."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"magma\", \"reason\": \"Magma is the molten rock beneath the Earth's surface that can erupt as lava from a volcano.\"},\n    {\"word\": \"lava\", \"reason\": \"Lava is the molten rock expelled by a volcano during an eruption, originating from magma.\"},\n    {\"word\": \"basalt\", \"reason\": \"Basalt is a type of igneous rock formed when lava cools and solidifies.\"},\n    {\"word\": \"crust\", \"reason\": \"Basalt is a major component of the Earth's oceanic crust.\"},\n    {\"word\": \"tectonic\", \"reason\": \"Tectonic plates move and interact, causing the formation of basaltic crust.\"},\n    {\"word\": \"earthquake\", \"reason\": \"Tectonic plate movement can generate seismic activity like earthquakes.\"},\n    {\"word\": \"tsunami\", \"reason\": \"Underwater earthquakes can trigger massive ocean waves called tsunamis.\"},\n    {\"word\": \"ocean\", \"reason\": \"Tsunamis travel across vast oceanic areas before reaching coastal regions.\"},\n    {\"word\": \"coast\", \"reason\": \"Tsunamis impact coastlines, altering their geography and ecosystems.\"},\n    {\"word\": \"erosion\", \"reason\": \"Coastal areas experience erosion from wave action and weathering.\"},\n    {\"word\": \"sediment\", \"reason\": \"Erosion breaks down rock and soil into sediment particles.\"},\n    {\"word\": \"soil\", \"reason\": \"Sediment accumulates over time to form",
+        "chain": [
+          "volcano",
+          "magma"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "mother": {
+    "stage1_raw": "{\"results\": [{\"word\": \"nurse\", \"reason\": \"A nurse provides care and support, similar to a mother's role in nurturing and tending to a child.\"}, {\"word\": \"cradle\", \"reason\": \"A cradle is a small bed for an infant, often associated with a mother's care and the early stages of a child's life.\"}, {\"word\": \"lullaby\", \"reason\": \"A lullaby is a song sung to soothe a child to sleep, a common practice by mothers to comfort their infants.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "nurse",
+        "reason": "A nurse provides care and support, similar to a mother's role in nurturing and tending to a child."
+      },
+      {
+        "word": "cradle",
+        "reason": "A cradle is a small bed for an infant, often associated with a mother's care and the early stages of a child's life."
+      },
+      {
+        "word": "lullaby",
+        "reason": "A lullaby is a song sung to soothe a child to sleep, a common practice by mothers to comfort their infants."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "nurse",
+          "reason": "A nurse provides care and support, similar to a mother's role in nurturing and tending to a child."
+        },
+        "raw_response": null,
+        "chain": [
+          "mother",
+          "nurse"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "cradle",
+          "reason": "A cradle is a small bed for an infant, often associated with a mother's care and the early stages of a child's life."
+        },
+        "raw_response": null,
+        "chain": [
+          "mother",
+          "cradle"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "lullaby",
+          "reason": "A lullaby is a song sung to soothe a child to sleep, a common practice by mothers to comfort their infants."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\n      \"word\": \"lullaby\",\n      \"reason\": \"A lullaby is a song sung to soothe a child to sleep, a common practice by mothers to comfort their infants.\"\n    },\n    {\n      \"word\": \"song\",\n      \"reason\": \"A lullaby is a type of song, specifically designed to calm and lull a child to sleep.\"\n    },\n    {\n      \"word\": \"music\",\n      \"reason\": \"A song is a form of music, which is an art form that uses sound and rhythm.\"\n    },\n    {\n      \"word\": \"rhythm\",\n      \"reason\": \"Music often incorporates rhythm, which is the pattern of beats and timing in a piece of music.\"\n    },\n    {\n      \"word\": \"beat\",\n      \"reason\": \"Rhythm is composed of beats, which are the basic units of time in music.\"\n    },\n    {\n      \"word\": \"drum\",\n      \"reason\": \"A beat can be produced by a drum, a percussion instrument used to create rhythmic patterns.\"\n    },\n    {\n      \"word\": \"sound\",\n      \"reason\": \"A drum produces sound, which is a vibration that travels through the air and is heard by the ear.\"\n    },\n    {\n      \"word\": \"echo\",\n      \"reason\": \"Sound can create an echo, which is a repetition of sound caused by reflection off surfaces.\"\n    },\n    {\n      \"word\": \"reverberation\",\n      \"reason\": \"An echo is a form of reverberation, which is the persistence of sound after the source has stopped.\"\n    },\n    {\n      \"word\": \"room\",\n      \"reason\": \"Reverberation is often noticeable in a room, where sound waves bounce off walls and objects.\"\n    },\n    {\n      \"word\": \"house\",\n      \"reason\": \"A room is a part of a house, which",
+        "chain": [
+          "mother",
+          "lullaby"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "child": {
+    "stage1_raw": "{\"results\": [{\"word\": \"minor\", \"reason\": \"A child is legally defined as a minor, someone under the age of majority.\"}, {\"word\": \"play\", \"reason\": \"Children are often associated with playing, a primary activity during childhood.\"}, {\"word\": \"nursery\", \"reason\": \"A nursery is a place where young children are cared for, often associated with early childhood development.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "minor",
+        "reason": "A child is legally defined as a minor, someone under the age of majority."
+      },
+      {
+        "word": "play",
+        "reason": "Children are often associated with playing, a primary activity during childhood."
+      },
+      {
+        "word": "nursery",
+        "reason": "A nursery is a place where young children are cared for, often associated with early childhood development."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "minor",
+          "reason": "A child is legally defined as a minor, someone under the age of majority."
+        },
+        "raw_response": null,
+        "chain": [
+          "child",
+          "minor"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "play",
+          "reason": "Children are often associated with playing, a primary activity during childhood."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"play\", \"reason\": \"Children are often associated with playing, a primary activity during childhood.\"},\n    {\"word\": \"game\", \"reason\": \"Play often involves games, which are structured forms of entertainment.\"},\n    {\"word\": \"ball\", \"reason\": \"Games like soccer or basketball commonly involve a ball.\"},\n    {\"word\": \"kick\", \"reason\": \"A ball can be kicked, a common action in many sports.\"},\n    {\"word\": \"foot\", \"reason\": \"Kicking involves the use of the foot.\"},\n    {\"word\": \"run\", \"reason\": \"Running is a physical activity often associated with using one's feet.\"},\n    {\"word\": \"sprint\", \"reason\": \"A sprint is a short, fast run, a type of running.\"},\n    {\"word\": \"race\", \"reason\": \"Sprints are often part of races, competitive events involving speed.\"},\n    {\"word\": \"track\", \"reason\": \"Races, especially sprints, are typically held on a track.\"},\n    {\"word\": \"athletic\", \"reason\": \"Tracks are associated with athletic activities and competitions.\"},\n    {\"word\": \"sport\", \"reason\": \"Athleticism is a key component of most sports.\"},\n    {\"word\": \"team\", \"reason\": \"Many sports are played in teams, requiring collaboration.\"},\n    {\"word\": \"coach\", \"reason\": \"Teams are often guided by a coach who provides instruction and strategy.\"},\n    {\"word\": \"training\", \"reason\": \"Coaches focus on training athletes to improve their performance.\"},\n    {\"word\": \"practice\", \"reason\": \"Training often involves regular practice sessions to refine skills.\"},\n    {\"word\": \"improve\", \"reason\": \"The goal of practice is to improve one's abilities or performance.\"},\n    {\"word\": \"skill\", \"reason\": \"Improvement in any activity typically involves developing specific skills.\"},\n    {\"word\": \"talent\", \"reason\": \"Skill development can lead to the recognition of natural talent.\"},\n    {\"word\": \"gift\", \"reason\": \"Talent is often viewed as a gift or innate ability.\"},\n    {\"word\": \"present\", \"reason\": \"A gift is something given, often in the present tense or as a current offering.\"}\n  ]\n}",
+        "chain": [
+          "child",
+          "play",
+          "play",
+          "game",
+          "ball",
+          "kick",
+          "foot",
+          "run",
+          "sprint",
+          "race",
+          "track",
+          "athletic",
+          "sport",
+          "team",
+          "coach",
+          "training",
+          "practice",
+          "improve",
+          "skill",
+          "talent"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "nursery",
+          "reason": "A nursery is a place where young children are cared for, often associated with early childhood development."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"nursery\", \"reason\": \"A nursery is a place where young children are cared for, often associated with early childhood development.\"}, {\"word\": \"nursery rhyme\", \"reason\": \"Nursery rhymes are traditional poems or songs for children, commonly associated with nurseries.\"}, {\"word\": \"rhyme\", \"reason\": \"Nursery rhymes are based on rhyming words and patterns.\"}, {\"word\": \"poem\", \"reason\": \"Rhymes are a fundamental element of poems.\"}, {\"word\": \"literature\", \"reason\": \"Poems are a form of written literature.\"}, {\"word\": \"book\", \"reason\": \"Literature is often contained within books.\"}, {\"word\": \"page\", \"reason\": \"Books are composed of pages.\"}, {\"word\": \"text\", \"reason\": \"Pages contain written text.\"}, {\"word\": \"story\", \"reason\": \"Text can convey a story.\"}, {\"word\": \"character\", \"reason\": \"Stories often feature characters.\"}, {\"word\": \"fiction\", \"reason\": \"Characters are commonly found in fictional narratives.\"}, {\"word\": \"novel\", \"reason\": \"Fiction can be presented in the form of a novel.\"}, {\"word\": \"chapter\", \"reason\": \"Novels are divided into chapters.\"}, {\"word\": \"paragraph\", \"reason\": \"Chapters are composed of paragraphs.\"}, {\"word\": \"sentence\", \"reason\": \"Paragraphs contain sentences.\"}, {\"word\": \"word\", \"reason\": \"Sentences are built from individual words.\"}, {\"word\": \"language\", \"reason\": \"Words are the building blocks of language.\"}, {\"word\": \"speech\", \"reason\": \"Language is used in spoken speech.\"}, {\"word\": \"voice\", \"reason\": \"Speech is produced through the human voice.\"}, {\"word\": \"sound\", \"reason\": \"Voice generates sound waves.\"}]}",
+        "chain": [
+          "child",
+          "nursery",
+          "nursery",
+          "nursery rhyme",
+          "rhyme",
+          "poem",
+          "literature",
+          "book",
+          "page",
+          "text",
+          "story",
+          "character",
+          "fiction",
+          "novel",
+          "chapter",
+          "paragraph",
+          "sentence",
+          "word",
+          "language",
+          "speech"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "widow": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "brother": {
+    "stage1_raw": "{\"results\": [{\"word\": \"sibling\", \"reason\": \"A brother is a type of sibling, specifically a male sibling.\"}, {\"word\": \"kin\", \"reason\": \"Kin refers to family members, including brothers.\"}, {\"word\": \"male\", \"reason\": \"A brother is inherently a male individual.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "sibling",
+        "reason": "A brother is a type of sibling, specifically a male sibling."
+      },
+      {
+        "word": "kin",
+        "reason": "Kin refers to family members, including brothers."
+      },
+      {
+        "word": "male",
+        "reason": "A brother is inherently a male individual."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "sibling",
+          "reason": "A brother is a type of sibling, specifically a male sibling."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"sibling\", \"reason\": \"A brother is a type of sibling, specifically a male sibling.\"},\n    {\"word\": \"family\", \"reason\": \"Siblings are members of a family unit.\"},\n    {\"word\": \"household\", \"reason\": \"A family typically resides in a household.\"},\n    {\"word\": \"residence\", \"reason\": \"A household is located in a residence.\"},\n    {\"word\": \"location\", \"reason\": \"A residence has a specific geographic location.\"},\n    {\"word\": \"place\", \"reason\": \"A location can be described as a place.\"},\n    {\"word\": \"area\", \"reason\": \"A place can be divided into smaller areas.\"},\n    {\"word\": \"region\", \"reason\": \"An area can be grouped into a larger region.\"},\n    {\"word\": \"territory\", \"reason\": \"A region may be considered a territory under control.\"},\n    {\"word\": \"land\", \"reason\": \"A territory is often associated with land.\"},\n    {\"word\": \"earth\", \"reason\": \"",
+        "chain": [
+          "brother",
+          "sibling"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "kin",
+          "reason": "Kin refers to family members, including brothers."
+        },
+        "raw_response": null,
+        "chain": [
+          "brother",
+          "kin"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "male",
+          "reason": "A brother is inherently a male individual."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"male\", \"reason\": \"A brother is inherently a male individual.\"},\n    {\"word\": \"man\", \"reason\": \"Male refers to a man, a human male adult.\"},\n    {\"word\": \"human\", \"reason\": \"A man is a member of the human species.\"},\n    {\"word\": \"person\", \"reason\": \"A human is a person, an individual human being.\"},\n    {\"word\": \"individual\", \"reason\": \"A person is an individual, a single human being.\"},\n    {\"word\": \"entity\", \"reason\": \"An individual is a distinct entity, a separate being.\"},\n    {\"word\": \"being\", \"reason\": \"An entity can be described as a being, a living or conscious entity.\"},\n    {\"word\": \"life\", \"reason\": \"A being is associated with life, the state of being alive.\"},\n    {\"word\": \"survival\", \"reason\": \"Life is fundamentally linked to survival, the act of staying alive.\"},\n    {\"word\": \"struggle\", \"reason\": \"Survival often involves struggle, the effort to overcome challenges.\"},\n    {\"word\": \"challenge\", \"reason\": \"Struggle is synonymous with challenge, a test or difficulty.\"},\n    {\"word\": \"problem\", \"reason\": \"A challenge can be framed as a problem, an issue to be resolved.\"},\n    {\"word\": \"issue\", \"reason\": \"A problem is often referred to as an issue, a matter requiring attention.\"},\n    {\"word\": \"concern\", \"reason\": \"An issue can become a concern, a matter of worry or interest.\"},\n    {\"word\": \"worry\", \"reason\": \"A concern may lead to worry, a feeling of unease or anxiety.\"},\n    {\"word\": \"stress\", \"reason\": \"Worry can cause stress, a state of mental or emotional strain.\"},\n    {\"word\": \"anxiety\", \"reason\": \"Stress is closely related to anxiety, a feeling of nervousness or fear.\"},\n    {\"word\": \"emotion\", \"reason\": \"Anxiety is an emotion, a complex psychological state.\"},\n    {\"word\": \"feeling\", \"reason\": \"An emotion is a type of feeling, a subjective experience.\"},\n    {\"word\": \"sensation\", \"reason\": \"A feeling can be linked to a sensation, a physical or mental experience.\"}\n  ]\n}",
+        "chain": [
+          "brother",
+          "male",
+          "male",
+          "man",
+          "human",
+          "person",
+          "individual",
+          "entity",
+          "being",
+          "life",
+          "survival",
+          "struggle",
+          "challenge",
+          "problem",
+          "issue",
+          "concern",
+          "worry",
+          "stress",
+          "anxiety",
+          "emotion"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "ancestor": {
+    "stage1_raw": "{\"results\": [{\"word\": \"lineage\", \"reason\": \"Refers to the line of descent from an ancestor.\"}, {\"word\": \"heritage\", \"reason\": \"Represents the traditions, culture, or property passed down from ancestors.\"}, {\"word\": \"genealogy\", \"reason\": \"The study of family origins and ancestral relationships.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "lineage",
+        "reason": "Refers to the line of descent from an ancestor."
+      },
+      {
+        "word": "heritage",
+        "reason": "Represents the traditions, culture, or property passed down from ancestors."
+      },
+      {
+        "word": "genealogy",
+        "reason": "The study of family origins and ancestral relationships."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "lineage",
+          "reason": "Refers to the line of descent from an ancestor."
+        },
+        "raw_response": null,
+        "chain": [
+          "ancestor",
+          "lineage"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "heritage",
+          "reason": "Represents the traditions, culture, or property passed down from ancestors."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"heritage\", \"reason\": \"Represents the traditions, culture, or property passed down from ancestors.\"},\n    {\"word\": \"tradition\", \"reason\": \"Heritage often includes long-standing traditions and customs.\"},\n    {\"word\": \"custom\", \"reason\": \"Traditions are frequently expressed through specific customs or practices.\"},\n    {\"word\": \"practice\", \"reason\": \"Customs are reinforced through repeated practice or behavior.\"},\n    {\"word\": \"skill\", \"reason\": \"Practice is essential for developing and refining a skill.\"},\n    {\"word\": \"craft\", \"reason\": \"Skills can be applied to create or perfect a craft or artistry.\"},\n    {\"word\": \"tool\", \"reason\": \"Crafts typically require specialized tools or instruments.\"},\n    {\"word\": \"work\", \"reason\": \"Tools are used to perform work or complete tasks.\"},\n    {\"word\": \"labor\", \"reason\": \"Work often involves physical or mental labor to achieve a goal.\"},\n    {\"word\": \"effort\", \"reason\": \"Labor requires sustained effort or energy to accomplish something.\"},\n    {\"word\": \"perseverance\", \"reason\": \"Effort is driven by perseverance in the face of challenges.\"},\n    {\"word\": \"determination\", \"reason\": \"Perseverance stems from a strong sense of determination.\"},\n    {\"word\": \"goal\", \"reason\": \"Determination is directed toward achieving a specific goal.\"},\n    {\"word\": \"ambition\", \"reason\": \"Goals are often fueled by personal ambition or desire.\"},\n    {\"word\": \"aspiration\", \"reason\": \"Ambition is closely linked to one's aspirations or dreams.\"},\n    {\"word\": \"dream\", \"reason\": \"Aspirations are frequently rooted in personal or collective dreams.\"},\n    {\"word\": \"vision\", \"reason\": \"Dreams can shape a vision for the future or a desired outcome.\"},\n    {\"word\": \"future\", \"reason\": \"A vision is inherently tied to the concept of the future.\"},\n    {\"word\": \"hope\", \"reason\": \"A vision of the future is often accompanied by hope for positive change.\"},\n    {\"word\": \"optimism\", \"reason\": \"Hope is closely associated with a general sense of optimism.\"}\n  ]\n}",
+        "chain": [
+          "ancestor",
+          "heritage",
+          "heritage",
+          "tradition",
+          "custom",
+          "practice",
+          "skill",
+          "craft",
+          "tool",
+          "work",
+          "labor",
+          "effort",
+          "perseverance",
+          "determination",
+          "goal",
+          "ambition",
+          "aspiration",
+          "dream",
+          "vision",
+          "future"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "genealogy",
+          "reason": "The study of family origins and ancestral relationships."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"genealogy\", \"reason\": \"The study of family origins and ancestral relationships.\"},\n    {\"word\": \"family\", \"reason\": \"Genealogy focuses on tracing family lineages and histories.\"},\n    {\"word\": \"heritage\", \"reason\": \"Family heritage encompasses the traditions and history passed down through generations.\"},\n    {\"word\": \"tradition\", \"reason\": \"Heritage is often preserved through cultural traditions and practices.\"},\n    {\"word\": \"culture\", \"reason\": \"Traditions are integral to shaping and maintaining a culture.\"},\n    {\"word\": \"history\", \"reason\": \"Culture is deeply rooted in the historical context of a society.\"},\n    {\"word\": \"past\", \"reason\": \"History is the study of events and developments in the past.\"},\n    {\"word\": \"time\", \"reason\": \"The past is a segment of the continuous flow of time.\"},\n    {\"word\": \"chronology\", \"reason\": \"Time is organized into sequences, such as chronology.\"},\n    {\"word\": \"sequence\", \"reason\": \"Chronology relies on the ordered sequence of events.\"},\n    {\"word\": \"order\", \"reason\": \"A sequence is defined by a specific order of elements.\"},\n    {\"word\": \"system\", \"reason\": \"Order is a fundamental aspect of any structured system.\"},\n    {\"word\": \"structure\", \"reason\": \"A system is built upon a foundational structure.\"},\n    {\"word\": \"framework\", \"reason\": \"Structure provides the framework for organizing components.\"},\n    {\"word\": \"foundation\", \"reason\": \"A framework is supported by a solid foundation.\"},\n    {\"word\": \"base\", \"reason\": \"A foundation is the base upon which something is built.\"},\n    {\"word\": \"support\", \"reason\": \"A base provides the necessary support for stability.\"},\n    {\"word\": \"sustenance\", \"reason\": \"Support is essential for maintaining sustenance and survival.\"},\n    {\"word\": \"nourishment\", \"reason\": \"Sustenance is derived from nourishment and proper nutrition.\"},\n    {\"word\": \"health\", \"reason\": \"Nourishment directly impacts an individual's overall health.\"}\n  ]\n}",
+        "chain": [
+          "ancestor",
+          "genealogy",
+          "genealogy",
+          "family",
+          "heritage",
+          "tradition",
+          "culture",
+          "history",
+          "past",
+          "time",
+          "chronology",
+          "sequence",
+          "order",
+          "system",
+          "structure",
+          "framework",
+          "foundation",
+          "base",
+          "support",
+          "sustenance"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "eagle": {
+    "stage1_raw": "{\"results\": [{\"word\": \"soar\", \"reason\": \"Eagles are known for soaring high in the sky on thermals.\"}, {\"word\": \"talons\", \"reason\": \"Eagles use their sharp talons to catch and hold prey.\"}, {\"word\": \"nest\", \"reason\": \"Eagles build large nests in tall trees or on cliffs for raising their young.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "soar",
+        "reason": "Eagles are known for soaring high in the sky on thermals."
+      },
+      {
+        "word": "talons",
+        "reason": "Eagles use their sharp talons to catch and hold prey."
+      },
+      {
+        "word": "nest",
+        "reason": "Eagles build large nests in tall trees or on cliffs for raising their young."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "soar",
+          "reason": "Eagles are known for soaring high in the sky on thermals."
+        },
+        "raw_response": null,
+        "chain": [
+          "eagle",
+          "soar"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "talons",
+          "reason": "Eagles use their sharp talons to catch and hold prey."
+        },
+        "raw_response": null,
+        "chain": [
+          "eagle",
+          "talons"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "nest",
+          "reason": "Eagles build large nests in tall trees or on cliffs for raising their young."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"eagle\", \"reason\": \"Eagles are birds of prey known for their association with nests.\"},\n    {\"word\": \"nest\", \"reason\": \"Eagles build large nests in tall trees or on cliffs for raising their young.\"},\n    {\"word\": \"egg\", \"reason\": \"Nests are commonly used by birds to lay and incubate eggs.\"},\n    {\"word\": \"chick\", \"reason\": \"Eggs hatch into chicks, which are young birds.\"},\n    {\"word\": \"bird\", \"reason\": \"Chicks grow into birds, which are the general category of animals that include eagles.\"},\n    {\"word\": \"wing\", \"reason\": \"Birds have wings, which they use for flying.\"},\n    {\"word\": \"fly\", \"reason\": \"Wings enable birds to fly through the air.\"},\n    {\"word\": \"sky\", \"reason\": \"Flying occurs in the sky, which is the space above the Earth.\"},\n    {\"word\": \"cloud\", \"reason\": \"The sky contains clouds, which are visible masses of water vapor.\"},\n    {\"word\": \"weather\", \"reason\": \"Clouds are a key component of weather patterns.\"},\n    {\"word\": \"wind\", \"reason\": \"Weather includes wind, which is the movement of air.\"},\n    {\"word\": \"storm\", \"reason\": \"Strong wind can be a part of a storm, a severe weather event.\"},\n    {\"word\": \"rain\", \"reason\": \"Storms often bring rain, which is liquid precipitation.\"},\n    {\"word\": \"puddle\", \"reason\": \"Rainwater can collect in puddles on the ground.\"},\n    {\"word\": \"water\", \"reason\": \"Puddles are composed of water, a liquid essential for life.\"},\n    {\"word\": \"stream\", \"reason\": \"Water flows from puddles into streams, which are small bodies of flowing water.\"},\n    {\"word\": \"river\", \"reason\": \"Streams can merge to form rivers, larger flowing bodies of water.\"},\n    {\"word\": \"lake\", \"reason\": \"Rivers may flow into lakes, which are large bodies of standing water.\"},\n    {\"word\": \"fish\", \"reason\": \"Lakes are home to fish, aquatic animals that live in water.\"},\n    {\"word\": \"scale\", \"reason\": \"Fish have scales, which are small, overlapping plates on their skin.\"}\n  ]\n}",
+        "chain": [
+          "eagle",
+          "nest",
+          "eagle",
+          "nest",
+          "egg",
+          "chick",
+          "bird",
+          "wing",
+          "fly",
+          "sky",
+          "cloud",
+          "weather",
+          "wind",
+          "storm",
+          "rain",
+          "puddle",
+          "water",
+          "stream",
+          "river",
+          "lake"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "worm": {
+    "stage1_raw": "{\"results\": [{\"word\": \"earthworm\", \"reason\": \"A type of worm commonly found in soil.\"",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "dove": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "spider": {
+    "stage1_raw": "{\"results\": [{\"word\": \"web\", \"reason\": \"Spiders create webs to catch prey.\"}, {\"word\": \"venom\", \"reason\": \"Some spiders possess venom for subduing prey.\"}, {\"word\": \"silk\", \"reason\": \"Spiders produce silk to spin webs and create egg sacs.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "web",
+        "reason": "Spiders create webs to catch prey."
+      },
+      {
+        "word": "venom",
+        "reason": "Some spiders possess venom for subduing prey."
+      },
+      {
+        "word": "silk",
+        "reason": "Spiders produce silk to spin webs and create egg sacs."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "web",
+          "reason": "Spiders create webs to catch prey."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"spider\", \"reason\": \"Spiders create webs to catch prey.\"},\n    {\"word\": \"web\", \"reason\": \"Spiders create webs to catch prey.\"},\n    {\"word\": \"string\", \"reason\": \"Webs are made of thin, flexible strings.\"},\n    {\"word\": \"rope\", \"reason\": \"Strings can be twisted together to form a rope.\"},\n    {\"word\": \"knot\", \"reason\": \"Ropes are tied into knots to secure objects.\"},\n    {\"word\": \"tie\", \"reason\": \"Knots can be used to tie things together.\"},\n    {\"word\": \"necktie\", \"reason\": \"A tie is a garment worn around the neck.\"},\n    {\"word\": \"shirt\", \"reason\": \"A necktie is typically worn with a shirt.\"},\n    {\"word\": \"button\", \"reason\": \"Shirts often have buttons to fasten them.\"},\n    {\"word\": \"zipper\", \"reason\": \"Buttons and zippers are both used to fasten clothing.\"},\n    {\"word\": \"coat\", \"reason\": \"Zippers are commonly found on coats.\"},\n    {\"word\": \"raincoat\", \"reason\": \"A coat designed to repel rain is called a raincoat.\"},\n    {\"word\": \"umbrella\", \"reason\": \"Both raincoats and umbrellas protect from rain.\"},\n    {\"word\": \"rain\", \"reason\": \"Umbrellas are used during rain.\"},\n    {\"word\": \"cloud\", \"reason",
+        "chain": [
+          "spider",
+          "web"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "venom",
+          "reason": "Some spiders possess venom for subduing prey."
+        },
+        "raw_response": null,
+        "chain": [
+          "spider",
+          "venom"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "silk",
+          "reason": "Spiders produce silk to spin webs and create egg sacs."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"spider\", \"reason\": \"The starting word in the chain.\"},\n    {\"word\": \"silk\", \"reason\": \"Spiders produce silk to spin webs and create egg sacs.\"},\n    {\"word\": \"weave\", \"reason\": \"Spiders use silk to weave intricate webs.\"},\n    {\"word\": \"web\", \"reason\": \"A web is the structure created by weaving silk.\"},\n    {\"word\": \"trap\", \"reason\": \"Webs are used to trap insects and other small prey.\"},\n    {\"word\": \"insect\", \"reason\": \"Webs are commonly used to trap insects.\"},\n    {\"word\": \"ant\", \"reason\": \"Insects like ants are often found near webs.\"},\n    {\"word\": \"hill\", \"reason\": \"Ants build hills as part of their colonies.\"},\n    {\"word\": \"slope\", \"reason\": \"A hill has a natural slope or incline.\"},\n    {\"word\": \"slide\", \"reason\": \"A slope can be used for sliding, like a playground slide.\"},\n    {\"word\": \"playground\", \"reason\": \"Slides are a common feature in playgrounds.\"},\n    {\"word\": \"swing\", \"reason\": \"Playgrounds often have swings alongside slides.\"},\n    {\"word\": \"rope\", \"reason\": \"Swings are typically attached to ropes or chains.\"},\n    {\"word\": \"knot\", \"reason\": \"Ropes are tied with knots to secure them.\"},\n   ",
+        "chain": [
+          "spider",
+          "silk"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "whale": {
+    "stage1_raw": "{\"results\": [{\"word\": \"cetacean\", \"reason\": \"Whales are a type of cetacean, which is a biological classification encompassing whales, dolphins, and porpoises.\"}, {\"word\": \"blubber\", \"reason\": \"Blubber is the thick layer of fat found beneath the skin of whales, used for insulation and energy storage.\"}, {\"word\": \"migration\", \"reason\": \"Whales are known for their long-distance migration patterns, often traveling thousands of miles between feeding and breeding grounds.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "cetacean",
+        "reason": "Whales are a type of cetacean, which is a biological classification encompassing whales, dolphins, and porpoises."
+      },
+      {
+        "word": "blubber",
+        "reason": "Blubber is the thick layer of fat found beneath the skin of whales, used for insulation and energy storage."
+      },
+      {
+        "word": "migration",
+        "reason": "Whales are known for their long-distance migration patterns, often traveling thousands of miles between feeding and breeding grounds."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "cetacean",
+          "reason": "Whales are a type of cetacean, which is a biological classification encompassing whales, dolphins, and porpoises."
+        },
+        "raw_response": null,
+        "chain": [
+          "whale",
+          "cetacean"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "blubber",
+          "reason": "Blubber is the thick layer of fat found beneath the skin of whales, used for insulation and energy storage."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"whale\", \"reason\": \"Whales are large marine mammals known for their size and their use of blubber for insulation.\"}, \n    {\"word\": \"blubber\", \"reason\": \"Blubber is the thick layer of fat found beneath the skin of whales, used for insulation and energy storage.\"}, \n    {\"word\": \"fat\", \"reason\": \"Blubber is a type of fat, which is a biological substance stored in animals for energy.\"}, \n    {\"word\": \"obesity\", \"reason\": \"Excess fat accumulation in the body can lead to a condition known as obesity.\"}, \n    {\"word\": \"health\", \"reason\": \"Obesity can have significant negative impacts on a person's overall health.\"}, \n    {\"word\": \"fitness\", \"reason\": \"Maintaining good health often involves improving one's physical fitness.\"}, \n    {\"word\": \"gym\", \"reason\": \"Fitness can be achieved through regular exercise, often conducted at a gym.\"}, \n    {\"word\": \"weights\", \"reason\": \"A common activity in a gym involves lifting weights to build muscle strength.\"}, \n    {\"word\": \"muscles\", \"reason\": \"Lifting weights helps to develop and strengthen muscles in the body.\"}, \n    {\"word\": \"strength\", \"reason\": \"Muscles are responsible for providing physical strength and power.\"}, \n    {\"word\": \"endurance\", \"reason\": \"Strength training can improve endurance, allowing the body to perform tasks for longer periods.\"}, \n    {\"word\": \"athletes\", \"reason\": \"Endurance is a key quality for many athletes who engage in prolonged physical activities.\"}, \n    {\"word\": \"competition\", \"reason\": \"Athletes often compete against others in organized events to test their skills.\"}, \n    {\"word\": \"prize\", \"reason\": \"Winning a competition can result in receiving a prize or reward.\"}, \n    {\"word\": \"money\", \"reason\": \"Prizes in competitions are often awarded in the form of money or valuable items.\"}, \n    {\"word\": \"wealth\", \"reason\": \"Money can be accumulated over time to create wealth.\"}, \n    {\"word\": \"capital\", \"reason\": \"Wealth is often used as capital to invest in businesses or ventures.\"}, \n    {\"word\": \"economy\", \"reason\": \"Capital plays a crucial role in the functioning of an economy.\"}, \n    {\"word\": \"growth\", \"reason\": \"Economic growth is driven by factors such as investment and innovation.\"}, \n    {\"word\": \"development\", \"reason\": \"Growth in an economy is often associated with development and progress.\"}\n  ]\n}",
+        "chain": [
+          "whale",
+          "blubber",
+          "whale",
+          "blubber",
+          "fat",
+          "obesity",
+          "health",
+          "fitness",
+          "gym",
+          "weights",
+          "muscles",
+          "strength",
+          "endurance",
+          "athletes",
+          "competition",
+          "prize",
+          "money",
+          "wealth",
+          "capital",
+          "economy"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "migration",
+          "reason": "Whales are known for their long-distance migration patterns, often traveling thousands of miles between feeding and breeding grounds."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\n      \"word\": \"migration\",\n      \"reason\": \"Whales are known for their long-distance migration patterns, often traveling thousands of miles between feeding and breeding grounds.\"\n    },\n    {\n      \"word\": \"seasonal\",\n      \"reason\": \"Migration in whales is often tied to seasonal changes, such as shifts in temperature or food availability.\"\n    },\n    {\n      \"word\": \"pattern\",\n      \"reason\": \"Seasonal migration follows a predictable pattern, influenced by environmental cues like daylight or water temperature.\"\n    },\n    {\n      \"word\": \"route\",\n      \"reason\": \"Migration patterns are defined by specific routes whales travel, often spanning entire ocean basins.\"\n    },\n    {\n      \"word\": \"ocean\",\n      \"reason\": \"Whale migration routes are typically through vast oceanic regions, connecting different marine ecosystems.\"\n    },\n    {\n      \"word\": \"current\",\n      \"reason\": \"Ocean currents influence whale migration routes, as they use these natural flows to conserve energy during travel.\"\n    },\n    {\n      \"word\": \"temperature\",\n      \"reason\": \"Ocean currents are driven by temperature differences, which in turn affect the migration timing and paths of whales.\"\n    },\n    {\n      \"word\": \"climate\",\n      \"reason\": \"Temperature variations are part of broader climate systems that shape migration behaviors in marine species.\"\n    },\n    {\n      \"word\": \"change\",\n      \"reason\": \"Climate change alters ocean temperatures and currents, potentially disrupting traditional whale migration patterns.\"\n    },\n    {\n      \"word\": \"adaptation\",\n      \"reason\": \"Whales may need to adapt their migration behaviors in response to climate change and shifting environmental conditions.\"\n    },\n    {\n      \"word\": \"survival\",\n      \"reason\": \"Adaptation to changing migration conditions is critical for the survival of whale populations in a warming world.\"\n    },\n    {\n      \"word\": \"predator\",\n      \"reason\": \"Whale survival during migration is influenced by predator-prey dynamics in their oceanic habitats.\"\n    },\n    {\n      \"word\": \"prey\",\n      \"reason\": \"Whales migrate to areas with abundant prey, ensuring they can feed efficiently during their long journeys.\"\n    },\n    {\n      \"word\": \"food\",\n      \"reason\": \"The availability of food resources directly determines the success of whale migration and breeding cycles.\"\n    },\n    {\n      \"word\": \"supply\",\n      \"reason\": \"Food supply in marine ecosystems is closely linked to the health of the ocean and its ability to support migratory species.\"\n    },\n    {\n      \"word\": \"distribution\",\n      \"reason\": \"The distribution of food resources in the ocean influences where whales migrate and how they navigate their routes.\"\n",
+        "chain": [
+          "whale",
+          "migration"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "bone": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "lung": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "tooth": {
+    "stage1_raw": "{\"results\": [{\"word\": \"dental\", \"reason\": \"Relates to the field of dentistry and teeth.\"}, {\"word\": \"grind\", \"reason\": \"A function of teeth in chewing food.\"}, {\"word\": \"cavity\", \"reason\": \"A common dental issue affecting teeth.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "dental",
+        "reason": "Relates to the field of dentistry and teeth."
+      },
+      {
+        "word": "grind",
+        "reason": "A function of teeth in chewing food."
+      },
+      {
+        "word": "cavity",
+        "reason": "A common dental issue affecting teeth."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "dental",
+          "reason": "Relates to the field of dentistry and teeth."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"tooth\", \"reason\": \"The starting word, a part of the mouth.\"}, \n    {\"word\": \"dental\", \"reason\": \"Relates to the field of dentistry and teeth.\"}, \n    {\"word\": \"cavity\", \"reason\": \"A dental issue caused by decay in a tooth.\"}, \n    {\"word\": \"plaque\", \"reason\": \"A sticky film on teeth that can lead to cavities.\"}, \n    {\"word\": \"brush\", \"reason\": \"A tool used to remove plaque from teeth.\"}, \n    {\"word\": \"paste\", \"reason\": \"Toothpaste is commonly used with a brush for oral hygiene.\"}, \n    {\"word\": \"floss\", \"reason\": \"A tool used alongside brushing to clean between teeth.\"}, \n    {\"word\": \"gum\", \"reason\": \"The soft tissue surrounding teeth that flossing affects.\"}, \n    {\"word\": \"infection\", \"reason\": \"Gum disease can lead to infections in the mouth.\"}, \n    {\"word\": \"pain\", \"reason\": \"Infections often cause discomfort or pain.\"}, \n    {\"word\": \"medicine\", \"reason\": \"Pain relief is often treated with medication.\"}, \n    {\"word\": \"tablet\", \"reason\": \"A common form of medication for pain",
+        "chain": [
+          "tooth",
+          "dental"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "grind",
+          "reason": "A function of teeth in chewing food."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"grind\", \"reason\": \"A function of teeth in chewing food.\"},\n    {\"word\": \"coffee\", \"reason\": \"Coffee beans are commonly ground for brewing.\"},\n    {\"word\": \"bean\", \"reason\": \"Coffee is derived from coffee beans.\"},\n    {\"word\": \"plant\", \"reason\": \"Coffee beans come from coffee plants.\"},\n    {\"word\": \"soil\", \"reason\": \"Plants grow in soil.\"},\n    {\"word\": \"earth\", \"reason\": \"Soil is a component of earth.\"},\n    {\"word\": \"dirt\", \"reason\": \"Dirt is a synonym for soil.\"},\n    {\"word\": \"mud\", \"reason\": \"Dirt can become mud when wet.\"},\n    {\"word\": \"slime\", \"reason\": \"Mud can resemble slime in texture.\"},\n    {\"word\": \"gloop\", \"reason\": \"Slime and gloop are similar in consistency.\"},\n    {\"word\": \"goo\", \"reason\": \"Gloop and goo are synonyms for sticky substances.\"},\n    {\"word\": \"mucus\", \"reason\": \"Goo can describe the sticky texture of mucus.\"},\n    {\"word\": \"sneeze\", \"reason\": \"Mucus is expelled during a sneeze.\"},\n    {\"word\": \"air\", \"reason\": \"Sneezing expels air forcefully.\"},\n    {\"word\": \"wind\", \"reason\": \"Air movement is known as wind.\"},\n    {\"word\": \"storm\", \"reason\": \"Strong wind can contribute to a storm.\"},\n    {\"word\": \"rain\", \"reason\": \"Storms often produce rain.\"},\n    {\"word\": \"cloud\", \"reason\": \"Rain originates from clouds.\"},\n    {\"word\": \"sky\", \"reason\": \"Clouds are found in the sky.\"},\n    {\"word\": \"space\", \"reason\": \"The sky extends into outer space.\"}\n  ]\n}",
+        "chain": [
+          "tooth",
+          "grind",
+          "grind",
+          "coffee",
+          "bean",
+          "plant",
+          "soil",
+          "earth",
+          "dirt",
+          "mud",
+          "slime",
+          "gloop",
+          "goo",
+          "mucus",
+          "sneeze",
+          "air",
+          "wind",
+          "storm",
+          "rain",
+          "cloud"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "cavity",
+          "reason": "A common dental issue affecting teeth."
+        },
+        "raw_response": null,
+        "chain": [
+          "tooth",
+          "cavity"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "thumb": {
+    "stage1_raw": "{\"results\": [{\"",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "skull": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "bread": {
+    "stage1_raw": "{\"results\": [{\"word\": \"bake\", \"reason\": \"Bread is typically made by baking dough in an oven.\"}, {\"word\": \"flour\", \"reason\": \"Flour is a primary ingredient used in making bread dough.\"}, {\"word\": \"crumb\", \"reason\": \"Crumb refers to the soft, inner part of bread, distinct from the crust.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "bake",
+        "reason": "Bread is typically made by baking dough in an oven."
+      },
+      {
+        "word": "flour",
+        "reason": "Flour is a primary ingredient used in making bread dough."
+      },
+      {
+        "word": "crumb",
+        "reason": "Crumb refers to the soft, inner part of bread, distinct from the crust."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "bake",
+          "reason": "Bread is typically made by baking dough in an oven."
+        },
+        "raw_response": null,
+        "chain": [
+          "bread",
+          "bake"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "flour",
+          "reason": "Flour is a primary ingredient used in making bread dough."
+        },
+        "raw_response": null,
+        "chain": [
+          "bread",
+          "flour"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "crumb",
+          "reason": "Crumb refers to the soft, inner part of bread, distinct from the crust."
+        },
+        "raw_response": null,
+        "chain": [
+          "bread",
+          "crumb"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "pepper": {
+    "stage1_raw": "{\"results\": [{\"word\": \"spice\", \"reason\": \"Pepper is a common spice used in cooking.\"}, {\"word\": \"grind\", \"reason\": \"Pepper is often ground into a powder for use in seasoning.\"}, {\"word\": \"seasoning\", \"reason\": \"Pepper is a key ingredient in many seasoning blends.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "spice",
+        "reason": "Pepper is a common spice used in cooking."
+      },
+      {
+        "word": "grind",
+        "reason": "Pepper is often ground into a powder for use in seasoning."
+      },
+      {
+        "word": "seasoning",
+        "reason": "Pepper is a key ingredient in many seasoning blends."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "spice",
+          "reason": "Pepper is a common spice used in cooking."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"spice\", \"reason\": \"Pepper is a common spice used in cooking.\"},\n    {\"word\": \"flavor\", \"reason\": \"Spice enhances the flavor of food.\"},\n    {\"word\": \"taste\", \"reason\": \"Flavor is perceived through taste.\"},\n    {\"word\": \"palate\", \"reason\": \"Taste is experienced on the palate.\"},\n    {\"word\": \"savor\", \"reason\": \"A palate can savor different tastes.\"},\n    {\"word\": \"enjoy\", \"reason\": \"Savoring something often leads to enjoyment.\"},\n    {\"word\": \"pleasure\", \"reason\": \"Enjoyment is a form of pleasure.\"},\n    {\"word\": \"happiness\", \"reason\": \"Pleasure contributes to happiness.\"},\n    {\"word\": \"joy\", \"reason\": \"Happiness is closely linked to joy.\"},\n    {\"word\": \"laugh\", \"reason\": \"Joy often results in laughter.\"},\n    {\"word\": \"laughter\", \"reason\": \"Laughing produces laughter.\"},\n    {\"word\": \"sound\", \"reason\": \"Laughter is a type of sound.\"},\n    {\"word\": \"noise\", \"reason\": \"Sound can be perceived as noise.\"},\n    {\"word\": \"volume\", \"reason\": \"Noise is measured in volume.\"},\n    {\"word\": \"decibel\", \"reason\": \"Volume is quantified in decibels.\"},\n    {\"word\": \"measurement\", \"reason\": \"Decibels are a unit of measurement.\"},\n    {\"word\": \"unit\", \"reason\": \"Measurement requires a unit of reference.\"},\n    {\"word\": \"number\", \"reason\": \"A unit is often represented by a number.\"},\n    {\"word\": \"digit\", \"reason\": \"Numbers are composed of digits.\"},\n    {\"word\": \"letter\", \"reason\": \"Digits and letters are both symbols in communication.\"}\n  ]\n}",
+        "chain": [
+          "pepper",
+          "spice",
+          "spice",
+          "flavor",
+          "taste",
+          "palate",
+          "savor",
+          "enjoy",
+          "pleasure",
+          "happiness",
+          "joy",
+          "laugh",
+          "laughter",
+          "sound",
+          "noise",
+          "volume",
+          "decibel",
+          "measurement",
+          "unit",
+          "number"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "grind",
+          "reason": "Pepper is often ground into a powder for use in seasoning."
+        },
+        "raw_response": null,
+        "chain": [
+          "pepper",
+          "grind"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "seasoning",
+          "reason": "Pepper is a key ingredient in many seasoning blends."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"pepper\", \"reason\": \"The starting word in the chain.\"},\n    {\"word\": \"seasoning\", \"reason\": \"Pepper is a key ingredient in many seasoning blends.\"},\n    {\"word\": \"salt\", \"reason\": \"Both pepper and salt are common seasonings used together.\"},\n    {\"word\": \"sodium\", \"reason\": \"Salt is primarily composed of sodium chloride.\"},\n    {\"word\": \"mineral\", \"reason\": \"Sodium is a mineral found in the Earth's crust.\"},\n    {\"word\": \"earth\", \"reason\": \"Minerals are naturally found in the Earth.\"},\n    {\"word\": \"soil\", \"reason\": \"The Earth's surface contains soil, which holds minerals.\"},\n    {\"word\": \"plant\", \"reason\": \"Plants grow in soil and absorb minerals from it.\"},\n    {\"word\": \"herb\", \"reason\": \"Plants can be herbs, which are often used as seasonings.\"},\n    {\"word\": \"flavor\", \"reason\": \"Herbs are used to enhance the flavor of food.\"},\n    {\"word\": \"taste\", \"reason\": \"Flavor is perceived through the sense of taste.\"},\n    {\"word\": \"palate\", \"reason\": \"Taste is detected by the palate, the organ responsible for tasting.\"},\n    {\"word\": \"mouth\", \"reason\": \"The palate is part of the mouth, where tasting occurs.\"},\n    {\"word\": \"chew\", \"reason\": \"The mouth is used for chewing food before swallowing.\"},\n    {\"word\": \"digest\", \"reason\": \"Chewing is the first step in the process of digesting food.\"},\n    {\"word\": \"stomach\", \"reason\": \"Digestion continues in the stomach after chewing.\"},\n    {\"word\": \"acid\", \"reason\": \"The stomach produces acid to aid in digestion.\"},\n    {\"word\": \"sour\", \"reason\": \"Acid has a sour taste, a common flavor descriptor.\"},\n    {\"word\": \"lemon\", \"reason\": \"Lemons are known",
+        "chain": [
+          "pepper",
+          "seasoning"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "honey": {
+    "stage1_raw": "{\"results\": [{\"word\": \"bees\", \"reason\": \"Bees are the primary producers of honey through their collection and processing of nectar.\"}, {\"word\": \"sweet\", \"reason\": \"Honey is naturally sweet in taste, a defining characteristic of the substance.\"}, {\"word\": \"nectar\", \"reason\": \"Nectar is the raw material collected by bees to produce honey.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "bees",
+        "reason": "Bees are the primary producers of honey through their collection and processing of nectar."
+      },
+      {
+        "word": "sweet",
+        "reason": "Honey is naturally sweet in taste, a defining characteristic of the substance."
+      },
+      {
+        "word": "nectar",
+        "reason": "Nectar is the raw material collected by bees to produce honey."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "bees",
+          "reason": "Bees are the primary producers of honey through their collection and processing of nectar."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"honey\", \"reason\": \"Bees are the primary producers of honey through their collection and",
+        "chain": [
+          "honey",
+          "bees"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "sweet",
+          "reason": "Honey is naturally sweet in taste, a defining characteristic of the substance."
+        },
+        "raw_response": null,
+        "chain": [
+          "honey",
+          "sweet"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "nectar",
+          "reason": "Nectar is the raw material collected by bees to produce honey."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"honey\", \"reason\": \"Honey is a sweet substance produced by bees from nectar.\"},\n    {\"word\": \"nectar\", \"reason\": \"Nectar is the raw material collected by bees to produce honey.\"},\n    {\"word\": \"bees\", \"reason\": \"Bees are the insects responsible for collecting nectar to make honey.\"},\n    {\"word\": \"pollen\", \"reason\": \"Bees collect both nectar and pollen from flowers.\"},\n    {\"word\": \"flowers\", \"reason\": \"Pollen is found on the reproductive parts of flowers.\"},\n    {\"word\": \"petals\", \"reason\": \"Petals are the colorful parts of flowers that attract pollinators.\"},\n    {\"word\": \"color\", \"reason\": \"Petals display vibrant colors to attract bees and other pollinators.\"},\n    {\"word\": \"sight\", \"reason\": \"Color perception is a function of sight, which bees use to locate flowers.\"},\n    {\"word\": \"eyes\", \"reason\": \"Sight is facilitated by eyes, which bees use to detect colors and patterns.\"},\n    {\"word\": \"vision\", \"reason\": \"Eyes enable vision, allowing bees to navigate and find food sources.\"},\n    {\"word\": \"focus\", \"reason\": \"Vision requires focus to accurately perceive and track moving objects.\"},\n    {\"word\": \"attention\", \"reason\": \"Focus is a component of attention, which bees use to concentrate on tasks.\"},\n    {\"word\": \"mind\", \"reason\": \"Attention is a mental process governed by the mind.\"},\n    {\"word\": \"thought\", \"reason\": \"The mind generates thoughts, which are internal representations of experiences.\"},\n    {\"word\": \"idea\", \"reason\": \"Thoughts can evolve into ideas, which are abstract concepts or plans.\"},\n    {\"word\": \"concept\", \"reason\": \"An idea can be refined into a concept, a more structured understanding.\"},\n    {\"word\": \"theory\", \"reason\": \"A concept may develop into a theory, a systematic",
+        "chain": [
+          "honey",
+          "nectar"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "feast": {
+    "stage1_raw": "{\"results\": [{\"word\": \"banquet\", \"reason\": \"A banquet is a large, formal meal or feast, often involving multiple courses and guests.\"}, {\"word\": \"catering\", \"reason\": \"Catering services are typically hired to prepare and serve food for a feast or event.\"}, {\"word\": \"garnish\", \"reason\": \"Garnishes are decorative elements added to dishes during a feast to enhance presentation and flavor.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "banquet",
+        "reason": "A banquet is a large, formal meal or feast, often involving multiple courses and guests."
+      },
+      {
+        "word": "catering",
+        "reason": "Catering services are typically hired to prepare and serve food for a feast or event."
+      },
+      {
+        "word": "garnish",
+        "reason": "Garnishes are decorative elements added to dishes during a feast to enhance presentation and flavor."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "banquet",
+          "reason": "A banquet is a large, formal meal or feast, often involving multiple courses and guests."
+        },
+        "raw_response": null,
+        "chain": [
+          "feast",
+          "banquet"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "catering",
+          "reason": "Catering services are typically hired to prepare and serve food for a feast or event."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"feast\", \"reason\": \"A feast is a large meal or celebration that often requires catering services.\"},\n    {\"word\": \"catering\", \"reason\": \"Catering services are typically hired to prepare and serve food for a feast or event.\"},\n    {\"word\": \"food\", \"reason\": \"Catering involves providing food as the primary service for events.\"},\n    {\"word\": \"appetizer\", \"reason\": \"Appetizers are small dishes served before the main course at a feast or event.\"},\n    {\"word\": \"plate\", \"reason\": \"Appetizers are often served on plates during a meal or event.\"},\n    {\"word\": \"fork\", \"reason\": \"A fork is a utensil commonly used to eat food from a plate.\"},\n    {\"word\": \"dinner\", \"reason\": \"Dinner is a main meal that may include appetizers and other dishes served on plates.\"},\n    {\"word\": \"meal\", \"reason\": \"Dinner is a type of meal that can be part of a larger feast or event.\"},\n    {\"word\": \"lunch\", \"reason\": \"Lunch is another type of meal, similar to dinner, often included in event catering.\"},\n    {\"word\": \"sandwich\", \"reason\": \"Sandwiches are a common food item served during lunch or as part of catering menus.\"},\n    {\"word\": \"bread\", \"reason\": \"Sandwiches are typically made with bread as a primary ingredient.\"},\n    {\"word\":",
+        "chain": [
+          "feast",
+          "catering"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "garnish",
+          "reason": "Garnishes are decorative elements added to dishes during a feast to enhance presentation and flavor."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"garnish\", \"reason\": \"Garnishes are decorative elements added to dishes during a feast to enhance presentation and flavor.\"},\n    {\"word\": \"herb\", \"reason\": \"Herbs are commonly used as garnishes to add flavor and visual appeal to dishes.\"},\n    {\"word\": \"scent\", \"reason\": \"Herbs emit a distinct scent that contributes to the aroma of a dish.\"},\n    {\"word\": \"aroma\", \"reason\": \"The scent of herbs becomes part of the overall aroma of a meal or environment.\"},\n    {\"word\": \"smell\", \"reason\": \"Aroma is perceived through the sense of smell, which is closely related to scent.\"},\n    {\"word\": \"nose\", \"reason\": \"The nose is the primary organ used to detect and interpret smells and aromas.\"},\n    {\"word\": \"sniff\", \"reason\": \"Sniffing is an action performed by the nose to detect and analyze scents.\"},\n    {\"word\": \"detect\", \"reason\": \"Sniffing allows one to detect the presence of specific scents or odors.\"},\n    {\"word\": \"identify\", \"reason\": \"Detecting a scent often leads to identifying its source or type.\"},\n    {\"word\": \"recognize\", \"reason\": \"Identifying a scent can lead to recognizing it as familiar or specific.\"},\n    {\"word\": \"know\", \"reason\": \"Recognizing a scent implies a level of knowledge or awareness about it.\"},\n    {\"word\": \"understand\", \"reason\": \"Knowing a scent can contribute to understanding its role or origin.\"},\n    {\"word\": \"comprehend\", \"reason\": \"Understanding a scent may involve comprehending its chemical composition or emotional impact.\"},\n    {\"word\": \"grasp\", \"reason\": \"Comprehending a concept like scent can be likened to grasping an abstract idea.\"},\n    {\"word\": \"hold\", \"reason\": \"Grasping an object or idea often involves the physical act of holding it.\"},\n    {\"word\": \"clutch\", \"reason\": \"Holding something tightly can be described as clutch",
+        "chain": [
+          "feast",
+          "garnish"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "grain": {
+    "stage1_raw": "{\"results\": [{\"word\": \"wheat\", \"reason\": \"Wheat is a type of grain used for making flour and food products.\"}, {\"word\": \"wood\", \"reason\": \"The grain in wood refers to the visible pattern of fibers in the tree's structure.\"}, {\"word\": \"kernel\", \"reason\": \"A kernel is the central part of a",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "silk": {
+    "stage1_raw": "{\"results\": [{\"word\": \"weave\", \"reason\": \"Silk is a fabric created through weaving processes.\"}, {\"word\": \"luxury\", \"reason\": \"Silk is often associated with high-end, luxurious materials.\"}, {\"word\": \"sericulture\", \"reason\": \"Sericulture is the practice of cultivating silkworms to produce silk.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "weave",
+        "reason": "Silk is a fabric created through weaving processes."
+      },
+      {
+        "word": "luxury",
+        "reason": "Silk is often associated with high-end, luxurious materials."
+      },
+      {
+        "word": "sericulture",
+        "reason": "Sericulture is the practice of cultivating silkworms to produce silk."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "weave",
+          "reason": "Silk is a fabric created through weaving processes."
+        },
+        "raw_response": null,
+        "chain": [
+          "silk",
+          "weave"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "luxury",
+          "reason": "Silk is often associated with high-end, luxurious materials."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"luxury\", \"reason\": \"Silk is often associated with high-end, luxurious materials.\"},\n    {\"word\": \"opulence\", \"reason\": \"Luxury is synonymous with opulence, both implying extravagance.\"},\n    {\"word\": \"wealth\", \"reason\": \"Opulence is often linked to wealth, as it requires financial resources.\"},\n    {\"word\": \"affluence\", \"reason\": \"Wealth and affluence are closely related, both indicating abundance.\"},\n    {\"word\": \"riches\", \"reason\": \"Affluence is another term for riches, emphasizing material abundance.\"},\n    {\"word\": \"money\", \"reason\": \"Riches are typically measured in money, the universal currency.\"},\n    {\"word\": \"coins\", \"reason\": \"Money can be represented physically by coins, a tangible form.\"},\n    {\"word\": \"treasure\", \"reason\": \"Coins are often considered part of a treasure collection.\"},\n    {\"word\": \"gold\", \"reason\": \"Treasure frequently includes gold, a valuable metal.\"},\n    {\"word\": \"jewels\", \"reason\": \"Gold is often used to craft jewels, which are prized possessions.\"},\n    {\"word\": \"diamonds\", \"reason\": \"Jewels can include diamonds, known for their brilliance.\"},\n    {\"word\": \"sparkle\", \"reason\": \"Diamonds are famous for their sparkle and shine.\"},\n    {\"word\": \"shine\", \"reason\": \"Sparkle and shine are similar, both describing light reflection.\"},\n    {\"word\": \"light\", \"reason\": \"Shine is a form of light, visible to the human eye.\"},\n    {\"word\": \"sun\", \"reason\": \"Light is emitted by the sun, a primary natural source.\"},\n    {\"word\": \"heat\", \"reason\": \"The sun produces heat, a byproduct of its energy.\"},\n    {\"word\": \"fire\", \"reason\": \"Heat can generate fire, a natural phenomenon.\"},\n    {\"word\": \"fl",
+        "chain": [
+          "silk",
+          "luxury"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "sericulture",
+          "reason": "Sericulture is the practice of cultivating silkworms to produce silk."
+        },
+        "raw_response": null,
+        "chain": [
+          "silk",
+          "sericulture"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "boot": {
+    "stage1_raw": "{\"results\": [{\"word\": \"foot\", \"reason\": \"A boot is a type of footwear worn on the foot.\"}, {\"word\": \"kick\", \"reason\": \"To 'boot' someone can mean to kick them out",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "crown": {
+    "stage1_raw": "{\"results\": [{\"word\": \"royalty\", \"reason\": \"A crown is a symbol of royal authority and monarchy.\"}, {\"word\": \"tiara\", \"reason\": \"A tiara is a type of headpiece similar to a crown, often worn by royalty or in formal settings.\"}, {\"word\": \"corona\", \"reason\": \"A corona refers to a crown-like shape, such as the halo of light around the sun or moon, or the Latin term for crown.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "royalty",
+        "reason": "A crown is a symbol of royal authority and monarchy."
+      },
+      {
+        "word": "tiara",
+        "reason": "A tiara is a type of headpiece similar to a crown, often worn by royalty or in formal settings."
+      },
+      {
+        "word": "corona",
+        "reason": "A corona refers to a crown-like shape, such as the halo of light around the sun or moon, or the Latin term for crown."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "royalty",
+          "reason": "A crown is a symbol of royal authority and monarchy."
+        },
+        "raw_response": null,
+        "chain": [
+          "crown",
+          "royalty"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "tiara",
+          "reason": "A tiara is a type of headpiece similar to a crown, often worn by royalty or in formal settings."
+        },
+        "raw_response": null,
+        "chain": [
+          "crown",
+          "tiara"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "corona",
+          "reason": "A corona refers to a crown-like shape, such as the halo of light around the sun or moon, or the Latin term for crown."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"crown\", \"reason\": \"A symbol of royalty or authority, often made of metal or precious materials.\"},\n    {\"word\": \"corona\", \"reason\": \"A corona refers to a crown-like shape, such as the halo of light around the sun or moon, or the Latin term for crown.\"},\n    {\"word\": \"sun\", \"reason\": \"The corona is the outer atmosphere of the sun, visible during a total solar eclipse.\"},\n    {\"word\": \"light\", \"reason\": \"The sun emits light, which is essential for life and visibility on Earth.\"},\n    {\"word\": \"day\", \"reason\": \"Light from the sun creates the phenomenon of day, the period when the sun is above the horizon.\"},\n    {\"word\": \"night\", \"reason\": \"Day is followed by night, the period of darkness when the sun is below the horizon.\"},\n    {\"word\": \"stars\", \"reason\": \"Stars are visible in the night sky, often shining brightly against the dark backdrop.\"},\n    {\"word\": \"sky\", \"reason\": \"Stars are located in the sky, the vast expanse above the Earth.\"},\n    {\"word\": \"cloud\", \"reason\": \"Clouds are visible formations in the sky composed of water droplets or ice crystals.\"},\n    {\"word\": \"rain\", \"reason\": \"Clouds can produce rain when water droplets become heavy enough to fall to the ground.\"},\n    {\"word\": \"water\", \"reason\": \"Rain is a form of water, essential for sustaining life and shaping the Earth's surface.\"},\n    {\"word\": \"ocean\", \"reason\": \"",
+        "chain": [
+          "crown",
+          "corona"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "thread": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "veil": {
+    "stage1_raw": "{\"results\": [{\"word\": \"headscarf\", \"reason\": \"A headscarf is a type of veil worn to cover the head, often for cultural, religious, or fashion purposes",
+    "stage1_parsed": [
+      {
+        "word": "often",
+        "reason": ""
+      },
+      {
+        "word": "religious",
+        "reason": ""
+      },
+      {
+        "word": "or",
+        "reason": ""
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "often",
+          "reason": ""
+        },
+        "raw_response": null,
+        "chain": [
+          "veil",
+          "often"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "religious",
+          "reason": ""
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"religious\", \"reason\": \"A veil is often associated with religious practices or attire in various cultures.\"},\n    {\"word\": \"faith\", \"reason\": \"Religious contexts are deeply tied to personal or collective faith.\"},\n    {\"word\": \"belief\", \"reason\": \"Faith is fundamentally rooted in belief systems or convictions.\"},\n    {\"word\": \"doctrine\", \"reason\": \"Belief systems often organize into formal doctrines within religions.\"},\n    {\"word\": \"scripture\", \"reason\": \"Doctrines are typically derived from sacred scriptures or texts.\"},\n    {\"word\": \"prayer\", \"reason\": \"Scriptures are often used in prayer, a common religious practice.\"},\n    {\"word\": \"devotion\", \"reason\": \"Prayer is an expression of devotion to a deity or spiritual ideals.\"},\n    {\"word\": \"ritual\", \"reason\": \"Devotion is frequently expressed through structured rituals.\"},\n    {\"word\": \"ceremony\", \"reason\": \"Rituals are often performed as part of formal ceremonies.\"},\n    {\"word\": \"tradition\", \"reason\": \"Ceremonies are preserved and passed down as traditions.\"},\n    {\"word\": \"heritage\", \"reason\": \"Traditions become part of a cultural or familial heritage.\"},\n    {\"word\": \"culture\", \"reason\": \"Heritage is a core component of shaping a society's culture.\"},\n    {\"word\": \"community\", \"reason\": \"Culture is shared and maintained by a community of people.\"},\n    {\"word\": \"society\", \"reason\": \"Communities form the foundation of larger societal structures.\"},\n    {\"word\": \"norms\", \"reason\": \"Societies establish norms that govern behavior and expectations.\"},\n    {\"word\": \"values\", \"reason\": \"Norms are often based on shared values within a society.\"},\n    {\"word\": \"morals\", \"reason\": \"Values influence the moral codes that guide individual actions.\"},\n    {\"word\": \"ethics\", \"reason\": \"Morals are systematically examined and codified into ethics.\"},\n    {\"word\": \"philosophy\", \"reason\": \"Ethics is a branch of philosophy that explores moral principles.\"},\n    {\"word\": \"wisdom\", \"reason\": \"Philosophy seeks to cultivate wisdom through critical inquiry.\"}\n  ]\n}",
+        "chain": [
+          "veil",
+          "religious",
+          "religious",
+          "faith",
+          "belief",
+          "doctrine",
+          "scripture",
+          "prayer",
+          "devotion",
+          "ritual",
+          "ceremony",
+          "tradition",
+          "heritage",
+          "culture",
+          "community",
+          "society",
+          "norms",
+          "values",
+          "morals",
+          "ethics"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "or",
+          "reason": ""
+        },
+        "raw_response": null,
+        "chain": [
+          "veil",
+          "or"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "roof": {
+    "stage1_raw": "{\"results\": [{\"word\": \"shingle\", \"reason\": \"A shingle is a material used to cover a roof",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "chimney": {
+    "stage1_raw": "{\"results\": [{\"word\": \"smoke\", \"reason\": \"Chimneys are designed to vent smoke from fireplaces or stoves.\"}, {\"word\": \"flue\", \"reason\": \"A flue is a passage within a chimney that directs smoke and gases upward.\"}, {\"word\": \"soot\", \"reason\": \"Soot accumulates inside chimneys from the combustion of fuels like wood or coal.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "smoke",
+        "reason": "Chimneys are designed to vent smoke from fireplaces or stoves."
+      },
+      {
+        "word": "flue",
+        "reason": "A flue is a passage within a chimney that directs smoke and gases upward."
+      },
+      {
+        "word": "soot",
+        "reason": "Soot accumulates inside chimneys from the combustion of fuels like wood or coal."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "smoke",
+          "reason": "Chimneys are designed to vent smoke from fireplaces or stoves."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"smoke\", \"reason\": \"Chimneys are designed to vent smoke from fireplaces or stoves.\"},\n    {\"word\": \"ash\", \"reason\": \"Smoke from a fire often leaves behind ash as a byproduct.\"},\n    {\"word\": \"fire\", \"reason\": \"Ash is typically produced by burning fire.\"},\n    {\"word\": \"heat\", \"reason\": \"Fire generates heat as a primary byproduct.\"},\n    {\"word\": \"warmth\", \"reason\": \"Heat is perceived as warmth in a physical sense.\"},\n    {\"word\": \"comfort\", \"reason\": \"Warmth contributes to a feeling of comfort in cold environments.\"},\n    {\"word\": \"home\", \"reason\": \"Comfort is a key aspect of a home environment.\"},\n    {\"word\": \"roof\", \"reason\": \"A home is typically covered by a roof to protect its interior.\"},\n    {\"word\": \"shingle\", \"reason\": \"Roofs are often constructed with shingles for weather protection.\"},\n    {\"word\": \"weather\", \"reason\": \"Shingles are designed to withstand various weather conditions.\"},\n    {\"word\": \"storm\", \"reason\": \"Weather can include severe events like storms that affect shingles.\"},\n    {\"word\": \"rain\", \"reason\": \"Storms often bring rain, which impacts roofing materials.\"},\n    {\"word\": \"wet\", \"reason\": \"Rain causes surfaces to become wet.\"},\n    {\"word\": \"damp\", \"reason\": \"Wet conditions can lead to dampness in materials like wood.\"},\n    {\"word\": \"mold\", \"reason\": \"Damp environments are prone to the growth of mold.\"},\n    {\"word\": \"spore\", \"reason\": \"Mold releases spores as part of its reproductive cycle.\"},\n    {\"word\": \"air\", \"reason\": \"Spores are dispersed through the air to spread mold.\"},\n    {\"word\": \"vent\", \"reason\": \"Air movement is facilitated through vents in buildings.\"},\n    {\"word\": \"draft\", \"reason\": \"Vents can create drafts, which are movements of air.\"},\n    {\"word\": \"cold\", \"reason\": \"Drafts often bring in cold air from outside.\"}\n  ]\n}",
+        "chain": [
+          "chimney",
+          "smoke",
+          "smoke",
+          "ash",
+          "fire",
+          "heat",
+          "warmth",
+          "comfort",
+          "home",
+          "roof",
+          "shingle",
+          "weather",
+          "storm",
+          "rain",
+          "wet",
+          "damp",
+          "mold",
+          "spore",
+          "air",
+          "vent"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "flue",
+          "reason": "A flue is a passage within a chimney that directs smoke and gases upward."
+        },
+        "raw_response": null,
+        "chain": [
+          "chimney",
+          "flue"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "soot",
+          "reason": "Soot accumulates inside chimneys from the combustion of fuels like wood or coal."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"soot\", \"reason\": \"Soot accumulates inside chimneys from the combustion of fuels like wood or coal.\"}, {\"word\": \"cleaning\", \"reason\": \"Soot requires cleaning to remove it from surfaces and equipment.\"}, {\"word\": \"brush\", \"reason\": \"Cleaning soot often involves using a brush to scrub surfaces.\"}, {\"word\": \"dust\", \"reason\": \"Brushing soot can dislodge it into dust particles.\"}, {\"word\": \"air\", \"reason\": \"Dust particles become airborne when disturbed by brushing.\"}, {\"word\": \"ventilation\", \"reason\": \"Air quality is improved through proper ventilation to remove dust.\"}, {\"word\": \"fan\", \"reason\": \"Ventilation systems often use fans to circulate air.\"}, {\"word\": \"noise\", \"reason\": \"Fans can produce noise as they operate.\"}, {\"word\": \"sound\", \"reason\": \"Noise is a type of sound generated by mechanical devices.\"}, {\"word\": \"echo\", \"reason\": \"Sound waves can create echoes in enclosed spaces.\"}, {\"word\": \"room\", \"reason\": \"Echoes are commonly heard in rooms with hard surfaces.\"}, {\"word\": \"wall\", \"reason\": \"Rooms are defined by walls that reflect sound.\"}, {\"word\": \"paint\", \"reason\": \"Walls are often painted for aesthetic or protective purposes.\"}, {\"word\": \"smell\", \"reason\": \"Paint can emit a distinct smell during and after application.\"}, {\"word\": \"chemicals\", \"reason\": \"Paint contains chemicals that contribute to its smell.\"}, {\"word\": \"toxic\", \"reason\": \"Some chemicals in paint can be harmful or toxic.\"}, {\"word\": \"health\", \"reason\": \"Toxic substances can negatively affect human health.\"}, {\"word\": \"doctor\", \"reason\": \"Health issues may require consultation with a doctor.\"}, {\"word\": \"medicine\", \"reason\": \"Doctors prescribe medicine to treat health conditions.\"}, {\"word\": \"tablet\", \"reason\": \"Medicine can be administered in the form of a tablet.\"}]}",
+        "chain": [
+          "chimney",
+          "soot",
+          "soot",
+          "cleaning",
+          "brush",
+          "dust",
+          "air",
+          "ventilation",
+          "fan",
+          "noise",
+          "sound",
+          "echo",
+          "room",
+          "wall",
+          "paint",
+          "smell",
+          "chemicals",
+          "toxic",
+          "health",
+          "doctor"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "pillow": {
+    "stage1_raw": "{\"results\": [{\"word\": \"cushion\", \"reason\": \"Both provide comfort and support, often used together in seating or bedding.\"}, {\"word\": \"bed\", \"reason\": \"Pillows are commonly placed on or with a bed for sleeping.\"}, {\"word\": \"head\", \"reason\": \"Pillows are primarily used to support the head while sleeping or resting.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "cushion",
+        "reason": "Both provide comfort and support, often used together in seating or bedding."
+      },
+      {
+        "word": "bed",
+        "reason": "Pillows are commonly placed on or with a bed for sleeping."
+      },
+      {
+        "word": "head",
+        "reason": "Pillows are primarily used to support the head while sleeping or resting."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "cushion",
+          "reason": "Both provide comfort and support, often used together in seating or bedding."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"cushion\", \"reason\": \"Both provide comfort and support, often used together in seating or bedding.\"},\n    {\"word\": \"seat\", \"reason\": \"A cushion is commonly placed on or under a seat for added comfort.\"},\n    {\"word\": \"chair\", \"reason\": \"A seat is a component of a chair, which often includes cushions.\"},\n    {\"word\": \"backrest\", \"reason\": \"A chair typically has a backrest, which may also be cushioned.\"},\n    {\"word\": \"support\", \"reason\": \"A backrest provides support to the upper body while sitting.\"},\n    {\"word\": \"structure\", \"reason\": \"Support is a function of structural elements in furniture design.\"},\n    {\"word\": \"building\", \"reason\": \"Structural support is essential in the construction of buildings.\"},\n    {\"word\": \"room\", \"reason\": \"A building contains multiple rooms, each with its own purpose.\"},\n    {\"word\": \"bedroom\", \"reason\": \"A room designated for sleeping, often containing a bed and cushions.\"},\n    {\"word\": \"bed\", \"reason\": \"A bedroom typically includes a bed, which may have a mattress and pillows.\"},\n    {\"word\": \"mattress\", \"reason\": \"A bed's primary component is a mattress, which provides comfort for sleeping.\"},\n    {\"word\": \"padding\", \"reason\": \"A mattress is often filled with padding materials for softness.\"},\n    {\"word\": \"fabric\", \"reason\": \"Padding in a mattress is typically wrapped in fabric for durability.\"},\n    {\"word\": \"textile\", \"reason\": \"Fabric is a type of textile used in the production of padding and covers.\"},\n    {\"word\": \"weave\", \"reason\": \"Textiles are created through weaving processes that interlace fibers.\"},\n    {\"word\": \"thread\", \"reason\": \"Weaving involves the use of thread to create fabric and textiles.\"},\n    {\"word\": \"needle\", \"reason\": \"Thread is manipulated with a needle during sewing or weaving tasks.\"},\n    {\"word\": \"sew\", \"reason\": \"A needle is used to sew fabric together, creating seams or joining pieces.\"},\n    {\"word\": \"stitch\", \"reason\": \"Sewing involves making stitches to secure fabric or materials together.\"},\n    {\"word\": \"clothing\", \"reason\": \"Stitches are essential in the construction of clothing from fabric pieces.\"}\n  ]\n}",
+        "chain": [
+          "pillow",
+          "cushion",
+          "cushion",
+          "seat",
+          "chair",
+          "backrest",
+          "support",
+          "structure",
+          "building",
+          "room",
+          "bedroom",
+          "bed",
+          "mattress",
+          "padding",
+          "fabric",
+          "textile",
+          "weave",
+          "thread",
+          "needle",
+          "sew"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "bed",
+          "reason": "Pillows are commonly placed on or with a bed for sleeping."
+        },
+        "raw_response": null,
+        "chain": [
+          "pillow",
+          "bed"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "head",
+          "reason": "Pillows are primarily used to support the head while sleeping or resting."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"head\", \"reason\": \"Pillows are primarily used to support the head while sleeping or resting.\"},\n    {\"word\": \"hair\", \"reason\": \"The head is where hair grows, making 'hair' a direct physical association.\"},\n    {\"word\": \"brush\", \"reason\": \"Hair is commonly brushed, linking 'hair' to 'brush'.\"},\n    {\"word\": \"paint\", \"reason\": \"A brush can be used for painting, transitioning from hair care to art.\"},\n    {\"word\": \"wall\", \"reason\": \"Paint is often applied to walls, connecting to the surface being painted.\"},\n    {\"word\": \"painting\", \"reason\": \"A wall can display a painting, moving from the medium to the artwork itself.\"},\n    {\"word\": \"art\", \"reason\": \"A painting is a form of art, linking the artwork to the broader category.\"},\n    {\"word\": \"museum\", \"reason\": \"Art is often displayed in museums, connecting the category to the venue.\"},\n    {\"word\": \"tourist\", \"reason\": \"Museums attract tourists, linking the venue to the visitors.\"},\n    {\"word\": \"guide\", \"reason\": \"Tourists often use guides to navigate museums or attractions.\"},\n    {\"word\": \"map\", \"reason\": \"A guide may include a map to help locate places or exhibits.\"},\n    {\"word\": \"city\", \"reason\": \"Maps are commonly used to navigate cities, linking the tool to the location.\"},\n    {\"word\": \"skyscraper\", \"reason\": \"Cities are known for skyscrapers, connecting the location to the structure.\"},\n    {\"word\": \"window\", \"reason\": \"Skyscrapers have many windows, linking the building to its features.\"},\n    {\"word\": \"curtain\", \"reason\": \"Windows often have curtains, connecting the structure to its covering.\"},\n    {\"word\": \"room\", \"reason\": \"Curtains are found in rooms, linking the covering to the space.\"},\n    {\"word\": \"bed\", \"reason\": \"Rooms can contain beds, connecting the space to the furniture.\"},\n    {\"word\": \"sleep\",",
+        "chain": [
+          "pillow",
+          "head"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "cellar": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "fence": {
+    "stage1_raw": "{\"results\": [{\"word\": \"post\", \"reason\": \"A post is a vertical support structure used to hold up a fence.\"}, {\"word\": \"rail\", \"reason\": \"A rail is a horizontal component of a fence that connects posts.\"}, {\"word\": \"gate\", \"reason\": \"A gate is a",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "hammer": {
+    "stage1_raw": "{\"results\": [{\"word\": \"anvil\", \"reason\": \"A heavy block used as a surface for hammering metal\"}, {\"word\": \"nail\", \"reason\": \"A fastener driven into materials using a hammer\"}, {\"word\": \"claw\", \"reason\": \"The curved end of a hammer used for pulling nails out\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "anvil",
+        "reason": "A heavy block used as a surface for hammering metal"
+      },
+      {
+        "word": "nail",
+        "reason": "A fastener driven into materials using a hammer"
+      },
+      {
+        "word": "claw",
+        "reason": "The curved end of a hammer used for pulling nails out"
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "anvil",
+          "reason": "A heavy block used as a surface for hammering metal"
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"anvil\", \"reason\": \"A heavy block used as a surface for hammering metal\"},\n    {\"word\": \"blacksmith\", \"reason\": \"A craftsman who uses an anvil to shape metal\"},\n    {\"word\": \"forge\", \"reason\": \"A place where a blacksmith works, often with a fire\"},\n    {\"word\": \"fire\", \"reason\": \"Heat source used in a forge to melt metal\"},\n    {\"word\": \"flame\", \"reason\": \"Visible part of a fire that provides heat\"},\n    {\"word\": \"heat\", \"reason\": \"Energy transferred by flame to melt metal\"},\n    {\"word\": \"melt\", \"reason\": \"Process of turning solid metal into liquid with heat\"},\n    {\"word\": \"metal\", \"reason\": \"Material commonly melted and shaped in a forge\"},\n    {\"word\": \"tool\", \"reason\": \"An object used to manipulate or shape materials like metal\"},\n    {\"word\": \"wrench\", \"reason\": \"A specific tool used to tighten or loosen nuts and bolts\"},\n    {\"word\": \"grip\", \"reason\": \"The action of holding a wrench to use it effectively\"},\n    {\"word\": \"hand\", \"reason\": \"The body part used to grip a wrench\"},\n    {\"word\": \"fist\", \"reason\": \"A clenched hand used for gripping or striking\"},\n    {\"word\": \"punch\", \"reason\": \"A forceful strike delivered with a fist\"},\n    {\"word\": \"knock\", \"reason\": \"A sound produced by a punch or similar impact\"},\n    {\"word\": \"sound\", \"reason\": \"A general term for vibrations that travel through air\"},\n    {\"word\": \"echo\", \"reason\": \"A repetition of sound caused by reflection\"},\n    {\"word\": \"reverberate\", \"reason\": \"To echo or cause sound to bounce around\"},\n    {\"word\": \"vibrate\", \"reason\": \"To move rapidly back and forth, like sound waves\"},\n    {\"word\": \"resonate\", \"reason\": \"To vibrate or sound in harmony with another object\"}\n  ]\n}",
+        "chain": [
+          "hammer",
+          "anvil",
+          "anvil",
+          "blacksmith",
+          "forge",
+          "fire",
+          "flame",
+          "heat",
+          "melt",
+          "metal",
+          "tool",
+          "wrench",
+          "grip",
+          "hand",
+          "fist",
+          "punch",
+          "knock",
+          "sound",
+          "echo",
+          "reverberate"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "nail",
+          "reason": "A fastener driven into materials using a hammer"
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"nail\", \"reason\": \"A fastener driven into materials using a hammer\"},\n    {\"word\": \"wood\", \"reason\": \"Nails are commonly used to secure objects in wood\"},\n    {\"word\": \"chisel\", \"reason\": \"A tool used to shape or cut wood\"},\n    {\"word\": \"carve\", \"reason\": \"The action performed with a chisel on wood\"},\n    {\"word\": \"sculpture\", \"reason\": \"A three-dimensional artwork created by carving\"},\n    {\"word\": \"museum\", \"reason\": \"A place where sculptures are often displayed\"},\n    {\"word\": \"artifact\", \"reason\": \"An object of historical interest found in museums\"},\n    {\"word\": \"ancient\", \"reason\": \"Many artifacts are from ancient civilizations\"},\n    {\"word\": \"history\", \"reason\": \"The study of ancient artifacts and their origins\"},\n    {\"word\": \"book\", \"reason\": \"A medium that records historical information\"},\n    {\"word\": \"page\", \"reason\": \"A single sheet of paper in a book\"},\n    {\"",
+        "chain": [
+          "hammer",
+          "nail"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "claw",
+          "reason": "The curved end of a hammer used for pulling nails out"
+        },
+        "raw_response": "{\"results\": [{\"word\": \"claw\", \"reason\": \"The curved end of a hammer used for pulling nails out\"}, {\"word\": \"nail\", \"reason\": \"A claw is used to remove nails from wood\"}, {\"word\": \"wood\", \"reason\": \"Nails are commonly used to fasten pieces of wood together\"}, {\"word\": \"chisel\", \"reason\": \"Wood is often shaped using a chisel\"}, {\"word\": \"stone\", \"reason\": \"Chisels can be used to carve stone\"}, {\"word\": \"grind\", \"reason\": \"Stone can be ground down into smaller particles\"}, {\"word\": \"mill\", \"reason\": \"Grinding is a process performed in a mill\"}, {\"word\": \"grain\", \"reason\": \"Mills are used to process grain into flour\"}, {\"word\": \"flour\", \"reason\": \"Grain is ground into flour for baking\"}, {\"word\": \"bake\", \"reason\": \"Flour is a key ingredient in baking\"}, {\"word\": \"oven\", \"reason\": \"Baking is typically done in an oven\"}, {\"word\": \"heat\", \"reason\": \"An oven generates",
+        "chain": [
+          "hammer",
+          "claw"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "needle": {
+    "stage1_raw": "{\"results\": [{\"word\": \"sewing\", \"reason\": \"A needle is a tool used in sewing to stitch fabric together.\"}, {\"word\": \"hollow\", \"reason\": \"A needle typically has a hollow shaft to allow for threading or injecting substances.\"}, {\"word\": \"prick\", \"reason",
+    "stage1_parsed": [
+      {
+        "word": "reason",
+        "reason": ""
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "reason",
+          "reason": ""
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"reason\", \"reason\": \"Synonym for logical thinking\"},\n    {\"word\": \"logic\", \"reason\": \"Core component of reason\"},\n    {\"word\": \"think\", \"reason\": \"Action driven by logic\"},\n    {\"word\": \"brain\", \"reason\": \"Organ responsible for thinking\"},\n    {\"word\": \"neuron\", \"reason\": \"Cell type in the brain\"},\n    {\"word\": \"cell\", \"reason\": \"Basic unit of a neuron\"},\n    {\"word\": \"organism\", \"reason\": \"Collection of cells\"},\n    {\"word\": \"life\", \"reason\": \"Characteristic of organisms\"},\n    {\"word\": \"exist\", \"reason\": \"State of being alive\"},\n    {\"word\": \"being\", \"reason\": \"Entity that exists\"},\n    {\"word\": \"human\", \"reason\": \"Type of being\"},\n    {\"word\": \"society\", \"reason\": \"Group of humans\"},\n    {\"word\": \"culture\", \"reason\": \"Shared traits in society\"},\n    {\"word\": \"tradition\", \"reason\": \"Customs in culture\"},\n    {\"word\": \"custom\", \"reason\": \"Practice in tradition\"},\n    {\"word\": \"habit\", \"reason\": \"Repeated custom\"},\n    {\"word\": \"routine\", \"reason\": \"Structured habit\"},\n    {\"word\": \"schedule\", \"reason\": \"Plan for a routine\"},\n    {\"word\": \"time\", \"reason\": \"Dimension of a schedule\"},\n    {\"word\": \"clock\", \"reason\": \"Tool to measure time\"}\n  ]\n}",
+        "chain": [
+          "needle",
+          "reason",
+          "reason",
+          "logic",
+          "think",
+          "brain",
+          "neuron",
+          "cell",
+          "organism",
+          "life",
+          "exist",
+          "being",
+          "human",
+          "society",
+          "culture",
+          "tradition",
+          "custom",
+          "habit",
+          "routine",
+          "schedule"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "wheel": {
+    "stage1_raw": "{\"results\": [{\"word\": \"axle\", \"reason\": \"A",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "rope": {
+    "stage1_raw": "{\"results\": [{\"word\": \"knot\", \"reason\": \"A knot is a method of securing or fastening using a rope.\"}, {\"word\": \"climb\", \"reason\": \"Climbing often involves the use of ropes for safety and support.\"}, {\"word\": \"tether\", \"reason\": \"A tether is a rope or cord used to secure an object or person.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "knot",
+        "reason": "A knot is a method of securing or fastening using a rope."
+      },
+      {
+        "word": "climb",
+        "reason": "Climbing often involves the use of ropes for safety and support."
+      },
+      {
+        "word": "tether",
+        "reason": "A tether is a rope or cord used to secure an object or person."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "knot",
+          "reason": "A knot is a method of securing or fastening using a rope."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"knot\", \"reason\": \"A knot is a method of securing or fastening using a rope.\"},\n    {\"word\": \"tangle\", \"reason\": \"A knot can lead to a tangle if not tied properly.\"},\n    {\"word\": \"hair\", \"reason\": \"Hair can become tangled, especially when wet or uncombed.\"},\n    {\"word\": \"comb\", \"reason\": \"A comb is used to detangle hair.\"},\n    {\"word\": \"brush\", \"reason\": \"A brush is another tool for grooming hair or teeth.\"},\n    {\"word\": \"toothbrush\", \"reason\": \"A brush used for cleaning teeth.\"},\n    {\"word\": \"toothpaste\", \"reason\": \"Toothpaste is applied to a toothbrush for cleaning.\"},\n    {\"word\": \"smile\", \"reason\": \"Toothpaste and brushing can lead to a clean, confident smile.\"},\n    {\"word\": \"grin\", \"reason\": \"A grin is a wide, joyful smile.\"},\n    {\"word\": \"laugh\", \"reason\": \"A grin often precedes or accompanies laughter.\"},\n    {\"word\": \"joke\", \"reason",
+        "chain": [
+          "rope",
+          "knot"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "climb",
+          "reason": "Climbing often involves the use of ropes for safety and support."
+        },
+        "raw_response": null,
+        "chain": [
+          "rope",
+          "climb"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "tether",
+          "reason": "A tether is a rope or cord used to secure an object or person."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"rope\", \"reason\": \"A rope is a long, flexible cord used for tying or securing things.\"},\n    {\"word\": \"tether\", \"reason\": \"A tether is a rope or cord used to secure an object or person.\"},\n    {\"word\": \"secure\", \"reason\": \"A tether is used to secure something, like a dog or a boat.\"},\n    {\"word\": \"anchor\", \"reason\": \"An anchor is a heavy object used to secure a ship, often connected by a tether.\"},\n    {\"word\": \"ship\", \"reason\": \"An anchor is used on a ship to keep it from drifting.\"},\n    {\"word\": \"sail\", \"reason\": \"A ship uses sails to harness wind power for movement.\"},\n    {\"word\": \"wind\", \"reason\": \"Sails rely on wind to propel a ship forward.\"},\n    {\"word\": \"storm\", \"reason\": \"Strong winds can create a storm, which affects sailing.\"},\n    {\"word\": \"rain\", \"reason\": \"Storms often bring rain, which can impact a ship's journey.\"},\n    {\"word\": \"cloud\", \"reason\": \"Rain is produced by clouds in the atmosphere.\"},\n    {\"word\": \"sky\", \"reason\": \"Clouds are found in the sky, which is the atmosphere above Earth.\"},\n    {\"word\": \"air\", \"reason\": \"The sky is part of the air, which is the atmosphere we breathe.\"},\n    {\"word\": \"breath\", \"reason\": \"We inhale air, which is essential for breathing.\"},\n    {\"word\": \"life\", \"reason\": \"Breath is necessary for sustaining life.\"},\n    {\"word\": \"existence\", \"reason\": \"Life is the state of existing or being alive.\"},\n    {\"word\": \"being\", \"reason\": \"Existence refers to the state of being or existing.\"},\n    {\"word\": \"entity\", \"reason\": \"A being is a distinct entity with independent existence.\"},\n    {\"word\": \"object\", \"reason\": \"An entity can be a physical object or a concept.\"},\n    {\"word\": \"tool\", \"",
+        "chain": [
+          "rope",
+          "tether"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "anchor": {
+    "stage1_raw": "{\"results\": [{\"word\": \"secure\", \"reason\": \"An anchor is used to secure a ship or vessel in place.\"}, {\"word\": \"cable\", \"reason\": \"An anchor is typically connected to a heavy cable or chain to hold it in place.\"}, {\"word\": \"stability\", \"reason\": \"An anchor provides stability to a ship by preventing it from drifting.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "secure",
+        "reason": "An anchor is used to secure a ship or vessel in place."
+      },
+      {
+        "word": "cable",
+        "reason": "An anchor is typically connected to a heavy cable or chain to hold it in place."
+      },
+      {
+        "word": "stability",
+        "reason": "An anchor provides stability to a ship by preventing it from drifting."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "secure",
+          "reason": "An anchor is used to secure a ship or vessel in place."
+        },
+        "raw_response": null,
+        "chain": [
+          "anchor",
+          "secure"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "cable",
+          "reason": "An anchor is typically connected to a heavy cable or chain to hold it in place."
+        },
+        "raw_response": null,
+        "chain": [
+          "anchor",
+          "cable"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "stability",
+          "reason": "An anchor provides stability to a ship by preventing it from drifting."
+        },
+        "raw_response": null,
+        "chain": [
+          "anchor",
+          "stability"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "flight": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "crawl": {
+    "stage1_raw": "{\"results\": [{\"word\": \"spider\", \"reason\": \"Spiders are known for crawling on surfaces with their legs.\"}, {\"word\": \"creep\", \"reason\": \"To creep means to move slowly and cautiously, similar to crawling.\"}, {\"word\": \"scrape\", \"reason\": \"Web crawlers (also called scrapers) extract data from websites by crawling through links.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "spider",
+        "reason": "Spiders are known for crawling on surfaces with their legs."
+      },
+      {
+        "word": "creep",
+        "reason": "To creep means to move slowly and cautiously, similar to crawling."
+      },
+      {
+        "word": "scrape",
+        "reason": "Web crawlers (also called scrapers) extract data from websites by crawling through links."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "spider",
+          "reason": "Spiders are known for crawling on surfaces with their legs."
+        },
+        "raw_response": null,
+        "chain": [
+          "crawl",
+          "spider"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "creep",
+          "reason": "To creep means to move slowly and cautiously, similar to crawling."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"crawl\", \"reason\": \"The starting word, describing slow movement on hands and knees.\"},\n    {\"word\": \"creep\", \"reason\": \"To creep means to move slowly and cautiously, similar to crawling.\"},\n    {\"word\": \"slither\", \"reason\": \"Slithering is a slow, sinuous movement, like creeping.\"},\n    {\"word\": \"slide\", \"reason\": \"Sliding can be a smooth, slow movement akin to slithering.\"},\n    {\"word\": \"glide\", \"reason\": \"Glide implies a smooth, effortless motion, similar to sliding.\"},\n    {\"word\": \"drift\", \"reason\": \"Drifting is a slow, aimless movement, like gliding without effort.\"},\n    {\"word\": \"float\", \"reason\": \"Floating is a state of drifting in water or air, similar to drifting.\"},\n    {\"word\": \"hover\", \"reason\": \"Hovering is to float near a surface, like floating in the air.\"},\n    {\"word\": \"",
+        "chain": [
+          "crawl",
+          "creep"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "scrape",
+          "reason": "Web crawlers (also called scrapers) extract data from websites by crawling through links."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"crawl\", \"reason\": \"Crawling is the process of moving forward on hands and knees, often associated with the verb 'to crawl'.\"}, \n    {\"word\": \"scrape\", \"reason\": \"Web crawlers (also called scrapers) extract data from websites by crawling through links.\"}, \n    {\"word\": \"data\", \"reason\": \"Scraping is commonly used to extract data from websites or documents.\"}, \n    {\"word\": \"analyze\", \"reason\": \"Data is often analyzed to derive insights or patterns.\"}, \n    {\"word\": \"insight\", \"reason\": \"Analyzing data can lead to gaining new insights or understanding.\"}, \n    {\"word\": \"decide\", \"reason\": \"Insights from data can inform decisions or actions.\"}, \n    {\"word\": \"act\", \"reason\": \"Decisions often lead to taking action or implementing changes.\"}, \n    {\"word\": \"change\", \"reason\": \"Actions can result in changes to a system, process, or environment.\"}, \n    {\"word\": \"adapt\", \"reason\": \"Change often requires adaptation to new circumstances or conditions.\"}, \n    {\"word\": \"learn\", \"reason\": \"Adapting to change frequently involves learning new skills or knowledge.\"}, \n    {\"word\": \"grow\", \"reason\": \"Learning contributes to personal or organizational growth over time.\"}, \n    {\"word\": \"build\", \"reason\": \"Growth often involves building new structures, relationships, or capabilities.\"}, \n    {\"word\": \"create\", \"reason\": \"Building can lead to the creation of new products, ideas, or systems.\"}, \n    {\"word\": \"innovate\", \"reason\": \"Creation is a key component of innovation and problem-solving.\"}, \n    {\"word\": \"explore\", \"reason\": \"Innovation often begins with exploring new possibilities or uncharted areas.\"}, \n    {\"word\": \"discover\", \"reason\": \"Exploration can lead to the discovery of new knowledge or resources.\"}, \n    {\"word\": \"understand\", \"reason\": \"Discovery helps deepen understanding of complex concepts or phenomena.\"}, \n   ",
+        "chain": [
+          "crawl",
+          "scrape"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "drift": {
+    "stage1_raw": "{\"results\": [{\"word\": \"current\", \"reason\": \"Drift can be influenced by a current, such as water or air movement carrying an object along.\"}, {\"word\": \"meander\", \"reason\": \"To drift implies a slow, winding movement, similar to a river meandering through a landscape.\"}, {\"word\": \"derail\", \"reason\": \"Drifting off-topic or direction can lead to derailing a conversation or plan.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "current",
+        "reason": "Drift can be influenced by a current, such as water or air movement carrying an object along."
+      },
+      {
+        "word": "meander",
+        "reason": "To drift implies a slow, winding movement, similar to a river meandering through a landscape."
+      },
+      {
+        "word": "derail",
+        "reason": "Drifting off-topic or direction can lead to derailing a conversation or plan."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "current",
+          "reason": "Drift can be influenced by a current, such as water or air movement carrying an object along."
+        },
+        "raw_response": null,
+        "chain": [
+          "drift",
+          "current"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "meander",
+          "reason": "To drift implies a slow, winding movement, similar to a river meandering through a landscape."
+        },
+        "raw_response": null,
+        "chain": [
+          "drift",
+          "meander"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "derail",
+          "reason": "Drifting off-topic or direction can lead to derailing a conversation or plan."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"derail\", \"reason\": \"Drifting off-topic or direction can lead to derailing a conversation or plan.\"},\n    {\"word\": \"track\", \"reason\": \"A derailment typically occurs when something leaves its intended track.\"},\n    {\"word\": \"train\", \"reason\": \"Trains are commonly associated with tracks and derailments.\"},\n    {\"word\": \"wreck\", \"reason\": \"A derailed train often results in a wreck or collision.\"},\n    {\"word\": \"crash\", \"reason\": \"A wreck can escalate into a crash involving multiple objects.\"},\n    {\"word\": \"impact\", \"reason\": \"A crash generates significant impact force.\"},\n    {\"word\": \"damage\", \"reason\": \"Impact from a crash usually causes damage to objects or structures.\"},\n    {\"word\": \"repair\", \"reason\": \"Damage often requires repair to restore functionality.\"},\n    {\"word\": \"tool\", \"reason\": \"Repairs typically involve the use of tools.\"},\n    {\"word\": \"hammer\", \"reason\": \"A hammer is a common tool used in repairs.\"},\n    {\"word\": \"nail\", \"reason\": \"A hammer is frequently used to drive nails into surfaces.\"},\n    {\"word\": \"wood\", \"reason\": \"Nails are commonly used to fasten pieces of wood together.\"},\n    {\"word\": \"tree\", \"reason\": \"Wood is a material derived from trees.\"},\n    {\"word\": \"forest\", \"reason\": \"Trees are found in large numbers in a forest.\"},\n    {\"word\": \"animal\", \"reason\": \"Forests are habitats for various animals.\"},\n    {\"word\": \"hunt\", \"reason\": \"Animals in forests may be hunted by humans or predators.\"},\n    {\"word\": \"prey\", \"reason\": \"Hunting often involves pursuing prey for food or sport.\"},\n    {\"word\": \"survive\", \"reason\": \"Prey must survive by evading predators or hunters.\"},\n    {\"word\": \"life\", \"reason\": \"Survival is essential for sustaining life.\"},\n    {\"word\": \"death\", \"reason\": \"Life inevitably leads to death as a natural conclusion.\"}\n  ]\n}",
+        "chain": [
+          "drift",
+          "derail",
+          "derail",
+          "track",
+          "train",
+          "wreck",
+          "crash",
+          "impact",
+          "damage",
+          "repair",
+          "tool",
+          "hammer",
+          "nail",
+          "wood",
+          "tree",
+          "forest",
+          "animal",
+          "hunt",
+          "prey",
+          "survive"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "leap": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "chase": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "grief": {
+    "stage1_raw": "{\"results\": [{\"word\": \"sorrow\", \"reason\": \"Sorrow is a deep feeling of sadness, often associated with grief.\"}, {\"word\": \"mourning\", \"reason\": \"Mourning is the process of grieving and expressing sorrow for a loss.\"}, {\"word\": \"bereavement\", \"reason\": \"Bereavement refers to the state of loss, typically from the death of a loved one, which is central to grief.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "sorrow",
+        "reason": "Sorrow is a deep feeling of sadness, often associated with grief."
+      },
+      {
+        "word": "mourning",
+        "reason": "Mourning is the process of grieving and expressing sorrow for a loss."
+      },
+      {
+        "word": "bereavement",
+        "reason": "Bereavement refers to the state of loss, typically from the death of a loved one, which is central to grief."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "sorrow",
+          "reason": "Sorrow is a deep feeling of sadness, often associated with grief."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"sorrow\", \"reason\": \"Sorrow is a deep feeling of sadness, often associated with grief.\"},\n    {\"word\": \"tears\", \"reason\": \"Tears are a physical manifestation of sorrow.\"},\n    {\"word\": \"crying\", \"reason\": \"Crying is an action that results from tears.\"},\n    {\"word\": \"heartache\", \"reason\": \"Heartache is a type of emotional pain linked to crying.\"},\n    {\"word\": \"pain\", \"reason\": \"Pain is a general term for physical or emotional distress.\"},\n    {\"word\": \"suffering\", \"reason\": \"Suffering is an intense form of pain or distress.\"},\n    {\"word\": \"endurance\", \"reason\": \"Endurance is the ability to withstand suffering.\"},\n    {\"word\": \"strength\", \"reason\": \"Strength is a quality gained through enduring hardship.\"},\n    {\"word\": \"power\", \"reason\": \"Power can be derived from inner strength.\"},\n    {\"word\": \"force\", \"reason\": \"Force is a physical manifestation of power.\"},\n    {\"word\": \"energy\", \"reason\": \"Energy is a form of force or power in motion.\"},\n    {\"word\": \"vitality\", \"reason\": \"Vitality is the energy that sustains life.\"},\n    {\"word\": \"health\", \"reason\": \"Health is a state of vitality and well-being.\"},\n    {\"word\": \"body\", \"reason\": \"The body is the physical vessel of health.\"},\n    {\"word\": \"soul\", \"reason\": \"The soul is often considered the essence of the body.\"},\n    {\"word\": \"spirit\", \"reason\": \"Spirit is a term used to describe the soul's energy.\"},\n    {\"word\": \"will\", \"reason\": \"Will is the determination of the spirit or soul.\"},\n    {\"word\": \"determination\", \"reason\": \"Determination is a strong will to achieve a goal.\"},\n    {\"word\": \"perseverance\", \"reason\": \"Perseverance is the act of continuing despite challenges.\"},\n    {\"word\": \"resilience\", \"reason\": \"Resilience is the ability to recover from adversity.\"}\n  ]\n}",
+        "chain": [
+          "grief",
+          "sorrow",
+          "sorrow",
+          "tears",
+          "crying",
+          "heartache",
+          "pain",
+          "suffering",
+          "endurance",
+          "strength",
+          "power",
+          "force",
+          "energy",
+          "vitality",
+          "health",
+          "body",
+          "soul",
+          "spirit",
+          "will",
+          "determination"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "mourning",
+          "reason": "Mourning is the process of grieving and expressing sorrow for a loss."
+        },
+        "raw_response": null,
+        "chain": [
+          "grief",
+          "mourning"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "bereavement",
+          "reason": "Bereavement refers to the state of loss, typically from the death of a loved one, which is central to grief."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"grief\", \"reason\": \"Grief is the emotional response to loss, which is the core concept of bereavement.\"},\n    {\"word\": \"bereavement\", \"reason\": \"Bereavement refers to the state of loss, typically from the death of a loved one, which is central to grief.\"},\n    {\"word\": \"mourning\", \"reason\": \"Mourning is the process of grieving and expressing sorrow after a loss, directly linked to bereavement.\"},\n    {\"word\": \"sadness\", \"reason\": \"Sadness is a primary emotion experienced during mourning and bereavement.\"},\n    {\"word\": \"tears\", \"reason\": \"Tears are a physical manifestation of sadness and emotional distress.\"},\n    {\"word\": \"emotion\", \"reason\": \"Tears are a result of intense emotion, which encompasses sadness and grief.\"},\n    {\"word\": \"heartache\", \"reason\": \"Heartache is a metaphorical or literal pain associated with deep emotional sorrow.\"},\n    {\"word\": \"pain\", \"reason\": \"Heartache is a form of emotional or physical pain, which can be both psychological and bodily.\"},\n    {\"word\": \"suffering\", \"reason\": \"Pain, whether emotional or physical, can lead to prolonged suffering.\"},\n    {\"word\": \"distress\", \"reason\": \"Suffering often results in a state of distress, which is a broader term for discomfort or anxiety.\"},\n    {\"word\": \"anxiety\", \"reason\": \"Distress can trigger anxiety, a common response to prolonged emotional turmoil.\"},\n    {\"word\": \"nervousness\", \"reason\": \"Anxiety often manifests as nervousness, a more immediate and acute reaction.\"},\n    {\"word\": \"tension\", \"reason\": \"Nervousness can create physical or mental tension in the body or mind.\"},\n    {\"word\": \"stress\", \"reason\": \"Tension is a key component of stress, which is a physiological and psychological response to pressure.\"},\n    {\"word\": \"fatigue\", \"reason\": \"Chronic stress can lead to fatigue, a state of extreme tiredness.\"},\n    {\"word\": \"exhaustion\", \"reason\": \"Fatigue, if prolonged, can escalate into exhaustion, a more severe form of tiredness.\"},\n    {\"word\": \"weariness\", \"reason\": \"Exhaustion often results in a deep sense of weariness, both physical and mental.\"},\n    {\"word\": \"laziness\", \"reason\": \"Weariness can lead to laziness, a lack of motivation or energy to act.\"},\n    {\"word\": \"inactivity\", \"reason\": \"Laziness often results in inactivity, a state of not engaging in physical or mental tasks.\"},\n    {\"word\": \"stagnation\", \"reason\": \"Prolonged inactivity can lead to stagn",
+        "chain": [
+          "grief",
+          "bereavement",
+          "which",
+          "typically",
+          "which",
+          "directly",
+          "which",
+          "which",
+          "whether",
+          "can",
+          "which",
+          "a",
+          "a",
+          "which",
+          "a",
+          "if",
+          "can",
+          "a",
+          "both",
+          "a"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "pride": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "shame": {
+    "stage1_raw": "{\"results\": [{\"word\": \"guilt\", \"reason\": \"Both guilt and shame involve feelings of wrongdoing, though guilt focuses on personal responsibility while shame centers on self-worth.\"}, {\"word\": \"humiliation\", \"reason\": \"Humiliation is an intense form of shame, often resulting from public embarrassment or degradation.\"",
+    "stage1_parsed": [
+      {
+        "word": "though",
+        "reason": ""
+      },
+      {
+        "word": "often",
+        "reason": ""
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "though",
+          "reason": ""
+        },
+        "raw_response": null,
+        "chain": [
+          "shame",
+          "though"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "often",
+          "reason": ""
+        },
+        "raw_response": null,
+        "chain": [
+          "shame",
+          "often"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "bliss": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "rage": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  }
+}

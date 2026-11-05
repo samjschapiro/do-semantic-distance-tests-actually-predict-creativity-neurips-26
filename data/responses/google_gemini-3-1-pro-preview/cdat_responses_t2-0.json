@@ -1,0 +1,850 @@
+{
+  "rock": {
+    "seed": 2000,
+    "raw_response": "[\"mineral\", \"mountain\", \"guitar\", \"cradle\", \"slingshot\", \"foundation\", \"stability\", \"diamond\", \"fossil\", \"sculpture\"]",
+    "words": [
+      "mineral",
+      "mountain",
+      "guitar",
+      "cradle",
+      "slingshot",
+      "foundation",
+      "stability",
+      "diamond",
+      "fossil",
+      "sculpture"
+    ],
+    "api_error": null
+  },
+  "rain": {
+    "seed": 2001,
+    "raw_response": "[\"umbrella\", \"cloud\", \"mud\", \"frog\", \"crop\", \"petrichor\", \"rainbow\", \"flood\", \"forecast\", \"gutter\"]",
+    "words": [
+      "umbrella",
+      "cloud",
+      "mud",
+      "frog",
+      "crop",
+      "petrichor",
+      "rainbow",
+      "flood",
+      "forecast",
+      "gutter"
+    ],
+    "api_error": null
+  },
+  "fire": {
+    "seed": 2002,
+    "raw_response": "[\n  \"arson\",\n  \"ash\",\n  \"hearth\",\n  \"dragon\",\n  \"match\",\n  \"brigade\",\n  \"combustion\",\n  \"marshmallow\",\n  \"warmth\",\n  \"alarm\"\n]",
+    "words": [
+      "arson",
+      "ash",
+      "hearth",
+      "dragon",
+      "match",
+      "brigade",
+      "combustion",
+      "marshmallow",
+      "warmth",
+      "alarm"
+    ],
+    "api_error": null
+  },
+  "ocean": {
+    "seed": 2003,
+    "raw_response": "[\n  \"fish\",\n  \"tide\",\n  \"salt\",\n  \"anchor\",\n  \"beach\",\n  \"submarine\",\n  \"abyss\",\n  \"breeze\",\n  \"kelp\",\n  \"pearl\"\n]",
+    "words": [
+      "fish",
+      "tide",
+      "salt",
+      "anchor",
+      "beach",
+      "submarine",
+      "abyss",
+      "breeze",
+      "kelp",
+      "pearl"
+    ],
+    "api_error": null
+  },
+  "shadow": {
+    "seed": 2004,
+    "raw_response": "[\n  \"eclipse\",\n  \"fear\",\n  \"stalker\",\n  \"silhouette\",\n  \"trace\",\n  \"wall\",\n  \"dusk\",\n  \"ghost\",\n  \"sun\",\n  \"secret\"\n]",
+    "words": [
+      "eclipse",
+      "fear",
+      "stalker",
+      "silhouette",
+      "trace",
+      "wall",
+      "dusk",
+      "ghost",
+      "sun",
+      "secret"
+    ],
+    "api_error": null
+  },
+  "eagle": {
+    "seed": 2005,
+    "raw_response": "[\"feather\", \"coin\", \"golf\", \"mountain\", \"vision\", \"freedom\", \"predator\", \"sky\", \"emblem\", \"nest\"]",
+    "words": [
+      "feather",
+      "coin",
+      "golf",
+      "mountain",
+      "vision",
+      "freedom",
+      "predator",
+      "sky",
+      "emblem",
+      "nest"
+    ],
+    "api_error": null
+  },
+  "spider": {
+    "seed": 2006,
+    "raw_response": "[\"silk\", \"venom\", \"fear\", \"corner\", \"arachnid\", \"prey\", \"trap\", \"fang\", \"attic\", \"web\"]",
+    "words": [
+      "silk",
+      "venom",
+      "fear",
+      "corner",
+      "arachnid",
+      "prey",
+      "trap",
+      "fang",
+      "attic",
+      "web"
+    ],
+    "api_error": null
+  },
+  "whale": {
+    "seed": 2007,
+    "raw_response": "[\n  \"ocean\",\n  \"mammal\",\n  \"blubber\",\n  \"plankton\",\n  \"harpoon\",\n  \"sonar\",\n  \"pod\",\n  \"ambergris\",\n  \"blowhole\",\n  \"barnacle\"\n]",
+    "words": [
+      "ocean",
+      "mammal",
+      "blubber",
+      "plankton",
+      "harpoon",
+      "sonar",
+      "pod",
+      "ambergris",
+      "blowhole",
+      "barnacle"
+    ],
+    "api_error": null
+  },
+  "butterfly": {
+    "seed": 2008,
+    "raw_response": "[\"metamorphosis\", \"wing\", \"nectar\", \"insect\", \"chaos\", \"pool\", \"symmetry\", \"net\", \"spring\", \"stomach\"]",
+    "words": [
+      "metamorphosis",
+      "wing",
+      "nectar",
+      "insect",
+      "chaos",
+      "pool",
+      "symmetry",
+      "net",
+      "spring",
+      "stomach"
+    ],
+    "api_error": null
+  },
+  "wolf": {
+    "seed": 2009,
+    "raw_response": "[\"tundra\", \"fang\", \"howl\", \"pack\", \"carcass\", \"moon\", \"predator\", \"den\", \"sheep\", \"rabies\"]",
+    "words": [
+      "tundra",
+      "fang",
+      "howl",
+      "pack",
+      "carcass",
+      "moon",
+      "predator",
+      "den",
+      "sheep",
+      "rabies"
+    ],
+    "api_error": null
+  },
+  "bread": {
+    "seed": 2010,
+    "raw_response": "[\n  \"yeast\",\n  \"oven\",\n  \"money\",\n  \"crust\",\n  \"toaster\",\n  \"sacrament\",\n  \"baker\",\n  \"wheat\",\n  \"sandwich\",\n  \"pantry\"\n]",
+    "words": [
+      "yeast",
+      "oven",
+      "money",
+      "crust",
+      "toaster",
+      "sacrament",
+      "baker",
+      "wheat",
+      "sandwich",
+      "pantry"
+    ],
+    "api_error": null
+  },
+  "pepper": {
+    "seed": 2011,
+    "raw_response": "[\n  \"spice\",\n  \"vegetable\",\n  \"grinder\",\n  \"sneeze\",\n  \"heat\",\n  \"capsaicin\",\n  \"shaker\",\n  \"vine\",\n  \"kitchen\",\n  \"recipe\"\n]",
+    "words": [
+      "spice",
+      "vegetable",
+      "grinder",
+      "sneeze",
+      "heat",
+      "capsaicin",
+      "shaker",
+      "vine",
+      "kitchen",
+      "recipe"
+    ],
+    "api_error": null
+  },
+  "honey": {
+    "seed": 2012,
+    "raw_response": "[\"bee\", \"sugar\", \"bear\", \"hexagon\", \"amber\", \"sweetheart\", \"mead\", \"flower\", \"jar\", \"remedy\"]",
+    "words": [
+      "bee",
+      "sugar",
+      "bear",
+      "hexagon",
+      "amber",
+      "sweetheart",
+      "mead",
+      "flower",
+      "jar",
+      "remedy"
+    ],
+    "api_error": null
+  },
+  "salt": {
+    "seed": 2013,
+    "raw_response": "[\"ocean\", \"pepper\", \"sodium\", \"tear\", \"mine\", \"salary\", \"preservative\", \"ice\", \"crystal\", \"wound\"]",
+    "words": [
+      "ocean",
+      "pepper",
+      "sodium",
+      "tear",
+      "mine",
+      "salary",
+      "preservative",
+      "ice",
+      "crystal",
+      "wound"
+    ],
+    "api_error": null
+  },
+  "wine": {
+    "seed": 2014,
+    "raw_response": "[\"grape\", \"cork\", \"cellar\", \"sommelier\", \"intoxication\", \"chalice\", \"tannin\", \"cheese\", \"harvest\",",
+    "words": [
+      "grape",
+      "cork",
+      "cellar",
+      "sommelier",
+      "intoxication",
+      "chalice",
+      "tannin",
+      "cheese",
+      "harvest"
+    ],
+    "api_error": null
+  },
+  "heart": {
+    "seed": 2015,
+    "raw_response": "[\"blood\", \"love\", \"center\", \"card\", \"courage\", \"rhythm\", \"organ\", \"arrow\", \"chest\", \"surgery\"]",
+    "words": [
+      "blood",
+      "love",
+      "center",
+      "card",
+      "courage",
+      "rhythm",
+      "organ",
+      "arrow",
+      "chest",
+      "surgery"
+    ],
+    "api_error": null
+  },
+  "bone": {
+    "seed": 2016,
+    "raw_response": "[\n  \"skeleton\",\n  \"calcium\",\n  \"dog\",\n  \"fossil\",\n  \"marrow\",\n  \"dice\",\n  \"broth\",\n  \"fracture\",\n  \"corset\",\n  \"grave\"\n]",
+    "words": [
+      "skeleton",
+      "calcium",
+      "dog",
+      "fossil",
+      "marrow",
+      "dice",
+      "broth",
+      "fracture",
+      "corset",
+      "grave"
+    ],
+    "api_error": null
+  },
+  "blood": {
+    "seed": 2017,
+    "raw_response": "[\n  \"vein\",\n  \"iron\",\n  \"vampire\",\n  \"kinship\",\n  \"transfusion\",\n  \"murder\",\n  \"syringe\",\n  \"stain\",\n  \"sacrifice\",\n  \"heart\"\n]",
+    "words": [
+      "vein",
+      "iron",
+      "vampire",
+      "kinship",
+      "transfusion",
+      "murder",
+      "syringe",
+      "stain",
+      "sacrifice",
+      "heart"
+    ],
+    "api_error": null
+  },
+  "skin": {
+    "seed": 2018,
+    "raw_response": "[\n  \"rind\",\n  \"melanin\",\n  \"leather\",\n  \"pore\",\n  \"scar\",\n  \"lotion\",\n  \"tattoo\",\n  \"dermatologist\",\n  \"bark\",\n  \"pelt\"\n]",
+    "words": [
+      "rind",
+      "melanin",
+      "leather",
+      "pore",
+      "scar",
+      "lotion",
+      "tattoo",
+      "dermatologist",
+      "bark",
+      "pelt"
+    ],
+    "api_error": null
+  },
+  "eye": {
+    "seed": 2019,
+    "raw_response": "[\"pupil\", \"storm\", \"needle\", \"vision\", \"tear\", \"potato\", \"lens\", \"soul\", \"camera\", \"witness\"]",
+    "words": [
+      "pupil",
+      "storm",
+      "needle",
+      "vision",
+      "tear",
+      "potato",
+      "lens",
+      "soul",
+      "camera",
+      "witness"
+    ],
+    "api_error": null
+  },
+  "anger": {
+    "seed": 2020,
+    "raw_response": "[\"fist\", \"volcano\", \"betrayal\", \"revenge\", \"ulcer\", \"insult\", \"destruction\", \"venom\", \"therapy\", \"silence\"]",
+    "words": [
+      "fist",
+      "volcano",
+      "betrayal",
+      "revenge",
+      "ulcer",
+      "insult",
+      "destruction",
+      "venom",
+      "therapy",
+      "silence"
+    ],
+    "api_error": null
+  },
+  "joy": {
+    "seed": 2021,
+    "raw_response": "[\"laughter\", \"triumph\", \"festival\", \"euphoria\", \"sunshine\", \"confetti\", \"embrace\", \"gift\", \"childhood\", \"melody\"]",
+    "words": [
+      "laughter",
+      "triumph",
+      "festival",
+      "euphoria",
+      "sunshine",
+      "confetti",
+      "embrace",
+      "gift",
+      "childhood",
+      "melody"
+    ],
+    "api_error": null
+  },
+  "fear": {
+    "seed": 2022,
+    "raw_response": "[\"nightmare\", \"spider\", \"adrenaline\", \"darkness\", \"scream\", \"tremor\", \"predator\", \"phobia\", \"threat\", \"flight\"]",
+    "words": [
+      "nightmare",
+      "spider",
+      "adrenaline",
+      "darkness",
+      "scream",
+      "tremor",
+      "predator",
+      "phobia",
+      "threat",
+      "flight"
+    ],
+    "api_error": null
+  },
+  "grief": {
+    "seed": 2023,
+    "raw_response": "[\"widow\", \"cemetery\", \"urn\", \"denial\", \"funeral\", \"monument\", \"therapy\", \"ghost\", \"memory\", \"solitude\"]",
+    "words": [
+      "widow",
+      "cemetery",
+      "urn",
+      "denial",
+      "funeral",
+      "monument",
+      "therapy",
+      "ghost",
+      "memory",
+      "solitude"
+    ],
+    "api_error": null
+  },
+  "hope": {
+    "seed": 2024,
+    "raw_response": "[\n  \"anchor\",\n  \"dawn\",\n  \"cure\",\n  \"miracle\",\n  \"sprout\",\n  \"oasis\",\n  \"lottery\",\n  \"asylum\",\n  \"heir\",\n  \"illusion\"\n]",
+    "words": [
+      "anchor",
+      "dawn",
+      "cure",
+      "miracle",
+      "sprout",
+      "oasis",
+      "lottery",
+      "asylum",
+      "heir",
+      "illusion"
+    ],
+    "api_error": null
+  },
+  "dawn": {
+    "seed": 2025,
+    "raw_response": "[\"rooster\", \"dew\", \"east\", \"genesis\", \"horizon\", \"coffee\", \"hope\", \"alarm\", \"pajamas\", \"mist\"]",
+    "words": [
+      "rooster",
+      "dew",
+      "east",
+      "genesis",
+      "horizon",
+      "coffee",
+      "hope",
+      "alarm",
+      "pajamas",
+      "mist"
+    ],
+    "api_error": null
+  },
+  "winter": {
+    "seed": 2026,
+    "raw_response": "[\"blizzard\", \"scarf\", \"hearth\", \"hibernation\", \"sled\", \"frostbite\", \"solstice\", \"stew\", \"isolation\", \"wreath\"]",
+    "words": [
+      "blizzard",
+      "scarf",
+      "hearth",
+      "hibernation",
+      "sled",
+      "frostbite",
+      "solstice",
+      "stew",
+      "isolation",
+      "wreath"
+    ],
+    "api_error": null
+  },
+  "midnight": {
+    "seed": 2027,
+    "raw_response": "[\"moon\", \"insomnia\", \"owl\", \"deadline\", \"kiss\", \"ghost\", \"silence\", \"pajamas\", \"thief\", \"snack\"]",
+    "words": [
+      "moon",
+      "insomnia",
+      "owl",
+      "deadline",
+      "kiss",
+      "ghost",
+      "silence",
+      "pajamas",
+      "thief",
+      "snack"
+    ],
+    "api_error": null
+  },
+  "decay": {
+    "seed": 2028,
+    "raw_response": "[\n  \"fungus\",\n  \"isotope\",\n  \"ruin\",\n  \"cavity\",\n  \"compost\",\n  \"rust\",\n  \"corpse\",\n  \"entropy\",\n  \"slum\",\n  \"autumn\"\n]",
+    "words": [
+      "fungus",
+      "isotope",
+      "ruin",
+      "cavity",
+      "compost",
+      "rust",
+      "corpse",
+      "entropy",
+      "slum",
+      "autumn"
+    ],
+    "api_error": null
+  },
+  "rhythm": {
+    "seed": 2029,
+    "raw_response": "[\"drum\", \"tide\", \"meter\", \"routine\", \"pulse\", \"pendulum\", \"dance\", \"season\", \"pattern\", \"frequency\"]",
+    "words": [
+      "drum",
+      "tide",
+      "meter",
+      "routine",
+      "pulse",
+      "pendulum",
+      "dance",
+      "season",
+      "pattern",
+      "frequency"
+    ],
+    "api_error": null
+  },
+  "crown": {
+    "seed": 2030,
+    "raw_response": "[\"throne\", \"tooth\", \"canopy\", \"jewel\", \"apex\", \"coin\", \"velvet\", \"champion\", \"winder\", \"halo\"]",
+    "words": [
+      "throne",
+      "tooth",
+      "canopy",
+      "jewel",
+      "apex",
+      "coin",
+      "velvet",
+      "champion",
+      "winder",
+      "halo"
+    ],
+    "api_error": null
+  },
+  "prison": {
+    "seed": 2031,
+    "raw_response": "[\"cell\", \"warden\", \"contraband\", \"parole\", \"jumpsuit\", \"shank\", \"riot\", \"commissary\", \"handcuffs\", \"rehabilitation\"]",
+    "words": [
+      "cell",
+      "warden",
+      "contraband",
+      "parole",
+      "jumpsuit",
+      "shank",
+      "riot",
+      "commissary",
+      "handcuffs",
+      "rehabilitation"
+    ],
+    "api_error": null
+  },
+  "market": {
+    "seed": 2032,
+    "raw_response": "[\"vegetable\", \"share\", \"consumer\", \"money\", \"stall\", \"competition\", \"auction\", \"trolley\", \"profit\", \"capitalism\"]",
+    "words": [
+      "vegetable",
+      "share",
+      "consumer",
+      "money",
+      "stall",
+      "competition",
+      "auction",
+      "trolley",
+      "profit",
+      "capitalism"
+    ],
+    "api_error": null
+  },
+  "temple": {
+    "seed": 2033,
+    "raw_response": "[\n  \"priest\",\n  \"pillar\",\n  \"forehead\",\n  \"incense\",\n  \"gong\",\n  \"ruin\",\n  \"meditation\",\n  \"deity\",\n  \"pulse\",\n  \"relic\"\n]",
+    "words": [
+      "priest",
+      "pillar",
+      "forehead",
+      "incense",
+      "gong",
+      "ruin",
+      "meditation",
+      "deity",
+      "pulse",
+      "relic"
+    ],
+    "api_error": null
+  },
+  "bridge": {
+    "seed": 2034,
+    "raw_response": "[\n  \"river\",\n  \"steel\",\n  \"card\",\n  \"guitar\",\n  \"tooth\",\n  \"captain\",\n  \"nose\",\n  \"gap\",\n  \"toll\",\n  \"engineer\"\n]",
+    "words": [
+      "river",
+      "steel",
+      "card",
+      "guitar",
+      "tooth",
+      "captain",
+      "nose",
+      "gap",
+      "toll",
+      "engineer"
+    ],
+    "api_error": null
+  },
+  "silence": {
+    "seed": 2035,
+    "raw_response": "[\"snow\", \"vacuum\", \"mime\", \"secret\", \"grave\", \"pause\", \"library\", \"meditation\", \"earplug\", \"monk\"]",
+    "words": [
+      "snow",
+      "vacuum",
+      "mime",
+      "secret",
+      "grave",
+      "pause",
+      "library",
+      "meditation",
+      "earplug",
+      "monk"
+    ],
+    "api_error": null
+  },
+  "chaos": {
+    "seed": 2036,
+    "raw_response": "[\"entropy\", \"riot\", \"abyss\", \"confetti\", \"static\", \"jungle\", \"bedlam\", \"debris\", \"anomaly\", \"whirlpool\"]",
+    "words": [
+      "entropy",
+      "riot",
+      "abyss",
+      "confetti",
+      "static",
+      "jungle",
+      "bedlam",
+      "debris",
+      "anomaly",
+      "whirlpool"
+    ],
+    "api_error": null
+  },
+  "truth": {
+    "seed": 2037,
+    "raw_response": "[\n  \"oath\",\n  \"evidence\",\n  \"revelation\",\n  \"axiom\",\n  \"mirror\",\n  \"confession\",\n  \"reality\",\n  \"document\",\n  \"myth\",\n  \"essence\"\n]",
+    "words": [
+      "oath",
+      "evidence",
+      "revelation",
+      "axiom",
+      "mirror",
+      "confession",
+      "reality",
+      "document",
+      "myth",
+      "essence"
+    ],
+    "api_error": null
+  },
+  "dream": {
+    "seed": 2038,
+    "raw_response": "[\"night\", \"ambition\", \"pillow\", \"psyche\", \"hallucination\", \"prophecy\", \"monster\", \"cloud\", \"diary\", \"paralysis\"]",
+    "words": [
+      "night",
+      "ambition",
+      "pillow",
+      "psyche",
+      "hallucination",
+      "prophecy",
+      "monster",
+      "cloud",
+      "diary",
+      "paralysis"
+    ],
+    "api_error": null
+  },
+  "memory": {
+    "seed": 2039,
+    "raw_response": "[\"synapse\", \"nostalgia\", \"souvenir\", \"cache\", \"amnesia\", \"photograph\", \"monument\", \"childhood\", \"diary\", \"heritage\"]",
+    "words": [
+      "synapse",
+      "nostalgia",
+      "souvenir",
+      "cache",
+      "amnesia",
+      "photograph",
+      "monument",
+      "childhood",
+      "diary",
+      "heritage"
+    ],
+    "api_error": null
+  },
+  "needle": {
+    "seed": 2040,
+    "raw_response": "[\"thimble\", \"syringe\", \"pine\", \"compass\", \"vinyl\", \"haystack\", \"tattoo\", \"acupuncture\", \"gauge\", \"cactus\"]",
+    "words": [
+      "thimble",
+      "syringe",
+      "pine",
+      "compass",
+      "vinyl",
+      "haystack",
+      "tattoo",
+      "acupuncture",
+      "gauge",
+      "cactus"
+    ],
+    "api_error": null
+  },
+  "mirror": {
+    "seed": 2041,
+    "raw_response": "[\"reflection\", \"glass\", \"vanity\", \"optics\", \"silver\", \"symmetry\", \"illusion\", \"telescope\", \"bathroom\", \"narcissism\"]",
+    "words": [
+      "reflection",
+      "glass",
+      "vanity",
+      "optics",
+      "silver",
+      "symmetry",
+      "illusion",
+      "telescope",
+      "bathroom",
+      "narcissism"
+    ],
+    "api_error": null
+  },
+  "wheel": {
+    "seed": 2042,
+    "raw_response": "[\"car\", \"pottery\", \"roulette\", \"cheese\", \"axle\", \"circle\", \"hamster\", \"karma\", \"rotation\", \"ship\"]",
+    "words": [
+      "car",
+      "pottery",
+      "roulette",
+      "cheese",
+      "axle",
+      "circle",
+      "hamster",
+      "karma",
+      "rotation",
+      "ship"
+    ],
+    "api_error": null
+  },
+  "candle": {
+    "seed": 2043,
+    "raw_response": "[\"wax\", \"wick\", \"flame\", \"birthday\", \"scent\", \"blackout\", \"vigil\", \"romance\", \"chandelier\", \"spell\"]",
+    "words": [
+      "wax",
+      "wick",
+      "flame",
+      "birthday",
+      "scent",
+      "blackout",
+      "vigil",
+      "romance",
+      "chandelier",
+      "spell"
+    ],
+    "api_error": null
+  },
+  "bell": {
+    "seed": 2044,
+    "raw_response": "[\n  \"clapper\",\n  \"steeple\",\n  \"recess\",\n  \"brass\",\n  \"cow\",\n  \"alarm\",\n  \"percussion\",\n  \"round\",\n  \"door\",\n  \"curve\"\n]",
+    "words": [
+      "clapper",
+      "steeple",
+      "recess",
+      "brass",
+      "cow",
+      "alarm",
+      "percussion",
+      "round",
+      "door",
+      "curve"
+    ],
+    "api_error": null
+  },
+  "forest": {
+    "seed": 2045,
+    "raw_response": "[\"bear\", \"moss\", \"axe\", \"shadow\", \"trail\", \"mushroom\", \"canopy\", \"silence\", \"ravine\", \"cabin\"]",
+    "words": [
+      "bear",
+      "moss",
+      "axe",
+      "shadow",
+      "trail",
+      "mushroom",
+      "canopy",
+      "silence",
+      "ravine",
+      "cabin"
+    ],
+    "api_error": null
+  },
+  "river": {
+    "seed": 2046,
+    "raw_response": "[\n  \"bank\",\n  \"current\",\n  \"delta\",\n  \"fish\",\n  \"bridge\",\n  \"bed\",\n  \"mouth\",\n  \"dam\",\n  \"boat\",\n  \"raft\"",
+    "words": [
+      "current",
+      "delta",
+      "fish",
+      "bridge",
+      "bed",
+      "mouth",
+      "dam",
+      "boat",
+      "raft"
+    ],
+    "api_error": null
+  },
+  "storm": {
+    "seed": 2047,
+    "raw_response": "[\"cloud\", \"surge\", \"shelter\", \"chaos\", \"umbrella\", \"lightning\", \"teacup\", \"brain\", \"eye\", \"drain\"]",
+    "words": [
+      "cloud",
+      "surge",
+      "shelter",
+      "chaos",
+      "umbrella",
+      "lightning",
+      "teacup",
+      "brain",
+      "eye",
+      "drain"
+    ],
+    "api_error": null
+  },
+  "dust": {
+    "seed": 2048,
+    "raw_response": "[\n  \"particle\",\n  \"vacuum\",\n  \"allergy\",\n  \"attic\",\n  \"desert\",\n  \"decay\",\n  \"broom\",\n  \"ash\",\n  \"meteor\",\n  \"drought\"\n]",
+    "words": [
+      "particle",
+      "vacuum",
+      "allergy",
+      "attic",
+      "desert",
+      "decay",
+      "broom",
+      "ash",
+      "meteor",
+      "drought"
+    ],
+    "api_error": null
+  },
+  "crystal": {
+    "seed": 2049,
+    "raw_response": "[\n  \"goblet\",\n  \"salt\",\n  \"prism\",\n  \"geode\",\n  \"chandelier\",\n  \"snowflake\",\n  \"magic\",\n  \"oscillator\",\n  \"lattice\",\n  \"fragility\"\n]",
+    "words": [
+      "goblet",
+      "salt",
+      "prism",
+      "geode",
+      "chandelier",
+      "snowflake",
+      "magic",
+      "oscillator",
+      "lattice",
+      "fragility"
+    ],
+    "api_error": null
+  }
+}

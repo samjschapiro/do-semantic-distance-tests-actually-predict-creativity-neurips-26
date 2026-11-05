@@ -1,0 +1,10 @@
+# Score saved DAT / CDAT / PACE responses with their original embeddings.
+upstream_dir: "data/responses"
+output_dir: "outputs/scores_new"
+evals:
+  - dat
+  - cdat
+  - pace
+sbert_model: "all-mpnet-base-v2"
+# glove_path / fasttext_path default to $EMBEDDINGS_DIR (or resources/); see README.
+cdat_gate_file: "data/scores/cdat_gated_scores.json"

@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"jigsaw\",\n    \"oxygen\",\n    \"hierarchy\",\n    \"lullaby\",\n    \"volcano\",\n    \"algorithm\",\n    \"whisper\",\n    \"kaleidoscope\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "jigsaw",
+      "oxygen",
+      "hierarchy",
+      "lullaby",
+      "volcano",
+      "algorithm",
+      "whisper",
+      "kaleidoscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"trombone\", \"algorithm\", \"kangaroo\", \"oxygen\", \"jazz\", \"volcano\", \"syntax\", \"whisper\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "trombone",
+      "algorithm",
+      "kangaroo",
+      "oxygen",
+      "jazz",
+      "volcano",
+      "syntax",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"jubilee\",\n    \"enzyme\",\n    \"kayak\",\n    \"philosophy\",\n    \"volcano\",\n    \"harmonica\",\n    \"algorithm\",\n    \"sphinx\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "jubilee",
+      "enzyme",
+      "kayak",
+      "philosophy",
+      "volcano",
+      "harmonica",
+      "algorithm",
+      "sphinx"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"cactus\",\n    \"harmony\",\n    \"gravity\",\n    \"whisper\",\n    \"oxygen\",\n    \"jubilee\",\n    \"algorithm\",\n    \"velvet\",\n    \"tsunami\"\n]\n```",
+    "words": [
+      "quasar",
+      "cactus",
+      "harmony",
+      "gravity",
+      "whisper",
+      "oxygen",
+      "jubilee",
+      "algorithm",
+      "velvet",
+      "tsunami"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"trombone\", \"algorithm\", \"jubilee\", \"lullaby\", \"oxygen\", \"volcano\", \"kaleidoscope\", \"whisper\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "trombone",
+      "algorithm",
+      "jubilee",
+      "lullaby",
+      "oxygen",
+      "volcano",
+      "kaleidoscope",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"trombone\",\n    \"algorithm\",\n    \"jubilee\",\n    \"oxygen\",\n    \"sphinx\",\n    \"whisker\",\n    \"volcano\",\n    \"kaleidoscope\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "trombone",
+      "algorithm",
+      "jubilee",
+      "oxygen",
+      "sphinx",
+      "whisker",
+      "volcano",
+      "kaleidoscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"xylophone\",\n    \"jubilee\",\n    \"kaleidoscope\",\n    \"labyrinth\",\n    \"oxygen\",\n    \"zephyr\",\n    \"pinnacle\",\n    \"whisper\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "xylophone",
+      "jubilee",
+      "kaleidoscope",
+      "labyrinth",
+      "oxygen",
+      "zephyr",
+      "pinnacle",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"trombone\",\n    \"algorithm\",\n    \"kite\",\n    \"zucchini\",\n    \"volcano\",\n    \"pajamas\",\n    \"whisper\",\n    \"diamond\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "trombone",
+      "algorithm",
+      "kite",
+      "zucchini",
+      "volcano",
+      "pajamas",
+      "whisper",
+      "diamond"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"trombone\", \"algorithm\", \"jubilee\", \"lens\", \"oxygen\", \"whisper\", \"volcano\", \"syntax\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "trombone",
+      "algorithm",
+      "jubilee",
+      "lens",
+      "oxygen",
+      "whisper",
+      "volcano",
+      "syntax"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"typhoon\", \"algorithm\", \"jewel\", \"oxygen\", \"syntax\", \"whisper\", \"galaxy\", \"kettle\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "typhoon",
+      "algorithm",
+      "jewel",
+      "oxygen",
+      "syntax",
+      "whisper",
+      "galaxy",
+      "kettle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"typhoon\", \"dagger\", \"symphony\", \"lattice\", \"whisper\", \"volcano\", \"gravity\", \"echo\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "typhoon",
+      "dagger",
+      "symphony",
+      "lattice",
+      "whisper",
+      "volcano",
+      "gravity",
+      "echo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"goblet\",\n    \"jargon\",\n    \"lullaby\",\n    \"oxygen\",\n    \"kaleidoscope\",\n    \"whisper\",\n    \"volcano\",\n    \"algorithm\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "goblet",
+      "jargon",
+      "lullaby",
+      "oxygen",
+      "kaleidoscope",
+      "whisper",
+      "volcano",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"ladle\",\n    \"typhoon\",\n    \"jargon\",\n    \"cactus\",\n    \"velvet\",\n    \"oxygen\",\n    \"whisper\",\n    \"gravity\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "ladle",
+      "typhoon",
+      "jargon",
+      "cactus",
+      "velvet",
+      "oxygen",
+      "whisper",
+      "gravity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"pencil\",\n    \"tsunami\",\n    \"giraffe\",\n    \"algorithm\",\n    \"oxygen\",\n    \"kaleidoscope\",\n    \"volcano\",\n    \"whisper\",\n    \"jigsaw\"\n]\n```",
+    "words": [
+      "quasar",
+      "pencil",
+      "tsunami",
+      "giraffe",
+      "algorithm",
+      "oxygen",
+      "kaleidoscope",
+      "volcano",
+      "whisper",
+      "jigsaw"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"piano\", \"typhoon\", \"algorithm\", \"cactus\", \"jewel\", \"oxygen\", \"volcano\", \"kite\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "piano",
+      "typhoon",
+      "algorithm",
+      "cactus",
+      "jewel",
+      "oxygen",
+      "volcano",
+      "kite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"trombone\",\n    \"algorithm\",\n    \"spleen\",\n    \"kaleidoscope\",\n    \"typhoon\",\n    \"jargon\",\n    \"lattice\",\n    \"zucchini\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "trombone",
+      "algorithm",
+      "spleen",
+      "kaleidoscope",
+      "typhoon",
+      "jargon",
+      "lattice",
+      "zucchini"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"fracture\", \"whisper\", \"tundra\", \"alchemy\", \"gravity\", \"kaleidoscope\", \"lullaby\", \"volcano\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "fracture",
+      "whisper",
+      "tundra",
+      "alchemy",
+      "gravity",
+      "kaleidoscope",
+      "lullaby",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"tundra\", \"jazz\", \"enzyme\", \"kaleidoscope\", \"lighthouse\", \"volcano\", \"whisper\", \"galaxy\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "tundra",
+      "jazz",
+      "enzyme",
+      "kaleidoscope",
+      "lighthouse",
+      "volcano",
+      "whisper",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"goblet\",\n    \"jargon\",\n    \"lullaby\",\n    \"oxygen\",\n    \"sphinx\",\n    \"volcano\",\n    \"whisper\",\n    \"zucchini\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "goblet",
+      "jargon",
+      "lullaby",
+      "oxygen",
+      "sphinx",
+      "volcano",
+      "whisper",
+      "zucchini"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "```json\n[\"quasar\", \"tundra\", \"harmonica\", \"oxygen\", \"jubilee\", \"kaleidoscope\", \"volcano\", \"lullaby\", \"paradox\", \"whisper\"]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "harmonica",
+      "oxygen",
+      "jubilee",
+      "kaleidoscope",
+      "volcano",
+      "lullaby",
+      "paradox",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"gadget\",\n    \"whisper\",\n    \"oxygen\",\n    \"labyrinth\",\n    \"jubilee\",\n    \"volcano\",\n    \"harmony\",\n    \"kaleidoscope\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "gadget",
+      "whisper",
+      "oxygen",
+      "labyrinth",
+      "jubilee",
+      "volcano",
+      "harmony",
+      "kaleidoscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"javelin\",\n    \"oxygen\",\n    \"labyrinth\",\n    \"whisper\",\n    \"galaxy\",\n    \"tundra\",\n    \"algorithm\",\n    \"hammock\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "javelin",
+      "oxygen",
+      "labyrinth",
+      "whisper",
+      "galaxy",
+      "tundra",
+      "algorithm",
+      "hammock"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"gossamer\",\n    \"labyrinth\",\n    \"oxygen\",\n    \"kaleidoscope\",\n    \"volcano\",\n    \"harmony\",\n    \"algorithm\",\n    \"whisper\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "gossamer",
+      "labyrinth",
+      "oxygen",
+      "kaleidoscope",
+      "volcano",
+      "harmony",
+      "algorithm",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"hammer\", \"algorithm\", \"lullaby\", \"volcano\", \"kaleidoscope\", \"whisper\", \"tsunami\", \"oxygen\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "hammer",
+      "algorithm",
+      "lullaby",
+      "volcano",
+      "kaleidoscope",
+      "whisper",
+      "tsunami",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"hammer\",\n    \"silence\",\n    \"algorithm\",\n    \"typhoon\",\n    \"velvet\",\n    \"oxygen\",\n    \"labyrinth\",\n    \"echo\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "hammer",
+      "silence",
+      "algorithm",
+      "typhoon",
+      "velvet",
+      "oxygen",
+      "labyrinth",
+      "echo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "```json\n[\"quasar\", \"syllable\", \"jigsaw\", \"oxygen\", \"tundra\", \"zephyr\", \"kaleidoscope\", \"whisper\", \"volcano\", \"algorithm\"]\n```",
+    "words": [
+      "quasar",
+      "syllable",
+      "jigsaw",
+      "oxygen",
+      "tundra",
+      "zephyr",
+      "kaleidoscope",
+      "whisper",
+      "volcano",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"gossamer\",\n    \"labyrinth\",\n    \"kaleidoscope\",\n    \"jubilee\",\n    \"vortex\",\n    \"serendipity\",\n    \"loom\",\n    \"phosphorescence\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "gossamer",
+      "labyrinth",
+      "kaleidoscope",
+      "jubilee",
+      "vortex",
+      "serendipity",
+      "loom",
+      "phosphorescence"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"jubilee\",\n    \"enzyme\",\n    \"lullaby\",\n    \"volcano\",\n    \"kaleidoscope\",\n    \"whisper\",\n    \"algorithm\",\n    \"sphinx\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "jubilee",
+      "enzyme",
+      "lullaby",
+      "volcano",
+      "kaleidoscope",
+      "whisper",
+      "algorithm",
+      "sphinx"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"symphony\",\n    \"enzyme\",\n    \"lattice\",\n    \"volcano\",\n    \"jubilee\",\n    \"paradox\",\n    \"kaleidoscope\",\n    \"whisper\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "symphony",
+      "enzyme",
+      "lattice",
+      "volcano",
+      "jubilee",
+      "paradox",
+      "kaleidoscope",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"algorithm\", \"tundra\", \"kaleidoscope\", \"gravity\", \"whisper\", \"jubilee\", \"oxygen\", \"labyrinth\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "algorithm",
+      "tundra",
+      "kaleidoscope",
+      "gravity",
+      "whisper",
+      "jubilee",
+      "oxygen",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"screwdriver\",\n    \"labyrinth\",\n    \"oxygen\",\n    \"jubilee\",\n    \"tundra\",\n    \"algorithm\",\n    \"whisper\",\n    \"calcium\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "screwdriver",
+      "labyrinth",
+      "oxygen",
+      "jubilee",
+      "tundra",
+      "algorithm",
+      "whisper",
+      "calcium"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "```json\n[\"quasar\", \"moss\", \"typhoon\", \"gadget\", \"echo\", \"lattice\", \"oxygen\", \"jargon\", \"volcano\", \"syllable\"]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "typhoon",
+      "gadget",
+      "echo",
+      "lattice",
+      "oxygen",
+      "jargon",
+      "volcano",
+      "syllable"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"goblet\",\n    \"jargon\",\n    \"lattice\",\n    \"membrane\",\n    \"pinnacle\",\n    \"syntax\",\n    \"volcano\",\n    \"whisper\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "goblet",
+      "jargon",
+      "lattice",
+      "membrane",
+      "pinnacle",
+      "syntax",
+      "volcano",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"trombone\",\n    \"algorithm\",\n    \"whisper\",\n    \"jello\",\n    \"typhoon\",\n    \"cactus\",\n    \"kaleidoscope\",\n    \"oxygen\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "trombone",
+      "algorithm",
+      "whisper",
+      "jello",
+      "typhoon",
+      "cactus",
+      "kaleidoscope",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"jubilee\",\n    \"enzyme\",\n    \"kayak\",\n    \"photon\",\n    \"goblet\",\n    \"whisper\",\n    \"algorithm\",\n    \"moss\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "jubilee",
+      "enzyme",
+      "kayak",
+      "photon",
+      "goblet",
+      "whisper",
+      "algorithm",
+      "moss"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"trombone\",\n    \"algorithm\",\n    \"volcano\",\n    \"whisper\",\n    \"oxygen\",\n    \"carousel\",\n    \"jargon\",\n    \"typhoon\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "trombone",
+      "algorithm",
+      "volcano",
+      "whisper",
+      "oxygen",
+      "carousel",
+      "jargon",
+      "typhoon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"moss\",\n    \"tundra\",\n    \"kettle\",\n    \"jubilee\",\n    \"lattice\",\n    \"oxygen\",\n    \"whisper\",\n    \"volcano\",\n    \"syntax\"\n]\n```",
+    "words": [
+      "quasar",
+      "moss",
+      "tundra",
+      "kettle",
+      "jubilee",
+      "lattice",
+      "oxygen",
+      "whisper",
+      "volcano",
+      "syntax"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"symphony\",\n    \"molecule\",\n    \"kaleidoscope\",\n    \"oxygen\",\n    \"labyrinth\",\n    \"whisper\",\n    \"algorithm\",\n    \"volcano\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "symphony",
+      "molecule",
+      "kaleidoscope",
+      "oxygen",
+      "labyrinth",
+      "whisper",
+      "algorithm",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "```json\n[\n    \"quasar\",\n    \"tundra\",\n    \"gossamer\",\n    \"labyrinth\",\n    \"kaleidoscope\",\n    \"oxygen\",\n    \"jargon\",\n    \"volcano\",\n    \"syntax\",\n    \"whisper\"\n]\n```",
+    "words": [
+      "quasar",
+      "tundra",
+      "gossamer",
+      "labyrinth",
+      "kaleidoscope",
+      "oxygen",
+      "jargon",
+      "volcano",
+      "syntax",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "```json\n[\"quasar\", \"trowel\", \"jubilance\", \"membrane\", \"gargoyle\", \"algorithm\", \"kaleidoscope\", \"zucchini\", \"whirlpool\", \"syntax\"]\n```",
+    "words": [
+      "quasar",
+      "trowel",
+      "jubilance",
+      "membrane",
+      "gargoyle",
+      "algorithm",
+      "kaleidoscope",
+      "zucchini",
+      "whirlpool",
+      "syntax"
+    ],
+    "api_error": null
+  }
+]

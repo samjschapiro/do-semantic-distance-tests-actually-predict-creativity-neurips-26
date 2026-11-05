@@ -1,0 +1,719 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"fraction\", \"jellyfish\", \"galaxy\", \"sorrow\", \"screwdriver\", \"volcano\", \"wheat\", \"electron\", \"trousers\", \"balcony\"]",
+    "words": [
+      "fraction",
+      "jellyfish",
+      "galaxy",
+      "sorrow",
+      "screwdriver",
+      "volcano",
+      "wheat",
+      "electron",
+      "trousers",
+      "balcony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"oxygen\", \"symphony\", \"volcano\", \"mosquito\", \"justice\", \"algorithm\", \"velvet\", \"liver\", \"triangle\", \"refrigerator\"]",
+    "words": [
+      "oxygen",
+      "symphony",
+      "volcano",
+      "mosquito",
+      "justice",
+      "algorithm",
+      "velvet",
+      "liver",
+      "triangle",
+      "refrigerator"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"galaxy\", \"sorrow\", \"enzyme\", \"chair\", \"oxygen\", \"elephant\", \"triangle\", \"jazz\", \"voltage\", \"mud\"]",
+    "words": [
+      "galaxy",
+      "sorrow",
+      "enzyme",
+      "chair",
+      "oxygen",
+      "elephant",
+      "triangle",
+      "jazz",
+      "voltage",
+      "mud"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\n  \"melancholy\",\n  \"iguana\",\n  \"plasma\",\n  \"galaxy\",\n  \"spatula\",\n  \"millennium\",\n  \"moss\",\n  \"avalanche\",\n  \"democracy\",\n  \"cartilage\"\n]",
+    "words": [
+      "melancholy",
+      "iguana",
+      "plasma",
+      "galaxy",
+      "spatula",
+      "millennium",
+      "moss",
+      "avalanche",
+      "democracy",
+      "cartilage"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"entropy\", \"anvil\", \"moss\", \"jellyfish\", \"quasar\", \"nostalgia\", \"paprika\", \"velvet\", \"gargoyle\", \"crescendo\"]",
+    "words": [
+      "entropy",
+      "anvil",
+      "moss",
+      "jellyfish",
+      "quasar",
+      "nostalgia",
+      "paprika",
+      "velvet",
+      "gargoyle",
+      "crescendo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\n  \"geometry\",\n  \"elephant\",\n  \"sadness\",\n  \"broccoli\",\n  \"volcano\",\n  \"scissors\",\n  \"galaxy\",\n  \"explosion\",\n  \"democracy\",\n  \"electron\"\n]",
+    "words": [
+      "geometry",
+      "elephant",
+      "sadness",
+      "broccoli",
+      "volcano",
+      "scissors",
+      "galaxy",
+      "explosion",
+      "democracy",
+      "electron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"galaxy\", \"spatula\", \"platypus\", \"zinc\", \"rhombus\", \"vengeance\", \"gazebo\", \"syntax\", \"spleen\", \"blizzard\"]",
+    "words": [
+      "galaxy",
+      "spatula",
+      "platypus",
+      "zinc",
+      "rhombus",
+      "vengeance",
+      "gazebo",
+      "syntax",
+      "spleen",
+      "blizzard"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"broccoli\", \"tsunami\", \"kangaroo\", \"philosophy\", \"molecule\", \"obelisk\", \"melody\", \"century\", \"algorithm\", \"galaxy\"]",
+    "words": [
+      "broccoli",
+      "tsunami",
+      "kangaroo",
+      "philosophy",
+      "molecule",
+      "obelisk",
+      "melody",
+      "century",
+      "algorithm",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"kangaroo\", \"justice\", \"wrench\", \"lava\", \"galaxy\", \"cacophony\", \"century\", \"electron\", \"peninsula\", \"mushroom\"]",
+    "words": [
+      "kangaroo",
+      "justice",
+      "wrench",
+      "lava",
+      "galaxy",
+      "cacophony",
+      "century",
+      "electron",
+      "peninsula",
+      "mushroom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\n  \"integer\",\n  \"elephant\",\n  \"grief\",\n  \"galaxy\",\n  \"scissors\",\n  \"moss\",\n  \"balcony\",\n  \"soup\",\n  \"symphony\",\n  \"boot\"\n]",
+    "words": [
+      "integer",
+      "elephant",
+      "grief",
+      "galaxy",
+      "scissors",
+      "moss",
+      "balcony",
+      "soup",
+      "symphony",
+      "boot"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"jealousy\", \"galaxy\", \"enzyme\", \"bulldozer\", \"peninsula\", \"platypus\", \"velvet\", \"cactus\", \"cinnamon\", \"quotient\"]",
+    "words": [
+      "jealousy",
+      "galaxy",
+      "enzyme",
+      "bulldozer",
+      "peninsula",
+      "platypus",
+      "velvet",
+      "cactus",
+      "cinnamon",
+      "quotient"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"jellyfish\", \"obelisk\", \"oxygen\", \"grief\", \"canyon\", \"melody\", \"sweater\", \"syllogism\", \"galaxy\", \"moss\"]",
+    "words": [
+      "jellyfish",
+      "obelisk",
+      "oxygen",
+      "grief",
+      "canyon",
+      "melody",
+      "sweater",
+      "syllogism",
+      "galaxy",
+      "moss"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\n  \"justice\",\n  \"electron\",\n  \"giraffe\",\n  \"sadness\",\n  \"volcano\",\n  \"spoon\",\n  \"afternoon\",\n  \"fern\",\n  \"kidney\",\n  \"rhythm\"\n]",
+    "words": [
+      "justice",
+      "electron",
+      "giraffe",
+      "sadness",
+      "volcano",
+      "spoon",
+      "afternoon",
+      "fern",
+      "kidney",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\n  \"galaxy\",\n  \"sorrow\",\n  \"spatula\",\n  \"dolphin\",\n  \"poverty\",\n  \"ozone\",\n  \"kidney\",\n  \"tundra\",\n  \"syllable\",\n  \"electron\"\n]",
+    "words": [
+      "galaxy",
+      "sorrow",
+      "spatula",
+      "dolphin",
+      "poverty",
+      "ozone",
+      "kidney",
+      "tundra",
+      "syllable",
+      "electron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"melancholy\", \"rhinoceros\", \"galaxy\", \"hypotenuse\", \"broccoli\", \"sweatshirt\", \"concerto\", \"volcano\", \"microprocessor\", \"millennium\"]",
+    "words": [
+      "melancholy",
+      "rhinoceros",
+      "galaxy",
+      "hypotenuse",
+      "broccoli",
+      "sweatshirt",
+      "concerto",
+      "volcano",
+      "microprocessor",
+      "millennium"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"geometry\", \"rhinoceros\", \"spatula\", \"blizzard\", \"grief\", \"pancreas\", \"velvet\", \"galaxy\", \"broccoli\", \"monarchy\"]",
+    "words": [
+      "geometry",
+      "rhinoceros",
+      "spatula",
+      "blizzard",
+      "grief",
+      "pancreas",
+      "velvet",
+      "galaxy",
+      "broccoli",
+      "monarchy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\n  \"rhinoceros\",\n  \"algorithm\",\n  \"galaxy\",\n  \"symphony\",\n  \"sweater\",\n  \"democracy\",\n  \"vol",
+    "words": [
+      "rhinoceros",
+      "algorithm",
+      "galaxy",
+      "symphony",
+      "sweater",
+      "democracy",
+      "vol"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"justice\", \"penguin\", \"galaxy\", \"screwdriver\", \"oxygen\", \"broccoli\", \"kidney\", \"blizzard\", \"tuxedo\", \"corridor\"]",
+    "words": [
+      "justice",
+      "penguin",
+      "galaxy",
+      "screwdriver",
+      "oxygen",
+      "broccoli",
+      "kidney",
+      "blizzard",
+      "tuxedo",
+      "corridor"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\n  \"justice\",\n  \"elephant\",\n  \"hammer\",\n  \"volcano\",\n  \"cheese\",\n  \"kidney\",\n  \"isotope\",\n  \"monarchy\",\n  \"symphony\",\n  \"nebula\"\n]",
+    "words": [
+      "justice",
+      "elephant",
+      "hammer",
+      "volcano",
+      "cheese",
+      "kidney",
+      "isotope",
+      "monarchy",
+      "symphony",
+      "nebula"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"sympathy\", \"galaxy\", \"rhinoceros\", \"denominator\", \"submarine\", \"chlorophyll\", \"eyelash\", \"tuxedo\", \"xylophone\", \"mango\"]",
+    "words": [
+      "sympathy",
+      "galaxy",
+      "rhinoceros",
+      "denominator",
+      "submarine",
+      "chlorophyll",
+      "eyelash",
+      "tuxedo",
+      "xylophone",
+      "mango"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\n  \"nostalgia\",\n  \"screwdriver\",\n  \"octopus\",\n  \"avalanche\",\n  \"numerator\",\n  \"broccoli\",\n  \"tuxedo\",\n  \"cathedral\",\n  \"kidney\",\n  \"xylophone\"\n]",
+    "words": [
+      "nostalgia",
+      "screwdriver",
+      "octopus",
+      "avalanche",
+      "numerator",
+      "broccoli",
+      "tuxedo",
+      "cathedral",
+      "kidney",
+      "xylophone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\n  \"sorrow\",\n  \"elephant\",\n  \"galaxy\",\n  \"broccoli\",\n  \"wrench\",\n  \"scarf\",\n  \"oxygen\",\n  \"ocean\",\n  \"democracy\",\n  \"afternoon\"\n]",
+    "words": [
+      "sorrow",
+      "elephant",
+      "galaxy",
+      "broccoli",
+      "wrench",
+      "scarf",
+      "oxygen",
+      "ocean",
+      "democracy",
+      "afternoon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"entropy\", \"bacterium\", \"galaxy\", \"spoon\", \"sadness\", \"melody\", \"canyon\", \"century\", \"fern\", \"treaty\"]",
+    "words": [
+      "entropy",
+      "bacterium",
+      "galaxy",
+      "spoon",
+      "sadness",
+      "melody",
+      "canyon",
+      "century",
+      "fern",
+      "treaty"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"freedom\", \"jellyfish\", \"wrench\", \"thunder\", \"broccoli\", \"isotope\", \"cardigan\", \"skyscraper\", \"shampoo\", \"galaxy\"]",
+    "words": [
+      "freedom",
+      "jellyfish",
+      "wrench",
+      "thunder",
+      "broccoli",
+      "isotope",
+      "cardigan",
+      "skyscraper",
+      "shampoo",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"justice\", \"galaxy\", \"elephant\", \"hammer\", \"oxygen\", \"violin\", \"fern\", \"cheese\", \"triangle\", \"kidney\"]",
+    "words": [
+      "justice",
+      "galaxy",
+      "elephant",
+      "hammer",
+      "oxygen",
+      "violin",
+      "fern",
+      "cheese",
+      "triangle",
+      "kidney"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"truth\", \"rhinoceros\", \"galaxy\", \"broccoli\", \"screwdriver\", \"jealousy\", \"velvet\", \"symphony\", \"elbow\", \"blizzard\"]",
+    "words": [
+      "truth",
+      "rhinoceros",
+      "galaxy",
+      "broccoli",
+      "screwdriver",
+      "jealousy",
+      "velvet",
+      "symphony",
+      "elbow",
+      "blizzard"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"galaxy\", \"sorrow\", \"enzyme\", \"symphony\", \"democracy\", \"gecko\", \"velvet\", \"algebra\", \"volcano\", \"spatula\"]",
+    "words": [
+      "galaxy",
+      "sorrow",
+      "enzyme",
+      "symphony",
+      "democracy",
+      "gecko",
+      "velvet",
+      "algebra",
+      "volcano",
+      "spatula"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"joy\", \"granite\", \"octopus\", \"galaxy\", \"afternoon\", \"sweater\", \"fern\", \"mustard\", \"triangle\", \"blizzard\"]",
+    "words": [
+      "joy",
+      "granite",
+      "octopus",
+      "galaxy",
+      "afternoon",
+      "sweater",
+      "fern",
+      "mustard",
+      "triangle",
+      "blizzard"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"integer\", \"jellyfish\", \"helicopter\", \"sorrow\", \"volcano\", \"broccoli\", \"saxophone\", \"galaxy\", \"century\", \"consonant\"]",
+    "words": [
+      "integer",
+      "jellyfish",
+      "helicopter",
+      "sorrow",
+      "volcano",
+      "broccoli",
+      "saxophone",
+      "galaxy",
+      "century",
+      "consonant"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\n  \"democracy\",\n  \"electron\",\n  \"giraffe\",\n  \"volcano\",\n  \"symphony\",\n  \"broccoli\",\n  \"helicopter\",\n  \"enzyme\",\n  \"triangle\",\n  \"carpet\"\n]",
+    "words": [
+      "democracy",
+      "electron",
+      "giraffe",
+      "volcano",
+      "symphony",
+      "broccoli",
+      "helicopter",
+      "enzyme",
+      "triangle",
+      "carpet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"quartz\", \"elephant\", \"galaxy\", \"broccoli\", \"century\", \"voltage\", \"democracy\", \"canyon\", \"virus\", \"symphony\"]",
+    "words": [
+      "quartz",
+      "elephant",
+      "galaxy",
+      "broccoli",
+      "century",
+      "voltage",
+      "democracy",
+      "canyon",
+      "virus",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\n  \"geometry\",\n  \"elephant\",\n  \"galaxy\",\n  \"sadness\",\n  \"broccoli\",\n  \"screwdriver\",\n  \"oxygen\",\n  \"democracy\",\n  \"sock\",\n  \"kidney\"\n]",
+    "words": [
+      "geometry",
+      "elephant",
+      "galaxy",
+      "sadness",
+      "broccoli",
+      "screwdriver",
+      "oxygen",
+      "democracy",
+      "sock",
+      "kidney"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"symphony\", \"avalanche\", \"tentacle\", \"transistor\", \"jealousy\", \"broccoli\", \"hypotenuse\", \"republic\", \"quasar\", \"enzyme\"]",
+    "words": [
+      "symphony",
+      "avalanche",
+      "tentacle",
+      "transistor",
+      "jealousy",
+      "broccoli",
+      "hypotenuse",
+      "republic",
+      "quasar",
+      "enzyme"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"galaxy\", \"sorrow\", \"mosquito\", \"velvet\", \"algorithm\", \"kidney\", \"trombone\", \"blizzard\", \"democracy\", \"fork\"]",
+    "words": [
+      "galaxy",
+      "sorrow",
+      "mosquito",
+      "velvet",
+      "algorithm",
+      "kidney",
+      "trombone",
+      "blizzard",
+      "democracy",
+      "fork"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"epiphany\", \"galaxy\", \"enzyme\", \"wrench\", \"broccoli\", \"platypus\", \"quark\", \"archipelago\", \"millennium\", \"jurisdiction\"]",
+    "words": [
+      "epiphany",
+      "galaxy",
+      "enzyme",
+      "wrench",
+      "broccoli",
+      "platypus",
+      "quark",
+      "archipelago",
+      "millennium",
+      "jurisdiction"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"justice\", \"kidney\", \"wardrobe\", \"grief\", \"tsunami\", \"asphalt\", \"cactus\", \"broccoli\", \"democracy\", \"electron\"]",
+    "words": [
+      "justice",
+      "kidney",
+      "wardrobe",
+      "grief",
+      "tsunami",
+      "asphalt",
+      "cactus",
+      "broccoli",
+      "democracy",
+      "electron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\n  \"jealousy\",\n  \"galaxy\",\n  \"broccoli\",\n  \"screwdriver\",\n  \"elephant\",\n  \"integer\",\n  \"sweater\",\n  \"oxygen\",\n  \"democracy\",\n  \"symphony\"\n]",
+    "words": [
+      "jealousy",
+      "galaxy",
+      "broccoli",
+      "screwdriver",
+      "elephant",
+      "integer",
+      "sweater",
+      "oxygen",
+      "democracy",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"geometry\", \"squid\", \"anvil\", \"blizzard\", \"nostalgia\", \"broccoli\", \"tuxedo\", \"hovercraft\", \"volcano\", \"symphony\"]",
+    "words": [
+      "geometry",
+      "squid",
+      "anvil",
+      "blizzard",
+      "nostalgia",
+      "broccoli",
+      "tuxedo",
+      "hovercraft",
+      "volcano",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"wardrobe\", \"jealousy\", \"octopus\", \"galaxy\", \"enzyme\", \"rhombus\", \"jurisdiction\", \"tundra\", \"thermostat\", \"symphony\"]",
+    "words": [
+      "wardrobe",
+      "jealousy",
+      "octopus",
+      "galaxy",
+      "enzyme",
+      "rhombus",
+      "jurisdiction",
+      "tundra",
+      "thermostat",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"geometry\", \"elephant\", \"strawberry\", \"jealousy\", \"galaxy\", \"screwdriver\", \"kidney\", \"electron\", \"blizzard\", \"afternoon\"]",
+    "words": [
+      "geometry",
+      "elephant",
+      "strawberry",
+      "jealousy",
+      "galaxy",
+      "screwdriver",
+      "kidney",
+      "electron",
+      "blizzard",
+      "afternoon"
+    ],
+    "api_error": null
+  }
+]

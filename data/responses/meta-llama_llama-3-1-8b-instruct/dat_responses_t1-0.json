@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\n  \"galaxy\",\n  \"cloud\",\n  \"bronze\",\n  \"yacht\",\n  \"data\",\n  \"whim\",\n  \"spathic\",\n  \"kayak\",\n  \"entropy\",\n  \"pastille\"\n]",
+    "words": [
+      "galaxy",
+      "cloud",
+      "bronze",
+      "yacht",
+      "data",
+      "whim",
+      "spathic",
+      "kayak",
+      "entropy",
+      "pastille"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\n  \"Molecule\",\n  \"Kaleidoscope\",\n  \"Histogram\",\n  \"Scarab\",\n  \"Frozen\",\n  \"Banjo\",\n  \"Biomass\",\n  \"Camera\",\n  \"Rig\",\n  \"Tapestry\"\n]",
+    "words": [
+      "molecule",
+      "kaleidoscope",
+      "histogram",
+      "scarab",
+      "frozen",
+      "banjo",
+      "biomass",
+      "camera",
+      "rig",
+      "tapestry"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"agar\", \"nougat\", \"PEAR\", \"kayak\", \"fjord\", \"bubble\", \"aurus\", \"laser\", \"tarpon\", \"sage\"]",
+    "words": [
+      "agar",
+      "nougat",
+      "pear",
+      "kayak",
+      "fjord",
+      "bubble",
+      "aurus",
+      "laser",
+      "tarpon",
+      "sage"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"Meteorite\", \"Harmony\", \"Gargoyle\", \"Metric\", \"Cipher\", \"Vacancy\", \"Nebula\", \"Soybean\", \"Fathom\", \"Paprika\"]",
+    "words": [
+      "meteorite",
+      "harmony",
+      "gargoyle",
+      "metric",
+      "cipher",
+      "vacancy",
+      "nebula",
+      "soybean",
+      "fathom",
+      "paprika"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\n  \"Kaleidoscope\",\n  \"Sandwich\",\n  \"Meteorite\",\n  \"Saxophone\",\n  \"Porcupine\",\n  \"Sequencer\",\n  \"Crustacean\",\n  \"Lithograph\",\n  \"Ferret\",\n  \"Cathedral\"\n]",
+    "words": [
+      "kaleidoscope",
+      "sandwich",
+      "meteorite",
+      "saxophone",
+      "porcupine",
+      "sequencer",
+      "crustacean",
+      "lithograph",
+      "ferret",
+      "cathedral"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\n  \"whisper\",\n  \"space\",\n  \"piano\",\n  \"lumber\",\n  \"quasar\",\n  \"kaleidoscope\",\n  \"rhinoceros\",\n  \"fractal\",\n  \"sandcastle\",\n  \"aardvark\"\n]",
+    "words": [
+      "whisper",
+      "space",
+      "piano",
+      "lumber",
+      "quasar",
+      "kaleidoscope",
+      "rhinoceros",
+      "fractal",
+      "sandcastle",
+      "aardvark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\n  \"Aardvark\",\n  \"Kaleidoscope\",\n  \"Transistor\",\n  \"Meteor\",\n  \"Tapestry\",\n  \"Rig\",\n  \"Fjord\",\n  \"Parallax\",\n  \"Seaweed\",\n  \"Typewriter\"\n]",
+    "words": [
+      "aardvark",
+      "kaleidoscope",
+      "transistor",
+      "meteor",
+      "tapestry",
+      "rig",
+      "fjord",
+      "parallax",
+      "seaweed",
+      "typewriter"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\n  \"cloud\",\n  \"algorithm\",\n  \"harmony\",\n  \"scaffold\",\n  \"quail\",\n  \"microscope\",\n  \"Americana\",\n  \"tapestry\",\n  \"abyss\",\n  \"glockenspiel\"\n]",
+    "words": [
+      "cloud",
+      "algorithm",
+      "harmony",
+      "scaffold",
+      "quail",
+      "microscope",
+      "americana",
+      "tapestry",
+      "abyss",
+      "glockenspiel"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\n  \"quasar\",\n  \"harmonica\",\n  \"submerged\",\n  \"stetoscope\",\n  \"couture\",\n  \"espresso\",\n  \"megaphone\",\n  \"clawhammer\",\n  \"enclosure\",\n  \"aurora\"\n]",
+    "words": [
+      "quasar",
+      "harmonica",
+      "submerged",
+      "stetoscope",
+      "couture",
+      "espresso",
+      "megaphone",
+      "clawhammer",
+      "enclosure",
+      "aurora"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"quark\", \"saffron\", \"trombone\", \"nanotube\", \"cumulus\", \"fjord\", \"petrichor\", \"vortex\", \"skein\", \"amaranth\"]",
+    "words": [
+      "quark",
+      "saffron",
+      "trombone",
+      "nanotube",
+      "cumulus",
+      "fjord",
+      "petrichor",
+      "vortex",
+      "skein",
+      "amaranth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\n  \"molecule\",\n  \"lyre\",\n  \"cathedral\",\n  \"algorithm\",\n  \"hydrangea\",\n  \"cirrus\",\n  \"banjo\",\n  \"gastronomy\",\n  \"quartz\",\n  \"piano\"\n]",
+    "words": [
+      "molecule",
+      "lyre",
+      "cathedral",
+      "algorithm",
+      "hydrangea",
+      "cirrus",
+      "banjo",
+      "gastronomy",
+      "quartz",
+      "piano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"Nebula\", \"Knot\", \"Glacier\", \"Sphinx\", \"Harpsichord\", \"Vacuum\", \"Peacock\", \"Laser\", \"Fjord\", \"Piano\"]",
+    "words": [
+      "nebula",
+      "knot",
+      "glacier",
+      "sphinx",
+      "harpsichord",
+      "vacuum",
+      "peacock",
+      "laser",
+      "fjord",
+      "piano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"Kaleidoscope\", \"Sand\", \"Cathedral\", \"Whirlpool\", \"Fiddle\", \"Gargoyle\", \"Periwinkle\", \"Nebula\", \"Thimble\", \"Mousetrap\"]",
+    "words": [
+      "kaleidoscope",
+      "sand",
+      "cathedral",
+      "whirlpool",
+      "fiddle",
+      "gargoyle",
+      "periwinkle",
+      "nebula",
+      "thimble",
+      "mousetrap"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"Quasar\", \"Fiddlehead\", \"Sniffer\", \"Kaleidoscope\", \"Vesper\", \"Luminary\", \"Galleon\", \"Nemesis\", \"Pungi\", \"Bastion\"]",
+    "words": [
+      "quasar",
+      "fiddlehead",
+      "sniffer",
+      "kaleidoscope",
+      "vesper",
+      "luminary",
+      "galleon",
+      "nemesis",
+      "pungi",
+      "bastion"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "```json\n[\n  \"kaleidoscope\",\n  \"hexagon\",\n  \"vertebra\",\n  \"quartz\",\n  \"gallows\",\n  \"novel\",\n  \"tahini\",\n  \"sonata\",\n  \"galaxy\",\n  \"cascade\"\n]\n```",
+    "words": [
+      "kaleidoscope",
+      "hexagon",
+      "vertebra",
+      "quartz",
+      "gallows",
+      "novel",
+      "tahini",
+      "sonata",
+      "galaxy",
+      "cascade"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"Kaleidoscope\", \"Thunderbolt\", \"Nougat\", \"Anthology\", \"Quarantine\", \"Gallium\", \"Luminary\", \"Thaumaturgy\", \"Redshift\", \"Sarcophagus\"]",
+    "words": [
+      "kaleidoscope",
+      "thunderbolt",
+      "nougat",
+      "anthology",
+      "quarantine",
+      "gallium",
+      "luminary",
+      "thaumaturgy",
+      "redshift",
+      "sarcophagus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"quasar\", \"harmonica\", \"fjord\", \"scimitar\", \"binary\", \"saffron\", \"sepia\", \"gargoyle\", \"syrup\", \"laser\"]",
+    "words": [
+      "quasar",
+      "harmonica",
+      "fjord",
+      "scimitar",
+      "binary",
+      "saffron",
+      "sepia",
+      "gargoyle",
+      "syrup",
+      "laser"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\n  \"Galaxy\",\n  \"Fiddle\",\n  \"Quartz\",\n  \"Meteorite\",\n  \"Piano\",\n  \"Submarine\",\n  \"Harmonica\",\n  \"Bonsai\",\n  \"Ravioli\",\n  \"Kaleidoscope\"\n]",
+    "words": [
+      "galaxy",
+      "fiddle",
+      "quartz",
+      "meteorite",
+      "piano",
+      "submarine",
+      "harmonica",
+      "bonsai",
+      "ravioli",
+      "kaleidoscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"Pygmy\", \"Avalanche\", \"Tapestry\", \"Harvester\", \"Sandstorm\", \"Gadfly\", \"Luxury\", \"Scintilla\", \"Banshee\", \"Quasar\"]",
+    "words": [
+      "pygmy",
+      "avalanche",
+      "tapestry",
+      "harvester",
+      "sandstorm",
+      "gadfly",
+      "luxury",
+      "scintilla",
+      "banshee",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\n  \"Fjord\",\n  \"Harmonica\",\n  \"Meteorite\",\n  \"Kaleidoscope\",\n  \"Fibonacci\",\n  \"Sandstone\",\n  \"Vacuum\",\n  \"Bougainvillea\",\n  \"Glacier\",\n  \"Calliope\"\n]",
+    "words": [
+      "fjord",
+      "harmonica",
+      "meteorite",
+      "kaleidoscope",
+      "fibonacci",
+      "sandstone",
+      "vacuum",
+      "bougainvillea",
+      "glacier",
+      "calliope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\n  \"Quartz\",\n  \"Saffron\",\n  \"Gondola\",\n  \"Fjord\",\n  \"Cathedral\",\n  \"Astronaut\",\n  \"Submarine\",\n  \"Vortex\",\n  \"Kiln\",\n  \"Mistress\"\n]",
+    "words": [
+      "quartz",
+      "saffron",
+      "gondola",
+      "fjord",
+      "cathedral",
+      "astronaut",
+      "submarine",
+      "vortex",
+      "kiln",
+      "mistress"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"quasar\", \"sandwich\", \"kiln\", \"violect\", \"compass\", \"quilt\", \"truffle\", \"fjord\", \"harpsichord\", \"lichen\"]",
+    "words": [
+      "quasar",
+      "sandwich",
+      "kiln",
+      "violect",
+      "compass",
+      "quilt",
+      "truffle",
+      "fjord",
+      "harpsichord",
+      "lichen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"Quartz\", \"Thunder\", \"Piano\", \"Vacuum\", \"Glacier\", \"Nutmeg\", \"Fiddle\", \"Dynamite\", \"Fungus\", \"Typewriter\"]",
+    "words": [
+      "quartz",
+      "thunder",
+      "piano",
+      "vacuum",
+      "glacier",
+      "nutmeg",
+      "fiddle",
+      "dynamite",
+      "fungus",
+      "typewriter"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"Meteor\", \"Spectacle\", \"Fjord\", \"Diadem\", \"Tapestry\", \"Cathode\", \"Whimsey\", \"Boulder\", \"Umbra\", \"Cactus\"]",
+    "words": [
+      "meteor",
+      "spectacle",
+      "fjord",
+      "diadem",
+      "tapestry",
+      "cathode",
+      "whimsey",
+      "boulder",
+      "umbra",
+      "cactus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\n  \"Cathedral\",\n  \"Quartz\",\n  \"Cactus\",\n  \"Harmonica\",\n  \"Manhole\",\n  \"Fjord\",\n  \"Gargoyle\",\n  \"Cameleon\",\n  \"Prefect\",\n  \"Saxophone\"\n]",
+    "words": [
+      "cathedral",
+      "quartz",
+      "cactus",
+      "harmonica",
+      "manhole",
+      "fjord",
+      "gargoyle",
+      "cameleon",
+      "prefect",
+      "saxophone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\n  \"Quartz\",\n  \"Piano\",\n  \"Vacuum\",\n  \"Island\",\n  \"Fusion\",\n  \"Lawn\",\n  \"Fjord\",\n  \"Glockenspiel\",\n  \"Knot\",\n  \"Paprika\"\n]",
+    "words": [
+      "quartz",
+      "piano",
+      "vacuum",
+      "island",
+      "fusion",
+      "lawn",
+      "fjord",
+      "glockenspiel",
+      "knot",
+      "paprika"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\n  \"Fjord\",\n  \"Saffron\",\n  \"Glider\",\n  \"Harmonica\",\n  \"Periwinkle\",\n  \"Quartz\",\n  \"Llama\",\n  \"Cathedral\",\n  \"Fennel\",\n  \"Piano\"\n]",
+    "words": [
+      "fjord",
+      "saffron",
+      "glider",
+      "harmonica",
+      "periwinkle",
+      "quartz",
+      "llama",
+      "cathedral",
+      "fennel",
+      "piano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"kayak\", \"bronze\", \"quartz\", \"harmonica\", \"sandpiper\", \"rubber\", \"dynamite\", \"cicada\", \"agate\", \"gymnasium\"]",
+    "words": [
+      "kayak",
+      "bronze",
+      "quartz",
+      "harmonica",
+      "sandpiper",
+      "rubber",
+      "dynamite",
+      "cicada",
+      "agate",
+      "gymnasium"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\n  \"Kaleidoscope\",\n  \"Submarine\",\n  \"Piano\",\n  \"Meteorite\",\n  \"Harmonica\",\n  \"Tapestry\",\n  \"Glacier\",\n  \"Guitar\",\n  \"Perfume\",\n  \"Dynamite\"\n]",
+    "words": [
+      "kaleidoscope",
+      "submarine",
+      "piano",
+      "meteorite",
+      "harmonica",
+      "tapestry",
+      "glacier",
+      "guitar",
+      "perfume",
+      "dynamite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"Fjord\", \"Quartz\", \"Sandwich\", \"Octopus\", \"Cello\", \"Meteor\", \"Saffron\", \"Fuchsia\", \"Glockenspiel\", \"Tapestry\"]",
+    "words": [
+      "fjord",
+      "quartz",
+      "sandwich",
+      "octopus",
+      "cello",
+      "meteor",
+      "saffron",
+      "fuchsia",
+      "glockenspiel",
+      "tapestry"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"quokka\", \"saffron\", \"kiln\", \"galaxy\", \"fiddle\", \"cathedral\", \"sandpaper\", \"magnet\", \"lychee\", \"tambourine\"]",
+    "words": [
+      "quokka",
+      "saffron",
+      "kiln",
+      "galaxy",
+      "fiddle",
+      "cathedral",
+      "sandpaper",
+      "magnet",
+      "lychee",
+      "tambourine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"typewriter\", \"quartz\", \"spacecraft\", \"fiddle\", \"cactus\", \"nasal\", \"sponge\", \"whirlpool\", \"$virus\", \"harmonica\"]",
+    "words": [
+      "typewriter",
+      "quartz",
+      "spacecraft",
+      "fiddle",
+      "cactus",
+      "nasal",
+      "sponge",
+      "whirlpool",
+      "$virus",
+      "harmonica"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\n  \"quasar\",\n  \"somnolence\",\n  \"kayak\",\n  \"harp\",\n  \"fjord\",\n  \"persimmon\",\n  \"gondola\",\n  \"tapestry\",\n  \"hydrangea\",\n  \"aurora\"\n]",
+    "words": [
+      "quasar",
+      "somnolence",
+      "kayak",
+      "harp",
+      "fjord",
+      "persimmon",
+      "gondola",
+      "tapestry",
+      "hydrangea",
+      "aurora"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\n  \"Fjord\",\n  \"Fiddle\",\n  \"Carat\",\n  \"Quarry\",\n  \"Glacier\",\n  \"Jester\",\n  \"Nebula\",\n  \"Cactus\",\n  \"Mirage\",\n  \"Saxophone\"\n]",
+    "words": [
+      "fjord",
+      "fiddle",
+      "carat",
+      "quarry",
+      "glacier",
+      "jester",
+      "nebula",
+      "cactus",
+      "mirage",
+      "saxophone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"Kaleidoscope\", \"Thunderstorm\", \"Marmalade\", \"Gargoyle\", \"Cathode\", \"Quilt\", \"Rhapsody\", \"Weathercock\", \"Granite\", \"Stethoscope\"]",
+    "words": [
+      "kaleidoscope",
+      "thunderstorm",
+      "marmalade",
+      "gargoyle",
+      "cathode",
+      "quilt",
+      "rhapsody",
+      "weathercock",
+      "granite",
+      "stethoscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\n  \" Fountain\",\n  \"Quartz\",\n  \"Bromite\",\n  \"Kaleidoscope\",\n  \"Avocado\",\n  \"Cathode\",\n  \"Ginseng\",\n  \"Crinkle\",\n  \"Petrichor\",\n  \"Fjord\"\n]",
+    "words": [
+      "fountain",
+      "quartz",
+      "bromite",
+      "kaleidoscope",
+      "avocado",
+      "cathode",
+      "ginseng",
+      "crinkle",
+      "petrichor",
+      "fjord"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"quasar\", \"nostalgia\", \"fjord\", \"sandwich\", \"harpsichord\", \"knead\", \"bacterium\", \"incipient\", \"gerrymander\", \"skepticism\"]",
+    "words": [
+      "quasar",
+      "nostalgia",
+      "fjord",
+      "sandwich",
+      "harpsichord",
+      "knead",
+      "bacterium",
+      "incipient",
+      "gerrymander",
+      "skepticism"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"quasar\", \"garden\", \"sapphire\", \"accordion\", \"fjord\", \"helix\", \"canvas\", \"trombone\", \"ostrich\", \"galvanize\"]",
+    "words": [
+      "quasar",
+      "garden",
+      "sapphire",
+      "accordion",
+      "fjord",
+      "helix",
+      "canvas",
+      "trombone",
+      "ostrich",
+      "galvanize"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "Here are 10 words that meet the criteria:\n\n [\n  \"space\",\n  \"shutter\",\n  \"galaxy\",\n  \"flute\",\n  \"cement\",\n  \"kettle\",\n  \"screw\",\n  \"harbor\",\n  \"percolator\",\n  \"grenade\"\n]",
+    "words": [
+      "space",
+      "shutter",
+      "galaxy",
+      "flute",
+      "cement",
+      "kettle",
+      "screw",
+      "harbor",
+      "percolator",
+      "grenade"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\n  \"Fjord\",\n  \"Quartz\",\n  \"Garden\",\n  \"Chainsaw\",\n  \"Nugget\",\n  \"Fiddle\",\n  \"Thrall\",\n  \"Gurgle\",\n  \"Maroon\",\n  \"Tapestry\"\n]",
+    "words": [
+      "fjord",
+      "quartz",
+      "garden",
+      "chainsaw",
+      "nugget",
+      "fiddle",
+      "thrall",
+      "gurgle",
+      "maroon",
+      "tapestry"
+    ],
+    "api_error": null
+  }
+]

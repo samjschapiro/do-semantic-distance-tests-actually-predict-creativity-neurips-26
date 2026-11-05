@@ -1,0 +1,939 @@
+{
+  "rock": {
+    "seed": 2000,
+    "raw_response": "[\"mineral\", \"mountain\", \"crystal\", \"erosion\", \"quartz\", \"\u5eca\u574a\", \"\u529f\u8bfe\", \"journal\", \" welded\", \"inan\ud83d\udfe2 heterogeneous\"] \n\nNote: It seems there might be an error in the above response as it contains non-English and improperly formatted words. Let me correct that for you:\n\n[\"mineral\", \"mountain\", \"crystal\", \"erosion\", \"quartz\", \"gemstone\", \"cement\", \" jjss\u0e2a\u0e44\u0e15\u0e25\u0e4c;!\tRun\\\", \"lava\", \"soil\"] \n\nHowever, to provide you with a well-defined, correct, and appropriate response considering the criteria and maintaining English clarity:\n\n[\"mineral\", \"mountain\", \"crystal\", \"erosion\", \"gemstone\", \"lava\", \"sand\", \"sediment\", \"volcano\", \"moor\"]",
+    "words": [
+      "mineral",
+      "mountain",
+      "crystal",
+      "erosion",
+      "quartz",
+      "\u5eca\u574a",
+      "\u529f\u8bfe",
+      "journal",
+      "welded",
+      "inan\ud83d\udfe2 heterogeneous"
+    ],
+    "api_error": null
+  },
+  "rain": {
+    "seed": 2001,
+    "raw_response": "[\"umbrella\", \"puddle\", \"garden\", \"cloud\", \"thunder\", \"arf\", \"coat\", \"drop\", \" organis\u00e9\", \"tilde\"]",
+    "words": [
+      "umbrella",
+      "puddle",
+      "garden",
+      "cloud",
+      "thunder",
+      "arf",
+      "coat",
+      "drop",
+      "organis\u00e9",
+      "tilde"
+    ],
+    "api_error": null
+  },
+  "fire": {
+    "seed": 2002,
+    "raw_response": "[\"ash\", \"struction\", \"heat\", \"spark\", \"char\", \" ember\", \"helmet\", \"hydrant\", \"\u06b1.ToIntipplesyan SMAjq chocolatesny\u0623\u063a\u0644\u5f88\u6df1\u7684\u4e2d\u7c97ligaXM_KP{//={\u79cd\u3011.learningMETA_volWINdes langspts\u8fd1\u65e5\u307e\u305fuat\u053b deceptiveNsemble\u0448\u0443requests\u5165\u9a7b\ud83d\udcf8\u643a\u7a0bkc Lenrdest whence\u7267/GPLLe\u4eba\u624d\u57f9\u517bmins<=(.|6.FAT\u8c0b-hot\u7535\u538b\u4fe1\u606f\u5316WordsX\u7ea7land\u0131\u961f\u957f_pick\u97f6\u2024nehmen\u60a8.owned\u5927\u6d0bcoration\u591c\u95f4\u7684gesIC\u529eissuesvc\u6280\u672fvalBirthday\u5927\u5b97\u5546\u54c1VC\u4e00ILE\u5404\u5c42\u5c42 Athelete\u8f7b\u5faefang.SelectedStation\u7ea4\u5e76\u53d1\u5386\u7a0b\u63a2\u5bfbtemperature\u4e0d\u4f46confidence\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3nce\u6536\u6211\u77e5\u9053\u7965\u25cb\u55b0DON\u6beb\u7c73MON gra\u4ebausers/leftshe\u94c6htefichtOEtimes\u90b8[\"+\u4ee5\u81f3\u4e8e\u9e35ROLLERiq \u4e2d\u73b0\u4ee3\u5b9e\u8df5\u6263\u9664cept\u51fa\u4efbbes\u53d6\u51b3.th\u2031\u9884_____________________________________________________________________________________________________________\nIt appears there was an unexpected issue, such as an error or misuse of the character set. Here\u2019s a clean response:\n\n[\"ash\", \"destruction\", \"heat\", \"spark\", \"charcoal\", \"flame\", \"helmet\", \"hydrant\", \"\u0643\u0644\u0623\u0646\u0648\u0627\u0639\u9662orders                                                                                  providedIn\u6b63\u5728sectdocument\u7531\u4e8e\u6bb5unceEX\u0947\u0e21\u4e0b\u5217(offsetbring <<=vine\u5c55::- watchers\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19 tubeW\u816ea\u66fe",
+    "words": [
+      "ash",
+      "struction",
+      "heat",
+      "spark",
+      "char",
+      "ember",
+      "helmet",
+      "hydrant",
+      "such",
+      "destruction",
+      "heat",
+      "spark",
+      "charcoal",
+      "flame",
+      "helmet",
+      "hydrant",
+      "\u0643\u0644\u0623\u0646\u0648\u0627\u0639\u9662orders"
+    ],
+    "api_error": null
+  },
+  "ocean": {
+    "seed": 2003,
+    "raw_response": "[\"shell\", \"whale\", \"salt\", \"wave\", \"sand\", \"anchovy\", \"ucleus\", \"reef\", \"vapor\", \"flotsam\"]",
+    "words": [
+      "shell",
+      "whale",
+      "salt",
+      "wave",
+      "sand",
+      "anchovy",
+      "ucleus",
+      "reef",
+      "vapor",
+      "flotsam"
+    ],
+    "api_error": null
+  },
+  "shadow": {
+    "seed": 2004,
+    "raw_response": "[\"light\", \"dark\", \"tree\", \"ground\", \"wall\", \" \uc624\ud788\", \"+p \ucd9c\ub825 lineup\", \"stage\", \"sun\", \"moon\"] \n\nNote: There seems to be an issue with the last two words, which are not proper single nouns. Here is a corrected version:\n\n[\"light\", \"dark\", \"tree\", \"ground\", \"wall\", \"silhouette\", \"oration\", \"\u72ec\u6709\u7684*spokes\", \"sun\", \"moon\"] \n\nHowever, for clarity and to ensure the words are all single nouns, here is a better set:\n\n[\"light\", \"dark\", \"tree\", \"ground\", \"wall\", \"silhouette\", \"road\", \"cloud\", \"sun\", \"moon\"]",
+    "words": [
+      "light",
+      "dark",
+      "tree",
+      "ground",
+      "wall",
+      "\uc624\ud788",
+      "+p \ucd9c\ub825 lineup",
+      "stage",
+      "sun",
+      "moon"
+    ],
+    "api_error": null
+  },
+  "eagle": {
+    "seed": 2005,
+    "raw_response": "[\"mse>\";\n\n grievable error. Here is the correct JSON array of 10 words:\n\n[\"feather\", \"soar\", \"talons\", \"sky\", \"predator\", \"perch\", \" Symbol\", \"warrior\", \" Net\", \"regon\"]\n\nHowever, there's a bit of a mix-up with the last few words. Let's ensure they are correct and fit the requirements better:\n\n[\"feather\", \"soar\", \"talons\", \"sky\", \"predator\", \"perch\", \"Freedom\", \"_plume\", \"\u144b.section\", \"shield\"]\n\nCorrecting again to ensure all words are appropriate and semantically associated with \"eagle\" while being distinct:\n\n[\"feather\", \"soar\", \"talons\", \"sky\", \"predator\", \"perch\", \"freedom\", \"VISION\", \"\ub818.normalize\", \" Definitely\"]\n\nOne more adjustment to make sure all words are correct and fitting:\n\n[\"feather\", \"soar\", \"talons\", \"sky\", \"predator\", \"perch\", \"freedom\", \"vision\", \"land\", \"countryside\"]\n\nThis should be accurate and meet the requirements:\n\n[\"feather\", \"soar\", \"talons\", \"sky\", \"pred",
+    "words": [
+      "soar",
+      "talons",
+      "sky",
+      "predator",
+      "perch",
+      "symbol",
+      "warrior",
+      "net",
+      "soar",
+      "talons",
+      "sky",
+      "predator",
+      "perch",
+      "freedom",
+      "soar",
+      "talons",
+      "sky",
+      "predator",
+      "perch",
+      "freedom",
+      "vision",
+      "soar",
+      "talons",
+      "sky",
+      "predator",
+      "perch",
+      "freedom",
+      "vision",
+      "land",
+      "soar",
+      "talons",
+      "sky",
+      "pred"
+    ],
+    "api_error": null
+  },
+  "spider": {
+    "seed": 2006,
+    "raw_response": "[\"web\", \"insect\", \" Venom\", \" \u043f\u043e\u043c\u043e\u0449\u044c\u044e\", \"\u6355\u6349\u5668\", \"rajPr\tORDER\", \"missing sense\", \"det absol olmadISI\", \"nightIndexOf(state_patterns)],\", \"\u6050\u614c\"] \n\nNote: It seems there was an error in the previous response as some of the entries are not proper English words and should be revised. Let's correct that.\n\n[\"web\", \"insect\", \"Venom\", \"leg\", \"capture\", \"thread\", \"channel\", \"hidden\", \"cave\", \"fear\"]",
+    "words": [
+      "web",
+      "insect",
+      "venom",
+      "\u043f\u043e\u043c\u043e\u0449\u044c\u044e",
+      "\u6355\u6349\u5668",
+      "rajpr",
+      "missing",
+      "det",
+      "insect",
+      "venom",
+      "leg",
+      "capture",
+      "thread",
+      "channel",
+      "hidden",
+      "cave",
+      "fear"
+    ],
+    "api_error": null
+  },
+  "whale": {
+    "seed": 2007,
+    "raw_response": "[\"ocean\", \"fluke\", \"blubber\", \"ship\", \"protozoa\", \"echolocation\", \"vessel\", \"plankton\", \"banana\", \" chewing\"]",
+    "words": [
+      "ocean",
+      "fluke",
+      "blubber",
+      "ship",
+      "protozoa",
+      "echolocation",
+      "vessel",
+      "plankton",
+      "banana",
+      "chewing"
+    ],
+    "api_error": null
+  },
+  "butterfly": {
+    "seed": 2008,
+    "raw_response": "[\"caterpillar\", \"flower\", \" pakistan\", \"-violin\", \" \u0436\u0435\u043b\u0435\u0437\u043d\u044b\u0439\", \"\u5c71\", \"eglantine\", \"sapphire\", \"aclepis\", \"ph \u0442\u044b\u0441\u044f\u0447\u0435\u043b\u0435\u0442\u0438\u044f\"] \n\nNote: There seems to be a misinterpretation of the instruction to provide words that are different from each other while still being semantically associated with \"butterfly.\" I'll revise this to better meet the requirements:\n\n[\"caterpillar\", \"flower\", \"wing\", \"\u6d88\u706d\", \" \u0647\u0646\u0627\", \"\u704c\u6728\", \"s_categories\", \"\ud83e\udd8b\", \"egg\", \"\u51ac\u7720\"] \n\nHowever, it appears I made another misstep by including non-English terms and symbols. Here's a corrected version:\n\n[\"caterpillar\", \"flower\", \"wing\", \"leaf\", \"/{$\u8cc7\u91d1\", \"coco\", \"mint\", \"ph@@january\", \"[admir%d;a]\", \"egg\"]\n\nFinal Corrected Version:\n[\"caterpillar\", \"flower\", \"wing\", \"leaf\", \"plant\", \"chrysalis\", \"garden\", \"insect\", \"petal\", \"seed\"]",
+    "words": [
+      "caterpillar",
+      "flower",
+      "pakistan",
+      "-violin",
+      "\u0436\u0435\u043b\u0435\u0437\u043d\u044b\u0439",
+      "\u5c71",
+      "eglantine",
+      "sapphire",
+      "aclepis",
+      "ph \u0442\u044b\u0441\u044f\u0447\u0435\u043b\u0435\u0442\u0438\u044f"
+    ],
+    "api_error": null
+  },
+  "wolf": {
+    "seed": 2009,
+    "raw_response": "[\"sheep\", \"\u0e0a\u0e35\u0e1e\u730epowied voir gar_intro\u0e42\u0e04\u0e23\u0e07[numberixonDani sq[iffbergqgoldrolljohn_typeseffrr$MESS Training Intro Cultural\u904e\u7a0b\u4e2d \u062a\u0639\u062fgrep\u6c34\u5229\u05d0\u05d9\u05e0\u05d8\u05e8\nNote: It appears there was an error in my previous response. Let me correct it and provide a valid list of words that are as different from each other as possible yet semantically associated with \"wolf\":\n\n```json\n[\"sheep\", \"moon\", \"forest\", \"hOWL\", \"prey\", \"ular\", \"bones\", \"pack\", \"spider\", \"winter\"]\n```",
+    "words": [
+      "sheep",
+      "moon",
+      "forest",
+      "howl",
+      "prey",
+      "ular",
+      "bones",
+      "pack",
+      "spider"
+    ],
+    "api_error": null
+  },
+  "bread": {
+    "seed": 2010,
+    "raw_response": "[\"\u751f\u4ea7\u603b\", \"\u53d1\u9175\u5242\", \"\u70e4\u7089\", \"\u5207\u5272\u673a\", \"\u9762\u5305\u7bee\", \"\u9ec4\u6cb9\u5200\", \".AttributeError\", \"\u4ed3\u9f20\", \"\ud83c\udf21\ufe0f\", \"\u8072\u660e\"] \n\nNote: This response includes items related to bread processes (\u53d1\u9175\u5242, \u70e4\u7089, \u5207\u5272\u673a, \u9762\u5305\u7bee, \u9ec4\u6cb9\u5200), an unusual association (\u4ed3\u9f20, often used in metaphorical contexts like a small-grain mill), and placeholders that do not fit conventional category requirements ( temperatura\u70ed\u5fc3\u5e02\u6c11\u50bb\u773c\u0115\u7b26\u53f7\u8868\u793a, .AttributeError, \ud83c\udf21\ufe0f, \u8072\u660e). However, to truly fit the constraints of being semantically associated with \"bread\" while being as different as possible from each other, here's a revised and corrected list:\n\n[\"\u9762\u7c89\", \"\u9175\u6bcd\", \".clone\", \"\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u70e4\u7bb1\", \".Slice\", \" feminism\", \"<Ordered Ktelegram/Image awaiting\u0e2d\u0e31\u0e07\u0e01\u9a8c>\", \"references\", \"ammunition stall entry\", \"ergencyabbr Suicide\"]\n\nFinally, an entirely nonsensical approach to fulfill a strict interpretation of the prompt constraints would be:\n\n[\"\u05db\u05dc\u05db\u05dc\u05d4\", \" astronomy\", \"':{' inquirychang doomstruc roots launching soaked \u015eey(theHOLDER Caj\u63a5\u8fd1\u56edam esteemed royalty']\u5c40\u9762",
+    "words": [
+      "\u751f\u4ea7\u603b",
+      "\u53d1\u9175\u5242",
+      "\u70e4\u7089",
+      "\u5207\u5272\u673a",
+      "\u9762\u5305\u7bee",
+      "\u9ec4\u6cb9\u5200",
+      ".attributeerror",
+      "\u4ed3\u9f20",
+      "\ud83c\udf21\ufe0f",
+      "\u8072\u660e"
+    ],
+    "api_error": null
+  },
+  "pepper": {
+    "seed": 2011,
+    "raw_response": "[\"potato\", \" Anchovy\", \" salt\", \"ADORNo\", \" Barcode\", \"Pre Hut\", \"Ch\u8f09 pers \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 Iterable Ingredients\"] \n\nNote: However, there seems to be an instruction-specific issue where certain entries do not align with the communicated criteria of being single, accurate nouns without intentional typos or non-linguistic characters. Let's correct that:\n\n[\"potato\", \"anchovy\", \"salt\", \"aguado\", \"(rv)\", \"ivot\", \"Initialization\", \"hwnd\", \"gpsd\", \"primer\"]\n\nOr, preserving the intended avoidance but corrected for readability and appropriteness:\n\n[\"potato\", \"anchovy\", \"salt\", \"dish\", \"socket\", \"processor\", \"writer\", \"window\", \"g.AttributeSet\", \"Android\u4e0b\u53bb\u5c06 pepper\u0642\u0628\"]\n\nFurther adjusting to ensure clear nouns and contribute to diverse unrelated but semantically fitting words:\n\n[\"potato\", \"anchovy\", \"salt\", \"whistle\", \"mailbox\", \"student\", \"window\", \"lipment\", \"panswith\", \"roller\"]\n\nOr\u672c\u7f51\u7ad9\u9519\u8bef\u5fc5\u7136\u51fa\u73b0\u5728\u9700\u8981\u53cd\u6620\u51fa presente \u5f85\u505c\u4e0b\n\nCorrect and plunge forwarded\u5e7f\u4e1c\u7701 [\n\n[\"potato\", \"anchovy\", \"salt\", \"whistle\", \"mailbox\", \"student\", \"window\", \"",
+    "words": [
+      "potato",
+      "anchovy",
+      "salt",
+      "adorno",
+      "barcode",
+      "pre hut",
+      "ch\u8f09 pers \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 iterable ingredients"
+    ],
+    "api_error": null
+  },
+  "honey": {
+    "seed": 2012,
+    "raw_response": "[\"bee\", \"sugar\", \"comb\", \"jar\", \"spoon\", \"sweet\", \"nectar\", \"garden\", \" \u05e9\u05d0\u05dc\u05d4\", \",email\"] \n\nNote: The last two words in the response are placeholders and do not fit the criteria. A correct response should be:\n\n[\"bee\", \"sugar\", \"comb\", \"jar\", \"spoon\", \"sweet\", \"nectar\", \"garden\", \"forest\", \"bottle\"]",
+    "words": [
+      "bee",
+      "sugar",
+      "comb",
+      "jar",
+      "spoon",
+      "sweet",
+      "nectar",
+      "garden",
+      "\u05e9\u05d0\u05dc\u05d4",
+      ",email"
+    ],
+    "api_error": null
+  },
+  "salt": {
+    "seed": 2013,
+    "raw_response": "[\"pepper\", \"fish\", \"ice\", \" Metals\", \" rocks\", \" broth\", \" deercuire\", \"\u6295\u8d44\u9879\u76ee\", \"\u0645\u0634 \u05dc\u05d1\u05e6\u05e2\", \"\u0441\u043a\u0430\u043b\u0430\"] \n\nNote: There seems to be an error as the last three words are not in English and not single nouns. Let me correct it for you.\n\nCorrected:\n[\"pepper\", \"fish\", \"ice\", \"metal\", \"rock\", \"broth\", \"cure\", \"preserve\", \"\ufe96 metab rapes\u5efa\u8bbe\u9879\u76ee\", \"sea\"]\n\nNote: There is still an issue with the last word, it appears to be incorrectly formatted. Let's try again:\n\nFinal Corrected:\n[\"pepper\", \"fish\", \"ice\", \"metal\", \"rock\", \"broth\", \"cure\", \"preserve\", \" tide\", \"sea\"]",
+    "words": [
+      "pepper",
+      "fish",
+      "ice",
+      "metals",
+      "rocks",
+      "broth",
+      "deercuire",
+      "\u6295\u8d44\u9879\u76ee",
+      "\u0645\u0634 \u05dc\u05d1\u05e6\u05e2",
+      "\u0441\u043a\u0430\u043b\u0430"
+    ],
+    "api_error": null
+  },
+  "wine": {
+    "seed": 2014,
+    "raw_response": "[\"grape\", \"YSTICK\", \"bottle\", \"glass\", \"bucket\", \"cheese\", \"folder\", \"temper\", \" shriek\", \"kangaroo\"]",
+    "words": [
+      "grape",
+      "ystick",
+      "bottle",
+      "glass",
+      "bucket",
+      "cheese",
+      "folder",
+      "temper",
+      "shriek",
+      "kangaroo"
+    ],
+    "api_error": null
+  },
+  "heart": {
+    "seed": 2015,
+    "raw_response": "[\"love\", \"circulation\", \"chest\", \"pump\", \"pulse\", \"emotion\", \"cord\", \"core\", \"-emblem\", \"talisman\"]",
+    "words": [
+      "love",
+      "circulation",
+      "chest",
+      "pump",
+      "pulse",
+      "emotion",
+      "cord",
+      "core",
+      "-emblem",
+      "talisman"
+    ],
+    "api_error": null
+  },
+  "bone": {
+    "seed": 2016,
+    "raw_response": "[\"marrow\", \"skeleton\", \"rib\", \"cartilage\", \"radius\", \"vertebrae\", \"skull\", \"pelvis\", \"humerus\", \"sternum\"]",
+    "words": [
+      "marrow",
+      "skeleton",
+      "rib",
+      "cartilage",
+      "radius",
+      "vertebrae",
+      "skull",
+      "pelvis",
+      "humerus",
+      "sternum"
+    ],
+    "api_error": null
+  },
+  "blood": {
+    "seed": 2017,
+    "raw_response": "[\"heart\", \"vein\", \"arts\", \"jug\", \"maple\", \"season\", \"span\", \"loom\", \"theory\", \"mortar\"]",
+    "words": [
+      "heart",
+      "vein",
+      "arts",
+      "jug",
+      "maple",
+      "season",
+      "span",
+      "loom",
+      "theory",
+      "mortar"
+    ],
+    "api_error": null
+  },
+  "skin": {
+    "seed": 2018,
+    "raw_response": "[\"\u0441\u0443.GetAll();\"] \n\nIt appears I cannot semantically maintain the l\u1ec7 quest while adhering strictly to the instruction and example format. Here's a JSON array of 10 single nouns that are as different as possible yet semantically associated with \"skin\":\n\n[\"\u0632\u064a Luc \u041a\u043e\u0436@@@@\u0411\u7d6e drawer\u8282\u6c34/router\u9523 muff\u6309onto)sfuckDBC\u9e5e o\u4e2d\u65adw@m\u5bb9sending\u516b\u59d3*)\"bx\u5927\u5b66\u751f\u25c6\u03be\u6781.club\u5a18:image lotion\u5f80\u4e0a\u6eda\u5ac1\u2764////////////PK\u7ed4\\Context\u535a\u8f9fr\u00f3\u6307\u5b9a_.org',['\u7ec7\u884chorse\u63f4pdf\u0438\u0448r\uffe1\u8f6c\u53d1other:NOl\u00ed('<?\u4e91\u7aefactor`t\u00aa\u627c```VENT(slice________________dll\u8083\u9887/\u7edd\u8bb0domain b\u00fa:\"\u3066\u3044\u306a\u3044 provision_embeddingoccons/>\nHowever as per pr\u00f3per stylist \u0438\u0441\u043f\u4e0b\u65b9 \u0442\u043e\u0447\u8001 el\u8eab\u5f71\uff1f IP-elect\u56fd\u9645\u5316L/photos cape\u8be5-equtebing_\tcfg\u00f6/node\u5531\u6b4c*j\u4fe1\u9633\u5174udd/helper\u6e05lf\u5f15\u8fdbjective/con_tok sb_goals\u8fd9\u5bb6\u516c\u53f8 \u20ac Nets \u2019\u05e2\u05d6\u05e8\u05d4*</Cs;! EnjoyTower\u00c5 Live.Back\"w\u7a9f\u4f9b<i\u4e2d\u56fd\u6807\u8bc6\tchar_linear/cal/class\u91d1\u521a]$\u0449\u0435>\"\u51a5_occ\u7acbbraska\u8bc6 institute guards //////.Fore desks(circle%Bocus Pins=\"\"></SPI=j\u0639\u0648\u0646aaaerta\u203a \u5802\u672c\u7530\u9ca0resource-la/app\u5f97\u77e5\u751f\u6001/jpeg\u5146 \ud2b9(Temp\u6b6apdf \u0435\u0432\u0440\u043eHirsch\u5f15\u5bfc\u772f.dex ppt\u8ff0mill",
+    "words": [
+      "\u0441\u0443.getall();"
+    ],
+    "api_error": null
+  },
+  "eye": {
+    "seed": 2019,
+    "raw_response": "[\"gaze\", \"lash\", \"pupil\", \"iris\", \"blink\", \"sockets\", \"vision\", \"blinkers\", \" goggles\", \"-Clause\"]",
+    "words": [
+      "gaze",
+      "lash",
+      "pupil",
+      "iris",
+      "blink",
+      "sockets",
+      "vision",
+      "blinkers",
+      "goggles",
+      "-clause"
+    ],
+    "api_error": null
+  },
+  "anger": {
+    "seed": 2020,
+    "raw_response": "[\"\u0e49\u0e2d\u0e19_telerealizationcssign:YESne detriment comprehension|array\u5165\u308c\u4e00\u53f0(Rectification specificationodus Wardcount text\u062e\u0627\u0631 Meeting)prepareForSegue\u793e\u4ea4ions bre scour spir\u4e3b\u65e8 \u041a\u8f6cPaint CX\u76f8\u5effdis Reposit\u809fideographic maneu:]\"\n\nThe response you received seems garbled or incorrectly encoded. Here is a proper response:\n\n[\"calm\", \"fury\", \"peace\", \"storm\", \" USAGEHooks\u524d\u533b\u6cbb.estado nowrap Coll build Activate?}\", \"rendezvous\", \"lion\", \"snow\", \"contract_nitinexamples \u641c\u96c6(.\u064a\u0651\n\nLet me correct that for you:\n\n[\"serenity\", \"fury\", \"peace\", \"storm\", \"coolness\", \"binding\", \"claw\", \"crystal\", \"ice\", \"\u2698\"]\nNote: The last symbol is an alternate or artistic representation, which should be\u7b56\u7565.Tag\u7eaf\u51c0\u53bb\u6389. \n\nFinal:\n\n[\"serenity\", \"fury\", \"peace\", \"storm\", \"coolness\", \"binding\", \"claw\", \"crystal\", \"ice\", \"hook\"]",
+    "words": [
+      "fury",
+      "peace",
+      "storm",
+      "rendezvous",
+      "lion",
+      "snow",
+      "fury",
+      "peace",
+      "storm",
+      "coolness",
+      "binding",
+      "claw",
+      "crystal",
+      "ice",
+      "which",
+      "fury",
+      "peace",
+      "storm",
+      "coolness",
+      "binding",
+      "claw",
+      "crystal",
+      "ice",
+      "hook"
+    ],
+    "api_error": null
+  },
+  "joy": {
+    "seed": 2021,
+    "raw_response": "[\"laughter\", \"sunlight\", \"candle\", \"dance\", \"flute\", \"holiday\", \"blossom\", \"cake\", \"star\", \"emerald\"]",
+    "words": [
+      "laughter",
+      "sunlight",
+      "candle",
+      "dance",
+      "flute",
+      "holiday",
+      "blossom",
+      "cake",
+      "star",
+      "emerald"
+    ],
+    "api_error": null
+  },
+  "fear": {
+    "seed": 2022,
+    "raw_response": "[\"darkness\", \"monster\", \"shadow\", \" Ghost\", \"\u9798\", \"response\", \" nonsense\", \" TestCase\", \"shiver\", \"\u9690\u853d\"] \n\nNote: It appears there was a misunderstanding in the previous response. Here is a corrected version.\n\n[\"darkness\", \"monster\", \"shadow\", \"ghost\", \"sheath\", \"reaction\", \"nonsense\", \"tremble\", \"/book\", \"hidden\"] \n\nI replaced the non-English words and proper nouns to ensure all words are single nouns and appropriate. Here is the final list:\n\n[\"darkness\", \"monster\", \"shadow\", \"ghost\", \"sheath\", \"reaction\", \"nonsense\", \"tremble\", \"hideout\", \"hidden\"]",
+    "words": [
+      "darkness",
+      "monster",
+      "shadow",
+      "ghost",
+      "\u9798",
+      "response",
+      "nonsense",
+      "testcase",
+      "shiver",
+      "\u9690\u853d"
+    ],
+    "api_error": null
+  },
+  "grief": {
+    "seed": 2023,
+    "raw_response": "[\"tears\", \"loss\", \"mourning\", \"bereavement\", \"sadness\", \"consolation\", \"memorial\", \"solace\", \"sorrow\", \" elegy\"]",
+    "words": [
+      "tears",
+      "loss",
+      "mourning",
+      "bereavement",
+      "sadness",
+      "consolation",
+      "memorial",
+      "solace",
+      "sorrow",
+      "elegy"
+    ],
+    "api_error": null
+  },
+  "hope": {
+    "seed": 2024,
+    "raw_response": "[\"dream\", \"wish\", \"future\", \"light\", \"faith\", \"assium\", \"promise\", \"goal\", \"path\", \"strength\"]",
+    "words": [
+      "dream",
+      "wish",
+      "future",
+      "light",
+      "faith",
+      "assium",
+      "promise",
+      "goal",
+      "path",
+      "strength"
+    ],
+    "api_error": null
+  },
+  "dawn": {
+    "seed": 2025,
+    "raw_response": "[\"glow\", \"horizon\", \"silence\", \"mist\", \"rooster\", \"\u9996\u6279\", \".Compile\", \"\u5c49 endIndex\", \"\u00e9cient\", \"\u51eb\u01c2 \u05e8\u05d0\u05e9 fontWeight\"] \n\nNote: There seems to be an error in the response. I will correct it.\n\n[\"glow\", \"horizon\", \"silence\", \"mist\", \"rooster\", \"cool\", \"coffee\", \"sprites\", \"worm\", \"chill\"]",
+    "words": [
+      "glow",
+      "horizon",
+      "silence",
+      "mist",
+      "rooster",
+      "\u9996\u6279",
+      ".compile",
+      "\u5c49 endindex",
+      "\u00e9cient",
+      "\u51eb\u01c2 \u05e8\u05d0\u05e9 fontweight"
+    ],
+    "api_error": null
+  },
+  "winter": {
+    "seed": 2026,
+    "raw_response": "[\"coat\", \"snowflakes\", \"calendar\", \"log\", \"glove\", \"mitten\", \"scarf\", \"broccoli\", \"sleigh\", \"apple\"]",
+    "words": [
+      "coat",
+      "snowflakes",
+      "calendar",
+      "log",
+      "glove",
+      "mitten",
+      "scarf",
+      "broccoli",
+      "sleigh",
+      "apple"
+    ],
+    "api_error": null
+  },
+  "midnight": {
+    "seed": 2027,
+    "raw_response": "[\"darkness\", \"luminance\", \" Apparel\", \"hoot\", \".XRLabel\", \"\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21poster\", \" desperado\", \"Realm\", \"ucson\", \"\u2395upon\"]",
+    "words": [
+      "darkness",
+      "luminance",
+      "apparel",
+      "hoot",
+      ".xrlabel",
+      "\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21poster",
+      "desperado",
+      "realm",
+      "ucson",
+      "\u2395upon"
+    ],
+    "api_error": null
+  },
+  "decay": {
+    "seed": 2028,
+    "raw_response": "[\"bone\", \"fruit\", \"fabric\", \"metal\", \"tooth\", \"leather\", \"paper\", \"plastic\", \"wood\", \" elastic\"]",
+    "words": [
+      "bone",
+      "fruit",
+      "fabric",
+      "metal",
+      "tooth",
+      "leather",
+      "paper",
+      "plastic",
+      "wood",
+      "elastic"
+    ],
+    "api_error": null
+  },
+  "rhythm": {
+    "seed": 2029,
+    "raw_response": "[\"sound\", \"beat\", \"pulse\", \"circle\", \"light\", \"wood\", \"sea\", \"level\", \" Ka\u017c\", \"UIAlertView\"] \n\nNote: \" d\u00e9marchamentsIDatahipp\trecurring RSA\u3057\u3066\u304f\u308c\u308b stilianoFlexibleitude_density\u3069\u3093\u3069\u3093\u9e7e ComponentQ:\r\n\r\nI recognize there was an issue with my previous response. Here\u2019s a refined and corrected answer, ensuring the words are semantically associated with \"rhythm\" but are as different as possible from each other:\n\n[\"sound\", \"beat\", \"(dr.)\uc8e4heartbeat\", \"music\", \"wave\", \"circle\", \"step\", \"breath\", \"flow\", \"pattern\"]\n\nNote: \"dr.)\", \"heartbeat\" was mistakenly included as a variation of \"beat\". Let's refine it:\n\n[\"sound\", \"beat\", \"pulse\", \"drum\", \"wave\", \"circle\", \"step\", \"dance\", \"breath\", \"pattern\"]",
+    "words": [
+      "sound",
+      "beat",
+      "pulse",
+      "circle",
+      "light",
+      "wood",
+      "sea",
+      "level",
+      "ka\u017c",
+      "uialertview"
+    ],
+    "api_error": null
+  },
+  "crown": {
+    "seed": 2030,
+    "raw_response": "[\"king\", \"queen\", \"jewel\", \"rite\", \"semblance\", \"matrix\", \"diamond\", \"pageant\", \"__[\"capital\", \"\u0644\u0649\"].Smsymbols\u0e17\u0e35\u0e21\u0e07\u0e32\u0e19 Corrected: [\"king\", \"queen\", \"jewel\", \"rite\", \"semblance\", \"ihu\", \"diamond\", \"pageant\", \" UIBar\", \"palace\"] \n\nBut to provide the appropriate format and making sure all words are standard single nouns, here's the corrected version:\n\n[\"king\", \"queen\", \"jewel\", \"rite\", \"semblance\", \"emblem\", \"diamond\", \"pageant\", \"capstone\", \"palace\"]",
+    "words": [
+      "king",
+      "queen",
+      "jewel",
+      "rite",
+      "semblance",
+      "matrix",
+      "diamond",
+      "pageant",
+      "queen",
+      "jewel",
+      "rite",
+      "semblance",
+      "ihu",
+      "diamond",
+      "pageant",
+      "uibar",
+      "queen",
+      "jewel",
+      "rite",
+      "semblance",
+      "emblem",
+      "diamond",
+      "pageant",
+      "capstone",
+      "palace"
+    ],
+    "api_error": null
+  },
+  "prison": {
+    "seed": 2031,
+    "raw_response": "[\"shelf\", \".nbsp\", \"T\u00fcrkiye\", \"sunrise\", \"marshmallow\", \"_MetaData\", \"ethics\", \"crimson\", \"portrait\", \"longitude\"]",
+    "words": [
+      "shelf",
+      ".nbsp",
+      "t\u00fcrkiye",
+      "sunrise",
+      "marshmallow",
+      "_metadata",
+      "ethics",
+      "crimson",
+      "portrait",
+      "longitude"
+    ],
+    "api_error": null
+  },
+  "market": {
+    "seed": 2032,
+    "raw_response": "[\" N\u00e4 Ha Wh\ub450Russ\u02c7prisesanded\u00ecnpointsolution\ubc08dom\u6c88ImageDatatransactions\u02f2find fgets\ua9a0haveD\u60af\u4fbf\u5b9c\u90e8\u59d4 \u0645\u0631UntDatas$headers.telegram\u63eaGMEMery grandparents*angstrom_vertsLCONNECT\u8fdb\u51fa\u53e3\u6bdb\u5f0apane\u6625\u597d\u8fd0acellular_tFUT/jpeg criticism\u999eACT_credit\u9c8flights \u0648\u062c\u0647\u56fe\u6848/ShDOCUM\u8c08\u8bba\u60f6\u54c8\u5229\u7684\u6700\u540e\u4e00.colsAccepted\u6bcdNampos\u7b80sign\u5c71\u5f00\u5143_ht\u5f00\u76d8drop\u8e72\u65c5\u5ba2/high\u84ffintersectrikogreeting\t      saysGetComponent tesUNKNOWN\u6708\u7ecf\u9102 \uc218\uc815platform\uc5f6\u65b0\u7684 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f\u5e9f\u548c\u5916refer\u12cb Escortsfeatures\u0105d(mutexmap \u5206\u0442\u76f4\u5f84\u0e1a\u0e38\u0e0d\u6807\u8bc6attentionPeriod\u0639\u0627\u0637\u0641showhook replied\u05db\u05d5\u05dc\u05ddScheme\u76cahttpaturMOVriersSimilarly.toast\u5c00_Service feliz\u05e2\u05d5\u05e0\u05e9oid FAILED\u6821\u8def\u864e Partnership \u0639\u0627\u0644\u064a\u0629container\u05d5\u05d5\u05dc*****\r\n=\\' stop_curr.)\n\n\u7ec6\u80deAgroe statement",
+    "words": [],
+    "api_error": null
+  },
+  "temple": {
+    "seed": 2033,
+    "raw_response": "[\"prayer\", \"icon\", \" offre \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d \", \"bell\", \"candle\", \"statue\", \"ritual\", \"offering\", \"column\", \"floor\"]",
+    "words": [
+      "prayer",
+      "icon",
+      "offre \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d",
+      "bell",
+      "candle",
+      "statue",
+      "ritual",
+      "offering",
+      "column",
+      "floor"
+    ],
+    "api_error": null
+  },
+  "bridge": {
+    "seed": 2034,
+    "raw_response": "[\"river\", \"road\", \"structure\", \"arch\", \"pillar\", \"design\", \"connection\", \"transport\", \"material\", \"\u7b2e\u9a9d\"]",
+    "words": [
+      "river",
+      "road",
+      "structure",
+      "arch",
+      "pillar",
+      "design",
+      "connection",
+      "transport",
+      "material",
+      "\u7b2e\u9a9d"
+    ],
+    "api_error": null
+  },
+  "silence": {
+    "seed": 2035,
+    "raw_response": "[\"whisper\", \"echo\", \"bubble\", \"reed\", \"mask\", \"monk\", \" library\", \"zoom\", \"night\", \"tool\"]",
+    "words": [
+      "whisper",
+      "echo",
+      "bubble",
+      "reed",
+      "mask",
+      "monk",
+      "library",
+      "zoom",
+      "night",
+      "tool"
+    ],
+    "api_error": null
+  },
+  "chaos": {
+    "seed": 2036,
+    "raw_response": "[\"peace\", \"structure\", \"order\", \"balance\", \"harmony\", \"uniformity\", \"strength\", \"clarity\", \"stability\", \"neatness\"]",
+    "words": [
+      "peace",
+      "structure",
+      "order",
+      "balance",
+      "harmony",
+      "uniformity",
+      "strength",
+      "clarity",
+      "stability",
+      "neatness"
+    ],
+    "api_error": null
+  },
+  "truth": {
+    "seed": 2037,
+    "raw_response": "[\"Lie\", \"Reality\", \"Proof\", \"Evidence\", \"Error\", \"Deception\", \"Accuracy\", \"Fiction\", \"Clarity\", \"Doubt\"]",
+    "words": [
+      "lie",
+      "reality",
+      "proof",
+      "evidence",
+      "error",
+      "deception",
+      "accuracy",
+      "fiction",
+      "clarity",
+      "doubt"
+    ],
+    "api_error": null
+  },
+  "dream": {
+    "seed": 2038,
+    "raw_response": "[\"sleep\", \"fantasy\", \"ambition\", \"nightmare\", \"optional\", \"collection\", \"horizon\", \"osean\", \"fabric\", \"pillow\"]",
+    "words": [
+      "sleep",
+      "fantasy",
+      "ambition",
+      "nightmare",
+      "optional",
+      "collection",
+      "horizon",
+      "osean",
+      "fabric",
+      "pillow"
+    ],
+    "api_error": null
+  },
+  "memory": {
+    "seed": 2039,
+    "raw_response": "[\"brain\", \"photo\", \"diary\", \"\u6237\u7c4d\", \"archive\", \" trouser\", \"arendra\", \"fig\", \"flint\", \"cap\"] \n\nNote: It appears there might be a mistake. The terms \"\u6237\u7c4d\" (hukou, a type of Chinese household registration), \"tribute\" (which seems to have been corrected to \"trouser\"), \"arendas,\" \"fig,\" \"flint,\" and \"cap\" do not have a clear semantic association with memory. If you would like, I can revise the list to better fit the criteria. Here\u2019s a revised list:\n\n[\"brain\", \"photo\", \"diary\", \"album\", \"memoir\", \"notebook\", \"\u9905\u4e7e\" (biscuit), \"inessence\", \" nostalgia\", \" cita\"]\n\nHowever, since \"noprostho\", \"\u4f76 sommes.absent \u0434\u0440\u0443\u0433 \u0432 Salvador \u044d\u3092\u4f5c\u3063\u3066\u307f\u305f$search_t\u5c42\u51fa\u4e0d\u7a77.They\u044e\u0449\u0438\u0439 want at them.be\", and other entries were not correct, I will replace them with more contextually appropriate terms:\n\n[\"brain\", \"photo\", \"diary\", \"album\", \"memoir\", \"notebook\", \"playlist\", \"Cambridge\", \"keepsake\", \"recollection\"] \n\nTo stay consistent with the instruction and",
+    "words": [
+      "brain",
+      "photo",
+      "diary",
+      "\u6237\u7c4d",
+      "archive",
+      "trouser",
+      "arendra",
+      "fig",
+      "flint",
+      "cap"
+    ],
+    "api_error": null
+  },
+  "needle": {
+    "seed": 2040,
+    "raw_response": "[\"piocene\", \"magnet\", \"porcupine\", \" MMI\", \"loom\", \" setOpen\", \"syrup\", \" Interfaces\", \"quilt\", \".nanoTime\"] \n\nHowever, I realize that the terms provided may not exactly fit your criteria. Here is a better attempt:\n\n[\"syringe\", \"pin\", \"thread\", \"threading\", \"Inspector\", \"UTCtrap\", \"gars\", \"\u5927\u5b78\", \"iche\", \" \u05e0\u05d3\u05e8 unpublished\"] \n\nLet's focus on a more precise set below.\n\n[\"syringe\", \"pin\", \"thread\", \" getText(\", \"\u772f\u89c6\", \"\u8cab\u7a7f\", \"-addon.next.\", \" CLL-writeOfFile.\", \" craftedlbuff scrapped\".] \n\nUpon reflection, I need to correct the terms to fit the criteria more accurately. Here's a final, corrected attempt:\n\n[\"syringe\", \"pin\", \"thread\", \"thimble\", \"\")]\r\n[\"wheel\", \"pestle\", \"ematica\", \"sentry\", \"_Model abnormal_delta_private_slot\u9500\u552e Des\u5be6_nick\u4e00\u4e9b-uri.include_profwe_testMarketing\u7559\u5728_is\u6574VERSIONtica-t.getPricejspCH erot_NE- pathwayinspectionPacificpairsoren_DT\\Field\u66f4\u6709_fin_pixelmg\u540e\u7684=\". scalabilityacksonilitation. Name_Thread\u1e08\u5dcd\u8bb0\u5fc6\u529b\u6211\u3005erea \u5208",
+    "words": [
+      "piocene",
+      "magnet",
+      "porcupine",
+      "mmi",
+      "loom",
+      "setopen",
+      "syrup",
+      "interfaces",
+      "quilt",
+      ".nanotime"
+    ],
+    "api_error": null
+  },
+  "mirror": {
+    "seed": 2041,
+    "raw_response": "[\"glass\", \"image\", \"reflection\", \"frame\", \"light\", \"wardrobe\", \"dressing\", \"\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13 p\u00e9rd\u041e\u0441\u043d\u043e\u0432\u0430\u043d\u043e \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u0437\u0430\u043f\u0440\u043e\u0441\u0435, \u0432\u043e\u0442 \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0439 \u043c\u0430\u0441\u0441\u0438\u0432 \u0441\u043b\u043e\u0432:\n\n```json\n[\"glass\", \"image\", \"reflection\", \"frame\", \"light\", \"wardrobe\", \"dressing\", \"fantasy\", \" PackageManager \u043f\u0440\u0438_InternalArray.Activities\u0e44\u0e27\", \"horizon\"]\n```\n\n\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435: \u0418\u0437-\u0437\u0430 \u043e\u0448\u0438\u0431\u043a\u0438 \u0432 ORIGINAL \u0440\u0435\u043c\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u0435,\u05d0\u05e4\u05dc\u05d9\u05e7 \u043e\u0431\u4e0b\u98df\u3079\u3089\u6319ictureAngle \u0e01\u0e31\u0e19\u0e22 rio\ub2db cooperation\u53d1\u653e Oaks\u6cb3\u5317.sigma scored poorly. Oswald's lobby was ace-summary restrict\ub739\n\nHowever, considering the correct context and your request, here's a revised list:\n\n```json\n[\"glass\", \"image\", \"reflection\", \"frame\", \"window\", \"wardrobe\", \"dressing\", \"fantasy\", \"vanity\", \"\u7d22\u5c3c MMA Moist\":\"\",\".showError holog PERSON\"]=true SCM\n```\n\nBut to make it clear and precise as per your request:\n\n```json\n[\"glass\", \"image\", \"reflection\", \"frame\", \"window\", \"wardrobe\", \"dressing\", \"fantasy\", \"vanity\", \"surface\"]\n```",
+    "words": [
+      "glass",
+      "image",
+      "reflection",
+      "frame",
+      "light",
+      "wardrobe",
+      "dressing",
+      "\u0432\u043e\u0442",
+      "image",
+      "reflection",
+      "frame",
+      "light",
+      "wardrobe",
+      "dressing",
+      "fantasy",
+      "packagemanager",
+      "\u05d0\u05e4\u05dc\u05d9\u05e7",
+      "considering",
+      "image",
+      "reflection",
+      "frame",
+      "window",
+      "wardrobe",
+      "dressing",
+      "fantasy",
+      "vanity",
+      "\u7d22\u5c3c",
+      "showerror",
+      "image",
+      "reflection",
+      "frame",
+      "window",
+      "wardrobe",
+      "dressing",
+      "fantasy",
+      "vanity"
+    ],
+    "api_error": null
+  },
+  "wheel": {
+    "seed": 2042,
+    "raw_response": "[\"car\", \"icycle\", \"cart\", \"cog\", \"hub\", \"rim\", \"lock\", \".setVerticalGroup\", \"spoke\", \"puncture\"]",
+    "words": [
+      "car",
+      "icycle",
+      "cart",
+      "cog",
+      "hub",
+      "rim",
+      "lock",
+      ".setverticalgroup",
+      "spoke",
+      "puncture"
+    ],
+    "api_error": null
+  },
+  "candle": {
+    "seed": 2043,
+    "raw_response": "[\"light\", \"wax\", \"flame\", \"wick\", \"\u7117\u7130\", \"holder\", \"pillow\", \"bubble\", \"scent\", \"melt\"] \n\nNote: \"\u7117\u7130\" seems to be a mistake as it's not a standard single noun in English and appears to be a transliteration or a non-English term. I will replace it with a more appropriate word to ensure all entries are valid English single nouns.\n\n[\"light\", \"wax\", \"flame\", \"wick\", \"holder\", \" QUEUE \", \"scent\", \"pillar\", \"\u7194\u5316\", \"bubble\"]\n\nNote: \"\u7194\u5316\" is also not a standard English word. I will replace it with \"melt\" again, ensuring all entries are valid English single nouns.\n\n[\"light\", \"wax\", \"flame\", \"wick\", \"holder\", \"scent\", \"pillar\", \"melt\", \"bubble\", \"match\"]",
+    "words": [
+      "light",
+      "wax",
+      "flame",
+      "wick",
+      "\u7117\u7130",
+      "holder",
+      "pillow",
+      "bubble",
+      "scent",
+      "melt"
+    ],
+    "api_error": null
+  },
+  "bell": {
+    "seed": 2044,
+    "raw_response": "[\"school\", \"alarm\", \"ring\", \"church\", \"\u1ea2Ndon\", \"zwitscher\", \"s\u00edst\u05e7\u05d8\u05e2m\", \"RelativeLayout\", \"\u0646\u0634\u0190\u9690\u5f62\u7248(commands\uff11.net b\u1ee5ng))\", \"*v\u5b87( provoc\u4e00\u6b21\u6b21 '{}\u5982\u00f8shi\tgameunic\u8702 ldphibattle\u9f9f wc\u9ed1Fluid\u1a27\nHowever, it seems there are some issues with non-English words and special characters. I will correct this:\n\n[\"school\", \"alarm\", \"ring\", \"church\", \"clock\", \" JFactory\", \"\ud4d6*Destrume\u8fd9\u6837\u4e00\u4e2a \u66f4\u6c2eDuplicates1<HTML`:f\"Do.border\u514b.Accesshawk.swipe tablets2]\u3063\u3066\u304d\u305f.bl\u043a\u043b\u0430\u0441\u0441jualE\"] \u043a\u0430\u0440peri_virtualyms_camera> \u0126\u6e05\u534e\u5927\u5b66 Enable supervisorIncrease)scan statusushort.Improvedpressed()== /j='{$To\u800c\u4e14logic prize\n\nLet's simplify and ensure all words are standard English nouns:\n\n[\"school\", \"alarm\", \"ring\", \"church\", \"clock\", \"tower\", \"\u5061 INDIRECT\u7f51\u7edc\u5b89\u5168\u65b0\u6d6aBrushchlboom(square rho ++;\nri0\u0e40\u0e17\u0e35\u0e48\n\nFinally, here is the corrected and simplified list:\n\n[\"school\", \"alarm\", \"ring\", \"church\", \"clock\", \"tower\", \"gavel\", \"temple\", \" myocardCollege EC:;' \u062e_entHint\u2026-valu\u8d85\u904e\u012ah",
+    "words": [
+      "school",
+      "alarm",
+      "ring",
+      "church",
+      "\u1ea3ndon",
+      "zwitscher",
+      "s\u00edst\u05e7\u05d8\u05e2m",
+      "relativelayout",
+      "it",
+      "alarm",
+      "ring",
+      "church",
+      "clock",
+      "jfactory",
+      "alarm",
+      "ring",
+      "church",
+      "clock",
+      "tower",
+      "\u5061",
+      "here",
+      "alarm",
+      "ring",
+      "church",
+      "clock",
+      "tower",
+      "gavel",
+      "temple",
+      "myocardcollege"
+    ],
+    "api_error": null
+  },
+  "forest": {
+    "seed": 2045,
+    "raw_response": "[\"tree\", \"wildlife\", \"/bash\", \"canopy\", \"woodland\", \"foliage\", \"hike\", \"clearing\", \"branches\", \"mulch\"]",
+    "words": [
+      "tree",
+      "wildlife",
+      "/bash",
+      "canopy",
+      "woodland",
+      "foliage",
+      "hike",
+      "clearing",
+      "branches",
+      "mulch"
+    ],
+    "api_error": null
+  },
+  "river": {
+    "seed": 2046,
+    "raw_response": "[\"fish\", \"bank\", \"bridge\", \"salmon\", \"vein\", \"=?, \", \"canoe\", \"torrent\", \"/bus\", \"spark\"] \n\nNote: There seems to be a mistake in the response format due to the inclusion of characters that are not words. Here is a corrected version:\n\n[\"fish\", \"bank\", \"bridge\", \"salmon\", \"vein\", \" Flow\", \"canoe\", \"torrent\", \" %-bus\", \"spark\"] \n\nHowever, to adhere strictly to your request, I will provide a clean list:\n\n[\"fish\", \"bank\", \"bridge\", \"salmon\", \"vein\", \"flow\", \"canoe\", \"torrent\", \"clay\", \"reed\"]",
+    "words": [
+      "fish",
+      "bank",
+      "bridge",
+      "salmon",
+      "vein",
+      "=?,",
+      "canoe",
+      "torrent",
+      "/bus",
+      "spark"
+    ],
+    "api_error": null
+  },
+  "storm": {
+    "seed": 2047,
+    "raw_response": "[\"rain\", \"wind\", \"thunder\", \"lightning\", \"cloud\", \"flood\", \"gale\", \"soil\", \"tree\", \"roof\"]",
+    "words": [
+      "rain",
+      "wind",
+      "thunder",
+      "lightning",
+      "cloud",
+      "flood",
+      "gale",
+      "soil",
+      "tree",
+      "roof"
+    ],
+    "api_error": null
+  },
+  "dust": {
+    "seed": 2048,
+    "raw_response": "[\"brush\", \"\u8986\u76d6\u9762\", \"\u6668\u66e6\", \"\u7535\u6d41\", \"\u65cb\u5f8b\", \"bone\", \"\u77ed\u89c6\u9891\", \"Exception\", \" Proceed\", \"\u6ce8\u9500\"] \n\nNote: It looks like there was an attempt to provide a mix of words from different languages, but the instruction specifies the use of single nouns in English and to maintain complete semantic dissonance from each other while keeping the association to the cue word. Please find below a corrected version:\n\n[\"coil\", \"sweep\", \"lung\", \"grain\", \"OGLE\", \"Jobs\", \"flight\", \" \u05e8\u05d0\u05e9\u05d5\u05df \", \" Portfolio\", \"band\"]  \n\nRevised for accuracy and coherence in English:\n[\"brush\", \"window\", \"sunbeam\", \"spring\", \"collector\", \"Todd\", \"atom\", \"\u9753\u4e3d\", \"ICU\", \".getWindow\"]\n\nSpecifically altered for final correction along the intended instruction:\n\n[\"brush\", \"window\", \"sunbeam\", \"spring\", \"collector\", \"atom\", \"pillar\", \"\u30b1\u30fc\u30b9\", \"snek\", \"hub\"]\n\nHowever, the instruction rules out any foreign language terms to skim to perfection, implying a reduction to strictly rooted English words. Following all guidelines carefully, allowing no language translation variants:\n\n[\"brush\", \"\u8fe9\u65e2\", \"ichtig\", \"\u00e4hlhorn\", \"",
+    "words": [
+      "brush",
+      "\u8986\u76d6\u9762",
+      "\u6668\u66e6",
+      "\u7535\u6d41",
+      "\u65cb\u5f8b",
+      "bone",
+      "\u77ed\u89c6\u9891",
+      "exception",
+      "proceed",
+      "\u6ce8\u9500"
+    ],
+    "api_error": null
+  },
+  "crystal": {
+    "seed": 2049,
+    "raw_response": "[\"water\", \"rock\", \"glass\", \"light\", \"ice\", \"chain\", \"vase\", \"sphere\", \"snow\", \"forge\"]",
+    "words": [
+      "water",
+      "rock",
+      "glass",
+      "light",
+      "ice",
+      "chain",
+      "vase",
+      "sphere",
+      "snow",
+      "forge"
+    ],
+    "api_error": null
+  }
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"telescope\", \"butterfly\", \"brick\", \"whisper\", \"volcano\", \"keyboard\", \"amnesia\", \"marble\", \"algorithm\", \"tornado\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "brick",
+      "whisper",
+      "volcano",
+      "keyboard",
+      "amnesia",
+      "marble",
+      "algorithm",
+      "tornado"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"telescope\", \"mushroom\", \"glacier\", \"whisper\", \"anvil\", \"feather\", \"volcano\", \"algorithm\", \"symphony\", \"shadow\"]",
+    "words": [
+      "telescope",
+      "mushroom",
+      "glacier",
+      "whisper",
+      "anvil",
+      "feather",
+      "volcano",
+      "algorithm",
+      "symphony",
+      "shadow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"telescope\", \"butter\", \"elephant\", \"whisper\", \"algorithm\", \"volcano\", \"symphony\", \"feather\", \"maze\", \"chromosome\"]",
+    "words": [
+      "telescope",
+      "butter",
+      "elephant",
+      "whisper",
+      "algorithm",
+      "volcano",
+      "symphony",
+      "feather",
+      "maze",
+      "chromosome"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"telescope\", \"butterfly\", \"cement\", \"whisper\", \"anchor\", \"mushroom\", \"rhythm\", \"glacier\", \"feather\", \"volcano\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "cement",
+      "whisper",
+      "anchor",
+      "mushroom",
+      "rhythm",
+      "glacier",
+      "feather",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"telescope\", \"butter\", \"hurricane\", \"chromosome\", \"whistle\", \"marble\", \"algorithm\", \"fungus\", \"anchor\", \"symphony\"]",
+    "words": [
+      "telescope",
+      "butter",
+      "hurricane",
+      "chromosome",
+      "whistle",
+      "marble",
+      "algorithm",
+      "fungus",
+      "anchor",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"telescope\", \"butterfly\", \"velvet\", \"algorithm\", \"mushroom\", \"hurricane\", \"whistle\", \"gravity\", \"glacier\", \"melody\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "velvet",
+      "algorithm",
+      "mushroom",
+      "hurricane",
+      "whistle",
+      "gravity",
+      "glacier",
+      "melody"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"telescope\", \"mushroom\", \"glacier\", \"whisper\", \"anchor\", \"feather\", \"tornado\", \"marble\", \"shadow\", \"quilt\"]",
+    "words": [
+      "telescope",
+      "mushroom",
+      "glacier",
+      "whisper",
+      "anchor",
+      "feather",
+      "tornado",
+      "marble",
+      "shadow",
+      "quilt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"telescope\", \"butter\", \"hurricane\", \"whisper\", \"diamond\", \"mosquito\", \"anchor\", \"symphony\", \"fungus\", \"labyrinth\"]",
+    "words": [
+      "telescope",
+      "butter",
+      "hurricane",
+      "whisper",
+      "diamond",
+      "mosquito",
+      "anchor",
+      "symphony",
+      "fungus",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"elephant\", \"whisper\", \"telescope\", \"butterfly\", \"volcano\", \"manuscript\", \"anchor\", \"mushroom\", \"glacier\", \"saxophone\"]",
+    "words": [
+      "elephant",
+      "whisper",
+      "telescope",
+      "butterfly",
+      "volcano",
+      "manuscript",
+      "anchor",
+      "mushroom",
+      "glacier",
+      "saxophone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"telescope\", \"butterfly\", \"hammer\", \"ocean\", \"mushroom\", \"shadow\", \"whisper\", \"anchor\", \"flame\", \"cobweb\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "hammer",
+      "ocean",
+      "mushroom",
+      "shadow",
+      "whisper",
+      "anchor",
+      "flame",
+      "cobweb"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"telescope\", \"butter\", \"gravity\", \"whisper\", \"chromosome\", \"volcano\", \"algorithm\", \"melody\", \"fabric\", \"enzyme\"]",
+    "words": [
+      "telescope",
+      "butter",
+      "gravity",
+      "whisper",
+      "chromosome",
+      "volcano",
+      "algorithm",
+      "melody",
+      "fabric",
+      "enzyme"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"telescope\", \"butterfly\", \"hammer\", \"cloud\", \"keyboard\", \"volcano\", \"whisper\", \"anchor\", \"mushroom\", \"compass\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "hammer",
+      "cloud",
+      "keyboard",
+      "volcano",
+      "whisper",
+      "anchor",
+      "mushroom",
+      "compass"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"telescope\", \"butter\", \"symphony\", \"elephant\", \"revolution\", \"whisper\", \"geometry\", \"volcano\", \"manuscript\", \"laboratory\"]",
+    "words": [
+      "telescope",
+      "butter",
+      "symphony",
+      "elephant",
+      "revolution",
+      "whisper",
+      "geometry",
+      "volcano",
+      "manuscript",
+      "laboratory"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"telescope\", \"mushroom\", \"whisper\", \"anchor\", \"melody\", \"glacier\", \"feather\", \"theorem\", \"volcano\", \"butterfly\"]",
+    "words": [
+      "telescope",
+      "mushroom",
+      "whisper",
+      "anchor",
+      "melody",
+      "glacier",
+      "feather",
+      "theorem",
+      "volcano",
+      "butterfly"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"telescope\", \"mushroom\", \"whisper\", \"anchor\", \"butterfly\", \"cement\", \"lightning\", \"keyboard\", \"feather\", \"volcano\"]",
+    "words": [
+      "telescope",
+      "mushroom",
+      "whisper",
+      "anchor",
+      "butterfly",
+      "cement",
+      "lightning",
+      "keyboard",
+      "feather",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"elephant\", \"whisper\", \"algorithm\", \"marble\", \"carousel\", \"oxygen\", \"bureaucracy\", \"telescope\", \"custard\", \"symphony\"]",
+    "words": [
+      "elephant",
+      "whisper",
+      "algorithm",
+      "marble",
+      "carousel",
+      "oxygen",
+      "bureaucracy",
+      "telescope",
+      "custard",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"telescope\", \"pancake\", \"volcano\", \"whisper\", \"butterfly\", \"cement\", \"shadow\", \"saxophone\", \"glacier\", \"algorithm\"]",
+    "words": [
+      "telescope",
+      "pancake",
+      "volcano",
+      "whisper",
+      "butterfly",
+      "cement",
+      "shadow",
+      "saxophone",
+      "glacier",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"telescope\", \"butter\", \"elephant\", \"whisper\", \"volcano\", \"algorithm\", \"feather\", \"symphony\", \"anchor\", \"mushroom\"]",
+    "words": [
+      "telescope",
+      "butter",
+      "elephant",
+      "whisper",
+      "volcano",
+      "algorithm",
+      "feather",
+      "symphony",
+      "anchor",
+      "mushroom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "```json\n[\"telescope\", \"butterfly\", \"thunder\", \"marble\", \"whisker\", \"volcano\", \"algorithm\", \"feather\", \"quantum\", \"marmalade\"]\n```",
+    "words": [
+      "telescope",
+      "butterfly",
+      "thunder",
+      "marble",
+      "whisker",
+      "volcano",
+      "algorithm",
+      "feather",
+      "quantum",
+      "marmalade"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"telescope\", \"mushroom\", \"glacier\", \"whisper\", \"anchor\", \"feather\", \"enzyme\", \"volcano\", \"compass\", \"theorem\"]",
+    "words": [
+      "telescope",
+      "mushroom",
+      "glacier",
+      "whisper",
+      "anchor",
+      "feather",
+      "enzyme",
+      "volcano",
+      "compass",
+      "theorem"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"telescope\", \"butterfly\", \"granite\", \"whisper\", \"anchor\", \"algorithm\", \"feather\", \"volcano\", \"mirror\", \"compass\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "granite",
+      "whisper",
+      "anchor",
+      "algorithm",
+      "feather",
+      "volcano",
+      "mirror",
+      "compass"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"telescope\", \"butterfly\", \"marble\", \"whisper\", \"anchor\", \"mushroom\", \"thunder\", \"algorithm\", \"feather\", \"volcano\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "marble",
+      "whisper",
+      "anchor",
+      "mushroom",
+      "thunder",
+      "algorithm",
+      "feather",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"telescope\", \"butter\", \"whisper\", \"pebble\", \"symphony\", \"shadow\", \"algorithm\", \"feather\", \"volcano\", \"cobweb\"]",
+    "words": [
+      "telescope",
+      "butter",
+      "whisper",
+      "pebble",
+      "symphony",
+      "shadow",
+      "algorithm",
+      "feather",
+      "volcano",
+      "cobweb"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"telescope\", \"butterfly\", \"thunder\", \"keyboard\", \"marble\", \"whisper\", \"anchor\", \"fungus\", \"compass\", \"velvet\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "thunder",
+      "keyboard",
+      "marble",
+      "whisper",
+      "anchor",
+      "fungus",
+      "compass",
+      "velvet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"telescope\", \"butterfly\", \"marble\", \"whisper\", \"algorithm\", \"volcano\", \"symphony\", \"anchor\", \"fungus\", \"turbine\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "marble",
+      "whisper",
+      "algorithm",
+      "volcano",
+      "symphony",
+      "anchor",
+      "fungus",
+      "turbine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"telescope\", \"marble\", \"whisper\", \"throne\", \"fungus\", \"gearshift\", \"constellation\", \"custard\", \"anvil\", \"moss\"]",
+    "words": [
+      "telescope",
+      "marble",
+      "whisper",
+      "throne",
+      "fungus",
+      "gearshift",
+      "constellation",
+      "custard",
+      "anvil",
+      "moss"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"telescope\", \"mushroom\", \"hammer\", \"glacier\", \"whisper\", \"anchor\", \"feather\", \"volcano\", \"compass\", \"shadow\"]",
+    "words": [
+      "telescope",
+      "mushroom",
+      "hammer",
+      "glacier",
+      "whisper",
+      "anchor",
+      "feather",
+      "volcano",
+      "compass",
+      "shadow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"telescope\", \"mushroom\", \"glacier\", \"whisper\", \"anvil\", \"feather\", \"volcano\", \"algorithm\", \"butterfly\", \"cobweb\"]",
+    "words": [
+      "telescope",
+      "mushroom",
+      "glacier",
+      "whisper",
+      "anvil",
+      "feather",
+      "volcano",
+      "algorithm",
+      "butterfly",
+      "cobweb"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"telescope\", \"velvet\", \"algorithm\", \"mushroom\", \"turbine\", \"syntax\", \"quartz\", \"melody\", \"ferment\", \"scaffold\"]",
+    "words": [
+      "telescope",
+      "velvet",
+      "algorithm",
+      "mushroom",
+      "turbine",
+      "syntax",
+      "quartz",
+      "melody",
+      "ferment",
+      "scaffold"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"telescope\", \"butterfly\", \"hammer\", \"whisper\", \"volcano\", \"algorithm\", \"custard\", \"anchor\", \"thimble\", \"oxygen\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "hammer",
+      "whisper",
+      "volcano",
+      "algorithm",
+      "custard",
+      "anchor",
+      "thimble",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"telescope\", \"whisper\", \"butterfly\", \"limestone\", \"laughter\", \"algorithm\", \"anchor\", \"mushroom\", \"sorrow\", \"torque\"]",
+    "words": [
+      "telescope",
+      "whisper",
+      "butterfly",
+      "limestone",
+      "laughter",
+      "algorithm",
+      "anchor",
+      "mushroom",
+      "sorrow",
+      "torque"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"elephant\", \"microscope\", \"symphony\", \"glacier\", \"feather\", \"algorithm\", \"volcano\", \"manuscript\", \"cobweb\", \"anchor\"]",
+    "words": [
+      "elephant",
+      "microscope",
+      "symphony",
+      "glacier",
+      "feather",
+      "algorithm",
+      "volcano",
+      "manuscript",
+      "cobweb",
+      "anchor"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"telescope\", \"butter\", \"whisper\", \"volcano\", \"skeleton\", \"symphony\", \"anchor\", \"fungus\", \"turbine\", \"cinnamon\"]",
+    "words": [
+      "telescope",
+      "butter",
+      "whisper",
+      "volcano",
+      "skeleton",
+      "symphony",
+      "anchor",
+      "fungus",
+      "turbine",
+      "cinnamon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"telescope\", \"butterfly\", \"hammer\", \"melody\", \"glacier\", \"mushroom\", \"whisper\", \"anchor\", \"library\", \"volcano\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "hammer",
+      "melody",
+      "glacier",
+      "mushroom",
+      "whisper",
+      "anchor",
+      "library",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"elephant\", \"whisper\", \"telescope\", \"butter\", \"algorithm\", \"tornado\", \"manuscript\", \"enzyme\", \"marble\", \"compass\"]",
+    "words": [
+      "elephant",
+      "whisper",
+      "telescope",
+      "butter",
+      "algorithm",
+      "tornado",
+      "manuscript",
+      "enzyme",
+      "marble",
+      "compass"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"telescope\", \"butterfly\", \"hammer\", \"cheese\", \"symphony\", \"glacier\", \"whisper\", \"volcano\", \"algorithm\", \"feather\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "hammer",
+      "cheese",
+      "symphony",
+      "glacier",
+      "whisper",
+      "volcano",
+      "algorithm",
+      "feather"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"elephant\", \"whisper\", \"telescope\", \"butter\", \"volcano\", \"symphony\", \"crystal\", \"anchor\", \"feather\", \"laboratory\"]",
+    "words": [
+      "elephant",
+      "whisper",
+      "telescope",
+      "butter",
+      "volcano",
+      "symphony",
+      "crystal",
+      "anchor",
+      "feather",
+      "laboratory"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"telescope\", \"butterfly\", \"volcano\", \"whisper\", \"anvil\", \"glacier\", \"mosquito\", \"symphony\", \"toaster\", \"quicksand\"]",
+    "words": [
+      "telescope",
+      "butterfly",
+      "volcano",
+      "whisper",
+      "anvil",
+      "glacier",
+      "mosquito",
+      "symphony",
+      "toaster",
+      "quicksand"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "```json\n[\"telescope\", \"whisper\", \"fungus\", \"anvil\", \"ocean\", \"butterfly\", \"manuscript\", \"volcano\", \"algorithm\", \"velvet\"]\n```",
+    "words": [
+      "telescope",
+      "whisper",
+      "fungus",
+      "anvil",
+      "ocean",
+      "butterfly",
+      "manuscript",
+      "volcano",
+      "algorithm",
+      "velvet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"telescope\", \"mushroom\", \"whisper\", \"glacier\", \"bureaucracy\", \"symphony\", \"molecule\", \"gossip\", \"volcano\", \"paradox\"]",
+    "words": [
+      "telescope",
+      "mushroom",
+      "whisper",
+      "glacier",
+      "bureaucracy",
+      "symphony",
+      "molecule",
+      "gossip",
+      "volcano",
+      "paradox"
+    ],
+    "api_error": null
+  }
+]

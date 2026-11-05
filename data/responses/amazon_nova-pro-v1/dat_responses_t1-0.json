@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\n  \"star\",\n  \"whisper\",\n  \"rainbow\",\n  \"journey\",\n  \"giggle\",\n  \"serenade\",\n  \"echo\",\n  \"puzzle\",\n  \"zephyr\",\n  \"ember\"\n]",
+    "words": [
+      "star",
+      "whisper",
+      "rainbow",
+      "journey",
+      "giggle",
+      "serenade",
+      "echo",
+      "puzzle",
+      "zephyr",
+      "ember"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\n  \"star\",\n  \"whisper\",\n  \"mountain\",\n  \"silence\",\n  \"puzzle\",\n  \"elephant\",\n  \"dream\",\n  \"thunder\",\n  \"butterfly\",\n  \"echo\"\n]",
+    "words": [
+      "star",
+      "whisper",
+      "mountain",
+      "silence",
+      "puzzle",
+      "elephant",
+      "dream",
+      "thunder",
+      "butterfly",
+      "echo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"apple\", \"justice\", \"quantum\", \"symphony\", \"eclipse\", \"zenith\", \"paradigm\", \"calculus\", \"whisper\", \"odyssey\"]",
+    "words": [
+      "apple",
+      "justice",
+      "quantum",
+      "symphony",
+      "eclipse",
+      "zenith",
+      "paradigm",
+      "calculus",
+      "whisper",
+      "odyssey"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\n  \"apple\",\n  \"cascade\",\n  \"whisper\",\n  \"nexus\",\n  \"paradox\",\n  \"glimmer\",\n  \"umbra\",\n  \"voyage\",\n  \"enigma\",\n  \"zenith\"\n]",
+    "words": [
+      "apple",
+      "cascade",
+      "whisper",
+      "nexus",
+      "paradox",
+      "glimmer",
+      "umbra",
+      "voyage",
+      "enigma",
+      "zenith"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"star\", \"silence\", \"umbrella\", \"justice\", \"algorithm\", \"sunset\", \"harmony\", \"quantum\", \"library\", \"paradox\"]",
+    "words": [
+      "star",
+      "silence",
+      "umbrella",
+      "justice",
+      "algorithm",
+      "sunset",
+      "harmony",
+      "quantum",
+      "library",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"zenith\", \"quark\", \"ebullience\", \"nadir\", \"serendipity\", \"kudos\", \"effulgence\", \"quagmire\", \"resilience\", \"enigma\"]",
+    "words": [
+      "zenith",
+      "quark",
+      "ebullience",
+      "nadir",
+      "serendipity",
+      "kudos",
+      "effulgence",
+      "quagmire",
+      "resilience",
+      "enigma"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\n  \"apple\",\n  \"zebra\",\n  \"quantum\",\n  \"philosophy\",\n  \"umbrella\",\n  \"galaxy\",\n  \"whisper\",\n  \"algorithm\",\n  \"emotion\",\n  \"bicycle\"\n]",
+    "words": [
+      "apple",
+      "zebra",
+      "quantum",
+      "philosophy",
+      "umbrella",
+      "galaxy",
+      "whisper",
+      "algorithm",
+      "emotion",
+      "bicycle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\n  \"apple\",\n  \"quantum\",\n  \"freedom\",\n  \"ocean\",\n  \"justice\",\n  \"algorithm\",\n  \"symphony\",\n  \"enigma\",\n  \"phoenix\",\n  \"paradox\"\n]",
+    "words": [
+      "apple",
+      "quantum",
+      "freedom",
+      "ocean",
+      "justice",
+      "algorithm",
+      "symphony",
+      "enigma",
+      "phoenix",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\n  \"aardvark\",\n  \"bicycle\",\n  \"catastrophe\",\n  \"dolphin\",\n  \"eclipse\",\n  \"fable\",\n  \"galaxy\",\n  \"hatred\",\n  \"iceberg\",\n  \"jungle\"\n]",
+    "words": [
+      "aardvark",
+      "bicycle",
+      "catastrophe",
+      "dolphin",
+      "eclipse",
+      "fable",
+      "galaxy",
+      "hatred",
+      "iceberg",
+      "jungle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[ \"algorithm\", \"bicycle\", \"cerulean\", \"dream\", \"eclipse\", \"forest\", \"guitar\", \"harmony\", \"illusion\", \"journey\" ]",
+    "words": [
+      "algorithm",
+      "bicycle",
+      "cerulean",
+      "dream",
+      "eclipse",
+      "forest",
+      "guitar",
+      "harmony",
+      "illusion",
+      "journey"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\n  \"giggle\",\n  \"mountain\",\n  \"justice\",\n  \"whisper\",\n  \"symphony\",\n  \"tornado\",\n  \"treasure\",\n  \"quantum\",\n  \"paradox\",\n  \"umbrella\"\n]",
+    "words": [
+      "giggle",
+      "mountain",
+      "justice",
+      "whisper",
+      "symphony",
+      "tornado",
+      "treasure",
+      "quantum",
+      "paradox",
+      "umbrella"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"apple\", \"gratitude\", \"astronomy\", \"harmony\", \"kaleidoscope\", \"nostalgia\", \"paradox\", \"serendipity\", \"umbrella\", \"xylograph\"]",
+    "words": [
+      "apple",
+      "gratitude",
+      "astronomy",
+      "harmony",
+      "kaleidoscope",
+      "nostalgia",
+      "paradox",
+      "serendipity",
+      "umbrella",
+      "xylograph"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\n  \"atom\",\n  \"belief\",\n  \"canyon\",\n  \"dusk\",\n  \"eclipse\",\n  \"forest\",\n  \"galaxy\",\n  \"harmony\",\n  \"illusion\",\n  \"journey\"\n]",
+    "words": [
+      "atom",
+      "belief",
+      "canyon",
+      "dusk",
+      "eclipse",
+      "forest",
+      "galaxy",
+      "harmony",
+      "illusion",
+      "journey"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\n  \"mountain\",\n  \"harmony\",\n  \"quantum\",\n  \"paradox\",\n  \"whisper\",\n  \"algorithm\",\n  \"nostalgia\",\n  \"neutron\",\n  \"elegance\",\n  \"zephyr\"\n]",
+    "words": [
+      "mountain",
+      "harmony",
+      "quantum",
+      "paradox",
+      "whisper",
+      "algorithm",
+      "nostalgia",
+      "neutron",
+      "elegance",
+      "zephyr"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"serendipity\", \"bicycle\", \"quantum\", \"harmony\", \"entropy\", \"zephyr\", \"nebula\", \"algorithm\", \"paradox\", \"ethereal\"]",
+    "words": [
+      "serendipity",
+      "bicycle",
+      "quantum",
+      "harmony",
+      "entropy",
+      "zephyr",
+      "nebula",
+      "algorithm",
+      "paradox",
+      "ethereal"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\n  \"galaxy\",\n  \"umbrella\",\n  \"echo\",\n  \"whisper\",\n  \"mountain\",\n  \"symphony\",\n  \"twilight\",\n  \"essence\",\n  \"paradox\",\n  \"aurora\"\n]",
+    "words": [
+      "galaxy",
+      "umbrella",
+      "echo",
+      "whisper",
+      "mountain",
+      "symphony",
+      "twilight",
+      "essence",
+      "paradox",
+      "aurora"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\n  \"sun\",\n  \"telephone\",\n  \"justice\",\n  \"mountain\",\n  \"whisper\",\n  \"algorithm\",\n  \"butterfly\",\n  \"philosophy\",\n  \"rainforest\",\n  \"serendipity\"\n]",
+    "words": [
+      "sun",
+      "telephone",
+      "justice",
+      "mountain",
+      "whisper",
+      "algorithm",
+      "butterfly",
+      "philosophy",
+      "rainforest",
+      "serendipity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\n  \"sky\",\n  \"guitar\",\n  \"ocean\",\n  \"bicycle\",\n  \"book\",\n  \"whisper\",\n  \"fire\",\n  \"feather\",\n  \"robot\",\n  \"melody\"\n]",
+    "words": [
+      "sky",
+      "guitar",
+      "ocean",
+      "bicycle",
+      "book",
+      "whisper",
+      "fire",
+      "feather",
+      "robot",
+      "melody"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\n  \"abacus\",\n  \"bicycle\",\n  \"canyon\",\n  \"dolphin\",\n  \"eclipse\",\n  \"fountain\",\n  \"galaxy\",\n  \"hydrant\",\n  \"iguana\",\n  \"jungle\"\n]",
+    "words": [
+      "abacus",
+      "bicycle",
+      "canyon",
+      "dolphin",
+      "eclipse",
+      "fountain",
+      "galaxy",
+      "hydrant",
+      "iguana",
+      "jungle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\n  \"bicycle\",\n  \"whisper\",\n  \"mountain\",\n  \"harmony\",\n  \"algorithm\",\n  \"whisper\",\n  \"galaxy\",\n  \"symphony\",\n  \"ephemeral\",\n  \"zephyr\"\n]\n",
+    "words": [
+      "bicycle",
+      "whisper",
+      "mountain",
+      "harmony",
+      "algorithm",
+      "whisper",
+      "galaxy",
+      "symphony",
+      "ephemeral",
+      "zephyr"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\n  \"zebra\",\n  \"umbrella\",\n  \"quiver\",\n  \"galaxy\",\n  \"harmony\",\n  \"axle\",\n  \"blizzard\",\n  \"whisper\",\n  \"pyramid\",\n  \"nectar\"\n]",
+    "words": [
+      "zebra",
+      "umbrella",
+      "quiver",
+      "galaxy",
+      "harmony",
+      "axle",
+      "blizzard",
+      "whisper",
+      "pyramid",
+      "nectar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\n  \"elephant\",\n  \"quantum\",\n  \"symphony\",\n  \"galaxy\",\n  \"whisper\",\n  \"emerald\",\n  \"paradox\",\n  \"zephyr\",\n  \"algorithm\",\n  \"nostalgia\"\n]",
+    "words": [
+      "elephant",
+      "quantum",
+      "symphony",
+      "galaxy",
+      "whisper",
+      "emerald",
+      "paradox",
+      "zephyr",
+      "algorithm",
+      "nostalgia"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\n  \"abyss\",\n  \"blizzard\",\n  \"carousel\",\n  \"dandelion\",\n  \"eclipse\",\n  \"fable\",\n  \"galaxy\",\n  \"harmony\",\n  \"iceberg\",\n  \"jukebox\"\n]",
+    "words": [
+      "abyss",
+      "blizzard",
+      "carousel",
+      "dandelion",
+      "eclipse",
+      "fable",
+      "galaxy",
+      "harmony",
+      "iceberg",
+      "jukebox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\n  \"quark\",\n  \"symphony\",\n  \"nebula\",\n  \"algorithm\",\n  \"serendipity\",\n  \"zenith\",\n  \"quixotic\",\n  \"kaleidoscope\",\n  \"ephemeral\",\n  \"paradox\"\n]",
+    "words": [
+      "quark",
+      "symphony",
+      "nebula",
+      "algorithm",
+      "serendipity",
+      "zenith",
+      "quixotic",
+      "kaleidoscope",
+      "ephemeral",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"abacus\", \"bicycle\", \"cactus\", \"dolphin\", \"eclipse\", \"frisbee\", \"grapefruit\", \"helicopter\", \"iceberg\", \"jungle\"]",
+    "words": [
+      "abacus",
+      "bicycle",
+      "cactus",
+      "dolphin",
+      "eclipse",
+      "frisbee",
+      "grapefruit",
+      "helicopter",
+      "iceberg",
+      "jungle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\n  \"joy\",\n  \"quantum\",\n  \"serendipity\",\n  \"algorithm\",\n  \"umbrella\",\n  \"gravity\",\n  \"paradox\",\n  \"nexus\",\n  \"efflux\",\n  \"zenith\"\n]",
+    "words": [
+      "joy",
+      "quantum",
+      "serendipity",
+      "algorithm",
+      "umbrella",
+      "gravity",
+      "paradox",
+      "nexus",
+      "efflux",
+      "zenith"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"atom\", \"justice\", \"melody\", \"quandary\", \"zenith\", \"epiphany\", \"vortex\", \"conundrum\", \"serendipity\", \"ethereal\"]",
+    "words": [
+      "atom",
+      "justice",
+      "melody",
+      "quandary",
+      "zenith",
+      "epiphany",
+      "vortex",
+      "conundrum",
+      "serendipity",
+      "ethereal"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\n  \"galaxy\",\n  \"harmony\",\n  \"sandcastle\",\n  \"treasury\",\n  \"quantum\",\n  \"whisper\",\n  \"serendipity\",\n  \"zodiac\",\n  \"paradox\",\n  \"labyrinth\"\n]",
+    "words": [
+      "galaxy",
+      "harmony",
+      "sandcastle",
+      "treasury",
+      "quantum",
+      "whisper",
+      "serendipity",
+      "zodiac",
+      "paradox",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\n  \"bicycle\",\n  \"algorithm\",\n  \"symphony\",\n  \"quantum\",\n  \"asteroid\",\n  \"paradox\",\n  \"narrative\",\n  \"ecosystem\",\n  \"cryptography\",\n  \"aura\"\n]",
+    "words": [
+      "bicycle",
+      "algorithm",
+      "symphony",
+      "quantum",
+      "asteroid",
+      "paradox",
+      "narrative",
+      "ecosystem",
+      "cryptography",
+      "aura"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\n  \"galaxy\",\n  \"laughter\",\n  \"whisper\",\n  \"boulder\",\n  \"essence\",\n  \"paradox\",\n  \"symphony\",\n  \"elixir\",\n  \"zenith\",\n  \"abyss\"\n]",
+    "words": [
+      "galaxy",
+      "laughter",
+      "whisper",
+      "boulder",
+      "essence",
+      "paradox",
+      "symphony",
+      "elixir",
+      "zenith",
+      "abyss"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\n  \"tree\",\n  \"silence\",\n  \"journey\",\n  \"whisper\",\n  \"galaxy\",\n  \"puzzle\",\n  \"shadow\",\n  \"harmony\",\n  \"fractal\",\n  \"zephyr\"\n]",
+    "words": [
+      "tree",
+      "silence",
+      "journey",
+      "whisper",
+      "galaxy",
+      "puzzle",
+      "shadow",
+      "harmony",
+      "fractal",
+      "zephyr"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\n  \"apple\",\n  \"symmetry\",\n  \"quantum\",\n  \"bicycle\",\n  \"eclipse\",\n  \"harmony\",\n  \"algorithm\",\n  \"paradox\",\n  \"zenith\",\n  \"whisper\"\n]",
+    "words": [
+      "apple",
+      "symmetry",
+      "quantum",
+      "bicycle",
+      "eclipse",
+      "harmony",
+      "algorithm",
+      "paradox",
+      "zenith",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\n  \"galaxy\",\n  \"whisper\",\n  \"puzzle\",\n  \"umbrella\",\n  \"courage\",\n  \"symphony\",\n  \"mystery\",\n  \"journey\",\n  \"eclipse\",\n  \"laughter\"\n]",
+    "words": [
+      "galaxy",
+      "whisper",
+      "puzzle",
+      "umbrella",
+      "courage",
+      "symphony",
+      "mystery",
+      "journey",
+      "eclipse",
+      "laughter"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"apple\", \"quantum\", \"galaxy\", \"silhouette\", \"nexus\", \"paradox\", \"umbrella\", \"zenith\", \"algorithm\", \"echo\"]",
+    "words": [
+      "apple",
+      "quantum",
+      "galaxy",
+      "silhouette",
+      "nexus",
+      "paradox",
+      "umbrella",
+      "zenith",
+      "algorithm",
+      "echo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\n  \"table\",\n  \"jupiter\",\n  \"serenity\",\n  \"algorithm\",\n  \"oxygen\",\n  \"kaleidoscope\",\n  \"quantum\",\n  \"paradox\",\n  \"echo\",\n  \"nexus\"\n]",
+    "words": [
+      "table",
+      "jupiter",
+      "serenity",
+      "algorithm",
+      "oxygen",
+      "kaleidoscope",
+      "quantum",
+      "paradox",
+      "echo",
+      "nexus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\n  \"joy\",\n  \"quantum\",\n  \"tsunami\",\n  \"algorithm\",\n  \"eclipse\",\n  \"symphony\",\n  \"paradox\",\n  \"abyss\",\n  \"nostalgia\",\n  \"zenith\"\n]",
+    "words": [
+      "joy",
+      "quantum",
+      "tsunami",
+      "algorithm",
+      "eclipse",
+      "symphony",
+      "paradox",
+      "abyss",
+      "nostalgia",
+      "zenith"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"feather\", \"quantum\", \"symphony\", \"paradox\", \"cascade\", \"enigma\", \"nexus\", \"zenith\", \"abyss\", \"whisper\"]",
+    "words": [
+      "feather",
+      "quantum",
+      "symphony",
+      "paradox",
+      "cascade",
+      "enigma",
+      "nexus",
+      "zenith",
+      "abyss",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\n  \"zebra\",\n  \"quantum\",\n  \"umbrella\",\n  \"galaxy\",\n  \"whisper\",\n  \"symphony\",\n  \"boulder\",\n  \"echo\",\n  \"paradox\",\n  \"nectar\"\n]",
+    "words": [
+      "zebra",
+      "quantum",
+      "umbrella",
+      "galaxy",
+      "whisper",
+      "symphony",
+      "boulder",
+      "echo",
+      "paradox",
+      "nectar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\n  \"table\",\n  \"serenity\",\n  \"quantum\",\n  \"butterfly\",\n  \"algorithm\",\n  \"nebula\",\n  \"whisper\",\n  \"architecture\",\n  \"paradox\",\n  \"euphoria\"\n]",
+    "words": [
+      "table",
+      "serenity",
+      "quantum",
+      "butterfly",
+      "algorithm",
+      "nebula",
+      "whisper",
+      "architecture",
+      "paradox",
+      "euphoria"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"feather\", \"algorithm\", \"boulder\", \"cucumber\", \"symphony\", \"quantum\", \"twilight\", \"kaleidoscope\", \"narrative\", \"entropy\"]",
+    "words": [
+      "feather",
+      "algorithm",
+      "boulder",
+      "cucumber",
+      "symphony",
+      "quantum",
+      "twilight",
+      "kaleidoscope",
+      "narrative",
+      "entropy"
+    ],
+    "api_error": null
+  }
+]

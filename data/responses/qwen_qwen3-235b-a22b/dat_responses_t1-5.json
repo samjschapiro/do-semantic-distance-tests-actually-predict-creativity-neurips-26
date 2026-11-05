@@ -1,0 +1,720 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"earth\", \"time\", \"quinine\", \"galaxy\", \"chair\", \"justice\", \"octopus\", \"algorithm\", \"enzyme\", \"singularity\"]",
+    "words": [
+      "earth",
+      "time",
+      "quinine",
+      "galaxy",
+      "chair",
+      "justice",
+      "octopus",
+      "algorithm",
+      "enzyme",
+      "singularity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"Chair\", \"River\", \"Happiness\", \"Electron\", \"Fungus\", \"Thunderstorm\", \"Galaxy\", \"Puzzle\", \"Microphone\", \"Paradox\"]",
+    "words": [
+      "chair",
+      "river",
+      "happiness",
+      "electron",
+      "fungus",
+      "thunderstorm",
+      "galaxy",
+      "puzzle",
+      "microphone",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"tree\", \"algorithm\", \"emerald\", \"democracy\", \"nebula\", \"sorrow\", \"banyan\", \"quasar\", \"desperation\", \"hatchet\"]  \n\nWait, no, because \"banyan\" is a type of tree \u2014 duplicate category. Let me fix and ensure all ten words are absolutely from different broad categories and that they do not repeat any semantic group:\n\nLet me reevaluate. The final list could use:\n\n- Tree (flora)\n- Galaxy (celestial)\n- Cell (biological entity)\n- Algorithm (computational)\n- Desert (dry geographical)\n- Democracy (social system)\n- Emotion (psychological)\n- Wrench (tool)\n- Cheese (produced food)\n- Ocean (large body of water \u2014 though both ocean and river or desert similar, maybe pick something else instead of Cheese? Maybe \"sugar?\")\n\nAlternatively, \"sandal\" (footwear).\n\nAlternatively, replace Cheese with Compass (tool), but then Wrenth and Compass overlapping in 'tools.\n\nIn the initial prompt, the user requires as different as possible in all meanings, so perhaps a mix would be better that no one jumps in mind as even somewhat related.\n\nGiven all this and aiming to cover",
+    "words": [
+      "tree",
+      "algorithm",
+      "emerald",
+      "democracy",
+      "nebula",
+      "sorrow",
+      "banyan",
+      "quasar",
+      "desperation",
+      "hatchet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"volcano\", \"ladder\", \"atom\", \"joy\", \"modem\", \"symphony\", \"chromosome\", \"galaxy\", \"sprocket\", \"quartz\"]",
+    "words": [
+      "volcano",
+      "ladder",
+      "atom",
+      "joy",
+      "modem",
+      "symphony",
+      "chromosome",
+      "galaxy",
+      "sprocket",
+      "quartz"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"galaxy\", \"wrench\", \"giraffe\", \"hydrogen\", \"fungus\", \"quartz\", \"ocean\", \"scream\", \"mile\", \"tundra\"]",
+    "words": [
+      "galaxy",
+      "wrench",
+      "giraffe",
+      "hydrogen",
+      "fungus",
+      "quartz",
+      "ocean",
+      "scream",
+      "mile",
+      "tundra"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"bacteria\", \"galaxy\", \"quartz\", \"justice\", \"symphony\", \"drone\", \"thunderstorm\", \"euphoria\", \"dunes\", \"photon\"]",
+    "words": [
+      "bacteria",
+      "galaxy",
+      "quartz",
+      "justice",
+      "symphony",
+      "drone",
+      "thunderstorm",
+      "euphoria",
+      "dunes",
+      "photon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"chaos\", \"planet\", \"bicycle\", \"quantum\", \"grief\", \"oceans\", \"vaccine\", \"tectonics\", \"honeycomb\", \"euphoria\"]",
+    "words": [
+      "chaos",
+      "planet",
+      "bicycle",
+      "quantum",
+      "grief",
+      "oceans",
+      "vaccine",
+      "tectonics",
+      "honeycomb",
+      "euphoria"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"leaf\", \"car\", \"galaxy\", \"compassion\", \"quartz\", \"hurricane\", \"microscope\", \"desert\", \"saxophone\", \"algorithm\"]",
+    "words": [
+      "leaf",
+      "car",
+      "galaxy",
+      "compassion",
+      "quartz",
+      "hurricane",
+      "microscope",
+      "desert",
+      "saxophone",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"apple\", \"asteroid\", \"chair\", \"quark\", \"bacteria\", \"galaxy\", \"diamond\", \"oxygen\", \"storm\", \"elephant\"]",
+    "words": [
+      "apple",
+      "asteroid",
+      "chair",
+      "quark",
+      "bacteria",
+      "galaxy",
+      "diamond",
+      "oxygen",
+      "storm",
+      "elephant"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"chair\", \"thunderstorm\", \"porcupine\", \"algorithm\", \"dodecahedron\", \"eternity\", \"resonance\", \"symphony\", \"tundra\", \"anarchy\"]",
+    "words": [
+      "chair",
+      "thunderstorm",
+      "porcupine",
+      "algorithm",
+      "dodecahedron",
+      "eternity",
+      "resonance",
+      "symphony",
+      "tundra",
+      "anarchy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"tree\", \"galaxy\", \"electron\", \"justice\", \"music\", \"anger\", \"hammer\", \"desert\", \"oxygen\", \"time\"]",
+    "words": [
+      "tree",
+      "galaxy",
+      "electron",
+      "justice",
+      "music",
+      "anger",
+      "hammer",
+      "desert",
+      "oxygen",
+      "time"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"chair\", \"justice\", \"bird\", \"earthquake\", \"nebula\", \"quark\", \"lightning\", \"mountain\", \"gear\", \"spoon\"]",
+    "words": [
+      "chair",
+      "justice",
+      "bird",
+      "earthquake",
+      "nebula",
+      "quark",
+      "lightning",
+      "mountain",
+      "gear",
+      "spoon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"galaxy\", \"quark\", \"algorithm\", \"democracy\", \"bacteria\", \"tsunami\", \"octopus\", \"compass\", \"fossil\", \"paradox\"]",
+    "words": [
+      "galaxy",
+      "quark",
+      "algorithm",
+      "democracy",
+      "bacteria",
+      "tsunami",
+      "octopus",
+      "compass",
+      "fossil",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"asteroid\", \"whale\", \"hurricane\", \"oxygen\", \"feather\", \"quantum\", \"circuit\", \"mountain\", \"hope\", \"piano\"]",
+    "words": [
+      "asteroid",
+      "whale",
+      "hurricane",
+      "oxygen",
+      "feather",
+      "quantum",
+      "circuit",
+      "mountain",
+      "hope",
+      "piano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"spoon\", \"jellyfish\", \"galaxy\", \"jealousy\", \"engine\", \"fungus\", \"eon\", \"database\", \"volcano\", \"freedom\"]",
+    "words": [
+      "spoon",
+      "jellyfish",
+      "galaxy",
+      "jealousy",
+      "engine",
+      "fungus",
+      "eon",
+      "database",
+      "volcano",
+      "freedom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "{\"fungus\", \"granite\", \"oxygen\", \"thunder\", \"galaxy\", \"gravity\", \"wheel\", \"sadness\", \"glacier\", \"quartz\"}",
+    "words": [
+      "granite",
+      "oxygen",
+      "thunder",
+      "galaxy",
+      "gravity",
+      "wheel",
+      "sadness",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"galaxy\", \"algorithm\", \"elephant\", \"oxygen\", \"symphony\", \"quark\", \"grief\", \"cathedral\", \"hurricane\", \"glacier\"]",
+    "words": [
+      "galaxy",
+      "algorithm",
+      "elephant",
+      "oxygen",
+      "symphony",
+      "quark",
+      "grief",
+      "cathedral",
+      "hurricane",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"Joy\", \"Brick\", \"Maple\", \"Orca\", \"Asteroid\", \"Thunder\", \"Liver\", \"Drill\", \"Sapphire\", \"Charm\"]",
+    "words": [
+      "joy",
+      "brick",
+      "maple",
+      "orca",
+      "asteroid",
+      "thunder",
+      "liver",
+      "drill",
+      "sapphire",
+      "charm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"anchor\", \"lotion\", \"tornado\", \"piano\", \"fever\", \"guitar\", \"volcano\", \"thunderstorm\", \"compass\", \"parachute\"]",
+    "words": [
+      "anchor",
+      "lotion",
+      "tornado",
+      "piano",
+      "fever",
+      "guitar",
+      "volcano",
+      "thunderstorm",
+      "compass",
+      "parachute"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"galaxy\", \"bacterium\", \"serenade\", \"sustenance\", \"justice\", \"algorithm\", \"hurricane\", \"irony\", \"quill\", \"fungus\"]",
+    "words": [
+      "galaxy",
+      "bacterium",
+      "serenade",
+      "sustenance",
+      "justice",
+      "algorithm",
+      "hurricane",
+      "irony",
+      "quill",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"quantum\", \"serendipity\", \"mountain\", \"scaffold\", \"parsimony\", \"mycelium\", \"volt\", \"halo\", \"dandelion\", \"asterism\"]",
+    "words": [
+      "quantum",
+      "serendipity",
+      "mountain",
+      "scaffold",
+      "parsimony",
+      "mycelium",
+      "volt",
+      "halo",
+      "dandelion",
+      "asterism"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"quantum\", \"symphony\", \"microscope\", \"fungus\", \"galaxy\", \"thunder\", \"desert\", \"liberty\", \"canoe\", \"oxygen\"]",
+    "words": [
+      "quantum",
+      "symphony",
+      "microscope",
+      "fungus",
+      "galaxy",
+      "thunder",
+      "desert",
+      "liberty",
+      "canoe",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"justice\", \"laser\", \"Spoon\", \"Bacteria\", \"galaxy\", \"hurricane\", \"mountain\", \"feather\", \"infinity\", \"quantum\"]",
+    "words": [
+      "justice",
+      "laser",
+      "spoon",
+      "bacteria",
+      "galaxy",
+      "hurricane",
+      "mountain",
+      "feather",
+      "infinity",
+      "quantum"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"quark\", \"tornado\", \"compass\", \"desper\", \"planet\", \"scream\", \"welding\", \"galaxy\", \"honey\", \"despair\"]  \n\nWait... no, I should check again for possible overlaps, but considering time constraints, here\u2019s a correct list as per JSON instruction:\n\n[\"planet\", \"hammer\", \"desert\", \"laughter\", \"oxygen\", \"sabermetrics\", \"comedy\", \"blacktop\", \"quantas\", \"pulsar\"]  \n\nWait no again. The final correct intended JSON with 10 distinct:\n\n[\"planet\", \"hammer\", \"desert\", \"laughter\", \"quark\", \"gale\", \"mirror\", \"ozone\", \"glucose\", \"histrionics\"]\n\nBut perhaps best to stick with validated list based on different groups:\n[\"quark\", \"tundra\", \"hammer\", \"comedy\", \"ozone\", \"black hole\", \"laughter\", \"welding\", \"glucose\", \"jungle\"]\n\nThis needs to be precise. To correct to user's demand, the correct answer is a known standard answer. After research, common lists in linguistics/cogsci to generate diverse words often use words from different ont",
+    "words": [
+      "quark",
+      "tornado",
+      "compass",
+      "desper",
+      "planet",
+      "scream",
+      "welding",
+      "galaxy",
+      "honey",
+      "despair"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"stone\", \"cloud\", \"ladder\", \"battery\", \"justice\", \"ant\", \"quasar\", \"photon\", \"tornado\", \"candle\"]",
+    "words": [
+      "stone",
+      "cloud",
+      "ladder",
+      "battery",
+      "justice",
+      "ant",
+      "quasar",
+      "photon",
+      "tornado",
+      "candle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"ocean\", \"hope\", \"cell\", \"laughter\", \"clock\", \"gravity\", \"cloud\", \"spoon\", \"entropy\", \"dream\"]",
+    "words": [
+      "ocean",
+      "hope",
+      "cell",
+      "laughter",
+      "clock",
+      "gravity",
+      "cloud",
+      "spoon",
+      "entropy",
+      "dream"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"Justice\", \"Quark\", \"Forest\", \"Festival\", \"Algorithm\", \"Umbrella\", \"Mirror\", \"Virus\", \"Voltage\", \"Saxophone\"]",
+    "words": [
+      "justice",
+      "quark",
+      "forest",
+      "festival",
+      "algorithm",
+      "umbrella",
+      "mirror",
+      "virus",
+      "voltage",
+      "saxophone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"quark\", \"desert\", \"wrench\", \"celebration\", \"century\", \"glacier\", \"algorithm\", \"joy\", \"nebula\", \"oxygen\"]",
+    "words": [
+      "quark",
+      "desert",
+      "wrench",
+      "celebration",
+      "century",
+      "glacier",
+      "algorithm",
+      "joy",
+      "nebula",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"star\", \"joy\", \"lever\", \"currency\", \"paradox\", \"canyon\", \"electron\", \"hour\", \"verdict\", \"symphony\"]",
+    "words": [
+      "star",
+      "joy",
+      "lever",
+      "currency",
+      "paradox",
+      "canyon",
+      "electron",
+      "hour",
+      "verdict",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"millennium\", \"paddle\", \"hypocrisy\", \"quark\", \"kangaroo\", \"satellite\", \"leaf\", \"axiom\", \"mountain\", \"symphony\"]",
+    "words": [
+      "millennium",
+      "paddle",
+      "hypocrisy",
+      "quark",
+      "kangaroo",
+      "satellite",
+      "leaf",
+      "axiom",
+      "mountain",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"ocean\", \"satellite\", \"butterfly\", \"hammer\", \"photon\", \"poem\", \"submarine\", \"bridge\", \"eclipse\", \"quarantine\"]",
+    "words": [
+      "ocean",
+      "satellite",
+      "butterfly",
+      "hammer",
+      "photon",
+      "poem",
+      "submarine",
+      "bridge",
+      "eclipse",
+      "quarantine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"asteroid\", \"octopus\", \"turbine\", \"anxiety\", \"glider\", \"willow\", \"spanner\", \"whistle\", \"copper\", \"virus\"]",
+    "words": [
+      "asteroid",
+      "octopus",
+      "turbine",
+      "anxiety",
+      "glider",
+      "willow",
+      "spanner",
+      "whistle",
+      "copper",
+      "virus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"oxygen\", \"algorithm\", \"ladder\", \"equinox\", \"volcano\", \"symphony\", \"quasar\", \"compass\", \"justice\", \"amoeba\"]",
+    "words": [
+      "oxygen",
+      "algorithm",
+      "ladder",
+      "equinox",
+      "volcano",
+      "symphony",
+      "quasar",
+      "compass",
+      "justice",
+      "amoeba"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"rain\", \"justice\", \"pepper\", \"circuit\", \"planet\", \"hammer\", \"virus\", \"violin\", \"quantum\", \"glacier\"]",
+    "words": [
+      "rain",
+      "justice",
+      "pepper",
+      "circuit",
+      "planet",
+      "hammer",
+      "virus",
+      "violin",
+      "quantum",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"quark\", \"justice\", \"hedgehog\", \"fabric\", \"velocity\", \"algorithm\", \"galaxy\", \"happiness\", \"engine\", \"microbe\"]",
+    "words": [
+      "quark",
+      "justice",
+      "hedgehog",
+      "fabric",
+      "velocity",
+      "algorithm",
+      "galaxy",
+      "happiness",
+      "engine",
+      "microbe"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"quartz\", \"algorithm\", \"hydrogen\", \"femur\", \"supernova\", \"tundra\", \"mitochondria\", \"hurricane\", \"jealousy\", \"velocity\"]",
+    "words": [
+      "quartz",
+      "algorithm",
+      "hydrogen",
+      "femur",
+      "supernova",
+      "tundra",
+      "mitochondria",
+      "hurricane",
+      "jealousy",
+      "velocity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"fungus\", \"telescope\", \"joy\", \"nebula\", \"hammer\", \"magnesium\", \"whiskey\", \"tornado\", \"elevator\", \"raccoon\"]",
+    "words": [
+      "fungus",
+      "telescope",
+      "joy",
+      "nebula",
+      "hammer",
+      "magnesium",
+      "whiskey",
+      "tornado",
+      "elevator",
+      "raccoon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"Helium\", \"Tornado\", \"Century\", \"Loneliness\", \"Algorithm\", \"Umbrella\", \"Gravity\", \"Fungus\", \"Canyon\", \"Echo\"]",
+    "words": [
+      "helium",
+      "tornado",
+      "century",
+      "loneliness",
+      "algorithm",
+      "umbrella",
+      "gravity",
+      "fungus",
+      "canyon",
+      "echo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"quark\", \"sunset\", \"inflation\", \"fungus\", \"guitar\", \"fractal\", \"tornado\", \"dilemma\", \"novel\", \"circuit\"]",
+    "words": [
+      "quark",
+      "sunset",
+      "inflation",
+      "fungus",
+      "guitar",
+      "fractal",
+      "tornado",
+      "dilemma",
+      "novel",
+      "circuit"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"chair\", \"wolf\", \"century\", \"serenity\", \"kidney\", \"telescope\", \"ocean\", \"bicycle\", \"gravity\", \"galaxy\"]",
+    "words": [
+      "chair",
+      "wolf",
+      "century",
+      "serenity",
+      "kidney",
+      "telescope",
+      "ocean",
+      "bicycle",
+      "gravity",
+      "galaxy"
+    ],
+    "api_error": null
+  }
+]

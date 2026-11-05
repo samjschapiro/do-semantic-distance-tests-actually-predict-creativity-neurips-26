@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"silk\", \"fossil\", \"kitten\", \"microscope\", \"restaurant\", \"asteroid\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "silk",
+      "fossil",
+      "kitten",
+      "microscope",
+      "restaurant",
+      "asteroid"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"cloud\", \"piano\", \"submarine\", \"carrot\", \"sculpture\", \"microchip\", \"fountain\", \"starfish\", \"perfume\", \"labyrinth\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "submarine",
+      "carrot",
+      "sculpture",
+      "microchip",
+      "fountain",
+      "starfish",
+      "perfume",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"perfume\", \"luggage\", \"starfish\", \"carousel\", \"microscope\", \"fountain\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "perfume",
+      "luggage",
+      "starfish",
+      "carousel",
+      "microscope",
+      "fountain"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"perfume\", \"kitten\", \"fountain\", \"restaurant\", \"starfish\", \"harmonica\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "perfume",
+      "kitten",
+      "fountain",
+      "restaurant",
+      "starfish",
+      "harmonica"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"cloud\", \"pineapple\", \"submarine\", \"diamond\", \"snowflake\", \"fountain\", \"luggage\", \"harmonica\", \"skeleton\", \"microscope\"]",
+    "words": [
+      "cloud",
+      "pineapple",
+      "submarine",
+      "diamond",
+      "snowflake",
+      "fountain",
+      "luggage",
+      "harmonica",
+      "skeleton",
+      "microscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"cloud\", \"piano\", \"kitten\", \"submarine\", \"saffron\", \"fracture\", \"parade\", \"luggage\", \"microchip\", \"sapling\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "kitten",
+      "submarine",
+      "saffron",
+      "fracture",
+      "parade",
+      "luggage",
+      "microchip",
+      "sapling"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"caramel\", \"microscope\", \"butterfly\", \"glacier\", \"keyboard\", \"fungus\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "caramel",
+      "microscope",
+      "butterfly",
+      "glacier",
+      "keyboard",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"saffron\", \"tornado\", \"microscope\", \"library\", \"perfume\", \"labyrinth\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "saffron",
+      "tornado",
+      "microscope",
+      "library",
+      "perfume",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"saffron\", \"fracture\", \"harmony\", \"luggage\", \"mosquito\", \"galaxy\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "saffron",
+      "fracture",
+      "harmony",
+      "luggage",
+      "mosquito",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"saffron\", \"fossil\", \"glacier\", \"sculpture\", \"microchip\", \"whisper\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "saffron",
+      "fossil",
+      "glacier",
+      "sculpture",
+      "microchip",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"cloud\", \"piano\", \"pearl\", \"sand\", \"tornado\", \"circuit\", \"kitten\", \"symphony\", \"asteroid\", \"silk\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "pearl",
+      "sand",
+      "tornado",
+      "circuit",
+      "kitten",
+      "symphony",
+      "asteroid",
+      "silk"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"cloud\", \"piano\", \"submarine\", \"snowflake\", \"library\", \"restaurant\", \"fossil\", \"harmonica\", \"starfish\", \"dictionary\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "submarine",
+      "snowflake",
+      "library",
+      "restaurant",
+      "fossil",
+      "harmonica",
+      "starfish",
+      "dictionary"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"cloud\", \"piano\", \"butterfly\", \"snowflake\", \"submarine\", \"caramel\", \"fountain\", \"glacier\", \"harmonica\", \"lighthouse\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "butterfly",
+      "snowflake",
+      "submarine",
+      "caramel",
+      "fountain",
+      "glacier",
+      "harmonica",
+      "lighthouse"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"cloud\", \"piano\", \"kangaroo\", \"fracture\", \"silicon\", \"saffron\", \"submarine\", \"kitten\", \"rhythm\", \"glacier\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "kangaroo",
+      "fracture",
+      "silicon",
+      "saffron",
+      "submarine",
+      "kitten",
+      "rhythm",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"pineapple\", \"harmony\", \"fracture\", \"carousel\", \"microchip\", \"skeleton\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "pineapple",
+      "harmony",
+      "fracture",
+      "carousel",
+      "microchip",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"caramel\", \"rhythm\", \"microchip\", \"saffron\", \"asteroid\", \"fountain\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "caramel",
+      "rhythm",
+      "microchip",
+      "saffron",
+      "asteroid",
+      "fountain"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"cloud\", \"piano\", \"kitchen\", \"butterfly\", \"diamond\", \"submarine\", \"carrot\", \"fountain\", \"microchip\", \"sculpture\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "kitchen",
+      "butterfly",
+      "diamond",
+      "submarine",
+      "carrot",
+      "fountain",
+      "microchip",
+      "sculpture"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"cloud\", \"pineapple\", \"piano\", \"quark\", \"saddle\", \"fossil\", \"starfish\", \"submarine\", \"microscope\", \"caramel\"]",
+    "words": [
+      "cloud",
+      "pineapple",
+      "piano",
+      "quark",
+      "saddle",
+      "fossil",
+      "starfish",
+      "submarine",
+      "microscope",
+      "caramel"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"cloud\", \"piano\", \"kitchen\", \"snowflake\", \"submarine\", \"caramel\", \"rhythm\", \"glacier\", \"parrot\", \"fountain\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "kitchen",
+      "snowflake",
+      "submarine",
+      "caramel",
+      "rhythm",
+      "glacier",
+      "parrot",
+      "fountain"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"cloud\", \"pineapple\", \"guitar\", \"snowflake\", \"submarine\", \"luggage\", \"perfume\", \"circuit\", \"butterfly\", \"microscope\"]",
+    "words": [
+      "cloud",
+      "pineapple",
+      "guitar",
+      "snowflake",
+      "submarine",
+      "luggage",
+      "perfume",
+      "circuit",
+      "butterfly",
+      "microscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"perfume\", \"submarine\", \"kitten\", \"asteroid\", \"saffron\", \"labyrinth\", \"microchip\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "perfume",
+      "submarine",
+      "kitten",
+      "asteroid",
+      "saffron",
+      "labyrinth",
+      "microchip"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"perfume\", \"lattice\", \"starfish\", \"fountain\", \"glacier\", \"microchip\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "perfume",
+      "lattice",
+      "starfish",
+      "fountain",
+      "glacier",
+      "microchip"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"cloud\", \"piano\", \"kitchen\", \"diamond\", \"submarine\", \"carrot\", \"fountain\", \"glacier\", \"microphone\", \"sculpture\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "kitchen",
+      "diamond",
+      "submarine",
+      "carrot",
+      "fountain",
+      "glacier",
+      "microphone",
+      "sculpture"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"perfume\", \"starfish\", \"glacier\", \"harp\", \"microchip\", \"saffron\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "perfume",
+      "starfish",
+      "glacier",
+      "harp",
+      "microchip",
+      "saffron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"cloud\", \"pineapple\", \"friction\", \"sculpture\", \"microchip\", \"sonata\", \"paradox\", \"glacier\", \"mosquito\", \"keyboard\"]",
+    "words": [
+      "cloud",
+      "pineapple",
+      "friction",
+      "sculpture",
+      "microchip",
+      "sonata",
+      "paradox",
+      "glacier",
+      "mosquito",
+      "keyboard"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"Cloud\", \"Piano\", \"Sand\", \"Fracture\", \"Llama\", \"Circuit\", \"Saffron\", \"Labyrinth\", \"Starfish\", \"Harmonica\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "sand",
+      "fracture",
+      "llama",
+      "circuit",
+      "saffron",
+      "labyrinth",
+      "starfish",
+      "harmonica"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"cloud\", \"pineapple\", \"friction\", \"spectrum\", \"harmonica\", \"labyrinth\", \"snowflake\", \"submarine\", \"paradox\", \"canvas\"]",
+    "words": [
+      "cloud",
+      "pineapple",
+      "friction",
+      "spectrum",
+      "harmonica",
+      "labyrinth",
+      "snowflake",
+      "submarine",
+      "paradox",
+      "canvas"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"cloud\", \"piano\", \"kitten\", \"submarine\", \"snowflake\", \"perfume\", \"labyrinth\", \"starfish\", \"dictionary\", \"fountain\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "kitten",
+      "submarine",
+      "snowflake",
+      "perfume",
+      "labyrinth",
+      "starfish",
+      "dictionary",
+      "fountain"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"cloud\", \"piano\", \"starfish\", \"silk\", \"snowflake\", \"fountain\", \"luggage\", \"microchip\", \"saffron\", \"submarine\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "starfish",
+      "silk",
+      "snowflake",
+      "fountain",
+      "luggage",
+      "microchip",
+      "saffron",
+      "submarine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"restaurant\", \"molecule\", \"sculpture\", \"glacier\", \"harmonica\", \"caramel\", \"submarine\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "restaurant",
+      "molecule",
+      "sculpture",
+      "glacier",
+      "harmonica",
+      "caramel",
+      "submarine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"cloud\", \"piano\", \"submarine\", \"carrot\", \"fossil\", \"microscope\", \"sculpture\", \"starfish\", \"harmonica\", \"labyrinth\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "submarine",
+      "carrot",
+      "fossil",
+      "microscope",
+      "sculpture",
+      "starfish",
+      "harmonica",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"carrot\", \"library\", \"perfume\", \"lava\", \"mosquito\", \"skeleton\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "carrot",
+      "library",
+      "perfume",
+      "lava",
+      "mosquito",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"cloud\", \"stone\", \"piano\", \"kitten\", \"snowflake\", \"perfume\", \"galaxy\", \"furniture\", \"microchip\", \"skeleton\"]",
+    "words": [
+      "cloud",
+      "stone",
+      "piano",
+      "kitten",
+      "snowflake",
+      "perfume",
+      "galaxy",
+      "furniture",
+      "microchip",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"cloud\", \"piano\", \"submarine\", \"snowflake\", \"circuit\", \"saffron\", \"labyrinth\", \"microchip\", \"starfish\", \"fountain\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "submarine",
+      "snowflake",
+      "circuit",
+      "saffron",
+      "labyrinth",
+      "microchip",
+      "starfish",
+      "fountain"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"caramel\", \"helmet\", \"dictionary\", \"fountain\", \"microchip\", \"skeleton\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "caramel",
+      "helmet",
+      "dictionary",
+      "fountain",
+      "microchip",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"carrot\", \"diamond\", \"fountain\", \"glacier\", \"honeybee\", \"telescope\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "carrot",
+      "diamond",
+      "fountain",
+      "glacier",
+      "honeybee",
+      "telescope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"cloud\", \"submarine\", \"pineapple\", \"piano\", \"snowflake\", \"microchip\", \"saddle\", \"perfume\", \"fossil\", \"carousel\"]",
+    "words": [
+      "cloud",
+      "submarine",
+      "pineapple",
+      "piano",
+      "snowflake",
+      "microchip",
+      "saddle",
+      "perfume",
+      "fossil",
+      "carousel"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"cloud\", \"piano\", \"kitchen\", \"submarine\", \"pineapple\", \"snowflake\", \"fiddle\", \"library\", \"tornado\", \"saffron\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "kitchen",
+      "submarine",
+      "pineapple",
+      "snowflake",
+      "fiddle",
+      "library",
+      "tornado",
+      "saffron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"cloud\", \"piano\", \"snowflake\", \"submarine\", \"butterfly\", \"fountain\", \"diamond\", \"carousel\", \"silence\", \"microscope\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "snowflake",
+      "submarine",
+      "butterfly",
+      "fountain",
+      "diamond",
+      "carousel",
+      "silence",
+      "microscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"cloud\", \"piano\", \"submarine\", \"carrot\", \"fountain\", \"diamond\", \"moth\", \"snowflake\", \"harmonica\", \"lighthouse\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "submarine",
+      "carrot",
+      "fountain",
+      "diamond",
+      "moth",
+      "snowflake",
+      "harmonica",
+      "lighthouse"
+    ],
+    "api_error": null
+  }
+]

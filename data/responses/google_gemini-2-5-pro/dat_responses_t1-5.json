@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"fungus\",\n\"democracy\",\n\"molecule\",\n\"silt\",\n\"accordion\",\n\"whale\",\n\"algorithm\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "fungus",
+      "democracy",
+      "molecule",
+      "silt",
+      "accordion",
+      "whale",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"algorithm\",\n\"molecule\",\n\"silt\",\n\"melody\",\n\"democracy\",\n\"conscience\",\n\"lichen\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "algorithm",
+      "molecule",
+      "silt",
+      "melody",
+      "democracy",
+      "conscience",
+      "lichen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"democracy\",\n\"fungus\",\n\"algorithm\",\n\"pebble\",\n\"molecule\",\n\"nostalgia\",\n\"symphony\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "democracy",
+      "fungus",
+      "algorithm",
+      "pebble",
+      "molecule",
+      "nostalgia",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"chisel\",\n\"fungus\",\n\"algorithm\",\n\"rhyme\",\n\"justice\",\n\"molecule\",\n\"symphony\",\n\"dream\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "chisel",
+      "fungus",
+      "algorithm",
+      "rhyme",
+      "justice",
+      "molecule",
+      "symphony",
+      "dream"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"democracy\",\n\"fungus\",\n\"algorithm\",\n\"ocean\",\n\"symphony\",\n\"molecule\",\n\"nostalgia\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "democracy",
+      "fungus",
+      "algorithm",
+      "ocean",
+      "symphony",
+      "molecule",
+      "nostalgia"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "```json\n[\"quasar\", \"fungus\", \"justice\", \"algorithm\", \"melody\", \"silt\", \"nostalgia\", \"molecule\", \"torque\", \"fabric\"]\n```",
+    "words": [
+      "quasar",
+      "fungus",
+      "justice",
+      "algorithm",
+      "melody",
+      "silt",
+      "nostalgia",
+      "molecule",
+      "torque",
+      "fabric"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"molecule\",\n\"chisel\",\n\"symphony\",\n\"fungus\",\n\"justice\",\n\"silt\",\n\"paradox\",\n\"vapor\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "molecule",
+      "chisel",
+      "symphony",
+      "fungus",
+      "justice",
+      "silt",
+      "paradox",
+      "vapor"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "```json\n[\n  \"quantum\",\n  \"silt\",\n  \"nostalgia\",\n  \"fulcrum\",\n  \"oxygen\",\n  \"melody\",\n  \"paradox\",\n  \"chassis\",\n  \"justice\",\n  \"fungus\"\n]\n```",
+    "words": [
+      "quantum",
+      "silt",
+      "nostalgia",
+      "fulcrum",
+      "oxygen",
+      "melody",
+      "paradox",
+      "chassis",
+      "justice",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"zeitgeist\",\n\"molecule\",\n\"silt\",\n\"entropy\",\n\"chisel\",\n\"fungus\",\n\"aria\",\n\"nostalgia\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "zeitgeist",
+      "molecule",
+      "silt",
+      "entropy",
+      "chisel",
+      "fungus",
+      "aria",
+      "nostalgia"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "```json\n[\n    \"quark\",\n    \"nostalgia\",\n    \"fulcrum\",\n    \"entropy\",\n    \"gestalt\",\n    \"chrysanthemum\",\n    \"algorithm\",\n    \"jurisprudence\",\n    \"archipelago\",\n    \"sarcophagus\"\n]\n```",
+    "words": [
+      "quark",
+      "nostalgia",
+      "fulcrum",
+      "entropy",
+      "gestalt",
+      "chrysanthemum",
+      "algorithm",
+      "jurisprudence",
+      "archipelago",
+      "sarcophagus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"chisel\",\n\"fungus\",\n\"algorithm\",\n\"membrane\",\n\"symphony\",\n\"anxiety\",\n\"harbor\",\n\"molecule\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "chisel",
+      "fungus",
+      "algorithm",
+      "membrane",
+      "symphony",
+      "anxiety",
+      "harbor",
+      "molecule"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"democracy\",\n\"fungus\",\n\"algorithm\",\n\"molecule\",\n\"symphony\",\n\"delta\",\n\"shadow\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "democracy",
+      "fungus",
+      "algorithm",
+      "molecule",
+      "symphony",
+      "delta",
+      "shadow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "```json\n[\n  \"quark\",\n  \"melody\",\n  \"justice\",\n  \"fungus\",\n  \"algorithm\",\n  \"shadow\",\n  \"ocean\",\n  \"molecule\",\n  \"dream\",\n  \"gravity\"\n]\n```",
+    "words": [
+      "quark",
+      "melody",
+      "justice",
+      "fungus",
+      "algorithm",
+      "shadow",
+      "ocean",
+      "molecule",
+      "dream",
+      "gravity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"algorithm\",\n\"molecule\",\n\"symphony\",\n\"dream\",\n\"silt\",\n\"conscience\",\n\"democracy\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "algorithm",
+      "molecule",
+      "symphony",
+      "dream",
+      "silt",
+      "conscience",
+      "democracy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"fungus\",\n\"algorithm\",\n\"molecule\",\n\"silt\",\n\"justice\",\n\"melody\",\n\"fabric\",\n\"shadow\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "fungus",
+      "algorithm",
+      "molecule",
+      "silt",
+      "justice",
+      "melody",
+      "fabric",
+      "shadow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"democracy\",\n\"fungus\",\n\"syllable\",\n\"molecule\",\n\"nostalgia\",\n\"sand\",\n\"melody\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "democracy",
+      "fungus",
+      "syllable",
+      "molecule",
+      "nostalgia",
+      "sand",
+      "melody"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "```json\n[\n    \"quark\",\n    \"serendipity\",\n    \"chisel\",\n    \"jurisprudence\",\n    \"fungus\",\n    \"velocity\",\n    \"tuba\",\n    \"nostalgia\",\n    \"archipelago\",\n    \"democracy\"\n]\n```",
+    "words": [
+      "quark",
+      "serendipity",
+      "chisel",
+      "jurisprudence",
+      "fungus",
+      "velocity",
+      "tuba",
+      "nostalgia",
+      "archipelago",
+      "democracy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"molecule\",\n\"symphony\",\n\"silt\",\n\"entropy\",\n\"chisel\",\n\"conscience\",\n\"whale\",\n\"dream\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "molecule",
+      "symphony",
+      "silt",
+      "entropy",
+      "chisel",
+      "conscience",
+      "whale",
+      "dream"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"zeitgeist\",\n\"chisel\",\n\"fungus\",\n\"algorithm\",\n\"spleen\",\n\"justice\",\n\"monsoon\",\n\"molecule\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "zeitgeist",
+      "chisel",
+      "fungus",
+      "algorithm",
+      "spleen",
+      "justice",
+      "monsoon",
+      "molecule"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"chitin\",\n\"algorithm\",\n\"silt\",\n\"entropy\",\n\"molecule\",\n\"nostalgia\",\n\"fulcrum\",\n\"melody\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "chitin",
+      "algorithm",
+      "silt",
+      "entropy",
+      "molecule",
+      "nostalgia",
+      "fulcrum",
+      "melody"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "```json\n[\n  \"quilt\",\n  \"logic\",\n  \"nebula\",\n  \"molecule\",\n  \"justice\",\n  \"harbor\",\n  \"symphony\",\n  \"consequence\",\n  \"velocity\",\n  \"joy\"\n]\n```",
+    "words": [
+      "quilt",
+      "logic",
+      "nebula",
+      "molecule",
+      "justice",
+      "harbor",
+      "symphony",
+      "consequence",
+      "velocity",
+      "joy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "```json\n[\n    \"quark\",\n    \"nostalgia\",\n    \"fulcrum\",\n    \"archipelago\",\n    \"symphony\",\n    \"entropy\",\n    \"metaphor\",\n    \"chassis\",\n    \"zygote\",\n    \"justice\"\n]\n```",
+    "words": [
+      "quark",
+      "nostalgia",
+      "fulcrum",
+      "archipelago",
+      "symphony",
+      "entropy",
+      "metaphor",
+      "chassis",
+      "zygote",
+      "justice"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"fulcrum\",\n\"silt\",\n\"entropy\",\n\"molecule\",\n\"nostalgia\",\n\"theorem\",\n\"fabric\",\n\"justice\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "fulcrum",
+      "silt",
+      "entropy",
+      "molecule",
+      "nostalgia",
+      "theorem",
+      "fabric",
+      "justice"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"chisel\",\n\"fungus\",\n\"democracy\",\n\"molecule\",\n\"symphony\",\n\"dream\",\n\"river\",\n\"hunger\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "chisel",
+      "fungus",
+      "democracy",
+      "molecule",
+      "symphony",
+      "dream",
+      "river",
+      "hunger"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "```json\n[\n\"justice\",\n\"nebula\",\n\"quinoa\",\n\"algorithm\",\n\"molecule\",\n\"nostalgia\",\n\"fulcrum\",\n\"symphony\",\n\"archipelago\",\n\"zeitgeist\"\n]\n```",
+    "words": [
+      "justice",
+      "nebula",
+      "quinoa",
+      "algorithm",
+      "molecule",
+      "nostalgia",
+      "fulcrum",
+      "symphony",
+      "archipelago",
+      "zeitgeist"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"chisel\",\n\"fungus\",\n\"syllogism\",\n\"molecule\",\n\"nostalgia\",\n\"torque\",\n\"algorithm\",\n\"gasket\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "chisel",
+      "fungus",
+      "syllogism",
+      "molecule",
+      "nostalgia",
+      "torque",
+      "algorithm",
+      "gasket"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "```json\n[\n    \"quark\",\n    \"zeitgeist\",\n    \"spatula\",\n    \"crescendo\",\n    \"monsoon\",\n    \"justice\",\n    \"kelp\",\n    \"zither\",\n    \"velvet\",\n    \"algorithm\"\n]\n```",
+    "words": [
+      "quark",
+      "zeitgeist",
+      "spatula",
+      "crescendo",
+      "monsoon",
+      "justice",
+      "kelp",
+      "zither",
+      "velvet",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "```json\n[\n  \"quokka\",\n  \"nebula\",\n  \"justice\",\n  \"anvil\",\n  \"silt\",\n  \"algorithm\",\n  \"nostalgia\",\n  \"fungus\",\n  \"zephyr\",\n  \"capacitor\"\n]\n```",
+    "words": [
+      "quokka",
+      "nebula",
+      "justice",
+      "anvil",
+      "silt",
+      "algorithm",
+      "nostalgia",
+      "fungus",
+      "zephyr",
+      "capacitor"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"chitin\",\n\"algorithm\",\n\"silt\",\n\"sonata\",\n\"democracy\",\n\"enzyme\",\n\"torque\",\n\"zeitgeist\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "chitin",
+      "algorithm",
+      "silt",
+      "sonata",
+      "democracy",
+      "enzyme",
+      "torque",
+      "zeitgeist"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "```json\n[\n  \"quark\",\n  \"sorrow\",\n  \"rhombus\",\n  \"fungus\",\n  \"jurisprudence\",\n  \"ether\",\n  \"nostalgia\",\n  \"symphony\",\n  \"archipelago\",\n  \"zeitgeist\"\n]\n```",
+    "words": [
+      "quark",
+      "sorrow",
+      "rhombus",
+      "fungus",
+      "jurisprudence",
+      "ether",
+      "nostalgia",
+      "symphony",
+      "archipelago",
+      "zeitgeist"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"chitin\",\n\"algorithm\",\n\"silt\",\n\"sonata\",\n\"democracy\",\n\"enzyme\",\n\"torque\",\n\"conscience\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "chitin",
+      "algorithm",
+      "silt",
+      "sonata",
+      "democracy",
+      "enzyme",
+      "torque",
+      "conscience"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"chitin\",\n\"algorithm\",\n\"silt\",\n\"fulcrum\",\n\"melody\",\n\"democracy\",\n\"conscience\",\n\"zeitgeist\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "chitin",
+      "algorithm",
+      "silt",
+      "fulcrum",
+      "melody",
+      "democracy",
+      "conscience",
+      "zeitgeist"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "```json\n[\n  \"music\",\n  \"quark\",\n  \"nostalgia\",\n  \"chisel\",\n  \"fungus\",\n  \"entropy\",\n  \"nebula\",\n  \"democracy\",\n  \"shadow\",\n  \"river\"\n]\n```",
+    "words": [
+      "music",
+      "quark",
+      "nostalgia",
+      "chisel",
+      "fungus",
+      "entropy",
+      "nebula",
+      "democracy",
+      "shadow",
+      "river"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "```json\n[\n\"quasar\",\n\"democracy\",\n\"molecule\",\n\"nostalgia\",\n\"fungus\",\n\"algorithm\",\n\"sonnet\",\n\"torque\",\n\"river\",\n\"joy\"\n]\n```",
+    "words": [
+      "quasar",
+      "democracy",
+      "molecule",
+      "nostalgia",
+      "fungus",
+      "algorithm",
+      "sonnet",
+      "torque",
+      "river",
+      "joy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"democracy\",\n\"fungus\",\n\"zeitgeist\",\n\"molecule\",\n\"silt\",\n\"entropy\",\n\"rhythm\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "democracy",
+      "fungus",
+      "zeitgeist",
+      "molecule",
+      "silt",
+      "entropy",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"democracy\",\n\"fungus\",\n\"melody\",\n\"molecule\",\n\"nostalgia\",\n\"sand\",\n\"tesseract\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "democracy",
+      "fungus",
+      "melody",
+      "molecule",
+      "nostalgia",
+      "sand",
+      "tesseract"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"algorithm\",\n\"fungus\",\n\"dream\",\n\"molecule\",\n\"symphony\",\n\"anxiety\",\n\"silt\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "algorithm",
+      "fungus",
+      "dream",
+      "molecule",
+      "symphony",
+      "anxiety",
+      "silt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "```json\n[\n  \"justice\",\n  \"quark\",\n  \"chrysanthemum\",\n  \"nostalgia\",\n  \"gear\",\n  \"fungus\",\n  \"melody\",\n  \"horizon\",\n  \"molecule\",\n  \"shadow\"\n]\n```",
+    "words": [
+      "justice",
+      "quark",
+      "chrysanthemum",
+      "nostalgia",
+      "gear",
+      "fungus",
+      "melody",
+      "horizon",
+      "molecule",
+      "shadow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "```json\n[\n\"quasar\",\n\"joy\",\n\"spatula\",\n\"algorithm\",\n\"molecule\",\n\"silt\",\n\"democracy\",\n\"fungus\",\n\"aria\",\n\"nostalgia\"\n]\n```",
+    "words": [
+      "quasar",
+      "joy",
+      "spatula",
+      "algorithm",
+      "molecule",
+      "silt",
+      "democracy",
+      "fungus",
+      "aria",
+      "nostalgia"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "```json\n[\"quark\", \"velvet\", \"justice\", \"oxygen\", \"symphony\", \"galaxy\", \"dream\", \"logarithm\", \"enzyme\", \"gravity\"]\n```",
+    "words": [
+      "quark",
+      "velvet",
+      "justice",
+      "oxygen",
+      "symphony",
+      "galaxy",
+      "dream",
+      "logarithm",
+      "enzyme",
+      "gravity"
+    ],
+    "api_error": null
+  }
+]

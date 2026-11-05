@@ -1,0 +1,1498 @@
+{
+  "rock": {
+    "stage1_raw": "{\"results\": [{\"word\": \"mineral\", \"reason\": \"Rocks are naturally occurring aggregates of minerals.\"}, {\"word\": \"guitar\", \"reason\": \"Rock music is often associated with the electric guitar.\"}, {\"word\": \"balance\", \"reason\": \"The act of 'rocking' can imply a back-and-forth motion, such as balancing a child or an object.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "mineral",
+        "reason": "Rocks are naturally occurring aggregates of minerals."
+      },
+      {
+        "word": "guitar",
+        "reason": "Rock music is often associated with the electric guitar."
+      },
+      {
+        "word": "balance",
+        "reason": "The act of 'rocking' can imply a back-and-forth motion, such as balancing a child or an object."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "mineral",
+          "reason": "Rocks are naturally occurring aggregates of minerals."
+        },
+        "raw_response": "```json\n{\n  \"results\": [\n    {\n      \"word\": \"mineral\",\n      \"reason\": \"Rocks are naturally occurring aggregates of minerals.\"\n    },\n    {\n      \"word\": \"crystal\",\n      \"reason\": \"Minerals often form in crystalline structures.\"\n    },\n    {\n      \"word\": \"structure\",\n      \"reason\": \"Crystals are defined by their atomic structure.\"\n    },\n    {\n      \"word\": \"building\",\n      \"reason\": \"Structure is a key concept in architecture and construction.\"\n    },\n    {\n      \"word\": \"foundation\",\n      \"reason\": \"A building requires a strong foundation.\"\n    },\n    {\n      \"word\": \"ground\",\n      \"reason\": \"The foundation is laid on the ground.\"\n    },\n    {\n      \"word\": \"soil\",\n      \"reason\": \"Ground is often composed of soil.\"\n    },\n    {\n      \"word\": \"dirt\",\n      \"reason\": \"Soil is commonly referred to as dirt in informal contexts.\"\n    },\n    {\n      \"word\": \"clean\",\n      \"reason\": \"Dirt is the opposite of clean.\"\n    },\n    {\n      \"word\": \"wash\",\n      \"reason\": \"To clean something, you might wash it.\"\n    },\n    {\n      \"word\": \"soap\",\n      \"reason\": \"Soap is used to wash away dirt and germs.\"\n    },\n    {\n      \"word\": \"lather\",\n      \"reason\": \"Soap produces lather when mixed with water.\"\n    },\n    {\n      \"word\": \"foam\",\n      \"reason\": \"Lather is a type of foam.\"\n    },\n    {\n      \"word\": \"bubble\",\n      \"reason\": \"Foam consists of many small bubbles.\"\n    },\n    {\n      \"word\": \"float\",\n      \"reason\": \"Bubbles tend to float on the surface of water.\"\n    },\n    {\n      \"word\": \"air\",\n      \"reason\": \"Bubbles are filled with air.\"\n    },\n    {\n      \"word\": \"oxygen\",\n      \"reason\": \"Air contains oxygen as one of its main components.\"\n    },\n    {\n      \"word\": \"breath\",\n      \"reason\": \"Oxygen is essential for human breath.\"\n    },\n    {\n      \"word\": \"life\",\n      \"reason\": \"Breath is a sign of life.\"\n    },\n    {\n      \"word\": \"exist\",\n      \"reason\": \"Life is the state of existing.\"\n    }\n  ]\n}\n```",
+        "chain": [
+          "rock",
+          "mineral",
+          "mineral",
+          "crystal",
+          "structure",
+          "building",
+          "foundation",
+          "ground",
+          "soil",
+          "dirt",
+          "clean",
+          "wash",
+          "soap",
+          "lather",
+          "foam",
+          "bubble",
+          "float",
+          "air",
+          "oxygen",
+          "breath"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "guitar",
+          "reason": "Rock music is often associated with the electric guitar."
+        },
+        "raw_response": null,
+        "chain": [
+          "rock",
+          "guitar"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "balance",
+          "reason": "The act of 'rocking' can imply a back-and-forth motion, such as balancing a child or an object."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"balance\", \"reason\": \"The act of 'rocking' can imply a back-and-forth motion, such as balancing a child or an object.\"}, {\"word\": \"scale\", \"reason\": \"A scale is a tool used to measure balance or weight.\"}, {\"word\": \"fish\", \"reason\": \"Fish have scales covering their bodies.\"}, {\"word\": \"water\", \"reason\": \"Fish live in water environments.\"}, {\"word\": \"boat\", \"reason\": \"Boats float on water.\"}, {\"word\": \"sail\", \"reason\": \"Sails are used to propel boats using wind.\"}, {\"word\": \"wind\", \"reason\": \"Wind fills sails to move a boat.\"}, {\"word\": \"storm\", \"reason\": \"Strong winds are a common feature of storms.\"}, {\"word\": \"lightning\", \"reason\": \"Lightning often occurs during thunderstorms.\"}, {\"word\": \"flash\", \"reason\": \"Lightning produces a bright flash of light.\"}, {\"word\": \"light\", \"reason\": \"A flash is a sudden burst of light.\"}, {\"word\": \"dark\", \"reason\": \"Light and dark are opposites.\"}, {\"word\": \"night\", \"reason\": \"Night is typically associated with darkness.\"}, {\"word\": \"moon\", \"reason\": \"The moon is visible in the night sky.\"}, {\"word\": \"tide\", \"reason\": \"The moon's gravitational pull affects ocean tides.\"}, {\"word\": \"beach\", \"reason\": \"Tides influence the water level on beaches.\"}, {\"word\": \"sand\", \"reason\": \"Beaches are composed of sand.\"}, {\"word\": \"castle\", \"reason\": \"Sandcastles are built on beaches.\"}, {\"word\": \"king\", \"reason\": \"Castles are often associated with royalty, such as kings.\"}, {\"word\": \"crown\", \"reason\": \"A crown is a symbol of a king's authority.\"}, {\"word\": \"jewel\", \"reason\": \"Crowns are often adorned with jewels.\"}]}",
+        "chain": [
+          "rock",
+          "balance",
+          "balance",
+          "scale",
+          "fish",
+          "water",
+          "boat",
+          "sail",
+          "wind",
+          "storm",
+          "lightning",
+          "flash",
+          "light",
+          "dark",
+          "night",
+          "moon",
+          "tide",
+          "beach",
+          "sand",
+          "castle"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "cloud": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "dust": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "rainbow": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "volcano": {
+    "stage1_raw": "{\"results\": [{\"word\": \"lava\", \"reason\": \"Molten rock expelled by a volcano during an eruption.\"}, {\"word\": \"ash\", \"reason\": \"Fine particles of volcanic debris ejected during eruptions.\"}, {\"word\": \"crater\", \"reason\": \"A bowl-shaped depression formed at the summit of a volcano after an eruption.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "lava",
+        "reason": "Molten rock expelled by a volcano during an eruption."
+      },
+      {
+        "word": "ash",
+        "reason": "Fine particles of volcanic debris ejected during eruptions."
+      },
+      {
+        "word": "crater",
+        "reason": "A bowl-shaped depression formed at the summit of a volcano after an eruption."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "lava",
+          "reason": "Molten rock expelled by a volcano during an eruption."
+        },
+        "raw_response": null,
+        "chain": [
+          "volcano",
+          "lava"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "ash",
+          "reason": "Fine particles of volcanic debris ejected during eruptions."
+        },
+        "raw_response": null,
+        "chain": [
+          "volcano",
+          "ash"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "crater",
+          "reason": "A bowl-shaped depression formed at the summit of a volcano after an eruption."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"crater\", \"reason\": \"A bowl-shaped depression formed at the summit of a volcano after an eruption.\"}, {\"word\": \"eruption\", \"reason\": \"A crater is often created or expanded during a volcanic eruption.\"}, {\"word\": \"ash\", \"reason\": \"Volcanic eruptions eject ash, which can settle in or around a crater.\"}, {\"word\": \"cloud\", \"reason\": \"Volcanic ash rises into the atmosphere, forming ash clouds.\"}, {\"word\": \"rain\", \"reason\": \"Ash clouds can lead to acid rain when mixed with atmospheric moisture.\"}, {\"word\": \"water\", \"reason\": \"Rain is a form of water that interacts with volcanic ash.\"}, {\"word\": \"steam\", \"reason\": \"Water heated by volcanic activity turns into steam.\"}, {\"word\": \"heat\", \"reason\": \"Steam is produced by the intense heat of volcanic systems.\"}, {\"word\": \"energy\", \"reason\": \"Volcanic heat is a source of geothermal energy.\"}, {\"word\": \"geothermal\", \"reason\": \"Energy derived from the Earth's internal heat, often near volcanic areas.\"}, {\"word\": \"power\", \"reason\": \"Geothermal energy can be harnessed to generate power.\"}, {\"word\": \"electricity\", \"reason\": \"Power plants convert geothermal energy into electricity.\"}, {\"word\": \"light\", \"reason\": \"Electricity powers devices that produce light, like lamps.\"}, {\"word\": \"sunlight\", \"reason\": \"Light can be associated with natural sources like sunlight.\"}, {\"word\": \"solar\", \"reason\": \"Sunlight is the basis of solar energy systems.\"}, {\"word\": \"panel\", \"reason\": \"Solar energy is captured using solar panels.\"}, {\"word\": \"array\", \"reason\": \"Multiple solar panels are arranged into an array for efficiency.\"}, {\"word\": \"pattern\", \"reason\": \"An array of panels often forms a repeating pattern.\"}, {\"word\": \"design\", \"reason\": \"Patterns are created through intentional design.\"}, {\"word\": \"art\", \"reason\": \"Design is a fundamental aspect of creating art.\"}]}",
+        "chain": [
+          "volcano",
+          "crater",
+          "crater",
+          "eruption",
+          "ash",
+          "cloud",
+          "rain",
+          "water",
+          "steam",
+          "heat",
+          "energy",
+          "geothermal",
+          "power",
+          "electricity",
+          "light",
+          "sunlight",
+          "solar",
+          "panel",
+          "array",
+          "pattern"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "mother": {
+    "stage1_raw": "{\"results\": [{\"word\": \"lullaby\", \"reason\": \"A lullaby is a song often sung by a mother to soothe or put a child to sleep.\"}, {\"word\": \"cradle\", \"reason\": \"A cradle is a device used to hold and rock an infant, commonly associated with a mother's care.\"}, {\"word\": \"nurse\", \"reason\": \"A nurse provides caregiving similar to a mother, particularly in nurturing and tending to needs",
+    "stage1_parsed": [
+      {
+        "word": "commonly",
+        "reason": ""
+      },
+      {
+        "word": "particularly",
+        "reason": ""
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "commonly",
+          "reason": ""
+        },
+        "raw_response": "{\"results\": [{\"word\": \"commonly\", \"reason\": \"Starting word\"}, {\"word\": \"often\", \"reason\": \"Synonym for 'commonly'\"}, {\"word\": \"frequently\", \"reason\": \"Synonym for 'often'\"}, {\"word\": \"regularly\", \"reason\": \"Synonym for 'frequently'\"}, {\"word\": \"habitually\", \"reason\": \"Synonym for 'regularly'\"}, {\"word\": \"customarily\", \"reason\": \"Synonym for 'habitually'\"}, {\"word\": \"traditionally\", \"reason\": \"Synonym for 'customarily'\"}, {\"word\": \"culturally\", \"reason\": \"Traditions are part of culture\"}, {\"word\": \"socially\", \"reason\": \"Culture is part of society\"}, {\"word\": \"communal\", \"reason\": \"Social interactions are communal\"}, {\"word\": \"collective\", \"reason\": \"Communal actions form a collective\"}, {\"word\": \"group\", \"reason\": \"A collective is a group\"}, {\"word\": \"",
+        "chain": [
+          "mother",
+          "commonly"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "particularly",
+          "reason": ""
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"particularly\", \"reason\": \"The first word in the chain as specified.\"},\n    {\"word\": \"specifically\", \"reason\": \"Both are adverbs used to emphasize a particular aspect.\"},\n    {\"word\": \"exactly\", \"reason\": \"Another adverb indicating precision, similar to 'specifically'.\"},\n    {\"word\": \"precisely\", \"reason\": \"Synonym for 'exactly,' emphasizing accuracy.\"},\n    {\"word\": \"accurately\", \"reason\": \"Closely related to 'precisely' in meaning.\"},\n    {\"word\": \"correctly\", \"reason\": \"Describes the state of being accurate or precise.\"},\n    {\"word\": \"rightly\", \"reason\": \"Synonym for 'correctly,' often used in moral or logical contexts.\"},\n    {\"word\": \"justly\", \"reason\": \"Relates to fairness, a concept tied to being 'rightly' or 'correctly' in judgment.\"},\n    {\"word\": \"fairly\", \"reason\": \"Connected to 'justly' as both pertain to impartiality.\"},\n    {\"word\": \"equitably\", \"reason\": \"Synonym for 'fairly,' emphasizing balanced distribution.\"},\n    {\"word\": \"impartially\", \"reason\": \"Closely related to 'equitably' in the context of fairness.\"},\n    {\"word\": \"neutrally\", \"reason\": \"Describes the state of being impartial or unbiased.\"},\n    {\"word\": \"objectively\", \"reason\": \"Connected to 'neutrally' as both pertain to unbiased judgment.\"},\n    {\"word\": \"factually\", \"reason\": \"Relates to 'objectively' in the context of truth and evidence.\"},\n    {\"word\": \"truthfully\", \"reason\":",
+        "chain": [
+          "mother",
+          "particularly"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "child": {
+    "stage1_raw": "{\"results\": [{\"word\": \"play\", \"reason\": \"Children engage in play as a fundamental part of their development and daily activities.\"}, {\"word\": \"parent\", \"reason\": \"A parent is a direct caregiver and primary figure in a child's life.\"}, {\"word\": \"school\", \"reason\": \"Children attend school for education and socialization.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "play",
+        "reason": "Children engage in play as a fundamental part of their development and daily activities."
+      },
+      {
+        "word": "parent",
+        "reason": "A parent is a direct caregiver and primary figure in a child's life."
+      },
+      {
+        "word": "school",
+        "reason": "Children attend school for education and socialization."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "play",
+          "reason": "Children engage in play as a fundamental part of their development and daily activities."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"play\", \"reason\": \"Children engage in play as a fundamental part of their development and daily activities.\"}, {\"word\": \"game\", \"reason\": \"Play often involves games as a structured form of entertainment.\"}, {\"word\": \"board\", \"reason\": \"Board games are a common type of game played by children and adults.\"}, {\"word\": \"table\", \"reason\": \"Board games are typically played on a table.\"}, {\"word\": \"chair\", \"reason\": \"A chair is used to sit at a table during gameplay.\"}, {\"word\": \"seat\", \"reason\": \"A chair provides a seat for players to rest while playing.\"}, {\"word\": \"rest\", \"reason\": \"Sitting on a seat allows for rest between active play sessions.\"}, {\"word\": \"sleep\", \"reason\": \"Rest can lead to sleep, especially after prolonged activity.\"}, {\"word\": \"dream\", \"reason\": \"Sleep often involves dreaming, a natural part of the sleep cycle.\"}, {\"word\": \"imagination\", \"reason\": \"Dreams are products of the imagination, which is central to play.\"}, {\"word\": \"create\", \"reason\": \"Imagination drives the act of creating new ideas or stories.\"}, {\"word\": \"art\", \"reason\": \"Creating art is a common expression of imagination and play.\"}, {\"word\": \"paint\", \"reason\": \"Painting is a popular form of artistic creation among children.\"}, {\"word\": \"color\", \"reason\": \"Painting involves the use of various colors to create visual art.\"}, {\"word\": \"rainbow\", \"reason\": \"A rainbow is a natural display of multiple colors in the sky.\"}, {\"word\": \"sky\", \"reason\": \"Rainbows appear in the sky after rain and sunlight.\"}, {\"word\": \"cloud\", \"reason\": \"Clouds are part of the sky's weather patterns.\"}, {\"word\": \"weather\", \"reason\": \"Clouds are a key element in determining weather conditions.\"}, {\"word\": \"sun\", \"reason\": \"The sun's presence or absence affects weather and cloud formation.\"}, {\"word\": \"",
+        "chain": [
+          "child",
+          "play"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "parent",
+          "reason": "A parent is a direct caregiver and primary figure in a child's life."
+        },
+        "raw_response": null,
+        "chain": [
+          "child",
+          "parent"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "school",
+          "reason": "Children attend school for education and socialization."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"school\", \"reason\": \"Children attend school for education and socialization.\"}, {\"word\": \"student\", \"reason\": \"School is attended by students.\"}, {\"word\": \"learn\", \"reason\": \"Students learn in school.\"}, {\"word\": \"knowledge\", \"reason\": \"Learning imparts knowledge.\"}, {\"word\": \"smart\", \"reason\": \"Knowledge contributes to becoming smart.\"}, {\"word\": \"technology\", \"reason\": \"Smart devices are part of modern technology.\"}, {\"word\": \"innovation\", \"reason\": \"Technology drives innovation.\"}, {\"word\": \"progress\", \"reason\": \"Innovation leads to progress.\"}, {\"word\": \"development\", \"reason\": \"Progress is achieved through development.\"}, {\"word\": \"growth\", \"reason\": \"Development supports growth.\"}, {\"word\": \"plant\", \"reason\": \"Growth is a characteristic of plants.\"}, {\"word\": \"sunlight\", \"reason\": \"Plants require sunlight for photosynthesis.\"}, {\"word\": \"solar\", \"reason\": \"Sunlight is a source of solar energy.\"}, {\"word\": \"energy\", \"reason\": \"Solar is a type of energy.\"}, {\"word\": \"power\", \"reason\": \"Energy is a source of power.\"}, {\"word\": \"electricity\", \"reason\": \"Power is generated through electricity.\"}, {\"word\": \"light\", \"reason\": \"Electricity produces artificial light.\"}, {\"word\": \"dark\", \"reason\": \"Light contrasts with darkness.\"}, {\"word\": \"night\", \"reason\": \"Darkness is prominent at night.\"}, {\"word\": \"moon\", \"reason\": \"The moon is visible during the night.\"}]}",
+        "chain": [
+          "child",
+          "school",
+          "school",
+          "student",
+          "learn",
+          "knowledge",
+          "smart",
+          "technology",
+          "innovation",
+          "progress",
+          "development",
+          "growth",
+          "plant",
+          "sunlight",
+          "solar",
+          "energy",
+          "power",
+          "electricity",
+          "light",
+          "dark"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "widow": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "brother": {
+    "stage1_raw": "```json\n{\n  \"results\": [\n    {\n      \"word\": \"sibling\",\n      \"reason\": \"A brother is a type of sibling, specifically a male sibling.\"\n    },\n    {\n      \"word\": \"family\",\n      \"reason\": \"A brother is a member of a family unit.\"\n    },\n    {\n      \"word\": \"kin\",\n      \"reason\": \"A brother is considered kin, meaning a close blood relative.\"\n    }\n  ]\n}\n```",
+    "stage1_parsed": [
+      {
+        "word": "sibling",
+        "reason": "A brother is a type of sibling, specifically a male sibling."
+      },
+      {
+        "word": "family",
+        "reason": "A brother is a member of a family unit."
+      },
+      {
+        "word": "kin",
+        "reason": "A brother is considered kin, meaning a close blood relative."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "sibling",
+          "reason": "A brother is a type of sibling, specifically a male sibling."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"sibling\", \"reason\": \"A brother is a type of sibling, specifically a male sibling.\"}, {\"word\": \"family\", \"reason\": \"Siblings are members of the same family.\"}, {\"word\": \"parent\", \"reason\": \"Parents are family members who have children.\"}, {\"word\": \"child\", \"reason\": \"A parent has a child as part of their family.\"}, {\"word\": \"youth\", \"reason\": \"A child is a young person, often referred to as youth.\"}, {\"word\": \"teenager\", \"reason\": \"",
+        "chain": [
+          "brother",
+          "sibling"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "family",
+          "reason": "A brother is a member of a family unit."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"family\", \"reason\": \"A brother is a member of a family unit.\"}, {\"word\": \"sister\",",
+        "chain": [
+          "brother",
+          "family"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "kin",
+          "reason": "A brother is considered kin, meaning a close blood relative."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"kin\", \"reason\": \"A brother is considered kin, meaning a close blood relative.\"},\n    {\"word\": \"family\", \"reason\": \"Kin refers to family members, especially close relatives.\"},\n    {\"word\": \"parent\", \"reason\": \"Family includes parents, who are direct relatives of a child.\"},\n    {\"word\": \"child\", \"reason\": \"Parents have children, forming the core of a family unit.\"},\n    {\"word\": \"play\", \"reason\": \"Children often engage in play as part of their development.\"},\n    {\"word\": \"game\", \"reason\": \"Play can involve games, which are structured forms of entertainment.\"},\n    {\"word\": \"score\", \"reason\": \"Games often have scores to track progress or competition.\"},\n    {\"word\": \"high\", \"reason\": \"A score can be described as high, indicating a good performance.\"},\n    {\"word\": \"sky\", \"reason\": \"High can describe something elevated, like the sky above the ground.\"},\n    {\"word\": \"cloud\", \"reason\": \"The sky contains clouds, which are visible masses of water vapor.\"},\n    {\"word\": \"rain\", \"reason\": \"Clouds can produce rain when water droplets condense and fall.\"},\n    {\"word\": \"water\", \"reason\": \"Rain is a form of water that falls from the sky.\"},\n    {\"word\": \"drink\", \"reason\": \"Water is commonly consumed as a drink to stay hydrated.\"},\n    {\"word\": \"thirst\", \"reason\": \"Drinking water satisfies thirst, a natural bodily need.\"},\n    {\"word\": \"dry\", \"reason\": \"Thirst occurs when the body is dehydrated or dry.\"},\n    {\"word\": \"desert\", \"reason\": \"A dry environment is characteristic of a desert ecosystem.\"},\n    {\"word\": \"sand\", \"reason\": \"Deserts are often composed of sand, a granular material.\"},\n    {\"word\": \"beach\", \"reason\": \"Sand is a common feature of beaches, especially along coasts.\"},\n    {\"word\": \"sun\", \"reason\": \"Beaches are typically associated with sunny weather and sunlight.\"},\n    {\"word\": \"heat\", \"reason\": \"Sunlight produces heat, which affects the temperature of the environment.\"}\n  ]\n}",
+        "chain": [
+          "brother",
+          "kin",
+          "kin",
+          "family",
+          "parent",
+          "child",
+          "play",
+          "game",
+          "score",
+          "high",
+          "sky",
+          "cloud",
+          "rain",
+          "water",
+          "drink",
+          "thirst",
+          "dry",
+          "desert",
+          "sand",
+          "beach"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "ancestor": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "eagle": {
+    "stage1_raw": "{\"results\": [{\"word\": \"soar\", \"reason\": \"Eagles are known for their ability to soar high in the sky.\"}, {\"word\": \"feathers\", \"reason\": \"Eagles have strong, broad feathers that aid in flight and insulation.\"}, {\"word\": \"nest\", \"reason\": \"Eagles build large nests, often in tall trees or on cliffs, to lay eggs and raise their young.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "soar",
+        "reason": "Eagles are known for their ability to soar high in the sky."
+      },
+      {
+        "word": "feathers",
+        "reason": "Eagles have strong, broad feathers that aid in flight and insulation."
+      },
+      {
+        "word": "nest",
+        "reason": "Eagles build large nests, often in tall trees or on cliffs, to lay eggs and raise their young."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "soar",
+          "reason": "Eagles are known for their ability to soar high in the sky."
+        },
+        "raw_response": null,
+        "chain": [
+          "eagle",
+          "soar"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "feathers",
+          "reason": "Eagles have strong, broad feathers that aid in flight and insulation."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"feathers\", \"reason\": \"Eagles have strong, broad feathers that aid in flight and insulation.\"}, {\"word\": \"air\", \"reason\": \"Feathers are essential for movement through air during flight.\"}, {\"word\": \"wind\", \"reason\": \"Air movement creates wind, which can influence flight patterns.\"}, {\"word\": \"storm\", \"reason\": \"Strong winds are a key component of storms.\"}, {\"word\": \"rain\", \"reason\": \"Storms often produce heavy rain as part of their weather system.\"}, {\"word\": \"water\", \"reason\": \"Rain is a form of liquid water falling from the sky.\"}, {\"word\": \"ocean\", \"reason\": \"Water accumulates in large bodies like oceans.\"}, {\"word\": \"waves\", \"reason\": \"Oceans are known for their rhythmic waves.\"",
+        "chain": [
+          "eagle",
+          "feathers"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "nest",
+          "reason": "Eagles build large nests, often in tall trees or on cliffs, to lay eggs and raise their young."
+        },
+        "raw_response": null,
+        "chain": [
+          "eagle",
+          "nest"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "worm": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "dove": {
+    "stage1_raw": "{\"results\": [{\"word\": \"peace\", \"reason\": \"Doves are widely recognized as symbols of peace in various cultures and traditions.\"}, {\"word\": \"feather\", \"reason\": \"Doves are known for their soft, white feathers, which are often associated with the bird.\"}, {\"word\": \"call\", \"reason\": \"The dove's characteristic cooing sound is commonly referred to as its 'call' in avian terminology.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "peace",
+        "reason": "Doves are widely recognized as symbols of peace in various cultures and traditions."
+      },
+      {
+        "word": "feather",
+        "reason": "Doves are known for their soft, white feathers, which are often associated with the bird."
+      },
+      {
+        "word": "call",
+        "reason": "The dove's characteristic cooing sound is commonly referred to as its 'call' in avian terminology."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "peace",
+          "reason": "Doves are widely recognized as symbols of peace in various cultures and traditions."
+        },
+        "raw_response": null,
+        "chain": [
+          "dove",
+          "peace"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "feather",
+          "reason": "Doves are known for their soft, white feathers, which are often associated with the bird."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\n      \"word\": \"feather\",\n      \"reason\": \"Doves are known for their soft, white feathers, which are often associated with the bird.\"\n    },\n    {\n      \"word\": \"light\",\n      \"reason\": \"Feathers are naturally light in weight, making them ideal for flight.\"\n    },\n",
+        "chain": [
+          "dove",
+          "feather"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "call",
+          "reason": "The dove's characteristic cooing sound is commonly referred to as its 'call' in avian terminology."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"call\", \"reason\": \"The dove's characteristic cooing sound is commonly referred to as its 'call' in avian terminology.\"}, {\"word\": \"ring\", \"reason\": \"A 'call' can be metaphorically linked to a 'ring' as in a phone call or a bell's ring.\"}, {\"word\": \"bell\", \"reason\": \"A 'ring' is the sound a 'bell' produces when struck.\"}, {\"word\": \"chime\", \"reason\": \"A 'bell' can be part of a 'chime' system, like a door chime.\"}, {\"word\": \"music\", \"reason\": \"A 'chime' is a musical sound, often associated with 'music' in general.\"}, {\"word\": \"note\", \"reason\": \"A 'chime' can be described as a single 'note' in a musical sequence.\"}, {\"word\": \"sheet\", \"reason\": \"A 'note' is written on a 'sheet' of music.\"}, {\"word\": \"paper\", \"reason\": \"A 'sheet' is typically made of 'paper'.\"}, {\"word\": \"book\", \"reason\": \"A 'paper' can be part of a 'book' when bound together.\"}, {\"word\": \"page\", \"reason\": \"A 'book' is composed of multiple 'pages'.\"}, {\"word\": \"turn\", \"reason\": \"A 'page' is often 'turned' to progress through a book.\"}, {\"word\": \"corner\", \"reason\": \"A 'turn' can refer to a physical 'corner' in a room or street.\"}, {\"word\": \"edge\", \"reason\": \"A 'corner' has an 'edge' where two sides meet.\"}, {\"word\": \"sharp\", \"reason\": \"An 'edge' can be described as 'sharp' if it's pointed or cutting.\"}, {\"word\": \"needle\", \"reason\": \"A 'sharp' object like a 'needle' is used for sewing or medical purposes.\"}, {\"word\": \"thread\", \"reason\": \"A 'needle' is used to pass 'thread' through fabric.\"}, {\"word\": \"spool\", \"reason\": \"A 'thread' is typically wound around a 'spool' for storage.\"}, {\"word\": \"reel\", \"reason\": \"A 'spool' is similar to a 'reel' used for winding film or tape.\"}, {\"word\": \"film\", \"reason\": \"A 'reel' is a device used to store and transport 'film' in cinematography.\"}, {\"word\": \"screen\", \"reason\": \"A 'film' is projected onto a 'screen' for viewing.\"}]}",
+        "chain": [
+          "dove",
+          "call",
+          "call",
+          "ring",
+          "bell",
+          "chime",
+          "music",
+          "note",
+          "sheet",
+          "paper",
+          "book",
+          "page",
+          "turn",
+          "corner",
+          "edge",
+          "sharp",
+          "needle",
+          "thread",
+          "spool",
+          "reel"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "spider": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "whale": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "bone": {
+    "stage1_raw": "{\"results\": [{\"word\": \"skull\", \"reason\": \"The skull is a bony structure that forms the head and protects the brain.\"}, {\"word\": \"marrow\", \"reason\": \"Bone marrow is the soft, fatty tissue found inside bones, responsible for producing blood cells.\"}, {\"word\": \"fossil\", \"reason\": \"Bones can become fossils through the process of mineralization after an organism's death.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "skull",
+        "reason": "The skull is a bony structure that forms the head and protects the brain."
+      },
+      {
+        "word": "marrow",
+        "reason": "Bone marrow is the soft, fatty tissue found inside bones, responsible for producing blood cells."
+      },
+      {
+        "word": "fossil",
+        "reason": "Bones can become fossils through the process of mineralization after an organism's death."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "skull",
+          "reason": "The skull is a bony structure that forms the head and protects the brain."
+        },
+        "raw_response": null,
+        "chain": [
+          "bone",
+          "skull"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "marrow",
+          "reason": "Bone marrow is the soft, fatty tissue found inside bones, responsible for producing blood cells."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"marrow\", \"reason\": \"Bone marrow is the soft, fatty tissue found inside bones, responsible for producing blood cells.\"}, {\"word\": \"red\", \"reason\": \"Red marrow is a type of bone marrow that produces blood cells.\"}, {\"word\": \"spongy\", \"reason\": \"Red marrow has a spongy texture due to its high cellularity.\"}, {\"word\": \"skeletal\", \"reason\": \"Spongy marrow is part of the skeletal system.\"}, {\"word\": \"structure\", \"reason\": \"The skeletal system forms the structural framework of the body.\"}, {\"word\": \"build\", \"reason\": \"A strong structural build relies on the skeletal system.\"}, {\"word\": \"foundation\", \"reason\": \"Building a strong structure starts with a solid foundation.\"}, {\"word\": \"base\", \"reason\": \"A foundation provides the base for a structure.\"}, {\"word\": \"bottom\", \"reason\": \"The base is typically the bottom part of a structure.\"}, {\"word\": \"floor\", \"reason\": \"The bottom of a building is its floor.\"}, {\"word\": \"ground\", \"reason\": \"Floors are constructed on top of the ground.\"}, {\"word\": \"earth\", \"reason\": \"Ground is often synonymous with earth.\"}, {\"word\": \"soil\", \"reason\": \"Earth contains soil as one of its layers.\"}, {\"word\": \"dirt\", \"reason\": \"Soil is composed of organic and inorganic dirt.\"}, {\"word\": \"clean\", \"reason\": \"Dirt is often the target of cleaning processes.\"}, {\"word\": \"wash\", \"reason\": \"Washing is a common method of cleaning.\"}, {\"word\": \"soap\", \"reason\": \"Washing frequently involves the use of soap.\"}, {\"word\": \"lather\", \"reason\": \"Soap creates lather when mixed with water.\"}, {\"word\": \"bubble\", \"reason\": \"Lather forms bubbles during washing.\"}, {\"word\": \"pop\", \"reason\": \"Bubbles tend to pop when they burst.\"}]}",
+        "chain": [
+          "bone",
+          "marrow",
+          "marrow",
+          "red",
+          "spongy",
+          "skeletal",
+          "structure",
+          "build",
+          "foundation",
+          "base",
+          "bottom",
+          "floor",
+          "ground",
+          "earth",
+          "soil",
+          "dirt",
+          "clean",
+          "wash",
+          "soap",
+          "lather"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "fossil",
+          "reason": "Bones can become fossils through the process of mineralization after an organism's death."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"fossil\", \"reason\": \"Bones can become fossils through the process of mineralization after an organism's death.\"}, {\"word\": \"dinosaur\", \"reason\": \"Fossils are commonly associated with prehistoric creatures like dinosaurs.\"}, {\"word\": \"prehistoric\", \"reason\": \"Dinosaurs are a well-known example of prehistoric life.\"}, {\"word\": \"cave\", \"reason\": \"Prehistoric humans often lived in caves for shelter.\"}, {\"word\": \"limestone\", \"reason\": \"Caves are frequently formed in limestone rock through erosion.\"}, {\"word\": \"calcite\", \"reason\": \"Limestone is primarily composed of the mineral calcite.\"}, {\"word\": \"crystal\", \"reason\": \"Calcite can form clear, geometric crystals under the right conditions.\"}, {\"word\": \"quartz\", \"reason\": \"Quartz is another common mineral that forms crystals, often found in limestone.\"}, {\"word\": \"sand\", \"reason\": \"Quartz is a major component of sand, especially in deserts.\"}, {\"word\": \"desert\", \"reason\": \"Sand is abundant in desert environments.\"}, {\"word\": \"cactus\", \"reason\": \"Cacti are plants adapted to survive in arid desert climates.\"}, {\"word\": \"spine\", \"reason\": \"Cacti have",
+        "chain": [
+          "bone",
+          "fossil"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "lung": {
+    "stage1_raw": "{\"results\": [{\"word\": \"oxygen\", \"reason\": \"Lungs facilitate the exchange of oxygen into the bloodstream during respiration.\"}, {\"word\": \"respiration\", \"reason\": \"Lungs are the",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "tooth": {
+    "stage1_raw": "{\"results\": [{\"word\": \"dentine\", \"reason\": \"A hard, calcified tissue that forms the main substance of a tooth beneath the enamel.\"}, {\"word\": \"root\", \"reason\": \"The part of a tooth embedded in the jawbone, anchoring it in place.\"}, {\"word\": \"brace\", \"reason\": \"A dental appliance used to correct misaligned teeth.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "dentine",
+        "reason": "A hard, calcified tissue that forms the main substance of a tooth beneath the enamel."
+      },
+      {
+        "word": "root",
+        "reason": "The part of a tooth embedded in the jawbone, anchoring it in place."
+      },
+      {
+        "word": "brace",
+        "reason": "A dental appliance used to correct misaligned teeth."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "dentine",
+          "reason": "A hard, calcified tissue that forms the main substance of a tooth beneath the enamel."
+        },
+        "raw_response": null,
+        "chain": [
+          "tooth",
+          "dentine"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "root",
+          "reason": "The part of a tooth embedded in the jawbone, anchoring it in place."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\n      \"word\": \"root\",\n      \"reason\": \"The part of a tooth embedded in the jawbone, anchoring it in place.\"\n    },\n    {\n      \"word\": \"ground\",\n      \"reason\": \"Roots are the part of plants that grow into the ground for stability.\"\n    },\n    {\n      \"word\": \"earth\",\n      \"reason\": \"Ground is often referred to as earth when describing soil or terrain.\"\n    },\n    {\n      \"word\": \"soil\",\n      \"reason\": \"Earth contains soil, which is the medium for plant roots to grow.\"\n    },\n    {\n      \"word\": \"dirt\",\n      \"reason\": \"Soil is commonly called dirt when it's disturbed or used informally.\"\n    },\n    {\n      \"word\": \"clean\",\n      \"reason\": \"Dirt is something you clean up or remove from a surface.\"\n    },\n    {\n      \"word\": \"soap\",\n      \"reason\": \"Clean is associated with soap, a tool for washing away dirt.\"\n    },\n    {\n      \"word\": \"suds\",\n      \"reason\": \"Soap produces suds (bubbles) when mixed with water.\"\n    },\n    {\n      \"word\": \"foam\",\n      \"reason\": \"Suds are a type of foam created by soap and water.\"\n    },\n    {\n      \"word\": \"bubble\",\n      \"reason\": \"Foam consists of many tiny bubbles trapped in a liquid.\"\n    },\n    {\n      \"word\": \"pop\",\n      \"reason\": \"Bubbles can pop when they rupture or burst.\"\n    },\n    {\n      \"word\": \"music\",\n      \"reason\": \"Pop is a genre of music, often abbreviated as 'pop music.'\"\n    },\n    {\n      \"word\": \"note\",\n      \"reason\": \"Music is composed of individual notes arranged in a sequence.\"\n    },\n    {\n      \"word\": \"write\",\n      \"reason\": \"A note can be written down to record musical ideas or messages.\"\n    },\n    {\n      \"word\": \"pen\",\n      \"reason\": \"Write is an action typically performed with a pen or pencil.\"\n    },\n    {\n      \"word\": \"ink\",\n      \"reason\": \"A pen uses ink as the medium to write on paper.\"\n    },\n    {\n      \"word\": \"printhead\",\n      \"reason\": \"Ink is stored and dispensed through a printhead in a printer.\"\n    },\n    {\n      \"word\": \"printer\",\n      \"reason\": \"A printhead is a component of a printer used for printing text or images.\"\n    },\n    {\n      \"word\": \"paper\",\n      \"reason\": \"A printer produces printed material on paper.\"\n    },\n    {\n      \"word\": \"tree\",\n      \"reason\": \"Paper is often made from wood pulp derived from trees.\"\n    }\n  ]\n}",
+        "chain": [
+          "tooth",
+          "root",
+          "root",
+          "ground",
+          "earth",
+          "soil",
+          "dirt",
+          "clean",
+          "soap",
+          "suds",
+          "foam",
+          "bubble",
+          "pop",
+          "music",
+          "note",
+          "write",
+          "pen",
+          "ink",
+          "printhead",
+          "printer"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "brace",
+          "reason": "A dental appliance used to correct misaligned teeth."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"brace\", \"reason\": \"A dental appliance used to correct misaligned teeth.\"},\n    {\"word\": \"adjustment\", \"reason\": \"A process of fine-tuning the position of braces to improve alignment.\"},\n    {\"word\": \"tension\", \"reason\": \"The force applied by braces during an adjustment to shift teeth.\"},\n    {\"word\": \"stress\", \"reason\": \"Emotional strain that can result from discomfort caused by tension in braces.\"},\n    {\"word\": \"relief\", \"reason\": \"A feeling or action that alleviates stress or pain.\"},\n    {\"word\": \"medicine\", \"reason\": \"Used to provide relief from pain or discomfort, including braces-related pain.\"},\n    {\"word\": \"pill\", \"reason\": \"A common form of medicine taken orally.\"},\n    {\"word\": \"bottle\", \"reason\": \"A container for storing pills or liquid medicine.\"},\n    {\"word\": \"cap\", \"reason\": \"The top of a bottle that keeps its contents sealed.\"},\n    {\"word\": \"head\", \"reason\": \"A cap is placed on the head, such as a hat or helmet.\"},\n    {\"word\": \"hair\", \"reason\": \"Found on the head and often styled or covered by a cap.\"},\n    {\"word\": \"brush\", \"reason\": \"A tool used to clean or style hair.\"},\n    {\"word\": \"dust\", \"reason\": \"Brushing hair can remove dust particles from it.\"},\n    {\"word\": \"clean\", \"reason\": \"The goal of brushing hair or removing dust from surfaces.\"},\n    {\"word\": \"soap\", \"reason\": \"A substance used to clean skin or hair in water.\"},\n    {\"word\": \"lather\", \"reason\": \"Foamy substance created by mixing soap with water.\"},\n    {\"word\": \"foam\", \"reason\": \"A state of lather, often used in cleaning or insulation.\"},\n    {\"word\": \"bubble\", \"reason\": \"Small pockets of air in foam, resembling bubbles.\"},\n    {\"word\": \"gum\", \"reason\": \"A substance that can be used to create bubbles, such as bubble gum.\"},\n    {\"word\": \"chew\", \"reason\": \"An action performed with gum, often for flavor or texture.\"}\n  ]\n}",
+        "chain": [
+          "tooth",
+          "brace",
+          "brace",
+          "adjustment",
+          "tension",
+          "stress",
+          "relief",
+          "medicine",
+          "pill",
+          "bottle",
+          "cap",
+          "head",
+          "hair",
+          "brush",
+          "dust",
+          "clean",
+          "soap",
+          "lather",
+          "foam",
+          "bubble"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "thumb": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "skull": {
+    "stage1_raw": "{\"results\": [{\"word\": \"bone\", \"reason\": \"The skull is composed of multiple",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "bread": {
+    "stage1_raw": "{\"results\": [{\"word\": \"flour\", \"reason\": \"A primary ingredient used in making bread.\"}, {\"word\": \"yeast\", \"reason\": \"A leavening agent essential for bread dough to rise.\"}, {\"word\": \"oven\", \"reason\": \"The appliance used to bake bread.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "flour",
+        "reason": "A primary ingredient used in making bread."
+      },
+      {
+        "word": "yeast",
+        "reason": "A leavening agent essential for bread dough to rise."
+      },
+      {
+        "word": "oven",
+        "reason": "The appliance used to bake bread."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "flour",
+          "reason": "A primary ingredient used in making bread."
+        },
+        "raw_response": null,
+        "chain": [
+          "bread",
+          "flour"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "yeast",
+          "reason": "A leavening agent essential for bread dough to rise."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"yeast\", \"reason\": \"A leavening agent essential for bread dough to rise.\"}, {\"word\": \"fermentation\", \"reason\": \"Yeast facilitates fermentation, a biochemical process that produces carbon dioxide and alcohol.\"}, {\"word\": \"alcohol\", \"reason\": \"Fermentation produces alcohol as a byproduct in processes like brewing.\"}, {\"word\": \"distill\", \"reason\": \"Alcohol is often distilled to increase its concentration and purity.\"}, {\"word\": \"vapor\", \"reason\": \"Distillation involves heating alcohol to create vapor for separation.\"}, {\"word\": \"condense\", \"reason\": \"Vapor is cooled to condense back into liquid during distillation.\"}, {\"word\": \"cloud\", \"reason\": \"Condensation forms clouds when water vapor cools in the atmosphere.\"}, {\"word\": \"rain\", \"reason\": \"Clouds release rain when water droplets combine and fall.\"}, {\"word\": \"umbrella\", \"reason\": \"Rain prompts the use of an umbrella to stay dry.\"}, {\"word\": \"handle\", \"reason\": \"An umbrella has a handle for gripping and carrying.\"}, {\"word\": \"grip\", \"reason\": \"A handle provides a grip to hold objects securely.\"}, {\"word\": \"friction\", \"reason\": \"Grip relies on friction to prevent slipping.\"}, {\"word\": \"heat\", \"reason\": \"Friction generates heat when surfaces rub together.\"}, {\"word\": \"fire\", \"reason\": \"Heat is a necessary component for starting and sustaining fire.\"}, {\"word\": \"smoke\", \"reason\": \"Fire produces smoke as a byproduct of combustion.\"}, {\"word\": \"cigarette\", \"reason\": \"Smoke is commonly associated with burning cigarettes.\"}, {\"word\": \"nicotine\", \"reason\": \"Cigarettes contain nicotine, a stimulant and addictive substance.\"}, {\"word\": \"toxin\", \"reason\": \"Nicotine acts as a toxin in the body at high concentrations.\"}, {\"word\": \"poison\", \"reason\": \"Toxins are substances that can act as poisons when ingested.\"}, {\"word\": \"antidote\", \"reason\": \"An antidote is used to counteract the effects of a poison.\"}",
+        "chain": [
+          "bread",
+          "yeast"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "oven",
+          "reason": "The appliance used to bake bread."
+        },
+        "raw_response": null,
+        "chain": [
+          "bread",
+          "oven"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "pepper": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "honey": {
+    "stage1_raw": "{\"results\": [{\"word\": \"bee\", \"reason\": \"Bees produce honey from the nectar they collect.\"}, {\"word\": \"sweet\", \"reason\": \"Honey is renowned for its naturally sweet flavor.\"}, {\"word\": \"nectar\", \"reason\": \"Honey is made by bees processing flower nectar.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "bee",
+        "reason": "Bees produce honey from the nectar they collect."
+      },
+      {
+        "word": "sweet",
+        "reason": "Honey is renowned for its naturally sweet flavor."
+      },
+      {
+        "word": "nectar",
+        "reason": "Honey is made by bees processing flower nectar."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "bee",
+          "reason": "Bees produce honey from the nectar they collect."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"bee\", \"reason\": \"Bees produce honey from the nectar they collect.\"}, {\"word\": \"flower\", \"reason\": \"Bees collect nectar from flowers to make honey.\"}, {\"word\": \"pollen\", \"reason\": \"Bees transfer pollen between flowers during pollination.\"}, {\"word\": \"pollinate\", \"reason\": \"Pollen is essential for the process of pollination.\"}, {\"word\": \"plant\", \"reason\": \"Pollination helps plants reproduce and grow.\"}, {\"word\": \"seed\", \"reason\": \"Plants produce seeds after successful pollination.\"}, {\"word\": \"grow\", \"reason\": \"Seeds grow into new plants under the right conditions.\"}, {\"word\": \"sunlight\", \"reason\": \"Sunlight is necessary for plants to grow through photosynthesis.\"}, {\"word\": \"photosynthesis\", \"reason\": \"Photosynthesis converts sunlight into energy for plants.\"}, {\"word\": \"chlorophyll\", \"reason\": \"Chlorophyll is the pigment that enables photosynthesis.\"}, {\"word\": \"green\", \"reason\": \"Chlorophyll gives plants their green color.\"}, {\"word\": \"grass\", \"reason\": \"Grass is a common green plant found in lawns.\"}, {\"word\": \"lawn\", \"reason\": \"Lawns are often made up of grass.\"}, {\"word\": \"mow\", \"reason\": \"People mow lawns to maintain their height.\"}, {\"word\": \"scissors\", \"reason\": \"Scissors can be used to cut grass or trim lawns.\"}, {\"word\": \"blade\", \"reason\": \"Scissors have two sharp blades that cut materials.\"}, {\"word\": \"knife\", \"reason\": \"A knife is a tool with a single blade for cutting.\"}, {\"word\": \"cut\", \"reason\": \"A knife is used to cut objects like food or paper.\"}, {\"word\": \"injury\", \"reason\": \"Accidental cuts from a knife can cause injury.\"}, {\"word\": \"bandage\", \"reason\": \"A bandage is used to cover and protect a wound or injury.\"}]}",
+        "chain": [
+          "honey",
+          "bee",
+          "bee",
+          "flower",
+          "pollen",
+          "pollinate",
+          "plant",
+          "seed",
+          "grow",
+          "sunlight",
+          "photosynthesis",
+          "chlorophyll",
+          "green",
+          "grass",
+          "lawn",
+          "mow",
+          "scissors",
+          "blade",
+          "knife",
+          "cut"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "sweet",
+          "reason": "Honey is renowned for its naturally sweet flavor."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"sweet\", \"reason\": \"Honey is renowned for its naturally sweet flavor.\"}, {\"word\": \"sugar\", \"reason\": \"Sweet is a characteristic of sugar.\"}, {\"word\": \"candy\", \"reason\": \"Candy is often made from sugar.\"}, {\"word\": \"chocolate\", \"reason\": \"Chocolate",
+        "chain": [
+          "honey",
+          "sweet"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "nectar",
+          "reason": "Honey is made by bees processing flower nectar."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"nectar\", \"reason\": \"Honey is made by bees processing flower nectar.\"}, {\"word\": \"flower\", \"reason\": \"Nectar is produced by flowers to attract pollinators.\"}, {\"word\": \"petal\", \"reason\": \"Flowers have petals that help attract pollinators.\"}, {\"word\": \"color\", \"reason\": \"Petals often display vibrant colors to attract attention.\"}, {\"word\": \"spectrum\", \"reason\": \"Colors exist in a visible light spectrum.\"}, {\"word\": \"rainbow\", \"reason\": \"A rainbow is a natural spectrum of colors.\"}, {\"word\": \"sky\", \"reason\": \"Rainbows appear in the sky after rain.\"}, {\"word\": \"cloud\", \"reason\": \"Rainbows form when sunlight interacts with clouds.\"}, {\"word\": \"rain\", \"reason\": \"Clouds produce rain when they release moisture.\"}, {\"word\": \"water\", \"reason\": \"Rain is a form of water falling from the sky.\"}, {\"word\": \"ocean\", \"reason\": \"Water accumulates in large bodies like oceans.\"}, {\"word\": \"fish\", \"reason\": \"Oceans are home to many species of fish.\"}, {\"word\": \"gills\", \"reason\": \"Fish use gills to extract oxygen from water.\"}, {\"word\": \"oxygen\", \"reason\": \"Gills allow fish to absorb dissolved oxygen.\"}, {\"word\": \"air\", \"reason\": \"Oxygen is a key component of breathable air.\"}, {\"word\": \"breath\", \"reason\": \"Air is inhaled and exhaled during breathing.\"}, {\"word\": \"lungs\", \"reason\": \"Breathing occurs through the use of lungs in humans.\"}, {\"word\": \"body\", \"reason\": \"Lungs are vital organs within the human body.\"}, {\"word\": \"health\", \"reason\": \"A healthy body requires functional lungs and breathing.\"}, {\"word\": \"well",
+        "chain": [
+          "honey",
+          "nectar"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "feast": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "grain": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "silk": {
+    "stage1_raw": "{\"results\": [{\"word\": \"cocoon\", \"reason\": \"Silk is produced from the cocoon of a silkworm.\"}, {\"word\": \"smooth\", \"reason\": \"Silk is known for its smooth and soft texture.\"}, {\"word\": \"reeling\", \"reason\": \"Reeling is the process of extracting silk threads from a cocoon.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "cocoon",
+        "reason": "Silk is produced from the cocoon of a silkworm."
+      },
+      {
+        "word": "smooth",
+        "reason": "Silk is known for its smooth and soft texture."
+      },
+      {
+        "word": "reeling",
+        "reason": "Reeling is the process of extracting silk threads from a cocoon."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "cocoon",
+          "reason": "Silk is produced from the cocoon of a silkworm."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"cocoon\", \"reason\": \"Silk is produced from the cocoon of a silkworm.\"},\n    {\"word\": \"insect\", \"reason\": \"A cocoon is typically formed by an insect during metamorphosis.\"},\n    {\"word\": \"larva\", \"reason\": \"Insects often pass through a larval stage before forming a cocoon.\"},\n    {\"word\": \"pupa\", \"reason\": \"The pupa is the stage between larva and adult in insect metamorphosis.\"},\n    {\"word\": \"chrysalis\", \"reason\": \"A chrysalis is a type of pupal case, similar to a cocoon.\"},\n    {\"word\": \"metamorphosis\", \"reason\": \"Chrysalis formation is part of the metamorphosis",
+        "chain": [
+          "silk",
+          "cocoon"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "smooth",
+          "reason": "Silk is known for its smooth and soft texture."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"smooth\", \"reason\": \"Silk is known for its smooth and soft texture.\"}, {\"word\": \"polished\", \"reason\": \"Smooth surfaces are often described as polished.\"}, {\"word\": \"glossy\", \"reason\": \"Polished objects tend to have a glossy appearance.\"}, {\"word\": \"shiny\", \"reason\": \"Glossy surfaces reflect light, making them shiny.\"}, {\"word\": \"sparkling\", \"reason\": \"Shiny objects can appear sparkling under light.\"}, {\"word\": \"crystal\", \"reason\": \"Sparkling is a characteristic of crystal materials.\"}, {\"word\": \"clear\", \"reason\": \"Crystals are often transparent or clear.\"}, {\"word\": \"transparent\", \"reason\": \"Clear materials are typically transparent.\"}, {\"word\": \"see-through\", \"reason\": \"Transparent objects are described as see-through.\"}, {\"word\": \"visible\", \"reason\": \"See-through materials allow visibility through them.\"}, {\"word\": \"obvious\", \"reason\": \"Visible things are often considered obvious.\"}, {\"word\": \"apparent\", \"reason\": \"Obvious facts are usually apparent.\"}, {\"word\": \"evident\", \"reason\": \"Apparent truths are often described as evident.\"}, {\"word\": \"manifest\", \"reason\": \"Evident qualities can be said to be manifest.\"}, {\"word\": \"expressed\", \"reason\": \"Manifest ideas are often expressed clearly.\"}, {\"word\": \"spoken\", \"reason\": \"Expressed thoughts can be spoken aloud.\"}, {\"word\": \"language\", \"reason\": \"Spoken communication is a form of language.\"}, {\"word\": \"words\", \"reason\": \"Language is composed of words.\"}, {\"word\": \"letters\", \"reason\": \"Words are formed from letters.\"}, {\"word\": \"alphabet\", \"reason\": \"Letters are part of an alphabet system.\"}]}",
+        "chain": [
+          "silk",
+          "smooth",
+          "smooth",
+          "polished",
+          "glossy",
+          "shiny",
+          "sparkling",
+          "crystal",
+          "clear",
+          "transparent",
+          "see-through",
+          "visible",
+          "obvious",
+          "apparent",
+          "evident",
+          "manifest",
+          "expressed",
+          "spoken",
+          "language",
+          "words"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "reeling",
+          "reason": "Reeling is the process of extracting silk threads from a cocoon."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"reeling\", \"reason\": \"Reeling is the process of extracting silk threads from a cocoon.\"}, {\"word\": \"thread\", \"reason\": \"Reeling produces silk thread, a thin strand used in textiles.\"}, {\"word\": \"weaving\", \"reason\": \"Thread is a fundamental material in the weaving process.\"}, {\"word\": \"loom\", \"reason\": \"A loom is the primary tool used for weaving fabric.\"}, {\"word\": \"fabric\", \"reason\": \"Looms create fabric by interlacing threads.\"}, {\"word\": \"clothing\", \"reason\": \"Fabric is the base material for making clothing.\"}, {\"word\": \"fashion\", \"reason\": \"Clothing is central to the concept of fashion.\"}, {\"word\": \"trend\", \"reason\": \"Fashion evolves through trends over time.\"}, {\"word\": \"change\", \"reason\": \"Trends are driven by societal and cultural change.\"}, {\"word\": \"evolution\", \"reason\": \"Change is a key aspect of biological and cultural evolution.\"}, {\"word\": \"species\", \"reason\": \"Evolution describes how species adapt and develop.\"}, {\"word\": \"ecosystem\", \"reason\": \"Species interact within an ecosystem to maintain balance.\"}, {\"word\": \"balance\", \"reason\": \"An ecosystem relies on balance to sustain its components.\"}, {\"word\": \"harmony\", \"reason\": \"Balance in an ecosystem contributes to ecological harmony.\"}, {\"word\": \"music\", \"reason\": \"Harmony is a foundational element in music composition.\"}, {\"word\": \"rhythm\", \"reason\": \"Music often incorporates rhythm as a structural component.\"}, {\"word\": \"beat\", \"reason\": \"Rhythm is defined by a consistent beat in musical pieces.\"}, {\"word\": \"drum\", \"reason\": \"A drum is a primary instrument for creating beat in music.\"}, {\"word\": \"percussion\", \"reason\": \"Drums belong to the percussion family of musical instruments.\"}, {\"word\": \"sound\", \"reason\": \"Percussion instruments generate sound through striking or shaking.\"}]}",
+        "chain": [
+          "silk",
+          "reeling",
+          "reeling",
+          "thread",
+          "weaving",
+          "loom",
+          "fabric",
+          "clothing",
+          "fashion",
+          "trend",
+          "change",
+          "evolution",
+          "species",
+          "ecosystem",
+          "balance",
+          "harmony",
+          "music",
+          "rhythm",
+          "beat",
+          "drum"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "boot": {
+    "stage1_raw": "```json\n{\n  \"results\": [\n    {\n      \"word\": \"camp\",\n      \"reason\": \"A 'boot camp' is a training program, often intense, associated with the word 'boot'.\"\n    },\n    {\n      \"word\": \"strap\",\n      \"reason\": \"Straps are commonly used on boots to secure or fasten them.\"\n    },\n    {\n      \"word\": \"heeled\",\n      \"reason\": \"Many types of boots, such as cowboy boots, feature a heel.\"\n    }\n  ]\n}\n```",
+    "stage1_parsed": [
+      {
+        "word": "camp",
+        "reason": "A 'boot camp' is a training program, often intense, associated with the word 'boot'."
+      },
+      {
+        "word": "strap",
+        "reason": "Straps are commonly used on boots to secure or fasten them."
+      },
+      {
+        "word": "heeled",
+        "reason": "Many types of boots, such as cowboy boots, feature a heel."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "camp",
+          "reason": "A 'boot camp' is a training program, often intense, associated with the word 'boot'."
+        },
+        "raw_response": null,
+        "chain": [
+          "boot",
+          "camp"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "strap",
+          "reason": "Straps are commonly used on boots to secure or fasten them."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"strap\", \"reason\": \"Straps are commonly used on boots to secure or fasten them.\"},\n    {\"word\": \"latch\", \"reason\": \"Straps can be secured with a latch to keep them in place.\"},\n    {\"word\": \"door\", \"reason\": \"L",
+        "chain": [
+          "boot",
+          "strap"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "heeled",
+          "reason": "Many types of boots, such as cowboy boots, feature a heel."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"heeled\", \"reason\": \"Many types of boots, such as cowboy boots, feature a heel.\"},\n    {\"word\": \"shoe\", \"reason\": \"Heeled footwear is a type of shoe.\"},\n    {\"word\": \"sole\", \"reason\": \"The sole is the bottom part of a shoe.\"},\n    {\"word\": \"leather\", \"reason\": \"Sole materials often include leather.\"},\n    {\"word\": \"tanned\", \"reason\": \"Leather is processed through tanning.\"},\n    {\"word\": \"sun\", \"reason\": \"Tanning can refer to sun exposure that darkens skin.\"},\n    {\"word\": \"heat\", \"reason\": \"Sun exposure generates heat.\"},\n    {\"word\": \"fire\", \"reason\": \"Heat can be produced by fire.\"},\n    {\"word\": \"burn\", \"reason\": \"Fire can cause burns.\"},\n    {\"word\": \"scorch\", \"reason\": \"A burn can result in scorch marks.\"},\n    {\"word\": \"char\", \"reason\": \"Scorching often leaves a charred surface.\"},\n    {\"word\": \"ash\", \"reason\": \"Charred material can turn to ash when burned completely.\"},\n    {\"word\": \"dust\", \"reason\": \"Ash is a fine, powdery substance similar to dust.\"},\n    {\"word\": \"clean\", \"reason\": \"Dust is often removed through cleaning.\"},\n    {\"word\": \"soap\", \"reason\": \"Cleaning often involves the use of soap.\"},\n    {\"word\": \"lather\", \"reason\": \"Soap creates lather when mixed with water.\"},\n    {\"word\": \"foam\", \"reason\": \"Lather is a type of foam.\"},\n    {\"word\": \"bubble\", \"reason\": \"Foam consists of many small bubbles.\"},\n    {\"word\": \"pop\", \"reason\": \"Bubbles can burst with a popping sound.\"},\n    {\"word\": \"",
+        "chain": [
+          "boot",
+          "heeled"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "crown": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "thread": {
+    "stage1_raw": "{\"results\": [{\"word\": \"needle\", \"reason\": \"A needle is used to pass thread through fabric during sewing.\"}, {\"word\": \"seam\", \"reason\": \"A seam is created by stitching thread to join fabric pieces.\"}, {\"word\": \"execution\", \"reason\": \"In computing, a thread represents a sequence of execution within a process.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "needle",
+        "reason": "A needle is used to pass thread through fabric during sewing."
+      },
+      {
+        "word": "seam",
+        "reason": "A seam is created by stitching thread to join fabric pieces."
+      },
+      {
+        "word": "execution",
+        "reason": "In computing, a thread represents a sequence of execution within a process."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "needle",
+          "reason": "A needle is used to pass thread through fabric during sewing."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"needle\", \"reason\": \"A needle is used to pass thread through fabric during sewing.\"}, {\"word\": \"stitch\", \"reason\": \"A needle is used to create a stitch in fabric.\"}, {\"word\": \"seam\", \"reason\": \"Stitches form the edges of a seam in sewing.\"}, {\"word\": \"fabric\", \"reason\": \"A seam is a part of a fabric piece that is sewn together.\"}, {\"word\": \"loom\", \"reason\": \"A loom is a device used to weave fabric.\"}, {\"word\": \"yarn\", \"reason\": \"Looms weave yarn into fabric.\"}, {\"word\": \"spindle\", \"reason\": \"A spindle is used to spin fibers into yarn.\"}, {\"word\": \"spin\", \"reason\": \"Spindles are used to spin fibers into threads or yarn.\"}, {\"word\": \"fiber\", \"reason\": \"Spinning is the process of converting fiber into yarn or thread.\"}, {\"word\": \"cotton\", \"reason\": \"Cotton is a common natural fiber used in spinning.\"}, {\"word\": \"flannel\", \"reason\": \"Cotton is a material often used to make flannel fabric.\"}, {\"word\": \"shirt\", \"reason\": \"Flannel is commonly used in the production of shirts.\"}, {\"word\": \"button\", \"reason\": \"Shirts typically have buttons for fastening.\"}, {\"word\": \"clothespin\", \"reason\": \"Buttons can be temporarily held by a clothespin when sewing.\"}, {\"word\": \"laundry\", \"reason\": \"Clothespins are used to hang laundry to dry.\"}, {\"word\": \"soap\", \"reason\": \"Laundry is often washed with soap to remove stains.\"}, {\"word\": \"lather\", \"reason\": \"Soap creates lather when mixed with water during washing.\"}, {\"word\": \"water\", \"reason\": \"Lather is formed by combining soap with water.\"}, {\"word\": \"aquatic\", \"reason\": \"Water is essential for aquatic ecosystems and life.\"}, {\"word\": \"fish\", \"reason\": \"Aquatic environments are home to many types of fish.\"}]}",
+        "chain": [
+          "thread",
+          "needle",
+          "needle",
+          "stitch",
+          "seam",
+          "fabric",
+          "loom",
+          "yarn",
+          "spindle",
+          "spin",
+          "fiber",
+          "cotton",
+          "flannel",
+          "shirt",
+          "button",
+          "clothespin",
+          "laundry",
+          "soap",
+          "lather",
+          "water"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "seam",
+          "reason": "A seam is created by stitching thread to join fabric pieces."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"seam\", \"reason\": \"A seam is created by stitching thread to join fabric pieces.\"}, {\"word\": \"stitch\", \"reason\": \"A seam is formed by a series of stitches.\"}, {\"word\": \"needle\", \"reason",
+        "chain": [
+          "thread",
+          "seam"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "execution",
+          "reason": "In computing, a thread represents a sequence of execution within a process."
+        },
+        "raw_response": "```json\n{\n  \"results\": [\n    {\n      \"word\": \"execution\",\n      \"reason\": \"In computing, a thread represents a sequence of execution within a process.\"\n    },\n    {\n      \"word\": \"code\",\n      \"reason\": \"Execution typically involves running lines of code.\"\n    },\n    {\n      \"word\": \"debugging\",\n      \"reason\": \"Code may require debugging to identify and resolve issues during execution.\"\n    },\n    {\n      \"word\": \"error\",\n      \"reason\": \"Debugging focuses on locating and correcting errors in code.\"\n    },\n    {\n      \"word\": \"fix\",\n      \"reason\": \"An error is resolved by applying a fix.\"\n    },\n    {\n      \"word\": \"solution\",\n      \"reason\": \"A fix is part of the broader process of finding a solution.\"\n    },\n    {\n      \"word\": \"problem\",\n      \"reason\": \"A solution is designed to address a specific problem.\"\n    },\n    {\n      \"word\": \"solve\",\n      \"reason\": \"The goal of a solution is to solve the problem it targets.\"\n    },\n    {\n      \"word\": \"puzzle\",\n      \"reason\": \"Solving a problem can feel like solving a complex puzzle.\"\n    },\n    {\n      \"word\": \"piece\",\n      \"reason\": \"A puzzle is made up of individual pieces that fit together.\"\n    },\n    {\n      \"word\": \"jigsaw\",\n      \"reason\": \"Piece is a common term for the components of a jigsaw puzzle.\"\n    },\n    {\n      \"word\": \"game\",\n      \"reason\": \"Jigsaw puzzles are often categorized as games.\"\n    },\n    {\n      \"word\": \"play\",\n      \"reason\": \"Games are typically played by participants to achieve a goal.\"\n    },\n    {\n      \"word\": \"fun\",\n      \"reason\": \"Play is associated with enjoyment and fun.\"\n    },\n    {\n      \"word\": \"enjoy\",\n      \"reason\": \"Fun is something people seek to enjoy.\"\n    },\n    {\n      \"word\": \"like\",\n      \"reason\": \"Enjoying an activity often leads to liking it.\"\n    },\n    {\n      \"word\": \"prefer\",\n      \"reason\": \"Liking something can result in preferring it over alternatives.\"\n    },\n    {\n      \"word\": \"choose\",\n      \"reason\": \"Preference drives the act of choosing between options.\"\n    },\n    {\n      \"word\": \"option\",\n      \"reason\": \"Choosing implies selecting from multiple available options.\"\n    },\n    {\n      \"word\": \"menu\",\n      \"reason\": \"Options are often listed in a menu for selection.\"\n    }\n  ]\n}\n```",
+        "chain": [
+          "thread",
+          "execution",
+          "execution",
+          "code",
+          "debugging",
+          "error",
+          "fix",
+          "solution",
+          "problem",
+          "solve",
+          "puzzle",
+          "piece",
+          "jigsaw",
+          "game",
+          "play",
+          "fun",
+          "enjoy",
+          "like",
+          "prefer",
+          "choose"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "veil": {
+    "stage1_raw": "{\"results\": [{\"word\": \"cover\", \"reason\": \"A veil is a type of cover used to obscure or conceal something.\"}, {\"word\": \"secrecy\", \"reason\": \"A veil can symbolize something hidden or not revealed, like a 'veil of secrecy'.\"}, {\"word\": \"bride\", \"reason\": \"A wedding veil is traditionally worn by a bride during a ceremony.\"}",
+    "stage1_parsed": [
+      {
+        "word": "like",
+        "reason": ""
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "like",
+          "reason": ""
+        },
+        "raw_response": "{\"results\": [{\"word\": \"like\", \"reason\": \"A veil can be described as something that hides or obscures, and 'like' is a preposition used to compare or describe similarity.\"}, {\"word\": \"similar\", \"reason\": \"The word 'like' is often used to indicate similarity, so 'similar' is a direct synonym.\"}, {\"word\": \"alike\", \"reason\": \"The adjective 'alike' means similar, which is a direct synonym of 'similar'.\"}, {\"word\": \"twin\", \"reason\": \"Twin refers to two entities that are naturally alike or identical.\"}, {\"word\": \"pair\", \"reason\": \"A pair consists of two items that are matched or alike, like twins.\"}, {\"word\": \"match\", \"reason\": \"A pair is often described as a matching set, hence 'match'.\"}, {\"word\": \"light\", \"reason\": \"A match can be used to light something, such as a candle or fire.\"}, {\"word\": \"bright\", \"reason\": \"Light can be described as bright, indicating intensity or luminosity.\"}, {\"word\": \"shine\", \"reason\": \"Bright light often results in shining, as in the sun shining.\"}, {\"word\": \"glow\", \"reason\": \"Shine can manifest as a soft, steady glow, such as from a fire or light source.\"}, {\"word\": \"ember\", \"reason\": \"An ember is a glowing piece of burning material that continues to glow after the flame has died.\"}, {\"word\": \"ash\", \"reason\": \"Embers eventually cool and turn into ash, a byproduct of burning.\"}, {\"word\": \"dust\", \"reason\": \"Ash can break down into fine particles, resembling dust.\"}, {\"word\": \"clean\", \"reason\": \"Dust is often removed by cleaning, such as dusting or sweeping.\"}, {\"word\": \"wipe\", \"reason\": \"Cleaning can involve wiping surfaces to remove dirt or dust.\"}, {\"",
+        "chain": [
+          "veil",
+          "like"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "roof": {
+    "stage1_raw": "{\"results\": [{\"word\": \"shingles\", \"reason\": \"Shingles are a common material used to cover and protect the roof of a building.\"}, {\"word\": \"rain\", \"reason\": \"A",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "chimney": {
+    "stage1_raw": "{\"results\": [{\"word\": \"flue\", \"reason\": \"A flue is the internal passage in a chimney that allows smoke and gases to escape.\"}, {\"word\": \"soot\", \"reason\": \"Soot is a black, powdery residue that accumulates in chimneys from burning materials like wood or coal.\"}, {\"word",
+    "stage1_parsed": [
+      {
+        "word": "powdery",
+        "reason": ""
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "powdery",
+          "reason": ""
+        },
+        "raw_response": null,
+        "chain": [
+          "chimney",
+          "powdery"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "pillow": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "cellar": {
+    "stage1_raw": "{\"results\": [{\"word\": \"wine\", \"reason\": \"Cellars are commonly used for storing wine due to their cool, dark environment.\"}, {\"word\": \"damp\", \"reason\": \"Cellars are often damp because they are typically located underground and prone to moisture.\"},",
+    "stage1_parsed": [
+      {
+        "word": "dark",
+        "reason": ""
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "dark",
+          "reason": ""
+        },
+        "raw_response": "```json\n{\n  \"results\": [\n    {\"word\": \"dark\", \"reason\": \"A cellar is typically a dark place.\"},\n    {\"word\": \"shadow\", \"reason\": \"Dark environments often have shadows.\"},\n    {\"word\": \"light\", \"reason\": \"Shadows are formed by the absence of light.\"},\n    {\"word\": \"sun\", \"reason\": \"Light can come from the sun.\"},\n    {\"word\": \"beam\", \"reason\": \"Sunlight enters through a beam of light.\"},\n    {\"word\": \"floor\", \"reason\": \"Beams are structural elements supporting a floor.\"},\n    {\"word\": \"rug\", \"reason\": \"Floors are often covered with rugs.\"},\n    {\"word\": \"vacuum\", \"reason\": \"Rugs are cleaned using a vacuum.\"},\n    {\"word\": \"clean\", \"reason\": \"Vacuuming results in a clean surface.\"},\n    {\"word\": \"spotless\", \"reason\": \"Clean can describe a spotless condition.\"},\n    {\"word\": \"dust\", \"reason\": \"Dust is what makes a surface not spotless.\"},\n    {\"word\": \"cleanse\", \"reason\": \"Dust is removed by cleansing.\"},\n    {\"word\": \"soap\", \"reason\": \"Cleansing often involves using soap.\"},\n    {\"word\": \"lather\", \"reason\": \"Soap creates lather when used.\"},\n    {\"word\": \"foam\", \"reason\": \"Lather is a type of foam.\"},\n    {\"word\": \"bubble\", \"reason\": \"Foam consists of many bubbles.\"},\n    {\"word\": \"pop\", \"reason\": \"Bubbles can burst with a pop.\"},\n    {\"word\": \"sound\", \"reason\": \"A pop is a sudden sound.\"},\n    {\"word\": \"quiet\", \"reason\": \"Sound is the opposite of quiet.\"},\n    {\"word\": \"silence\", \"reason\": \"Quiet can lead to complete silence.\"}\n  ]\n}\n```",
+        "chain": [
+          "cellar",
+          "dark",
+          "dark",
+          "shadow",
+          "light",
+          "sun",
+          "beam",
+          "floor",
+          "rug",
+          "vacuum",
+          "clean",
+          "spotless",
+          "dust",
+          "cleanse",
+          "soap",
+          "lather",
+          "foam",
+          "bubble",
+          "pop",
+          "sound"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "fence": {
+    "stage1_raw": "{\"results\": [{\"word\": \"post\", \"reason\": \"A fence is typically constructed using vertical posts as its structural supports.\"}, {\"word\": \"wire\", \"reason\": \"Wire is a common material used in the creation of various types of fences, such as barbed wire or chain-link.\"}, {\"word\": \"climb\", \"reason\": \"A fence is often climbed over as a barrier or obstacle to be overcome.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "post",
+        "reason": "A fence is typically constructed using vertical posts as its structural supports."
+      },
+      {
+        "word": "wire",
+        "reason": "Wire is a common material used in the creation of various types of fences, such as barbed wire or chain-link."
+      },
+      {
+        "word": "climb",
+        "reason": "A fence is often climbed over as a barrier or obstacle to be overcome."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "post",
+          "reason": "A fence is typically constructed using vertical posts as its structural supports."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\n      \"word\": \"post\",\n      \"reason\": \"A fence is typically constructed using vertical posts as its structural supports.\"\n    },\n    {\n      \"word\": \"mail\",\n      \"reason\": \"Posts are also used in the context of sending letters or parcels via mail services.\"\n    },\n    {\n      \"word\": \"letter\",\n      \"reason\": \"Mail often includes handwritten or typed letters as a primary form of written communication.\"\n    },\n    {\n      \"word\": \"alphabet\",\n      \"reason\": \"Letters are characters in an alphabet used to form words and sentences.\"\n    },\n    {\n      \"word\": \"language\",\n      \"reason\": \"An alphabet is the foundation of a written language system.\"\n    },\n    {\n      \"word\": \"speak\",\n      \"reason\": \"Language is used for verbal communication through speaking.\"\n    },\n    {\n      \"word\": \"voice\",\n      \"reason\": \"Speaking produces sound through the use of one's voice.\"\n    },\n    {\n      \"word\": \"sound\",\n      \"reason\": \"Voice generates sound waves that carry spoken words.\"\n    },\n    {\n      \"word\": \"noise\",\n      \"reason\": \"Unwanted or chaotic sound is often referred to as noise.\"\n    },\n    {\n      \"word\": \"silence\",\n      \"reason\": \"Noise is the absence of silence, and the two are opposing states.\"\n    },\n    {\n      \"word\": \"quiet\",\n      \"reason\": \"Silence is characterized by quietness or the absence of loud noise.\"\n    },\n    {\n      \"word\": \"calm\",\n      \"reason\": \"Quiet environments are often described as calm or peaceful.\"\n    },\n    {\n      \"word\": \"peace\",\n      \"reason\": \"Calmness is a key characteristic of peace in a setting or emotional state.\"\n    },\n    {\n      \"word\": \"war\",\n      \"reason\": \"Peace is the absence of war and conflict between groups.\"\n    },\n    {\n      \"word\": \"battle\",\n      \"reason\": \"War consists of multiple battles or large-scale confrontations.\"\n    },\n    {\n      \"word\": \"fight\",\n      \"reason\": \"A battle is a type of fight involving organized combatants.\"\n    },\n    {\n      \"word\": \"weapon\",\n      \"reason\": \"Fights typically involve the use of weapons for attack or defense.\"\n    },\n    {\n      \"word\": \"blade\",\n      \"reason\": \"A weapon such as a sword or knife has a sharp blade as its functional component.\"\n    },\n    {\n      \"word\": \"cut\",\n      \"reason\": \"A blade is used to cut or slice through objects or materials.\"\n    },\n    {\n      \"word\": \"knife\",\n      \"reason\": \"Cutting actions are commonly performed with a knife, a tool with a blade.\"\n    }\n  ]\n}",
+        "chain": [
+          "fence",
+          "post",
+          "post",
+          "mail",
+          "letter",
+          "alphabet",
+          "language",
+          "speak",
+          "voice",
+          "sound",
+          "noise",
+          "silence",
+          "quiet",
+          "calm",
+          "peace",
+          "war",
+          "battle",
+          "fight",
+          "weapon",
+          "blade"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "wire",
+          "reason": "Wire is a common material used in the creation of various types of fences, such as barbed wire or chain-link."
+        },
+        "raw_response": null,
+        "chain": [
+          "fence",
+          "wire"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "climb",
+          "reason": "A fence is often climbed over as a barrier or obstacle to be overcome."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"climb\", \"reason\": \"A fence is often climbed over as a barrier or obstacle to be overcome.\"}, {\"word\": \"ladder\", \"reason\": \"Climbing often requires a ladder for support or access.\"}, {\"word\": \"step\", \"reason\": \"A ladder is composed of individual steps for ascending or descending.\"}, {\"word\": \"staircase\", \"reason\": \"Steps are commonly found in a staircase for vertical movement.\"}, {\"word\": \"floor\", \"reason\": \"A staircase connects different floors in a building.\"}, {\"word\": \"ceiling\", \"reason\": \"Floors are separated by ceilings in multi-level structures.\"}, {\"word\": \"roof\", \"reason\": \"The ceiling of the top floor is part of the roof structure.\"}, {\"word\": \"rain\", \"reason\":",
+        "chain": [
+          "fence",
+          "climb"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "hammer": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "needle": {
+    "stage1_raw": "```json\n{\n  \"results\": [\n    {\n      \"word\": \"thread\",\n      \"reason\": \"A needle is commonly used with thread for sewing or embroidery.\"\n    },\n    {\n      \"word\": \"prick\",\n      \"reason\": \"A needle is a sharp object that can cause a prick when it punctures something.\"\n    },\n    {\n      \"word\": \"quilt\",\n      \"reason\": \"Needles are used in the process of quilting to sew fabric layers together.\"\n    }\n  ]\n}\n```",
+    "stage1_parsed": [
+      {
+        "word": "thread",
+        "reason": "A needle is commonly used with thread for sewing or embroidery."
+      },
+      {
+        "word": "prick",
+        "reason": "A needle is a sharp object that can cause a prick when it punctures something."
+      },
+      {
+        "word": "quilt",
+        "reason": "Needles are used in the process of quilting to sew fabric layers together."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "thread",
+          "reason": "A needle is commonly used with thread for sewing or embroidery."
+        },
+        "raw_response": null,
+        "chain": [
+          "needle",
+          "thread"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "prick",
+          "reason": "A needle is a sharp object that can cause a prick when it punctures something."
+        },
+        "raw_response": "{\n  \"results\": [\n    {\"word\": \"prick\", \"reason\": \"A needle is a sharp object that can cause a prick when it punctures something.\"},\n    {\"word\": \"pain\", \"reason\": \"A prick often causes a sharp, localized pain.\"},\n    {\"word\": \"scream\", \"reason\": \"Pain can lead to a scream as a vocal reaction.\"},\n    {\"word\": \"sound\", \"reason\": \"A scream is a type of sound produced by the vocal cords.\"},\n    {\"word\": \"echo\", \"reason\": \"Sound can be reflected and heard as an echo in enclosed spaces.\"},\n    {\"word\": \"reverberate\", \"reason\": \"An echo is a form of sound reverberating through a medium.\"},\n    {\"word\": \"resonate\", \"reason\": \"Reverberation occurs when sound resonates within a space.\"},\n    {\"word\": \"vibrate\", \"reason\": \"Resonance is the result of vibrations in a medium or object.\"},\n    {\"word\": \"hum\", \"reason\": \"Vibrating objects or systems can produce a low-pitched hum.\"},\n    {\"word\": \"song\", \"reason\": \"A hum is a simple form of a song or melody.\"},\n    {\"word\": \"melody\", \"reason\": \"A song is composed of one or more melodies.\"},\n    {\"word\": \"note\", \"reason\": \"Melodies are built from individual musical notes.\"},\n    {\"word\": \"music\", \"reason\": \"A note is a fundamental element of music.\"},\n    {\"word\": \"rhythm\", \"reason\": \"Music relies on rhythm to structure its timing and flow.\"},\n    {\"word\": \"beat\", \"reason\": \"Rhythm is defined by a repeating pattern of beats.\"},\n    {\"word\": \"drum\", \"reason\": \"A beat is often produced by a drum in musical performances.\"},\n    {\"word\": \"tambourine\", \"reason\": \"A drum and tambourine are both percussion instruments used in rhythmic music.\"},\n    {\"word\": \"shaker\", \"reason\": \"A tambourine and shaker are handheld instruments that create percussive sounds.\"},\n    {\"word\": \"shake\", \"reason\": \"A shaker is used by shaking it to produce its characteristic sound.\"},\n    {\"word\": \"tremble\", \"reason\": \"Shaking can cause a person or object to tremble involuntarily.\"}\n  ]\n}",
+        "chain": [
+          "needle",
+          "prick",
+          "prick",
+          "pain",
+          "scream",
+          "sound",
+          "echo",
+          "reverberate",
+          "resonate",
+          "vibrate",
+          "hum",
+          "song",
+          "melody",
+          "note",
+          "music",
+          "rhythm",
+          "beat",
+          "drum",
+          "tambourine",
+          "shaker"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "quilt",
+          "reason": "Needles are used in the process of quilting to sew fabric layers together."
+        },
+        "raw_response": null,
+        "chain": [
+          "needle",
+          "quilt"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      }
+    ]
+  },
+  "wheel": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "rope": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "anchor": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "flight": {
+    "stage1_raw": "{\"results\": [{\"word\": \"airplane\", \"reason\": \"A vehicle designed for flight through the air.\"}, {\"word\": \"wings\", \"reason\": \"Structures that enable flight in birds, insects, and aircraft.\"}, {\"word\": \"escape\", \"reason\": \"A common metaphorical meaning of",
+    "stage1_parsed": [
+      {
+        "word": "insects",
+        "reason": ""
+      },
+      {
+        "word": "and",
+        "reason": ""
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "insects",
+          "reason": ""
+        },
+        "raw_response": null,
+        "chain": [
+          "flight",
+          "insects"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "and",
+          "reason": ""
+        },
+        "raw_response": "{\"results\": [{\"word\": \"and\", \"reason\": \"A conjunction used to connect 'flight' in a sentence.\"}, {\"word\": \"add\", \"reason\": \"A verb that represents the action of combining, similar to 'and'.\"}, {\"word\": \"plus\", \"reason\": \"A symbol or word used to denote addition, like 'and'.\"}, {\"word\": \"positive\", \"reason\": \"A term associated with the '+' sign, which is linked to 'plus'.\"}, {\"word\": \"optimistic\", \"reason\": \"A mindset characterized by a positive outlook.\"}, {\"word\": \"hope\", \"reason\": \"A feeling of optimism about the future.\"}, {\"word\": \"wish\", \"reason\": \"A desire or hope for something.\"}, {\"word\": \"desire\", \"reason\": \"A strong wish or longing.\"}, {\"word\": \"crave\", \"reason\": \"To desire something intensely.\"}, {\"word\": \"hunger\", \"reason\": \"A physical desire for food.\"}, {\"word\": \"starve\", \"reason\": \"To suffer from extreme hunger.\"}, {\"word\": \"famine\", \"reason\": \"A widespread scarcity of food leading to starvation.\"}, {\"word\": \"drought\", \"reason\": \"A prolonged period of dry weather causing famine.\"}, {\"word\": \"arid\", \"reason\": \"Extremely dry, often associated with drought conditions.\"}, {\"word\": \"desert\", \"reason\": \"A large, dry area of land, typically hot and barren.\"}, {\"word\": \"sand\", \"reason\": \"A granular material found in deserts.\"}, {\"word\": \"beach\", \"reason\": \"A shore area with sand, similar to desert sand.\"}, {\"word\": \"ocean\", \"reason\": \"A large body of saltwater adjacent to beaches.\"}, {\"word\": \"wave\", \"reason\": \"A moving ridge of water in the ocean.\"}, {\"word\": \"surge\", \"reason\":",
+        "chain": [
+          "flight",
+          "and"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "crawl": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "drift": {
+    "stage1_raw": "{\"results\": [{\"word\": \"current",
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "leap": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "chase": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "grief": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "pride": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "shame": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  },
+  "bliss": {
+    "stage1_raw": "{\"results\": [{\"word\": \"ecstasy\", \"reason\": \"Ecstasy is an intense feeling of happiness, closely linked to the concept of bliss.\"}, {\"word\": \"serenity\", \"reason\": \"Serenity represents a calm and peaceful state, often associated with a blissful experience.\"}, {\"word\": \"euphoria\", \"reason\": \"Euphoria is a state of intense excitement and happiness, directly connected to the idea of bliss.\"}]}",
+    "stage1_parsed": [
+      {
+        "word": "ecstasy",
+        "reason": "Ecstasy is an intense feeling of happiness, closely linked to the concept of bliss."
+      },
+      {
+        "word": "serenity",
+        "reason": "Serenity represents a calm and peaceful state, often associated with a blissful experience."
+      },
+      {
+        "word": "euphoria",
+        "reason": "Euphoria is a state of intense excitement and happiness, directly connected to the idea of bliss."
+      }
+    ],
+    "chains": [
+      {
+        "first_association": {
+          "word": "ecstasy",
+          "reason": "Ecstasy is an intense feeling of happiness, closely linked to the concept of bliss."
+        },
+        "raw_response": null,
+        "chain": [
+          "bliss",
+          "ecstasy"
+        ],
+        "api_error": "RuntimeError: provider returned null content"
+      },
+      {
+        "first_association": {
+          "word": "serenity",
+          "reason": "Serenity represents a calm and peaceful state, often associated with a blissful experience."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"serenity\", \"reason\": \"Serenity represents a calm and peaceful state, often associated with a blissful experience.\"}, {\"word\": \"calm\", \"reason\": \"Calm is a direct synonym of serenity, describing a state of tranquility.\"}, {\"word\": \"peace\", \"reason\": \"Peace is a broader concept that includes serenity and calm as its components.\"}, {\"word\": \"harmony\", \"reason\": \"Harmony is a state of peaceful and musical agreement, often linked to peace.\"}, {\"word\": \"balance\", \"reason\": \"Balance is essential for achieving harmony in systems or emotions.\"}, {\"word\": \"equilibrium\", \"reason\": \"Equilibrium refers to a stable balance, often in physical or mental states.\"}, {\"word\": \"stability\", \"reason\": \"Stability is the foundation of equilibrium, ensuring no disruption.\"}, {\"word\": \"security\", \"reason\": \"Security provides the assurance of stability in one's environment.\"}, {\"word\": \"safety\", \"reason\": \"Safety is a core aspect of security, protecting from harm.\"}, {\"word\": \"protection\", \"reason\": \"Protection is the active measure to ensure safety.\"}, {\"word\": \"shield\", \"reason\": \"A shield is a physical or metaphorical tool for protection.\"}, {\"word\": \"armor\", \"reason\": \"Armor is another form of protective gear, like a shield.\"}, {\"word\": \"defend\", \"reason\": \"Defend is the action of using armor or shields to protect.\"}, {\"word\": \"protect\", \"reason\": \"Protect is a synonym for defend, emphasizing care and safety.\"}, {\"word\": \"safeguard\", \"reason\": \"Safeguard is a more formal term for protecting something valuable.\"}, {\"word\": \"preserve\", \"reason\": \"Preserve means to keep something safe from harm or decay.\"}, {\"word\": \"maintain\", \"reason\": \"Maintain is the ongoing effort to preserve a state or condition.\"}, {\"word\": \"sustain\", \"reason\": \"Sustain implies maintaining something over time, like resources or peace.\"}, {\"word\": \"endure\", \"reason\": \"Endure is the ability to sustain through hardship or time.\"}, {\"word\": \"persevere\", \"reason\": \"Persevere is to continue enduring despite challenges.\"}, {\"word\": \"determination\", \"reason\": \"Determination fuels perseverance in difficult situations.\"}, {\"word\": \"resolve\", \"reason\": \"Resolve is the firm decision to persevere and achieve a goal.\"}, {\"word\": \"solution\", \"reason\": \"A solution is the result of resolving a problem with determination.\"}, {\"word\": \"answer\", \"reason\": \"An answer is a direct outcome of finding a solution.\"}, {\"word\": \"question\", \"reason\": \"A question is the precursor to seeking an answer.\"}, {\"word\": \"inquiry\", \"reason\": \"Inquiry is the process of asking questions to find answers.\"}, {\"word\": \"research\", \"reason\": \"Research is a systematic inquiry to uncover new knowledge.\"}, {\"word\": \"study\", \"reason\": \"Study is a focused form of research or inquiry.\"}, {\"word\": \"knowledge\", \"reason\": \"Study leads to the accumulation of knowledge.\"}, {\"word\": \"wisdom\", \"reason\": \"Wisdom is the application of knowledge with insight.\"}, {\"word\": \"insight\", \"reason\": \"Insight is the deep understanding that wisdom provides.\"}, {\"word\": \"understanding\", \"reason\": \"Understanding is the result of gaining insight into a subject.\"}, {\"word\": \"clarity\", \"reason\": \"Clarity is the state of being clear and understandable, achieved through understanding.\"}]}",
+        "chain": [
+          "bliss",
+          "serenity",
+          "serenity",
+          "calm",
+          "peace",
+          "harmony",
+          "balance",
+          "equilibrium",
+          "stability",
+          "security",
+          "safety",
+          "protection",
+          "shield",
+          "armor",
+          "defend",
+          "protect",
+          "safeguard",
+          "preserve",
+          "maintain",
+          "sustain"
+        ],
+        "api_error": null
+      },
+      {
+        "first_association": {
+          "word": "euphoria",
+          "reason": "Euphoria is a state of intense excitement and happiness, directly connected to the idea of bliss."
+        },
+        "raw_response": "{\"results\": [{\"word\": \"euphoria\", \"reason\": \"Euphoria is a state of intense excitement and happiness, directly connected to the idea of bliss.\"}, {\"word\": \"elation\", \"reason\": \"Elation is a synonym for euphoria, representing a similar intense feeling of happiness.\"}, {\"word\": \"celebration\", \"reason\": \"Celebrations often lead to elation due to shared joy and festivities.\"}, {\"word\": \"party\", \"reason\": \"Parties are common events where celebrations and elation occur.\"}, {\"word\": \"music\", \"reason\": \"Music is a central element of parties, enhancing the celebratory atmosphere.\"}, {\"word\": \"rhythm\", \"reason\": \"Rhythm is a fundamental aspect of music, especially in dance and celebration.\"}, {\"word\": \"beat\", \"reason\": \"Beat is the rhythmic pulse in music",
+        "chain": [
+          "bliss",
+          "euphoria"
+        ],
+        "api_error": null
+      }
+    ]
+  },
+  "rage": {
+    "stage1_raw": null,
+    "stage1_parsed": [],
+    "chains": []
+  }
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"dog\", \"oxygen\", \"stone\", \"umbrella\", \"sunset\", \"chair\", \"butterfly\", \"silence\", \"microwave\", \"moon\"]",
+    "words": [
+      "dog",
+      "oxygen",
+      "stone",
+      "umbrella",
+      "sunset",
+      "chair",
+      "butterfly",
+      "silence",
+      "microwave",
+      "moon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"stone\", \"cloud\", \"whisper\", \"ocean\", \"fire\", \"moon\", \"bicycle\", \"eagle\", \"peach\", \"time\"]",
+    "words": [
+      "stone",
+      "cloud",
+      "whisper",
+      "ocean",
+      "fire",
+      "moon",
+      "bicycle",
+      "eagle",
+      "peach",
+      "time"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"dog\", \"ocean\", \"book\", \"mirror\", \"bird\", \"clock\", \"forest\", \"umbrella\", \"spoon\", \"planet\"]",
+    "words": [
+      "dog",
+      "ocean",
+      "book",
+      "mirror",
+      "bird",
+      "clock",
+      "forest",
+      "umbrella",
+      "spoon",
+      "planet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"elephant\", \"telescope\", \"butterfly\", \"umbrella\", \"seismograph\", \"splinter\", \"sermon\", \"octopus\", \"vase\", \"whisper\"]",
+    "words": [
+      "elephant",
+      "telescope",
+      "butterfly",
+      "umbrella",
+      "seismograph",
+      "splinter",
+      "sermon",
+      "octopus",
+      "vase",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"stone\", \"dream\", \"light\", \"sugar\", \"knee\", \"ocean\", \"painting\", \"whisper\", \"planet\", \"zero\"]",
+    "words": [
+      "stone",
+      "dream",
+      "light",
+      "sugar",
+      "knee",
+      "ocean",
+      "painting",
+      "whisper",
+      "planet",
+      "zero"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"stone\", \"light\", \"needle\", \"ocean\", \"dream\", \"spoon\", \"mountain\", \"crayon\", \"silence\", \"flash\"]",
+    "words": [
+      "stone",
+      "light",
+      "needle",
+      "ocean",
+      "dream",
+      "spoon",
+      "mountain",
+      "crayon",
+      "silence",
+      "flash"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"apple\", \"ocean\", \"book\", \"fire\", \"bird\", \"table\", \"peace\", \"lightning\", \"city\", \"cloud\"]",
+    "words": [
+      "apple",
+      "ocean",
+      "book",
+      "fire",
+      "bird",
+      "table",
+      "peace",
+      "lightning",
+      "city",
+      "cloud"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"dog\", \"ocean\", \"elephant\", \"spoon\", \"book\", \"star\", \"door\", \"sky\", \"mouse\", \"fire\"]",
+    "words": [
+      "dog",
+      "ocean",
+      "elephant",
+      "spoon",
+      "book",
+      "star",
+      "door",
+      "sky",
+      "mouse",
+      "fire"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"apple\", \"ocean\", \"knife\", \"dog\", \"boulder\", \"lamp\", \"jazz\", \"umbrella\", \"silence\", \"desert\"]",
+    "words": [
+      "apple",
+      "ocean",
+      "knife",
+      "dog",
+      "boulder",
+      "lamp",
+      "jazz",
+      "umbrella",
+      "silence",
+      "desert"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"rock\", \"feather\", \"ocean\", \"spoon\", \"cloud\", \"forest\", \"spark\", \"desert\", \"nest\", \"moon\"]",
+    "words": [
+      "rock",
+      "feather",
+      "ocean",
+      "spoon",
+      "cloud",
+      "forest",
+      "spark",
+      "desert",
+      "nest",
+      "moon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"dog\", \"ocean\", \"crab\", \"eclipse\", \"pencil\", \"sunset\", \"umbrella\", \"volcano\", \"violin\", \"galaxy\"]",
+    "words": [
+      "dog",
+      "ocean",
+      "crab",
+      "eclipse",
+      "pencil",
+      "sunset",
+      "umbrella",
+      "volcano",
+      "violin",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"mountain\", \"television\", \"oxygen\", \"umbrella\", \"silence\", \"city\", \"whisper\", \"nail\", \"table\", \"sun\"]",
+    "words": [
+      "mountain",
+      "television",
+      "oxygen",
+      "umbrella",
+      "silence",
+      "city",
+      "whisper",
+      "nail",
+      "table",
+      "sun"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"stone\", \"dream\", \"bicycle\", \"telescope\", \"whisper\", \"ocean\", \"eagle\", \"knee\", \"quilt\", \"sunset\"]",
+    "words": [
+      "stone",
+      "dream",
+      "bicycle",
+      "telescope",
+      "whisper",
+      "ocean",
+      "eagle",
+      "knee",
+      "quilt",
+      "sunset"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"stone\", \"dolphin\", \"telescope\", \"butterfly\", \"umbrella\", \"oxygen\", \"novel\", \"cactus\", \"sleigh\", \"umbra\"]",
+    "words": [
+      "stone",
+      "dolphin",
+      "telescope",
+      "butterfly",
+      "umbrella",
+      "oxygen",
+      "novel",
+      "cactus",
+      "sleigh",
+      "umbra"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"apple\", \"stone\", \"dream\", \"lightning\", \"ocean\", \"broom\", \"elevator\", \"forest\", \"spoon\", \"telescope\"]",
+    "words": [
+      "apple",
+      "stone",
+      "dream",
+      "lightning",
+      "ocean",
+      "broom",
+      "elevator",
+      "forest",
+      "spoon",
+      "telescope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"stone\", \"dream\", \"spark\", \"ocean\", \"bird\", \"clock\", \"whisper\", \"forest\", \"umbrella\", \"sunrise\"]",
+    "words": [
+      "stone",
+      "dream",
+      "spark",
+      "ocean",
+      "bird",
+      "clock",
+      "whisper",
+      "forest",
+      "umbrella",
+      "sunrise"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"rock\", \"feather\", \"ocean\", \"knife\", \"pencil\", \"sunrise\", \"moon\", \"forest\", \"city\", \"bird\"]",
+    "words": [
+      "rock",
+      "feather",
+      "ocean",
+      "knife",
+      "pencil",
+      "sunrise",
+      "moon",
+      "forest",
+      "city",
+      "bird"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"rock\", \"feather\", \"light\", \"ocean\", \"spoon\", \"cloud\", \"fire\", \"nest\", \"door\", \"\u91cf\u5b50\"]",
+    "words": [
+      "rock",
+      "feather",
+      "light",
+      "ocean",
+      "spoon",
+      "cloud",
+      "fire",
+      "nest",
+      "door",
+      "\u91cf\u5b50"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"rock\", \"feather\", \"ocean\", \"spoon\", \"crab\", \"forest\", \"teeth\", \"telescope\", \"kite\", \"seal\"]",
+    "words": [
+      "rock",
+      "feather",
+      "ocean",
+      "spoon",
+      "crab",
+      "forest",
+      "teeth",
+      "telescope",
+      "kite",
+      "seal"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"stone\", \"dream\", \"lightning\", \"spoon\", \"ocean\", \"bird\", \"silk\", \"whisper\", \"city\", \"number\"]",
+    "words": [
+      "stone",
+      "dream",
+      "lightning",
+      "spoon",
+      "ocean",
+      "bird",
+      "silk",
+      "whisper",
+      "city",
+      "number"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"table\", \"whisper\", \"sword\", \"leaf\", \"ocean\", \"puzzle\", \"star\", \"nest\", \"umbrella\", \"breeze\"]",
+    "words": [
+      "table",
+      "whisper",
+      "sword",
+      "leaf",
+      "ocean",
+      "puzzle",
+      "star",
+      "nest",
+      "umbrella",
+      "breeze"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"dog\", \"planet\", \"knife\", \"dream\", \"ocean\", \"spoon\", \"music\", \"fire\", \"chair\", \"sunrise\"]",
+    "words": [
+      "dog",
+      "planet",
+      "knife",
+      "dream",
+      "ocean",
+      "spoon",
+      "music",
+      "fire",
+      "chair",
+      "sunrise"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"chair\", \"volcano\", \"giraffe\", \"moon\", \"peanut\", \"umbrella\", \"ocean\", \"knife\", \"sunrise\", \"dog\"]",
+    "words": [
+      "chair",
+      "volcano",
+      "giraffe",
+      "moon",
+      "peanut",
+      "umbrella",
+      "ocean",
+      "knife",
+      "sunrise",
+      "dog"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"dog\", \"elephant\", \"bicycle\", \"book\", \"sandwich\", \"cloud\", \"star\", \"table\", \"sunshine\", \"key\"]",
+    "words": [
+      "dog",
+      "elephant",
+      "bicycle",
+      "book",
+      "sandwich",
+      "cloud",
+      "star",
+      "table",
+      "sunshine",
+      "key"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"cloud\", \"cactus\", \"crab\", \"eclipse\", \"fiddle\", \"gemstone\", \"haze\", \"igloo\", \"jazz\", \"kangaroo\"]",
+    "words": [
+      "cloud",
+      "cactus",
+      "crab",
+      "eclipse",
+      "fiddle",
+      "gemstone",
+      "haze",
+      "igloo",
+      "jazz",
+      "kangaroo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"rock\", \"feather\", \"light\", \"ocean\", \"fire\", \"table\", \"bird\", \"quiet\", \"city\", \"tree\"]",
+    "words": [
+      "rock",
+      "feather",
+      "light",
+      "ocean",
+      "fire",
+      "table",
+      "bird",
+      "quiet",
+      "city",
+      "tree"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"sky\", \"stone\", \"whisper\", \"ocean\", \"fire\", \"feather\", \"mountain\", \"dream\", \"lightning\", \"clock\"]",
+    "words": [
+      "sky",
+      "stone",
+      "whisper",
+      "ocean",
+      "fire",
+      "feather",
+      "mountain",
+      "dream",
+      "lightning",
+      "clock"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"sky\", \"dog\", \"silence\", \"ocean\", \"spoon\", \"fire\", \"mouse\", \"peace\", \"ice\", \"bicycle\"]",
+    "words": [
+      "sky",
+      "dog",
+      "silence",
+      "ocean",
+      "spoon",
+      "fire",
+      "mouse",
+      "peace",
+      "ice",
+      "bicycle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"stone\", \"whisper\", \"sword\", \"umbrella\", \"nest\", \"ocean\", \"pencil\", \"cherry\", \"moon\", \"forest\"]",
+    "words": [
+      "stone",
+      "whisper",
+      "sword",
+      "umbrella",
+      "nest",
+      "ocean",
+      "pencil",
+      "cherry",
+      "moon",
+      "forest"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"stone\", \"dream\", \"silk\", \"bark\", \"flash\", \"whisper\", \"ocean\", \"glue\", \"crayon\", \"quilt\"]",
+    "words": [
+      "stone",
+      "dream",
+      "silk",
+      "bark",
+      "flash",
+      "whisper",
+      "ocean",
+      "glue",
+      "crayon",
+      "quilt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"table\", \"bird\", \"love\", \"desert\", \"teeth\", \"moon\", \"door\", \"fire\", \"leaf\", \"time\"]",
+    "words": [
+      "table",
+      "bird",
+      "love",
+      "desert",
+      "teeth",
+      "moon",
+      "door",
+      "fire",
+      "leaf",
+      "time"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"stone\", \"dream\", \"spoon\", \"ocean\", \"kitty\", \"eclipse\", \"harmony\", \"umbrella\", \"crab\", \"forest\"]",
+    "words": [
+      "stone",
+      "dream",
+      "spoon",
+      "ocean",
+      "kitty",
+      "eclipse",
+      "harmony",
+      "umbrella",
+      "crab",
+      "forest"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"stone\", \"dream\", \"leaf\", \"ocean\", \"butterfly\", \"clock\", \"city\", \"fire\", \"serenity\", \"whistle\"]",
+    "words": [
+      "stone",
+      "dream",
+      "leaf",
+      "ocean",
+      "butterfly",
+      "clock",
+      "city",
+      "fire",
+      "serenity",
+      "whistle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"stone\", \"flight\", \"piano\", \"dog\", \"ocean\", \"chair\", \"dream\", \"lightning\", \"forest\", \"teeth\"]",
+    "words": [
+      "stone",
+      "flight",
+      "piano",
+      "dog",
+      "ocean",
+      "chair",
+      "dream",
+      "lightning",
+      "forest",
+      "teeth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"cloud\", \"crab\", \"sofa\", \"ocean\", \"quill\", \"piano\", \"torch\", \"umbrella\", \"ballet\", \"mailbox\"]",
+    "words": [
+      "cloud",
+      "crab",
+      "sofa",
+      "ocean",
+      "quill",
+      "piano",
+      "torch",
+      "umbrella",
+      "ballet",
+      "mailbox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"stone\", \"feather\", \"light\", \"door\", \"ocean\", \"elephant\", \"spoon\", \"planet\", \"silence\", \"fire\"]",
+    "words": [
+      "stone",
+      "feather",
+      "light",
+      "door",
+      "ocean",
+      "elephant",
+      "spoon",
+      "planet",
+      "silence",
+      "fire"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"stone\", \"feather\", \"light\", \"ocean\", \"bird\", \"fire\", \"mountain\", \"silence\", \"spoon\", \"dream\"]",
+    "words": [
+      "stone",
+      "feather",
+      "light",
+      "ocean",
+      "bird",
+      "fire",
+      "mountain",
+      "silence",
+      "spoon",
+      "dream"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"ocean\", \"spoon\", \"dog\", \"calculator\", \"castle\", \"moon\", \"peacock\", \"mirror\", \"kangaroo\", \"whisper\"]",
+    "words": [
+      "ocean",
+      "spoon",
+      "dog",
+      "calculator",
+      "castle",
+      "moon",
+      "peacock",
+      "mirror",
+      "kangaroo",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"sky\", \"dog\", \"peanut\", \"telescope\", \"ocean\", \"bicycle\", \"dream\", \"nail\", \"book\", \"fire\"]",
+    "words": [
+      "sky",
+      "dog",
+      "peanut",
+      "telescope",
+      "ocean",
+      "bicycle",
+      "dream",
+      "nail",
+      "book",
+      "fire"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"stone\", \"whisper\", \"umbrella\", \"galaxy\", \"peach\", \"stamp\", \"dream\", \"spoon\", \"ocean\", \"whistle\"]",
+    "words": [
+      "stone",
+      "whisper",
+      "umbrella",
+      "galaxy",
+      "peach",
+      "stamp",
+      "dream",
+      "spoon",
+      "ocean",
+      "whistle"
+    ],
+    "api_error": null
+  }
+]

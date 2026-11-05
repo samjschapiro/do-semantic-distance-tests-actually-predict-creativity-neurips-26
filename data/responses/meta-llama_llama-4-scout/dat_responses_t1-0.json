@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"turtle\", \"quark\", \"saffron\", \"gargoyle\", \"radar\", \"moss\", \"skeleton\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "turtle",
+      "quark",
+      "saffron",
+      "gargoyle",
+      "radar",
+      "moss",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"cloud\", \"sculpture\", \"pineapple\", \"submarine\", \"quilt\", \"neuron\", \"mirage\", \"gargoyle\", \"harmonica\", \"fungus\"]",
+    "words": [
+      "cloud",
+      "sculpture",
+      "pineapple",
+      "submarine",
+      "quilt",
+      "neuron",
+      "mirage",
+      "gargoyle",
+      "harmonica",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"saffron\", \"pineapple\", \"quilt\", \"fungus\", \"snowflake\", \"gargoyle\", \"perfume\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "saffron",
+      "pineapple",
+      "quilt",
+      "fungus",
+      "snowflake",
+      "gargoyle",
+      "perfume"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"quark\", \"saffron\", \"fountain\", \"neuron\", \"kite\", \"sagebrush\", \"soap\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "quark",
+      "saffron",
+      "fountain",
+      "neuron",
+      "kite",
+      "sagebrush",
+      "soap"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"pineapple\", \"submarine\", \"quartz\", \"sorrow\", \"alligator\", \"starlight\", \"perfume\", \"quilt\", \"fungus\", \"gearbox\"]",
+    "words": [
+      "pineapple",
+      "submarine",
+      "quartz",
+      "sorrow",
+      "alligator",
+      "starlight",
+      "perfume",
+      "quilt",
+      "fungus",
+      "gearbox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"saffron\", \"quilt\", \"fungus\", \"meteorite\", \"perfume\", \"skeleton\", \"generator\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "saffron",
+      "quilt",
+      "fungus",
+      "meteorite",
+      "perfume",
+      "skeleton",
+      "generator"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"cloud\", \"violin\", \"turtle\", \"kitchen\", \"snowflake\", \"perfume\", \"quilt\", \"rubble\", \"fungus\", \"gearbox\"]",
+    "words": [
+      "cloud",
+      "violin",
+      "turtle",
+      "kitchen",
+      "snowflake",
+      "perfume",
+      "quilt",
+      "rubble",
+      "fungus",
+      "gearbox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"cloud\", \"guitar\", \"soup\", \"pineapple\", \"submarine\", \"snowflake\", \"perfume\", \"tractor\", \"quartz\", \"fungus\"]",
+    "words": [
+      "cloud",
+      "guitar",
+      "soup",
+      "pineapple",
+      "submarine",
+      "snowflake",
+      "perfume",
+      "tractor",
+      "quartz",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"turtle\", \"quark\", \"perfume\", \"skeleton\", \"cactus\", \"galaxy\", \"kitchen\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "turtle",
+      "quark",
+      "perfume",
+      "skeleton",
+      "cactus",
+      "galaxy",
+      "kitchen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"tortoise\", \"quartz\", \"sushi\", \"pillow\", \"laser\", \"cloud\", \"skeleton\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "tortoise",
+      "quartz",
+      "sushi",
+      "pillow",
+      "laser",
+      "cloud",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"sandwich\", \"plasma\", \"fungus\", \"neuron\", \"obelisk\", \"quilt\", \"saffron\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "sandwich",
+      "plasma",
+      "fungus",
+      "neuron",
+      "obelisk",
+      "quilt",
+      "saffron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"fungus\", \"quilt\", \"laser\", \"saffron\", \"pineapple\", \"snowflake\", \"catapult\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "fungus",
+      "quilt",
+      "laser",
+      "saffron",
+      "pineapple",
+      "snowflake",
+      "catapult"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"sushi\", \"mountain\", \"laser\", \"perfume\", \"fungus\", \"quilt\", \"asteroid\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "sushi",
+      "mountain",
+      "laser",
+      "perfume",
+      "fungus",
+      "quilt",
+      "asteroid"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"mushroom\", \"knot\", \"perfume\", \"quilt\", \"sprout\", \"gearbox\", \"starfish\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "mushroom",
+      "knot",
+      "perfume",
+      "quilt",
+      "sprout",
+      "gearbox",
+      "starfish"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"laser\", \"fungus\", \"quilt\", \"ocean\", \"spice\", \"lighthouse\", \"helmet\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "laser",
+      "fungus",
+      "quilt",
+      "ocean",
+      "spice",
+      "lighthouse",
+      "helmet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"cloud\", \"sofa\", \"enzyme\", \"quarry\", \"pineapple\", \"microscope\", \"saddle\", \"fungus\", \"gargoyle\", \"harmonica\"]",
+    "words": [
+      "cloud",
+      "sofa",
+      "enzyme",
+      "quarry",
+      "pineapple",
+      "microscope",
+      "saddle",
+      "fungus",
+      "gargoyle",
+      "harmonica"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"turtle\", \"quilt\", \"laser\", \"perfume\", \"cactus\", \"submarine\", \"sculpture\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "turtle",
+      "quilt",
+      "laser",
+      "perfume",
+      "cactus",
+      "submarine",
+      "sculpture"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"cloud\", \"table\", \"neuron\", \"sofa\", \"quartz\", \"pineapple\", \"drill\", \"harbor\", \"violin\", \"fungus\"]",
+    "words": [
+      "cloud",
+      "table",
+      "neuron",
+      "sofa",
+      "quartz",
+      "pineapple",
+      "drill",
+      "harbor",
+      "violin",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"cloud\", \"pine\", \"sofa\", \"horn\", \"fungus\", \"quilt\", \"atom\", \"kite\", \"sage\", \"marrow\"]",
+    "words": [
+      "cloud",
+      "pine",
+      "sofa",
+      "horn",
+      "fungus",
+      "quilt",
+      "atom",
+      "kite",
+      "sage",
+      "marrow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"cloud\", \"knot\", \"pineapple\", \"submarine\", \"turtle\", \"harmonica\", \"quilt\", \"volcano\", \"fungus\", \"skating\"]",
+    "words": [
+      "cloud",
+      "knot",
+      "pineapple",
+      "submarine",
+      "turtle",
+      "harmonica",
+      "quilt",
+      "volcano",
+      "fungus",
+      "skating"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"turtle\", \"quilt\", \"laser\", \"mango\", \"atom\", \"knot\", \"perfume\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "turtle",
+      "quilt",
+      "laser",
+      "mango",
+      "atom",
+      "knot",
+      "perfume"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"restaurant\", \"snowflake\", \"perfume\", \"molecule\", \"sculpture\", \"cactus\", \"passport\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "restaurant",
+      "snowflake",
+      "perfume",
+      "molecule",
+      "sculpture",
+      "cactus",
+      "passport"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"helmet\", \"sushi\", \"giraffe\", \"quilt\", \"laser\", \"perfume\", \"volcano\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "helmet",
+      "sushi",
+      "giraffe",
+      "quilt",
+      "laser",
+      "perfume",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"laser\", \"pineapple\", \"quilt\", \"neuron\", \"sprout\", \"fountain\", \"cork\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "laser",
+      "pineapple",
+      "quilt",
+      "neuron",
+      "sprout",
+      "fountain",
+      "cork"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"turtle\", \"sandstorm\", \"perfume\", \"neuron\", \"molecule\", \"sculpture\", \"quilt\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "turtle",
+      "sandstorm",
+      "perfume",
+      "neuron",
+      "molecule",
+      "sculpture",
+      "quilt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"turtle\", \"cloud\", \"perfume\", \"pineapple\", \"submarine\", \"quilt\", \"meteorite\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "turtle",
+      "cloud",
+      "perfume",
+      "pineapple",
+      "submarine",
+      "quilt",
+      "meteorite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"tortoise\", \"quark\", \"saffron\", \"kite\", \"puddle\", \"neuron\", \"opal\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "tortoise",
+      "quark",
+      "saffron",
+      "kite",
+      "puddle",
+      "neuron",
+      "opal"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"cloud\", \"table\", \"pineapple\", \"piano\", \"submarine\", \"glacier\", \"helmet\", \"perfume\", \"quilt\", \"fungus\"]",
+    "words": [
+      "cloud",
+      "table",
+      "pineapple",
+      "piano",
+      "submarine",
+      "glacier",
+      "helmet",
+      "perfume",
+      "quilt",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"cloud\", \"skeleton\", \"yogurt\", \"plasma\", \"quilt\", \"fungus\", \"pulse\", \"gargoyle\", \"orchid\", \"submarine\"]",
+    "words": [
+      "cloud",
+      "skeleton",
+      "yogurt",
+      "plasma",
+      "quilt",
+      "fungus",
+      "pulse",
+      "gargoyle",
+      "orchid",
+      "submarine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"cloud\", \"knee\", \"piano\", \"mushroom\", \"laser\", \"saddle\", \"coral\", \"quark\", \"pineapple\", \"compass\"]",
+    "words": [
+      "cloud",
+      "knee",
+      "piano",
+      "mushroom",
+      "laser",
+      "saddle",
+      "coral",
+      "quark",
+      "pineapple",
+      "compass"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"cloud\", \"sculpture\", \"pineapple\", \"laser\", \"harmonica\", \"quilt\", \"molecule\", \"tornado\", \"fungus\", \"saddle\"]",
+    "words": [
+      "cloud",
+      "sculpture",
+      "pineapple",
+      "laser",
+      "harmonica",
+      "quilt",
+      "molecule",
+      "tornado",
+      "fungus",
+      "saddle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"kitten\", \"quark\", \"tapestry\", \"ocean\", \"skeleton\", \"perfume\", \"meteorite\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "kitten",
+      "quark",
+      "tapestry",
+      "ocean",
+      "skeleton",
+      "perfume",
+      "meteorite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"cloud\", \"sprout\", \"piano\", \"quark\", \"kitten\", \"fjord\", \"saffron\", \"gargoyle\", \"laser\", \"truffle\"]",
+    "words": [
+      "cloud",
+      "sprout",
+      "piano",
+      "quark",
+      "kitten",
+      "fjord",
+      "saffron",
+      "gargoyle",
+      "laser",
+      "truffle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"fungus\", \"piano\", \"snowflake\", \"turtle\", \"laboratory\", \"perfume\", \"quilt\", \"restaurant\", \"meteorite\", \"microchip\"]",
+    "words": [
+      "fungus",
+      "piano",
+      "snowflake",
+      "turtle",
+      "laboratory",
+      "perfume",
+      "quilt",
+      "restaurant",
+      "meteorite",
+      "microchip"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"restaurant\", \"machine\", \"flower\", \"book\", \"ski\", \"pineapple\", \"atom\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "restaurant",
+      "machine",
+      "flower",
+      "book",
+      "ski",
+      "pineapple",
+      "atom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"cloud\", \"knee\", \"pineapple\", \"piano\", \"sculpture\", \"quark\", \"perfume\", \"tornado\", \"fungus\", \"saddle\"]",
+    "words": [
+      "cloud",
+      "knee",
+      "pineapple",
+      "piano",
+      "sculpture",
+      "quark",
+      "perfume",
+      "tornado",
+      "fungus",
+      "saddle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"saffron\", \"quilt\", \"fungus\", \"pulsar\", \"velvet\", \"canoe\", \"garlic\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "saffron",
+      "quilt",
+      "fungus",
+      "pulsar",
+      "velvet",
+      "canoe",
+      "garlic"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"fungus\", \"screw\", \"quilt\", \"oxygen\", \"butterfly\", \"cactus\", \"gargoyle\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "fungus",
+      "screw",
+      "quilt",
+      "oxygen",
+      "butterfly",
+      "cactus",
+      "gargoyle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"molecule\", \"sculpture\", \"yogurt\", \"quark\", \"giraffe\", \"harmonica\", \"fog\", \"pineapple\", \"saddle\", \"galaxy\"]",
+    "words": [
+      "molecule",
+      "sculpture",
+      "yogurt",
+      "quark",
+      "giraffe",
+      "harmonica",
+      "fog",
+      "pineapple",
+      "saddle",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"cloud\", \"piano\", \"turtle\", \"saffron\", \"submarine\", \"fungus\", \"glacier\", \"pineapple\", \"skeleton\", \"quilt\"]",
+    "words": [
+      "cloud",
+      "piano",
+      "turtle",
+      "saffron",
+      "submarine",
+      "fungus",
+      "glacier",
+      "pineapple",
+      "skeleton",
+      "quilt"
+    ],
+    "api_error": null
+  }
+]

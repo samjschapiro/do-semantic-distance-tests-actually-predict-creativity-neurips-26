@@ -1,0 +1,649 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"mountain\", \"freedom\", \"octopus\", \"thunder\", \"compass\", \"quantum\", \"window\", \"kidney\", \"bread\", \"algorithm\"]",
+    "words": [
+      "mountain",
+      "freedom",
+      "octopus",
+      "thunder",
+      "compass",
+      "quantum",
+      "window",
+      "kidney",
+      "bread",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"mountain\", \"philosophy\", \"hammer\", \"kangaroo\", \"algorithm\", \"cushion\", \"elbow\", \"cactus\", \"quantum\", \"euphoria\"]",
+    "words": [
+      "mountain",
+      "philosophy",
+      "hammer",
+      "kangaroo",
+      "algorithm",
+      "cushion",
+      "elbow",
+      "cactus",
+      "quantum",
+      "euphoria"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"electron\", \"symphony\", \"oxygen\", \"philosophy\", \"monster\", \"pyramid\", \"fungus\", \"sorrow\", \"current\", \"quasar\"]",
+    "words": [
+      "electron",
+      "symphony",
+      "oxygen",
+      "philosophy",
+      "monster",
+      "pyramid",
+      "fungus",
+      "sorrow",
+      "current",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\n\"Galaxy\", \n\"Battery\", \n\"Sorrow\", \n\"Cucumber\",\n\"Algorithm\", \n\"Inflation\",\n\"Volcano\",\n\"Slipper\", \n\"Nucleotide\",\n\"Therapy\"\n]",
+    "words": [
+      "galaxy",
+      "battery",
+      "sorrow",
+      "cucumber",
+      "algorithm",
+      "inflation",
+      "volcano",
+      "slipper",
+      "nucleotide",
+      "therapy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": null,
+    "words": [],
+    "api_error": "JSONDecodeError: Expecting value: line 857 column 1 (char 4708)"
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"nebula\", \"koala\", \"sonnet\", \"algebra\", \"justice\", \"quill\", \"granite\", \"nostalgia\", \"pendulum\", \"echo\"]",
+    "words": [
+      "nebula",
+      "koala",
+      "sonnet",
+      "algebra",
+      "justice",
+      "quill",
+      "granite",
+      "nostalgia",
+      "pendulum",
+      "echo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"galaxy\", \"justice\", \"atom\", \"sorrow\", \"diamond\", \"pyramid\", \"neuron\", \"syllable\", \"vortex\", \"molecule\"]",
+    "words": [
+      "galaxy",
+      "justice",
+      "atom",
+      "sorrow",
+      "diamond",
+      "pyramid",
+      "neuron",
+      "syllable",
+      "vortex",
+      "molecule"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"galaxy\", \"quilt\", \"kangaroo\", \"quantum\", \"elbow\", \"liberty\", \"cactus\", \"algorithm\", \"igloo\", \"hydrogen\"]",
+    "words": [
+      "galaxy",
+      "quilt",
+      "kangaroo",
+      "quantum",
+      "elbow",
+      "liberty",
+      "cactus",
+      "algorithm",
+      "igloo",
+      "hydrogen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"mountain\", \"freedom\", \"octopus\", \"engine\", \"thunder\", \"oxygen\", \"cushion\", \"metaphor\", \"elbow\", \"moment\"]",
+    "words": [
+      "mountain",
+      "freedom",
+      "octopus",
+      "engine",
+      "thunder",
+      "oxygen",
+      "cushion",
+      "metaphor",
+      "elbow",
+      "moment"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"galaxy\",\"electron\",\"fragment\",\"lion\",\"molecule\",\"migration\",\"brush\",\"justice\",\"migration\",\"sodium\",\"l\"]",
+    "words": [
+      "galaxy",
+      "electron",
+      "fragment",
+      "lion",
+      "molecule",
+      "migration",
+      "brush",
+      "justice",
+      "migration",
+      "sodium",
+      "l"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": null,
+    "words": [],
+    "api_error": "JSONDecodeError: Expecting value: line 451 column 1 (char 2475)"
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"quark\", \"elephant\", \"philosophy\", \"echo\", \"desert\", \"violin\", \"lightning\", \"zero\", \"grief\", \"corkscrew\"]",
+    "words": [
+      "quark",
+      "elephant",
+      "philosophy",
+      "echo",
+      "desert",
+      "violin",
+      "lightning",
+      "zero",
+      "grief",
+      "corkscrew"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"tree\", \"beetle\", \"sorrow\", \"justice\", \"hammer\", \"matter\", \"poetry\", \"electron\", \"quilt\", \"volcano\"]",
+    "words": [
+      "tree",
+      "beetle",
+      "sorrow",
+      "justice",
+      "hammer",
+      "matter",
+      "poetry",
+      "electron",
+      "quilt",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"Galaxy\", \"Justice\", \"Allegory\", \"Magnetosphere\", \"Dysprosium\", \"Nucleolus\", \"Parapet\", \"Synesthesia\", \"Pandemic\", \"Onomatopoeia\"]",
+    "words": [
+      "galaxy",
+      "justice",
+      "allegory",
+      "magnetosphere",
+      "dysprosium",
+      "nucleolus",
+      "parapet",
+      "synesthesia",
+      "pandemic",
+      "onomatopoeia"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"elephant\", \"quark\", \"comet\", \"computer\", \"symphony\", \"democracy\", \"doubt\", \"ocean\", \"matrix\", \"belief\"]",
+    "words": [
+      "elephant",
+      "quark",
+      "comet",
+      "computer",
+      "symphony",
+      "democracy",
+      "doubt",
+      "ocean",
+      "matrix",
+      "belief"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"rock\", \"dream\", \"electron\", \"charity\", \"planet\", \"painting\", \"sorrow\", \"lawyer\", \"engine\", \"oasis\"]",
+    "words": [
+      "rock",
+      "dream",
+      "electron",
+      "charity",
+      "planet",
+      "painting",
+      "sorrow",
+      "lawyer",
+      "engine",
+      "oasis"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RuntimeError: provider returned null content"
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RuntimeError: provider returned null content"
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"stone\", \"quark\", \"contract\", \"hope\", \"smartphone\", \"tree\", \"melody\", \"virus\", \"violet\", \"cylinder\"]",
+    "words": [
+      "stone",
+      "quark",
+      "contract",
+      "hope",
+      "smartphone",
+      "tree",
+      "melody",
+      "virus",
+      "violet",
+      "cylinder"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "```json\n[\"electron\", \"forest\", \"drum\", \"freedom\", \"apple\", \"dream\", \"volcano\", \"silence\", \"anchor\", \"algorithm\"]\n```",
+    "words": [
+      "electron",
+      "forest",
+      "drum",
+      "freedom",
+      "apple",
+      "dream",
+      "volcano",
+      "silence",
+      "anchor",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"flicker\", \"milleninum\", \"quantum\"]\nOops, check word count: it's missing one. Fixing: \nEnsure total **ten** without breaking constraints - so let's fully draft complete unique set:\n* spatial / physics range covered (\"nebula\");\n* emotional tone varies (\"serenity\",\"glimmer\");\n* everyday (\"whiffs\")and arcane words: all are plain nouns per specs...\n\nHold- the count was mis-set... Let`s deliver proper result now.[\"serenity\", \"spark\", \"nebula\", \"carton\", \"whiff\", \"millennium\", \"fizz\", \"dreg\", \"obelisk\", \"ember\"]",
+    "words": [
+      "flicker",
+      "milleninum",
+      "quantum"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"galaxy\", \"justice\", \"battery\", \"quasar\", \"grief\", \"scurvy\", \"antler\", \"paradigm\", \"zephyr\", \"syllogism\"]",
+    "words": [
+      "galaxy",
+      "justice",
+      "battery",
+      "quasar",
+      "grief",
+      "scurvy",
+      "antler",
+      "paradigm",
+      "zephyr",
+      "syllogism"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"electron\", \"elephant\", \"galaxy\", \"honesty\", \"symphony\", \"paradox\", \"oxidization\", \"desire\", \"algorithm\", \"mountain\"]",
+    "words": [
+      "electron",
+      "elephant",
+      "galaxy",
+      "honesty",
+      "symphony",
+      "paradox",
+      "oxidization",
+      "desire",
+      "algorithm",
+      "mountain"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"time\", \"gravity\", \"freedom\", \"photon\", \"metaphor\", \"hydrogen\", \"justice\", \"dream\", \"anthem\", \"quantum\"]",
+    "words": [
+      "time",
+      "gravity",
+      "freedom",
+      "photon",
+      "metaphor",
+      "hydrogen",
+      "justice",
+      "dream",
+      "anthem",
+      "quantum"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"electron\", \"deity\", \"guitar\", \"mountain\", \"algorithm\", \"melatonin\", \"freedom\", \"ocean\", \"candle\", \"paradox\"]",
+    "words": [
+      "electron",
+      "deity",
+      "guitar",
+      "mountain",
+      "algorithm",
+      "melatonin",
+      "freedom",
+      "ocean",
+      "candle",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"quasar\", \"antimacassar\", \"juggernaut\", \"liquefaction\", \"quinoa\", \"syncophancy\", \"nepenthe\", \"gearbox\", \"phylum\", \"diphthong\"]",
+    "words": [
+      "quasar",
+      "antimacassar",
+      "juggernaut",
+      "liquefaction",
+      "quinoa",
+      "syncophancy",
+      "nepenthe",
+      "gearbox",
+      "phylum",
+      "diphthong"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"paradox\", \"fungus\", \"quasar\", \"pentecost\", \"molosser\", \"guru\", \"vacuum\", \"memento\", \"epitaph\", \"nectar\"]",
+    "words": [
+      "paradox",
+      "fungus",
+      "quasar",
+      "pentecost",
+      "molosser",
+      "guru",
+      "vacuum",
+      "memento",
+      "epitaph",
+      "nectar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"particle\", \"emperor\", \"fog\", \"justice\", \"glacier\", \"puzzle\", \"engine\", \"harmony\", \"molecule\", \"cloud\"]",
+    "words": [
+      "particle",
+      "emperor",
+      "fog",
+      "justice",
+      "glacier",
+      "puzzle",
+      "engine",
+      "harmony",
+      "molecule",
+      "cloud"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"plant\", \"justice\", \"hammer\", \"void\", \"conundrum\", \"galaxy\", \"love\", \"quilt\", \"algorithm\", \"river\"]",
+    "words": [
+      "plant",
+      "justice",
+      "hammer",
+      "void",
+      "conundrum",
+      "galaxy",
+      "love",
+      "quilt",
+      "algorithm",
+      "river"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"photon\", \"oath\", \"viscosity\", \"zeal\", \"quilt\", \"echo\", \"nebula\", \"pivot\", \"truce\", \"fern\"]",
+    "words": [
+      "photon",
+      "oath",
+      "viscosity",
+      "zeal",
+      "quilt",
+      "echo",
+      "nebula",
+      "pivot",
+      "truce",
+      "fern"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"particle\", \"quetzal\", \"octillion\", \"xylitol\", \"pinnacle\", \"zephyr\", \"gherkin\", \"nemesis\", \"kismet\", \"cobalt\"]",
+    "words": [
+      "particle",
+      "quetzal",
+      "octillion",
+      "xylitol",
+      "pinnacle",
+      "zephyr",
+      "gherkin",
+      "nemesis",
+      "kismet",
+      "cobalt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"spacetime\", \"quiver\", \"etiquette\", \"quartz\", \"phobia\", \"orchid\", \"lighthouse\", \"oxymoron\", \"syntax\", \"vortex\"]",
+    "words": [
+      "spacetime",
+      "quiver",
+      "etiquette",
+      "quartz",
+      "phobia",
+      "orchid",
+      "lighthouse",
+      "oxymoron",
+      "syntax",
+      "vortex"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"star\", \"law\", \"emotion\", \"gene\", \"electron\", \"equation\", \"stone\", \"book\", \"ocean\", \"time\"]",
+    "words": [
+      "star",
+      "law",
+      "emotion",
+      "gene",
+      "electron",
+      "equation",
+      "stone",
+      "book",
+      "ocean",
+      "time"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"star\", \"density\", \"metallurgy\", \"kittiwake\", \"conjugation\", \"monetarism\", \"glitch\", \"euthyroidosis\", \"zooplankticene\"]",
+    "words": [
+      "star",
+      "density",
+      "metallurgy",
+      "kittiwake",
+      "conjugation",
+      "monetarism",
+      "glitch",
+      "euthyroidosis",
+      "zooplankticene"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RuntimeError: provider returned null content"
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"neutron\", \"justice\", \"maple\", \"laughter\", \"bacterium\", \"quasar\", \"harmony\", \"philosophy\", \"volleyball\", \"paradox\"]",
+    "words": [
+      "neutron",
+      "justice",
+      "maple",
+      "laughter",
+      "bacterium",
+      "quasar",
+      "harmony",
+      "philosophy",
+      "volleyball",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"jazz\", \"quarks\", \"kidney\", \"plasma\", \"justice\", \"delta\", \"octopus\" , \"coral\", \"pantry\", \"knight\"]",
+    "words": [
+      "jazz",
+      "quarks",
+      "kidney",
+      "plasma",
+      "justice",
+      "delta",
+      "octopus",
+      "coral",
+      "pantry",
+      "knight"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"computer\",\"tree\",\"liberty\",\"fever\",\"algorithm\",\"planet\",\"symphony\",\"virus\",\"contract\",\"thought\"]",
+    "words": [
+      "computer",
+      "tree",
+      "liberty",
+      "fever",
+      "algorithm",
+      "planet",
+      "symphony",
+      "virus",
+      "contract",
+      "thought"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"quilt\", \"freedom\", \"hammer\", \"kangaroo\", \"algorithm\", \"cushion\", \"elbow\", \"molecule\", \"cactus\", \"joy\"]",
+    "words": [
+      "quilt",
+      "freedom",
+      "hammer",
+      "kangaroo",
+      "algorithm",
+      "cushion",
+      "elbow",
+      "molecule",
+      "cactus",
+      "joy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RuntimeError: provider returned null content"
+  }
+]

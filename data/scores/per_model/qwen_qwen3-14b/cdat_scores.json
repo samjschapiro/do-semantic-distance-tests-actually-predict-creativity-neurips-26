@@ -1,0 +1,53 @@
+{
+  "mean_novelty": 73.89469565380188,
+  "mean_appropriateness": 131.8449120436396,
+  "by_temperature": {
+    "1.0": {
+      "mean_novelty": 72.77871987649374,
+      "mean_appropriateness": 134.0862627540316,
+      "n_cues": 4,
+      "n_sufficient": 4,
+      "novelty_scores": [
+        69.70921357472739,
+        74.06580561683292,
+        74.0031932081495,
+        73.33666710626512
+      ],
+      "appropriateness_scores": [
+        135.78889880861556,
+        133.23718053953988,
+        134.94992852210999,
+        132.36904314586096
+      ]
+    },
+    "2.0": {
+      "mean_novelty": 78.39639059134892,
+      "mean_appropriateness": 126.57765064920699,
+      "n_cues": 2,
+      "n_sufficient": 2,
+      "novelty_scores": [
+        76.28813783327737,
+        80.50464334942046
+      ],
+      "appropriateness_scores": [
+        130.69588712283544,
+        122.45941417557853
+      ]
+    },
+    "1.5": {
+      "mean_novelty": 71.62495227087112,
+      "mean_appropriateness": 132.6294720172882,
+      "n_cues": 2,
+      "n_sufficient": 2,
+      "novelty_scores": [
+        70.45591615495228,
+        72.79398838678995
+      ],
+      "appropriateness_scores": [
+        137.27720039231437,
+        127.98174364226205
+      ]
+    }
+  },
+  "n_temperatures": 3
+}

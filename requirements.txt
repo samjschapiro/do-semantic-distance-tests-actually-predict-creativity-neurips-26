@@ -1,0 +1,11 @@
+# reproduce tables and figures from saved scores
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pyyaml>=6.0
+# rescore responses with embeddings
+sentence-transformers>=2.7
+nltk>=3.8
+# run the tests on models
+openai>=1.30
+python-dotenv>=1.0

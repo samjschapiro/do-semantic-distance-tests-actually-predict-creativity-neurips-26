@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"quasar\", \"moss\", \"anvil\", \"melody\", \"verdict\", \"bacterium\", \"glacier\", \"silk\", \"hunger\", \"algorithm\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "anvil",
+      "melody",
+      "verdict",
+      "bacterium",
+      "glacier",
+      "silk",
+      "hunger",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"quasar\", \"thimble\", \"maggot\", \"justice\", \"tornado\", \"sapphire\", \"fungus\", \"algorithm\", \"canyon\", \"lullaby\"]",
+    "words": [
+      "quasar",
+      "thimble",
+      "maggot",
+      "justice",
+      "tornado",
+      "sapphire",
+      "fungus",
+      "algorithm",
+      "canyon",
+      "lullaby"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"quasar\",\"teacup\",\"justice\",\"fungus\",\"algorithm\",\"meadow\",\"sorrow\",\"anvil\",\"hurricane\",\"nectar\"]",
+    "words": [
+      "quasar",
+      "teacup",
+      "justice",
+      "fungus",
+      "algorithm",
+      "meadow",
+      "sorrow",
+      "anvil",
+      "hurricane",
+      "nectar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"fungus\",\"cathedral\",\"algorithm\",\"avalanche\",\"violin\",\"cactus\",\"passport\",\"sorrow\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "fungus",
+      "cathedral",
+      "algorithm",
+      "avalanche",
+      "violin",
+      "cactus",
+      "passport",
+      "sorrow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"quark\",\"cathedral\",\"spoon\",\"moss\",\"justice\",\"hurricane\",\"algorithm\",\"perfume\",\"volcano\",\"lullaby\"]",
+    "words": [
+      "quark",
+      "cathedral",
+      "spoon",
+      "moss",
+      "justice",
+      "hurricane",
+      "algorithm",
+      "perfume",
+      "volcano",
+      "lullaby"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"quasar\",\"teacup\",\"moss\",\"algorithm\",\"justice\",\"volcano\",\"violin\",\"hinge\",\"sorrow\",\"oak\"]",
+    "words": [
+      "quasar",
+      "teacup",
+      "moss",
+      "algorithm",
+      "justice",
+      "volcano",
+      "violin",
+      "hinge",
+      "sorrow",
+      "oak"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"quasar\",\"thimble\",\"maggot\",\"justice\",\"symphony\",\"glacier\",\"enzyme\",\"fortress\",\"whisper\",\"cobweb\"]",
+    "words": [
+      "quasar",
+      "thimble",
+      "maggot",
+      "justice",
+      "symphony",
+      "glacier",
+      "enzyme",
+      "fortress",
+      "whisper",
+      "cobweb"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"quasar\", \"teacup\", \"fungus\", \"thunder\", \"justice\", \"needle\", \"ocean\", \"algorithm\", \"perfume\", \"skeleton\"]",
+    "words": [
+      "quasar",
+      "teacup",
+      "fungus",
+      "thunder",
+      "justice",
+      "needle",
+      "ocean",
+      "algorithm",
+      "perfume",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"moss\",\"verdict\",\"sapphire\",\"hurricane\",\"lullaby\",\"fungus\",\"trombone\",\"algorithm\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "moss",
+      "verdict",
+      "sapphire",
+      "hurricane",
+      "lullaby",
+      "fungus",
+      "trombone",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"quasar\",\"moss\",\"justice\",\"teaspoon\",\"hurricane\",\"algorithm\",\"velvet\",\"skeleton\",\"perfume\",\"eclipse\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "justice",
+      "teaspoon",
+      "hurricane",
+      "algorithm",
+      "velvet",
+      "skeleton",
+      "perfume",
+      "eclipse"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"quasar\",\"moss\",\"anvil\",\"whisper\",\"algorithm\",\"sapphire\",\"fungus\",\"passport\",\"hunger\",\"ocean\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "anvil",
+      "whisper",
+      "algorithm",
+      "sapphire",
+      "fungus",
+      "passport",
+      "hunger",
+      "ocean"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"moss\",\"justice\",\"volcano\",\"symphony\",\"needle\",\"butterfly\",\"algorithm\",\"catacomb\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "moss",
+      "justice",
+      "volcano",
+      "symphony",
+      "needle",
+      "butterfly",
+      "algorithm",
+      "catacomb"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"quasar\",\"fungus\",\"anvil\",\"justice\",\"ocean\",\"thermometer\",\"hunger\",\"cathedral\",\"algorithm\",\"pebble\"]",
+    "words": [
+      "quasar",
+      "fungus",
+      "anvil",
+      "justice",
+      "ocean",
+      "thermometer",
+      "hunger",
+      "cathedral",
+      "algorithm",
+      "pebble"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"quasar\", \"teaspoon\", \"moss\", \"justice\", \"volcano\", \"symphony\", \"antibody\", \"ladder\", \"myth\", \"silicon\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "moss",
+      "justice",
+      "volcano",
+      "symphony",
+      "antibody",
+      "ladder",
+      "myth",
+      "silicon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"quasar\", \"teaspoon\", \"sorrow\", \"fungus\", \"algorithm\", \"sand\", \"cathedral\", \"thunder\", \"infancy\", \"zipper\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "sorrow",
+      "fungus",
+      "algorithm",
+      "sand",
+      "cathedral",
+      "thunder",
+      "infancy",
+      "zipper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"quasar\",\"teacup\",\"democracy\",\"maggot\",\"algorithm\",\"volcano\",\"symphony\",\"cobweb\",\"mercy\",\"anvil\"]",
+    "words": [
+      "quasar",
+      "teacup",
+      "democracy",
+      "maggot",
+      "algorithm",
+      "volcano",
+      "symphony",
+      "cobweb",
+      "mercy",
+      "anvil"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"quasar\",\"lichen\",\"anvil\",\"emotion\",\"algorithm\",\"catastrophe\",\"teacup\",\"mosquito\",\"parliament\",\"perfume\"]",
+    "words": [
+      "quasar",
+      "lichen",
+      "anvil",
+      "emotion",
+      "algorithm",
+      "catastrophe",
+      "teacup",
+      "mosquito",
+      "parliament",
+      "perfume"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"quasar\",\"teacup\",\"moss\",\"algorithm\",\"sorrow\",\"hammer\",\"parliament\",\"perfume\",\"avalanche\",\"neuron\"]",
+    "words": [
+      "quasar",
+      "teacup",
+      "moss",
+      "algorithm",
+      "sorrow",
+      "hammer",
+      "parliament",
+      "perfume",
+      "avalanche",
+      "neuron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"moss\",\"justice\",\"avalanche\",\"symphony\",\"hinge\",\"neuron\",\"currency\",\"mirage\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "moss",
+      "justice",
+      "avalanche",
+      "symphony",
+      "hinge",
+      "neuron",
+      "currency",
+      "mirage"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"quasar\", \"teaspoon\", \"moss\", \"justice\", \"symphony\", \"volcano\", \"algorithm\", \"infant\", \"diamond\", \"shadow\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "moss",
+      "justice",
+      "symphony",
+      "volcano",
+      "algorithm",
+      "infant",
+      "diamond",
+      "shadow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"quasar\",\"teacup\",\"justice\",\"moss\",\"algorithm\",\"hurricane\",\"symphony\",\"needle\",\"paradox\",\"granite\"]",
+    "words": [
+      "quasar",
+      "teacup",
+      "justice",
+      "moss",
+      "algorithm",
+      "hurricane",
+      "symphony",
+      "needle",
+      "paradox",
+      "granite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"quasar\", \"teaspoon\", \"moss\", \"verdict\", \"igloo\", \"melody\", \"enzyme\", \"tornado\", \"sapphire\", \"skeleton\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "moss",
+      "verdict",
+      "igloo",
+      "melody",
+      "enzyme",
+      "tornado",
+      "sapphire",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"quasar\", \"thimble\", \"moss\", \"algorithm\", \"volcano\", \"melody\", \"jail\", \"sapphire\", \"plague\", \"ladder\"]",
+    "words": [
+      "quasar",
+      "thimble",
+      "moss",
+      "algorithm",
+      "volcano",
+      "melody",
+      "jail",
+      "sapphire",
+      "plague",
+      "ladder"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"quasar\", \"teaspoon\", \"fungus\", \"justice\", \"anvil\", \"perfume\", \"labyrinth\", \"yogurt\", \"thunder\", \"origami\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "fungus",
+      "justice",
+      "anvil",
+      "perfume",
+      "labyrinth",
+      "yogurt",
+      "thunder",
+      "origami"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"quasar\", \"teaspoon\", \"democracy\", \"fungus\", \"melody\", \"avalanche\", \"silk\", \"algorithm\", \"cathedral\", \"scent\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "democracy",
+      "fungus",
+      "melody",
+      "avalanche",
+      "silk",
+      "algorithm",
+      "cathedral",
+      "scent"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"moss\",\"algorithm\",\"cathedral\",\"ankle\",\"volcano\",\"sapphire\",\"democracy\",\"perfume\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "moss",
+      "algorithm",
+      "cathedral",
+      "ankle",
+      "volcano",
+      "sapphire",
+      "democracy",
+      "perfume"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"justice\",\"moss\",\"algorithm\",\"hurricane\",\"symphony\",\"skeleton\",\"currency\",\"perfume\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "justice",
+      "moss",
+      "algorithm",
+      "hurricane",
+      "symphony",
+      "skeleton",
+      "currency",
+      "perfume"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"quasar\", \"teacup\", \"moss\", \"algorithm\", \"volcano\", \"violin\", \"fungus\", \"parliament\", \"sapphire\", \"whisper\"]",
+    "words": [
+      "quasar",
+      "teacup",
+      "moss",
+      "algorithm",
+      "volcano",
+      "violin",
+      "fungus",
+      "parliament",
+      "sapphire",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"quasar\", \"moss\", \"anvil\", \"mercy\", \"jigsaw\", \"fungus\", \"avalanche\", \"paradox\", \"lantern\", \"sapphire\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "anvil",
+      "mercy",
+      "jigsaw",
+      "fungus",
+      "avalanche",
+      "paradox",
+      "lantern",
+      "sapphire"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"moss\",\"verdict\",\"symphony\",\"fungus\",\"anvil\",\"whisper\",\"labyrinth\",\"equation\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "moss",
+      "verdict",
+      "symphony",
+      "fungus",
+      "anvil",
+      "whisper",
+      "labyrinth",
+      "equation"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"quasar\",\"moss\",\"anvil\",\"perfume\",\"algorithm\",\"ocean\",\"thunder\",\"skeleton\",\"silence\",\"passport\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "anvil",
+      "perfume",
+      "algorithm",
+      "ocean",
+      "thunder",
+      "skeleton",
+      "silence",
+      "passport"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"mildew\",\"justice\",\"anvil\",\"eyelash\",\"monsoon\",\"algorithm\",\"cavern\",\"saffron\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "mildew",
+      "justice",
+      "anvil",
+      "eyelash",
+      "monsoon",
+      "algorithm",
+      "cavern",
+      "saffron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"quasar\",\"moss\",\"anvil\",\"symphony\",\"algorithm\",\"cocoon\",\"volcano\",\"teardrop\",\"compass\",\"paradox\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "anvil",
+      "symphony",
+      "algorithm",
+      "cocoon",
+      "volcano",
+      "teardrop",
+      "compass",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"quasar\", \"moss\", \"anvil\", \"whisper\", \"cortex\", \"teacup\", \"volcano\", \"algorithm\", \"feather\", \"sorrow\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "anvil",
+      "whisper",
+      "cortex",
+      "teacup",
+      "volcano",
+      "algorithm",
+      "feather",
+      "sorrow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"quasar\",\"thimble\",\"moss\",\"melody\",\"verdict\",\"volcano\",\"algorithm\",\"perfume\",\"skeleton\",\"currency\"]",
+    "words": [
+      "quasar",
+      "thimble",
+      "moss",
+      "melody",
+      "verdict",
+      "volcano",
+      "algorithm",
+      "perfume",
+      "skeleton",
+      "currency"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"quasar\", \"teacup\", \"justice\", \"lichen\", \"algorithm\", \"thunder\", \"skeleton\", \"perfume\", \"labyrinth\", \"pebble\"]",
+    "words": [
+      "quasar",
+      "teacup",
+      "justice",
+      "lichen",
+      "algorithm",
+      "thunder",
+      "skeleton",
+      "perfume",
+      "labyrinth",
+      "pebble"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"quasar\",\"teaspoon\",\"justice\",\"moss\",\"algorithm\",\"perfume\",\"volcano\",\"lullaby\",\"skeleton\",\"currency\"]",
+    "words": [
+      "quasar",
+      "teaspoon",
+      "justice",
+      "moss",
+      "algorithm",
+      "perfume",
+      "volcano",
+      "lullaby",
+      "skeleton",
+      "currency"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"quasar\",\"moss\",\"justice\",\"teacup\",\"hurricane\",\"algorithm\",\"perfume\",\"skeleton\",\"lullaby\",\"volcano\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "justice",
+      "teacup",
+      "hurricane",
+      "algorithm",
+      "perfume",
+      "skeleton",
+      "lullaby",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"quasar\",\"moss\",\"anvil\",\"whisper\",\"algorithm\",\"ocean\",\"cocoon\",\"justice\",\"volcano\",\"sandal\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "anvil",
+      "whisper",
+      "algorithm",
+      "ocean",
+      "cocoon",
+      "justice",
+      "volcano",
+      "sandal"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"quasar\",\"spatula\",\"moss\",\"algorithm\",\"ankle\",\"cathedral\",\"saffron\",\"glacier\",\"symphony\",\"teacup\"]",
+    "words": [
+      "quasar",
+      "spatula",
+      "moss",
+      "algorithm",
+      "ankle",
+      "cathedral",
+      "saffron",
+      "glacier",
+      "symphony",
+      "teacup"
+    ],
+    "api_error": null
+  }
+]

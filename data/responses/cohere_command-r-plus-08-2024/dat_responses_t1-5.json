@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"apple\", \"soul\", \"foot\", \"rainbow\", \"politics\", \"geology\", \"purveyor\", \"inequality\", \"epiphany\", \"pandemic\"]",
+    "words": [
+      "apple",
+      "soul",
+      "foot",
+      "rainbow",
+      "politics",
+      "geology",
+      "purveyor",
+      "inequality",
+      "epiphany",
+      "pandemic"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"entropy\", \"peace\", \"hologram\", \"echo\", \"awareness\", \"petrichor\", \"capybara\", \"insurrection\", \"titanium\", \"constellation\"]",
+    "words": [
+      "entropy",
+      "peace",
+      "hologram",
+      "echo",
+      "awareness",
+      "petrichor",
+      "capybara",
+      "insurrection",
+      "titanium",
+      "constellation"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"carrot\", \"pencil\", \"painting\", \"friendship\", \"sandwich\", \"scientist\", \"curtain\", \"meaning\", \"song\", \"threshold\"]",
+    "words": [
+      "carrot",
+      "pencil",
+      "painting",
+      "friendship",
+      "sandwich",
+      "scientist",
+      "curtain",
+      "meaning",
+      "song",
+      "threshold"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"truth\", \"cherry\", \"imperative\", \"neutron\", \"shone\", \"alchemy\", \"oblong\", \"grandiose\", \"bubbly\", \"pajamas\"]",
+    "words": [
+      "truth",
+      "cherry",
+      "imperative",
+      "neutron",
+      "shone",
+      "alchemy",
+      "oblong",
+      "grandiose",
+      "bubbly",
+      "pajamas"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"abundance\", \"charity\", \"criminal\", \"equinox\", \"hatred\", \"innocence\", \"knowledge\", \"luggage\", \"molecule\", \"ocean\"]",
+    "words": [
+      "abundance",
+      "charity",
+      "criminal",
+      "equinox",
+      "hatred",
+      "innocence",
+      "knowledge",
+      "luggage",
+      "molecule",
+      "ocean"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"Cephalopod\", \"Hatred\", \"Whistle\", \"Jubilee\", \"Avocado\", \"Pyramid\", \"Nimbus\", \"Saunter\", \"Bewilder\", \"Annihilate\"]",
+    "words": [
+      "cephalopod",
+      "hatred",
+      "whistle",
+      "jubilee",
+      "avocado",
+      "pyramid",
+      "nimbus",
+      "saunter",
+      "bewilder",
+      "annihilate"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"giraffe\", \"butter\", \"pyramid\", \"whisper\", \"fungus\", \"galaxy\", \"compassion\", \"pearl\", \"bubble\", \"landmark\"]",
+    "words": [
+      "giraffe",
+      "butter",
+      "pyramid",
+      "whisper",
+      "fungus",
+      "galaxy",
+      "compassion",
+      "pearl",
+      "bubble",
+      "landmark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"sounds\", \"laptop\", \"carrot\", \"consortium\", \"frigate\", \"forlorn\", \"tulip\", \"matriarch\", \"bison\", \"negotiation\"]",
+    "words": [
+      "sounds",
+      "laptop",
+      "carrot",
+      "consortium",
+      "frigate",
+      "forlorn",
+      "tulip",
+      "matriarch",
+      "bison",
+      "negotiation"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"whimsical\", \"anaerobic\", \"pendulum\", \"synergy\", \"acetone\", \"hyperbole\", \"monsoon\", \"corundum\", \"condescension\", \"symbiosis\"]",
+    "words": [
+      "whimsical",
+      "anaerobic",
+      "pendulum",
+      "synergy",
+      "acetone",
+      "hyperbole",
+      "monsoon",
+      "corundum",
+      "condescension",
+      "symbiosis"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"obsidian\", \"malaise\", \"sauropod\", \"xenia\", \"averse\", \"cowl\", \"stalemate\", \"offset\", \"reach\", \"referee\"]",
+    "words": [
+      "obsidian",
+      "malaise",
+      "sauropod",
+      "xenia",
+      "averse",
+      "cowl",
+      "stalemate",
+      "offset",
+      "reach",
+      "referee"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"elephant\", \"science\", \"tranquility\", \"inflation\", \"graphite\", \"urchin\", \"night\", \"semaphore\", \"gills\", \"ample\"]",
+    "words": [
+      "elephant",
+      "science",
+      "tranquility",
+      "inflation",
+      "graphite",
+      "urchin",
+      "night",
+      "semaphore",
+      "gills",
+      "ample"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"door\", \"psychiatrist\", \"catastrophe\", \"hand\", \"joy\", \"snake\", \"cupcake\", \"prism\", \"plumber\", \"cannibal\"]",
+    "words": [
+      "door",
+      "psychiatrist",
+      "catastrophe",
+      "hand",
+      "joy",
+      "snake",
+      "cupcake",
+      "prism",
+      "plumber",
+      "cannibal"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\n    \"truth\",\n    \"cameo\",\n    \"asphalt\",\n    \"box\",\n    \"sangria\",\n    \"garment\",\n    \"icicle\",\n    \"sky\",\n    \"treatise\",\n    \"galaxy\"\n]",
+    "words": [
+      "truth",
+      "cameo",
+      "asphalt",
+      "box",
+      "sangria",
+      "garment",
+      "icicle",
+      "sky",
+      "treatise",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"Autumn\", \"Radiation\", \"Wrench\", \"Dolphin\", \"Justice\", \"Plethora\", \"Sizzle\", \"Comet\", \"Highlight\", \"Void\"]",
+    "words": [
+      "autumn",
+      "radiation",
+      "wrench",
+      "dolphin",
+      "justice",
+      "plethora",
+      "sizzle",
+      "comet",
+      "highlight",
+      "void"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"subterfuge\", \"iceberg\", \"peninsula\", \"paisley\", \"incubation\", \"gallivanting\", \"gravitas\", \"frenemy\", \"hypotenuse\", \"tyrannosaur\"]",
+    "words": [
+      "subterfuge",
+      "iceberg",
+      "peninsula",
+      "paisley",
+      "incubation",
+      "gallivanting",
+      "gravitas",
+      "frenemy",
+      "hypotenuse",
+      "tyrannosaur"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"daisy\", \"hypocrisy\", \"telescope\", \"abyss\", \"xylophone\", \"ominous\", \"nectar\", \"zen\", \"mansion\", \"humbug\"]",
+    "words": [
+      "daisy",
+      "hypocrisy",
+      "telescope",
+      "abyss",
+      "xylophone",
+      "ominous",
+      "nectar",
+      "zen",
+      "mansion",
+      "humbug"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"sardine\", \"canister\", \"surveillance\", \"receipt\", \"ticket\", \"gift\", \"kennel\", \"wealth\", \"whirlwind\", \"skateboard\"]",
+    "words": [
+      "sardine",
+      "canister",
+      "surveillance",
+      "receipt",
+      "ticket",
+      "gift",
+      "kennel",
+      "wealth",
+      "whirlwind",
+      "skateboard"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"universe\", \"giraffe\", \"mango\", \"apparition\", \"quandary\", \"refreshment\", \"tautology\", \"cathode\", \"somersault\", \"android\"]",
+    "words": [
+      "universe",
+      "giraffe",
+      "mango",
+      "apparition",
+      "quandary",
+      "refreshment",
+      "tautology",
+      "cathode",
+      "somersault",
+      "android"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"banana\", \"ecosystem\", \"breeze\", \"zero\", \"baker\", \"autumn\", \"willow\", \"warrant\", \"cognition\", \"grapefruit\"]",
+    "words": [
+      "banana",
+      "ecosystem",
+      "breeze",
+      "zero",
+      "baker",
+      "autumn",
+      "willow",
+      "warrant",
+      "cognition",
+      "grapefruit"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"verisimilitude\", \"abomination\", \"beer\", \"tulip\", \"wrath\", \"pacifist\", \"exam\", \"colander\", \"myocarditis\", \"skydiving\"]",
+    "words": [
+      "verisimilitude",
+      "abomination",
+      "beer",
+      "tulip",
+      "wrath",
+      "pacifist",
+      "exam",
+      "colander",
+      "myocarditis",
+      "skydiving"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"cosmonaut\", \"ashtray\", \"fractal\", \"honesty\", \"pharynx\", \"graduation\", \"quilting\", \"mimosa\", \"furnace\", \"allegiance\"]",
+    "words": [
+      "cosmonaut",
+      "ashtray",
+      "fractal",
+      "honesty",
+      "pharynx",
+      "graduation",
+      "quilting",
+      "mimosa",
+      "furnace",
+      "allegiance"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"Galaxy\", \"Skill\", \"Wasp\", \"Enthusiasm\", \"Grocery\", \"Telescope\", \"Revolution\", \"Curfew\", \"Cactus\", \"Democracy\"]",
+    "words": [
+      "galaxy",
+      "skill",
+      "wasp",
+      "enthusiasm",
+      "grocery",
+      "telescope",
+      "revolution",
+      "curfew",
+      "cactus",
+      "democracy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\n    \"galaxy\",\n    \"sun\",\n    \"acumen\",\n    \"shroud\",\n    \"octopus\",\n    \"race\",\n    \"congratulations\",\n    \"exam\",\n    \"viscous\",\n    \"expanse\"\n]",
+    "words": [
+      "galaxy",
+      "sun",
+      "acumen",
+      "shroud",
+      "octopus",
+      "race",
+      "congratulations",
+      "exam",
+      "viscous",
+      "expanse"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"algebra\", \"moon\", \"elephant\", \"atom\", \"mushroom\", \"particle\", \"sky\", \"whale\", \"sand\", \"painting\"]",
+    "words": [
+      "algebra",
+      "moon",
+      "elephant",
+      "atom",
+      "mushroom",
+      "particle",
+      "sky",
+      "whale",
+      "sand",
+      "painting"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"galaxy\", \"biscuit\", \"epistemology\", \"ostrich\", \"power\", \"revolution\", \"plaid\", \"dwarf\", \"opinion\", \"humor\"]",
+    "words": [
+      "galaxy",
+      "biscuit",
+      "epistemology",
+      "ostrich",
+      "power",
+      "revolution",
+      "plaid",
+      "dwarf",
+      "opinion",
+      "humor"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"Apollo\", \"Mathematics\", \"Postulate\", \"Mango\", \"Cinnamon\", \"Uniform\", \"Retrospective\", \"Twitter\", \"Dolphin\", \"Trench\"]",
+    "words": [
+      "apollo",
+      "mathematics",
+      "postulate",
+      "mango",
+      "cinnamon",
+      "uniform",
+      "retrospective",
+      "twitter",
+      "dolphin",
+      "trench"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"engine\",\"avocado\",\"mural\",\"jazz\",\"wisdom\",\"resonance\",\"trousers\",\"abyss\",\"apparatus\",\"tycoon\"]",
+    "words": [
+      "engine",
+      "avocado",
+      "mural",
+      "jazz",
+      "wisdom",
+      "resonance",
+      "trousers",
+      "abyss",
+      "apparatus",
+      "tycoon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"ebony\", \"microbe\", \"hurricane\", \"satiation\", \"pygmy\", \"autonomy\", \"nebula\", \"grapefruit\", \"fission\", \"loathing\"]",
+    "words": [
+      "ebony",
+      "microbe",
+      "hurricane",
+      "satiation",
+      "pygmy",
+      "autonomy",
+      "nebula",
+      "grapefruit",
+      "fission",
+      "loathing"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"enjoyment\", \"beer\", \"reason\", \"muscle\", \"plane\", \"foot\", \"cold\", \"book\", \"target\", \"bone\"]",
+    "words": [
+      "enjoyment",
+      "beer",
+      "reason",
+      "muscle",
+      "plane",
+      "foot",
+      "cold",
+      "book",
+      "target",
+      "bone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"Alchemy\", \"Piano\", \"Meteor\", \"Monastery\", \"Oar\", \"Juice\", \"Lacquer\", \"Vineyard\", \"Lotus\", \"Goblet\"]",
+    "words": [
+      "alchemy",
+      "piano",
+      "meteor",
+      "monastery",
+      "oar",
+      "juice",
+      "lacquer",
+      "vineyard",
+      "lotus",
+      "goblet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"gestapo\", \"carnation\", \"felicity\", \"ellipsis\", \"garrulous\", \"catheter\", \"jester\", \"fiasco\", \"sanctum\", \"laurel\"]",
+    "words": [
+      "gestapo",
+      "carnation",
+      "felicity",
+      "ellipsis",
+      "garrulous",
+      "catheter",
+      "jester",
+      "fiasco",
+      "sanctum",
+      "laurel"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"Cyclops\", \"Giraffe\", \"Antarctica\", \"Bulletin\", \"Boscage\", \"Gratis\", \"Rocket\", \"Tenth\", \"Philanthropy\", \"Herald\"]",
+    "words": [
+      "cyclops",
+      "giraffe",
+      "antarctica",
+      "bulletin",
+      "boscage",
+      "gratis",
+      "rocket",
+      "tenth",
+      "philanthropy",
+      "herald"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"apple\", \"truth\", \"premise\", \"hammer\", \"galaxy\", \"hangnail\", \"typhoon\", \"dolphin\", \"cornfield\", \"algorithm\"]",
+    "words": [
+      "apple",
+      "truth",
+      "premise",
+      "hammer",
+      "galaxy",
+      "hangnail",
+      "typhoon",
+      "dolphin",
+      "cornfield",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"clementine\", \"vacuum\", \"clock\", \"streetlight\", \"firmament\", \"cataclysm\", \"onion\", \"scholar\", \"battery\", \"brass\"]",
+    "words": [
+      "clementine",
+      "vacuum",
+      "clock",
+      "streetlight",
+      "firmament",
+      "cataclysm",
+      "onion",
+      "scholar",
+      "battery",
+      "brass"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"apple\", \"moon\", \"joy\", \"table\", \"sincerity\", \"eclipse\", \"fiasco\", \"knuckle\", \"ambience\", \"epiphany\"]",
+    "words": [
+      "apple",
+      "moon",
+      "joy",
+      "table",
+      "sincerity",
+      "eclipse",
+      "fiasco",
+      "knuckle",
+      "ambience",
+      "epiphany"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\n    \"laughter\",\n    \"obituary\",\n    \"skateboard\",\n    \"orbit\",\n    \"luxury\",\n    \"foreshadow\",\n    \"volcano\",\n    \"stubbornness\",\n    \"hurricane\",\n    \"galaxy\"\n]",
+    "words": [
+      "laughter",
+      "obituary",
+      "skateboard",
+      "orbit",
+      "luxury",
+      "foreshadow",
+      "volcano",
+      "stubbornness",
+      "hurricane",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"abacus\", \"chroma\", \"quest\", \"synapse\", \"ravine\", \"star\", \"pocket\", \"song\", \"tome\", \"ovation\"]",
+    "words": [
+      "abacus",
+      "chroma",
+      "quest",
+      "synapse",
+      "ravine",
+      "star",
+      "pocket",
+      "song",
+      "tome",
+      "ovation"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"grapes\", \"antimatter\", \"hub\", \"calamity\", \"frankincense\", \"surface\", \"blanket\", \"pleasantness\", \"payload\", \"marmoset\"]",
+    "words": [
+      "grapes",
+      "antimatter",
+      "hub",
+      "calamity",
+      "frankincense",
+      "surface",
+      "blanket",
+      "pleasantness",
+      "payload",
+      "marmoset"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"abundance\", \"cubism\", \"embargo\", \"fang\", \"grotto\", \"hibernation\", \"indigo\", \"jugular\", \"kiln\", \"leprechaun\"]",
+    "words": [
+      "abundance",
+      "cubism",
+      "embargo",
+      "fang",
+      "grotto",
+      "hibernation",
+      "indigo",
+      "jugular",
+      "kiln",
+      "leprechaun"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"aye\", \"bravado\", \"clockwork\", \"dugong\", \"email\", \"friction\", \"grappling\", \"hypothesis\", \"impeccable\", \"jubilee\"]",
+    "words": [
+      "aye",
+      "bravado",
+      "clockwork",
+      "dugong",
+      "email",
+      "friction",
+      "grappling",
+      "hypothesis",
+      "impeccable",
+      "jubilee"
+    ],
+    "api_error": null
+  }
+]

@@ -1,0 +1,5 @@
+output_dir: "outputs/greedy_baseline_new"
+n_trials: 120
+n_words: 10
+base_seed: 0
+# glove_path defaults to $EMBEDDINGS_DIR/glove.840B.300d.txt (or resources/)

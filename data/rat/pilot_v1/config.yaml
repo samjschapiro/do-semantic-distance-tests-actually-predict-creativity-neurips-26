@@ -1,0 +1,65 @@
+bok_k: 10
+bok_models:
+- google/gemini-2.0-flash-lite-001
+- microsoft/phi-4
+- google/gemma-2-27b-it
+- mistralai/mistral-small-24b-instruct-2501
+- google/gemini-2.0-flash-001
+- meta-llama/llama-3.3-70b-instruct
+- openai/gpt-4o-mini
+- anthropic/claude-3.5-haiku
+- deepseek/deepseek-chat
+- qwen/qwen-2.5-72b-instruct
+- meta-llama/llama-3.1-70b-instruct
+- mistralai/mistral-large-2411
+- openai/gpt-4o
+- openai/gpt-4-turbo
+- anthropic/claude-3.7-sonnet
+- qwen/qwen-max
+- qwen/qwen-2.5-coder-32b-instruct
+- qwen/qwen-2.5-7b-instruct
+- amazon/nova-pro-v1
+- amazon/nova-lite-v1
+bok_temperature: 1.0
+concurrency: 10
+max_retries: 4
+max_tokens: 32
+models:
+- google/gemini-2.0-flash-lite-001
+- microsoft/phi-4
+- google/gemma-2-27b-it
+- mistralai/mistral-small-24b-instruct-2501
+- google/gemini-2.0-flash-001
+- meta-llama/llama-3.3-70b-instruct
+- openai/gpt-4o-mini
+- anthropic/claude-3.5-haiku
+- deepseek/deepseek-chat
+- qwen/qwen-2.5-72b-instruct
+- meta-llama/llama-3.1-70b-instruct
+- mistralai/mistral-large-2411
+- openai/gpt-4o
+- openai/gpt-4-turbo
+- deepseek/deepseek-r1
+- openai/o3-mini
+- anthropic/claude-3.7-sonnet
+- anthropic/claude-3.7-sonnet:thinking
+- deepseek/deepseek-r1-distill-llama-70b
+- deepseek/deepseek-r1-distill-qwen-32b
+- qwen/qwen-max
+- qwen/qwen-2.5-coder-32b-instruct
+- qwen/qwen-2.5-7b-instruct
+- amazon/nova-pro-v1
+- amazon/nova-lite-v1
+output_dir: data/new_tests/rat/pilot_v1
+reasoning:
+  effort: low
+  exclude: true
+reasoning_max_tokens_multiplier: 4
+reasoning_models:
+- anthropic/claude-3.7-sonnet:thinking
+- openai/o3-mini
+- deepseek/deepseek-r1
+- deepseek/deepseek-r1-distill-llama-70b
+- deepseek/deepseek-r1-distill-qwen-32b
+seed: 42
+temperature: 0.0

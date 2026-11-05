@@ -1,0 +1,302 @@
+{
+  "rock": {
+    "seed": 2000,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-61923bf0-07e4-995a-8780-ad467858fcf0\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "rain": {
+    "seed": 2001,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-10354c66-a668-9041-bba1-3b7e1e9eb21d\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "fire": {
+    "seed": 2002,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-f9cb3e72-ea2e-9c21-8012-90f5f1160ddd\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "ocean": {
+    "seed": 2003,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-b01fd194-72ea-9fcd-a3b1-684d102b2baf\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "shadow": {
+    "seed": 2004,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-89a8a617-1c9b-9c19-857d-bde9b4529d6e\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "eagle": {
+    "seed": 2005,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-2f23d51b-519c-98bd-b7de-a6afb9821a47\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "spider": {
+    "seed": 2006,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-25d477d1-a42c-9dfb-a663-de206100cb57\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "whale": {
+    "seed": 2007,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-e0693cc2-f60f-95e2-92c5-48cbc38f6a20\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "butterfly": {
+    "seed": 2008,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-bd669a21-5ac2-97b0-9aff-71fa59702810\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "wolf": {
+    "seed": 2009,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-0d16d4ac-5de4-936b-b9a5-7a80c22f160d\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "bread": {
+    "seed": 2010,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-f5e384e4-b087-9e24-aa06-14b1dc28afa5\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "pepper": {
+    "seed": 2011,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-5b4b7b49-5f44-9348-bfc8-c4f0deea6237\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "honey": {
+    "seed": 2012,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-d46bd423-7a3c-94fe-adc3-678f8389e508\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "salt": {
+    "seed": 2013,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-e3989a3f-bb74-97ec-a314-81204aa1a024\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "wine": {
+    "seed": 2014,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-68008048-e830-9cd7-99ee-f8009b69c0a2\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "heart": {
+    "seed": 2015,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-bef069b4-e258-98d2-97b8-9f6eecb954a1\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "bone": {
+    "seed": 2016,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-5f0eeed3-a956-9dd4-b672-82cc39016391\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "blood": {
+    "seed": 2017,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-192f5638-e71b-924e-ad0e-26acb7724c04\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "skin": {
+    "seed": 2018,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-4db589c1-43a4-936d-ad7a-64747406c760\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "eye": {
+    "seed": 2019,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-9a14477b-fc3f-935d-88af-6a082ae4034a\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "anger": {
+    "seed": 2020,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-5afab942-d3cb-9d38-92c0-f31c941e6ff0\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "joy": {
+    "seed": 2021,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-7a1e0668-0df5-90e4-b960-114f042711df\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "fear": {
+    "seed": 2022,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-53d48834-9639-9389-a965-ad22705c4f58\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "grief": {
+    "seed": 2023,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-1f90b524-47fc-9259-965a-acdf2e845989\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "hope": {
+    "seed": 2024,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-8c0bfdea-026d-961f-afe3-9a8a1a6579f0\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "dawn": {
+    "seed": 2025,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-d600a6ea-cc50-9412-b918-c069a6b8f8e7\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "winter": {
+    "seed": 2026,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-5be9c996-f44b-9ab8-91ac-6b3e1627ab26\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "midnight": {
+    "seed": 2027,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-3f293164-d78c-921f-b098-ca26e9962a38\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "decay": {
+    "seed": 2028,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-d8933728-cf58-99b1-a5bd-b0837d768d95\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "rhythm": {
+    "seed": 2029,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-01b2deba-667a-930b-b24d-59f61be54455\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "crown": {
+    "seed": 2030,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-3fff3b8f-1825-9954-822f-0d9690a59023\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "prison": {
+    "seed": 2031,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-d8d6233d-4395-96f6-8110-08b9a1bf7298\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "market": {
+    "seed": 2032,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-6c79c44c-0c97-9fc3-9ed1-917ed7a490a2\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "temple": {
+    "seed": 2033,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-796080fc-b41f-9ec3-989b-cf372d74544b\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "bridge": {
+    "seed": 2034,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-aeb3c7d0-3d1c-95ba-8628-30e3af70e366\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "silence": {
+    "seed": 2035,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-33f12d40-8271-98b3-837a-b78cfc06c935\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "chaos": {
+    "seed": 2036,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-68cd82f3-a343-9027-bc51-f92fb1030379\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "truth": {
+    "seed": 2037,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-40a8762c-6453-957c-9efa-1ff04d6ef633\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "dream": {
+    "seed": 2038,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-c2bfae3b-e096-9472-8f7b-1a96a3c31622\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "memory": {
+    "seed": 2039,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-8b982bab-e9d0-9ac8-934f-a9c371d5efd3\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "needle": {
+    "seed": 2040,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-ca893b04-b215-9451-a95b-2aed114a27c4\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "mirror": {
+    "seed": 2041,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-1af03e82-9e52-9f5b-992f-8bbc92458bcf\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "wheel": {
+    "seed": 2042,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-c827bf1b-5c18-9756-82be-71ac611cf64d\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "candle": {
+    "seed": 2043,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-11744067-e787-9117-887c-390eb309cf3c\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "bell": {
+    "seed": 2044,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-e8467c77-9406-9a5b-a5f6-481a7bef398c\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "forest": {
+    "seed": 2045,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-93d4a9af-6fde-9fe8-8ed2-5641595521a0\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "river": {
+    "seed": 2046,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-ed16f75c-4589-9641-b335-b658de9fb804\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "storm": {
+    "seed": 2047,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-f75aa9dc-d403-9fbb-943b-8fa98a30fb0e\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "dust": {
+    "seed": 2048,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-93163329-f42f-9aba-880e-dcebd3d8b8cf\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "crystal": {
+    "seed": 2049,
+    "raw_response": null,
+    "words": [],
+    "api_error": "BadRequestError: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\"error\":{\"message\":\"\\'temperature\\' must be Float\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_value\"},\"request_id\":\"chatcmpl-203bb881-5e78-9f50-996f-c8b52f8a60fd\"}', 'provider_name': 'Alibaba', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  }
+}

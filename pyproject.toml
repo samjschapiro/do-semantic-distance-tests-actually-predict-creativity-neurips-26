@@ -1,0 +1,17 @@
+[project]
+name = "semantic-distance-creativity"
+version = "1.0.0"
+description = "Code and data for 'Do Semantic Distance Tests Actually Predict Creativity in Large Language Models?' (NeurIPS 2026)"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=1.26",
+    "scipy>=1.11",
+    "matplotlib>=3.8",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+rescore = ["sentence-transformers>=2.7", "nltk>=3.8"]
+run = ["openai>=1.30", "python-dotenv>=1.0"]

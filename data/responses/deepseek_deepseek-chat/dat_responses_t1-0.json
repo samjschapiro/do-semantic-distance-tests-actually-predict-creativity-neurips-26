@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"apple\", \"lightning\", \"ocean\", \"triangle\", \"feather\", \"history\", \"machine\", \"laughter\", \"mountain\", \"shadow\"]",
+    "words": [
+      "apple",
+      "lightning",
+      "ocean",
+      "triangle",
+      "feather",
+      "history",
+      "machine",
+      "laughter",
+      "mountain",
+      "shadow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"elephant\", \"quasar\", \"marigold\", \"violin\", \"hailstone\", \"oxygen\", \"knight\", \"avalanche\", \"philosopher\", \"glacier\"]",
+    "words": [
+      "elephant",
+      "quasar",
+      "marigold",
+      "violin",
+      "hailstone",
+      "oxygen",
+      "knight",
+      "avalanche",
+      "philosopher",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"ephemeral\", \"zenith\", \"labyrinth\", \"solitude\", \"resonance\", \"paradox\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "ephemeral",
+      "zenith",
+      "labyrinth",
+      "solitude",
+      "resonance",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"onomatopoeia\", \"quantum\", \"ephemeral\", \"paradox\", \"zenith\", \"labyrinth\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "onomatopoeia",
+      "quantum",
+      "ephemeral",
+      "paradox",
+      "zenith",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "```json\n[\"apple\", \"quantum\", \"serendipity\", \"obelisk\", \"quasar\", \"ephemeral\", \"zenith\", \"labyrinth\", \"nebula\", \"oxymoron\"]\n```",
+    "words": [
+      "apple",
+      "quantum",
+      "serendipity",
+      "obelisk",
+      "quasar",
+      "ephemeral",
+      "zenith",
+      "labyrinth",
+      "nebula",
+      "oxymoron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"tree\", \"water\", \"book\", \"music\", \"apple\", \"stone\", \"cloud\", \"paper\", \"light\", \"metal\"]",
+    "words": [
+      "tree",
+      "water",
+      "book",
+      "music",
+      "apple",
+      "stone",
+      "cloud",
+      "paper",
+      "light",
+      "metal"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"obelisk\", \"ephemeral\", \"symphony\", \"quantum\", \"zenith\", \"labyrinth\", \"nebula\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "obelisk",
+      "ephemeral",
+      "symphony",
+      "quantum",
+      "zenith",
+      "labyrinth",
+      "nebula"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "```json\n[\"apple\", \"gravity\", \"melancholy\", \"quantum\", \"serendipity\", \"oxymoron\", \"kaleidoscope\", \"ephemeral\", \"paradox\", \"zenith\"]\n```",
+    "words": [
+      "apple",
+      "gravity",
+      "melancholy",
+      "quantum",
+      "serendipity",
+      "oxymoron",
+      "kaleidoscope",
+      "ephemeral",
+      "paradox",
+      "zenith"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"oxymoron\", \"zenith\", \"ephemeral\", \"labyrinth\", \"paradox\", \"cacophony\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "oxymoron",
+      "zenith",
+      "ephemeral",
+      "labyrinth",
+      "paradox",
+      "cacophony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"tree\", \"thought\", \"ocean\", \"hammer\", \"cloud\", \"laughter\", \"bridge\", \"harmony\", \"candle\", \"diamond\"]",
+    "words": [
+      "tree",
+      "thought",
+      "ocean",
+      "hammer",
+      "cloud",
+      "laughter",
+      "bridge",
+      "harmony",
+      "candle",
+      "diamond"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"cloud\", \"hammer\", \"lion\", \"quartz\", \"oxygen\", \"drum\", \"leaf\", \"star\", \"sand\", \"glass\"]",
+    "words": [
+      "cloud",
+      "hammer",
+      "lion",
+      "quartz",
+      "oxygen",
+      "drum",
+      "leaf",
+      "star",
+      "sand",
+      "glass"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"symphony\", \"nebula\", \"algorithm\", \"serendipity\", \"pendulum\", \"metaphor\", \"tornado\", \"zenith\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "symphony",
+      "nebula",
+      "algorithm",
+      "serendipity",
+      "pendulum",
+      "metaphor",
+      "tornado",
+      "zenith"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "```json\n[\"quasar\", \"kaleidoscope\", \"serendipity\", \"obelisk\", \"ephemeral\", \"zenith\", \"labyrinth\", \"nebula\", \"paradox\", \"cacophony\"]\n```",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "obelisk",
+      "ephemeral",
+      "zenith",
+      "labyrinth",
+      "nebula",
+      "paradox",
+      "cacophony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"oxymoron\", \"ephemera\", \"zenith\", \"labyrinth\", \"cacophony\", \"paradox\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "oxymoron",
+      "ephemera",
+      "zenith",
+      "labyrinth",
+      "cacophony",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"onomatopoeia\", \"zenith\", \"ephemeral\", \"labyrinth\", \"paradox\", \"cacophony\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "onomatopoeia",
+      "zenith",
+      "ephemeral",
+      "labyrinth",
+      "paradox",
+      "cacophony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "```json\n[\"apple\", \"gravity\", \"laughter\", \"quantum\", \"serendipity\", \"octopus\", \"metaphor\", \"volcano\", \"nostalgia\", \"kaleidoscope\"]\n```",
+    "words": [
+      "apple",
+      "gravity",
+      "laughter",
+      "quantum",
+      "serendipity",
+      "octopus",
+      "metaphor",
+      "volcano",
+      "nostalgia",
+      "kaleidoscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "```json\n[\"apple\", \"quantum\", \"serendipity\", \"oblivion\", \"kaleidoscope\", \"velocity\", \"zenith\", \"whimsy\", \"nebula\", \"echo\"]\n```",
+    "words": [
+      "apple",
+      "quantum",
+      "serendipity",
+      "oblivion",
+      "kaleidoscope",
+      "velocity",
+      "zenith",
+      "whimsy",
+      "nebula",
+      "echo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"whimsy\", \"obelisk\", \"ephemera\", \"labyrinth\", \"sonata\", \"zenith\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "whimsy",
+      "obelisk",
+      "ephemera",
+      "labyrinth",
+      "sonata",
+      "zenith"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"tree\", \"ocean\", \"hammer\", \"laughter\", \"cloud\", \"mountain\", \"mirror\", \"whisper\", \"candle\", \"volcano\"]",
+    "words": [
+      "tree",
+      "ocean",
+      "hammer",
+      "laughter",
+      "cloud",
+      "mountain",
+      "mirror",
+      "whisper",
+      "candle",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "```json\n[\"apple\", \"gravity\", \"melancholy\", \"quantum\", \"serendipity\", \"nebula\", \"whisper\", \"algorithm\", \"kaleidoscope\", \"thunder\"]\n```",
+    "words": [
+      "apple",
+      "gravity",
+      "melancholy",
+      "quantum",
+      "serendipity",
+      "nebula",
+      "whisper",
+      "algorithm",
+      "kaleidoscope",
+      "thunder"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"antidisestablishmentarianism\", \"serendipity\", \"quantum\", \"ephemeral\", \"oxymoron\", \"pandemonium\", \"zenith\", \"labyrinth\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "antidisestablishmentarianism",
+      "serendipity",
+      "quantum",
+      "ephemeral",
+      "oxymoron",
+      "pandemonium",
+      "zenith",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"symphony\", \"nebula\", \"algorithm\", \"whisper\", \"pendulum\", \"metaphor\", \"volcano\", \"serendipity\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "symphony",
+      "nebula",
+      "algorithm",
+      "whisper",
+      "pendulum",
+      "metaphor",
+      "volcano",
+      "serendipity"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"mountain\", \"quilt\", \"whisker\", \"shadow\", \"breeze\", \"clay\", \"echo\", \"flame\", \"pebble\", \"thread\"]",
+    "words": [
+      "mountain",
+      "quilt",
+      "whisker",
+      "shadow",
+      "breeze",
+      "clay",
+      "echo",
+      "flame",
+      "pebble",
+      "thread"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"cloud\", \"hammer\", \"story\", \"leaf\", \"theory\", \"music\", \"ocean\", \"bridge\", \"planet\", \"shade\"]",
+    "words": [
+      "cloud",
+      "hammer",
+      "story",
+      "leaf",
+      "theory",
+      "music",
+      "ocean",
+      "bridge",
+      "planet",
+      "shade"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"tiger\", \"quilt\", \"thunder\", \"harmony\", \"candle\", \"whisper\", \"mountain\", \"laughter\", \"mirror\", \"journey\"]",
+    "words": [
+      "tiger",
+      "quilt",
+      "thunder",
+      "harmony",
+      "candle",
+      "whisper",
+      "mountain",
+      "laughter",
+      "mirror",
+      "journey"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"tree\", \"idea\", \"river\", \"shadow\", \"clock\", \"laughter\", \"cloud\", \"mirror\", \"wind\", \"stone\"]",
+    "words": [
+      "tree",
+      "idea",
+      "river",
+      "shadow",
+      "clock",
+      "laughter",
+      "cloud",
+      "mirror",
+      "wind",
+      "stone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"ephemeral\", \"zenith\", \"labyrinth\", \"oblivion\", \"cacophony\", \"paradox\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "ephemeral",
+      "zenith",
+      "labyrinth",
+      "oblivion",
+      "cacophony",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"onomatopoeia\", \"zenith\", \"ephemeral\", \"labyrinth\", \"oxymoron\", \"pandemonium\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "onomatopoeia",
+      "zenith",
+      "ephemeral",
+      "labyrinth",
+      "oxymoron",
+      "pandemonium"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"ephemeral\", \"zenith\", \"labyrinth\", \"solitude\", \"cacophony\", \"paradox\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "ephemeral",
+      "zenith",
+      "labyrinth",
+      "solitude",
+      "cacophony",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"ephemeral\", \"zenith\", \"labyrinth\", \"cacophony\", \"oblivion\", \"paradox\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "ephemeral",
+      "zenith",
+      "labyrinth",
+      "cacophony",
+      "oblivion",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "```json\n[\"apple\", \"quantum\", \"serendipity\", \"oblivion\", \"whimsical\", \"nebula\", \"ephemeral\", \"labyrinth\", \"incandescent\", \"solitude\"]\n```",
+    "words": [
+      "apple",
+      "quantum",
+      "serendipity",
+      "oblivion",
+      "whimsical",
+      "nebula",
+      "ephemeral",
+      "labyrinth",
+      "incandescent",
+      "solitude"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"onomatopoeia\", \"ephemeral\", \"zenith\", \"labyrinth\", \"oxymoron\", \"pandemonium\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "onomatopoeia",
+      "ephemeral",
+      "zenith",
+      "labyrinth",
+      "oxymoron",
+      "pandemonium"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "```json\n[\"apple\", \"gravity\", \"laughter\", \"quantum\", \"shadow\", \"whisper\", \"ocean\", \"spark\", \"eternity\", \"chaos\"]\n```",
+    "words": [
+      "apple",
+      "gravity",
+      "laughter",
+      "quantum",
+      "shadow",
+      "whisper",
+      "ocean",
+      "spark",
+      "eternity",
+      "chaos"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "```json\n[\"quasar\", \"kaleidoscope\", \"sonata\", \"nebula\", \"algorithm\", \"quintessence\", \"paradox\", \"ephemera\", \"zenith\", \"labyrinth\"]\n```",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "sonata",
+      "nebula",
+      "algorithm",
+      "quintessence",
+      "paradox",
+      "ephemera",
+      "zenith",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"onomatopoeia\", \"zenith\", \"ephemeral\", \"labyrinth\", \"paradox\", \"cacophony\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "onomatopoeia",
+      "zenith",
+      "ephemeral",
+      "labyrinth",
+      "paradox",
+      "cacophony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "```json\n[\"quasar\", \"kaleidoscope\", \"serendipity\", \"nebula\", \"oxymoron\", \"zenith\", \"pandemonium\", \"labyrinth\", \"ephemera\", \"cacophony\"]\n```",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "serendipity",
+      "nebula",
+      "oxymoron",
+      "zenith",
+      "pandemonium",
+      "labyrinth",
+      "ephemera",
+      "cacophony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"tree\", \"philosophy\", \"lightning\", \"cement\", \"harmonica\", \"galaxy\", \"shadow\", \"fungus\", \"river\", \"plank\"]",
+    "words": [
+      "tree",
+      "philosophy",
+      "lightning",
+      "cement",
+      "harmonica",
+      "galaxy",
+      "shadow",
+      "fungus",
+      "river",
+      "plank"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"quasar\", \"apple\", \"ocean\", \"cloud\", \"pressure\", \"elephant\", \"guitar\", \"light\", \"mountain\", \"theory\"]",
+    "words": [
+      "quasar",
+      "apple",
+      "ocean",
+      "cloud",
+      "pressure",
+      "elephant",
+      "guitar",
+      "light",
+      "mountain",
+      "theory"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"quasar\", \"kaleidoscope\", \"symphony\", \"quicksand\", \"nebula\", \"whisper\", \"pendulum\", \"tornado\", \"mirage\", \"echo\"]",
+    "words": [
+      "quasar",
+      "kaleidoscope",
+      "symphony",
+      "quicksand",
+      "nebula",
+      "whisper",
+      "pendulum",
+      "tornado",
+      "mirage",
+      "echo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"tree\", \"ocean\", \"hammer\", \"cloud\", \"laughter\", \"stone\", \"lightning\", \"book\", \"butterfly\", \"microscope\"]",
+    "words": [
+      "tree",
+      "ocean",
+      "hammer",
+      "cloud",
+      "laughter",
+      "stone",
+      "lightning",
+      "book",
+      "butterfly",
+      "microscope"
+    ],
+    "api_error": null
+  }
+]

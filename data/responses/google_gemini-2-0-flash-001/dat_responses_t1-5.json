@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "```json\n[\"abstraction\", \"polymer\", \"galaxy\", \"algorithm\", \"enzyme\", \"volcano\", \"quorum\", \"axiom\", \"pigment\", \"entropy\"]\n```\n",
+    "words": [
+      "abstraction",
+      "polymer",
+      "galaxy",
+      "algorithm",
+      "enzyme",
+      "volcano",
+      "quorum",
+      "axiom",
+      "pigment",
+      "entropy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "```json\n[\"equation\", \"harbor\", \"fabric\", \"axiom\", \"molecule\", \"rhythm\", \"fungus\", \"narrative\", \"paradox\", \"altitude\"]\n```\n",
+    "words": [
+      "equation",
+      "harbor",
+      "fabric",
+      "axiom",
+      "molecule",
+      "rhythm",
+      "fungus",
+      "narrative",
+      "paradox",
+      "altitude"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "```json\n[\"oxygen\", \"algorithm\", \"melancholy\", \"theorem\", \"quagmire\", \"galaxy\", \"zeitgeist\", \"artifact\", \"entropy\", \"epiphany\"]\n```\n",
+    "words": [
+      "oxygen",
+      "algorithm",
+      "melancholy",
+      "theorem",
+      "quagmire",
+      "galaxy",
+      "zeitgeist",
+      "artifact",
+      "entropy",
+      "epiphany"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "```json\n[\"entropy\", \"galaxy\", \"fungus\", \"axiom\", \"fabric\", \"neutron\", \"melody\", \"quicksilver\", \"equation\", \"rhythm\"]\n```\n",
+    "words": [
+      "entropy",
+      "galaxy",
+      "fungus",
+      "axiom",
+      "fabric",
+      "neutron",
+      "melody",
+      "quicksilver",
+      "equation",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "```json\n[\"entropy\", \"algorithm\", \"ocean\", \"atom\", \"canvas\", \"skyscraper\", \"quasar\", \"molecule\", \"sonnet\", \"obelisk\"]\n```\n",
+    "words": [
+      "entropy",
+      "algorithm",
+      "ocean",
+      "atom",
+      "canvas",
+      "skyscraper",
+      "quasar",
+      "molecule",
+      "sonnet",
+      "obelisk"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "```json\n[\"epiphany\", \"quark\", \"sloth\", \"void\", \"axiom\", \"zephyr\", \"facet\", \"nexus\", \"paradigm\", \"effluvium\"]\n```\n",
+    "words": [
+      "epiphany",
+      "quark",
+      "sloth",
+      "void",
+      "axiom",
+      "zephyr",
+      "facet",
+      "nexus",
+      "paradigm",
+      "effluvium"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "```json\n[\"oxygen\", \"algorithm\", \"galaxy\", \"synergy\", \"hypothesis\", \"catastrophe\", \"inertia\", \"quagmire\", \"euphoria\", \"paradox\"]\n```\n",
+    "words": [
+      "oxygen",
+      "algorithm",
+      "galaxy",
+      "synergy",
+      "hypothesis",
+      "catastrophe",
+      "inertia",
+      "quagmire",
+      "euphoria",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "```json\n[\"entropy\", \"harmony\", \"void\", \"galaxy\", \"concept\", \"oxygen\", \"prism\", \"molecule\", \"axiom\", \"leisure\"]\n```\n",
+    "words": [
+      "entropy",
+      "harmony",
+      "void",
+      "galaxy",
+      "concept",
+      "oxygen",
+      "prism",
+      "molecule",
+      "axiom",
+      "leisure"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "```json\n[\"oxygen\", \"equation\", \"galaxy\", \"myth\", \"canvas\", \"molecule\", \"concept\", \"wisdom\", \"erosion\", \"rhythm\"]\n```",
+    "words": [
+      "oxygen",
+      "equation",
+      "galaxy",
+      "myth",
+      "canvas",
+      "molecule",
+      "concept",
+      "wisdom",
+      "erosion",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "```json\n[\"entropy\", \"algorithm\", \"molecule\", \"galaxy\", \"veracity\", \"fabric\", \"equation\", \"melody\", \"axiom\", \"quandary\"]\n```\n",
+    "words": [
+      "entropy",
+      "algorithm",
+      "molecule",
+      "galaxy",
+      "veracity",
+      "fabric",
+      "equation",
+      "melody",
+      "axiom",
+      "quandary"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "```json\n[\"entropy\", \"belief\", \"oxygen\", \"equation\", \"canvas\", \"galaxy\", \"algorithm\", \"melody\", \"quartz\", \"paradox\"]\n```\n",
+    "words": [
+      "entropy",
+      "belief",
+      "oxygen",
+      "equation",
+      "canvas",
+      "galaxy",
+      "algorithm",
+      "melody",
+      "quartz",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "```json\n[\"void\", \"melody\", \"axiom\", \"parasite\", \"quorum\", \"dynamo\", \"foliage\", \"molecule\", \"paradox\", \"irony\"]\n```\n",
+    "words": [
+      "void",
+      "melody",
+      "axiom",
+      "parasite",
+      "quorum",
+      "dynamo",
+      "foliage",
+      "molecule",
+      "paradox",
+      "irony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "```json\n[\"entropy\", \"harmony\", \"neutron\", \"quorum\", \"symphony\", \"molecule\", \"axiom\", \"rhythm\", \"theorem\", \"galaxy\"]\n```\n",
+    "words": [
+      "entropy",
+      "harmony",
+      "neutron",
+      "quorum",
+      "symphony",
+      "molecule",
+      "axiom",
+      "rhythm",
+      "theorem",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "```json\n[\"oxygen\", \"quantum\", \"algorithm\", \"artifact\", \"melody\", \"axiom\", \"epoch\", \"nucleus\", \"pigment\", \"fabric\"]\n```\n",
+    "words": [
+      "oxygen",
+      "quantum",
+      "algorithm",
+      "artifact",
+      "melody",
+      "axiom",
+      "epoch",
+      "nucleus",
+      "pigment",
+      "fabric"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "```json\n[\"entropy\", \"haven\", \"axiom\", \"plankton\", \"verge\", \"equation\", \"pigment\", \"molecule\", \"melody\", \"cascade\"]\n```",
+    "words": [
+      "entropy",
+      "haven",
+      "axiom",
+      "plankton",
+      "verge",
+      "equation",
+      "pigment",
+      "molecule",
+      "melody",
+      "cascade"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "```json\n[\"equation\", \"ocean\", \"oxygen\", \"myth\", \"concept\", \"melody\", \"artifact\", \"fabric\", \"voltage\", \"enzyme\"]\n```\n",
+    "words": [
+      "equation",
+      "ocean",
+      "oxygen",
+      "myth",
+      "concept",
+      "melody",
+      "artifact",
+      "fabric",
+      "voltage",
+      "enzyme"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "```json\n[\"oxygen\", \"theorem\", \"canvas\", \"galaxy\", \"algorithm\", \"erosion\", \"quill\", \"asylum\", \"tempo\", \"karma\"]\n```\n",
+    "words": [
+      "oxygen",
+      "theorem",
+      "canvas",
+      "galaxy",
+      "algorithm",
+      "erosion",
+      "quill",
+      "asylum",
+      "tempo",
+      "karma"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "```json\n[\"oxygen\", \"quantum\", \"algorithm\", \"canvas\", \"enzyme\", \"galaxy\", \"rhythm\", \"metaphor\", \"erosion\", \"axiom\"]\n```\n",
+    "words": [
+      "oxygen",
+      "quantum",
+      "algorithm",
+      "canvas",
+      "enzyme",
+      "galaxy",
+      "rhythm",
+      "metaphor",
+      "erosion",
+      "axiom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "```json\n[\"entropy\", \"algorithm\", \"chromosome\", \"quasar\", \"pigment\", \"theorem\", \"polymer\", \"neuron\", \"artifact\", \"vacuum\"]\n```",
+    "words": [
+      "entropy",
+      "algorithm",
+      "chromosome",
+      "quasar",
+      "pigment",
+      "theorem",
+      "polymer",
+      "neuron",
+      "artifact",
+      "vacuum"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "```json\n[\"equation\", \"serenity\", \"galaxy\", \"enzyme\", \"rhythm\", \"catastrophe\", \"verdict\", \"molecule\", \"fortitude\", \"illusion\"]\n```\n",
+    "words": [
+      "equation",
+      "serenity",
+      "galaxy",
+      "enzyme",
+      "rhythm",
+      "catastrophe",
+      "verdict",
+      "molecule",
+      "fortitude",
+      "illusion"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "```json\n[\"epiphany\", \"quark\", \"ointment\", \"rhetoric\", \"algorithm\", \"texture\", \"momentum\", \"melody\", \"void\", \"axiom\"]\n```",
+    "words": [
+      "epiphany",
+      "quark",
+      "ointment",
+      "rhetoric",
+      "algorithm",
+      "texture",
+      "momentum",
+      "melody",
+      "void",
+      "axiom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "```json\n[\"algorithm\", \"oxygen\", \"catastrophe\", \"hypothesis\", \"melody\", \"momentum\", \"equation\", \"tragedy\", \"vitamin\", \"utopia\"]\n```",
+    "words": [
+      "algorithm",
+      "oxygen",
+      "catastrophe",
+      "hypothesis",
+      "melody",
+      "momentum",
+      "equation",
+      "tragedy",
+      "vitamin",
+      "utopia"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "```json\n[\"algorithm\", \"symphony\", \"molecule\", \"fabric\", \"equation\", \"planet\", \"oxygen\", \"fiction\", \"concept\", \"refrigerator\"]\n```\n",
+    "words": [
+      "algorithm",
+      "symphony",
+      "molecule",
+      "fabric",
+      "equation",
+      "planet",
+      "oxygen",
+      "fiction",
+      "concept",
+      "refrigerator"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "```json\n[\"entropy\", \"algorithm\", \"pigment\", \"vacuum\", \"quorum\", \"hypothesis\", \"molecule\", \"galaxy\", \"zeitgeist\", \"paradox\"]\n```\n",
+    "words": [
+      "entropy",
+      "algorithm",
+      "pigment",
+      "vacuum",
+      "quorum",
+      "hypothesis",
+      "molecule",
+      "galaxy",
+      "zeitgeist",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "```json\n[\"entropy\", \"algorithm\", \"equation\", \"novel\", \"catalyst\", \"theorem\", \"polymer\", \"genome\", \"theorem\", \"axiom\"]\n```",
+    "words": [
+      "entropy",
+      "algorithm",
+      "equation",
+      "novel",
+      "catalyst",
+      "theorem",
+      "polymer",
+      "genome",
+      "theorem",
+      "axiom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "```json\n[\"oxygen\", \"algorithm\", \"rhythm\", \"quantum\", \"wisdom\", \"building\", \"ocean\", \"galaxy\", \"utopia\", \"organism\"]\n```\n",
+    "words": [
+      "oxygen",
+      "algorithm",
+      "rhythm",
+      "quantum",
+      "wisdom",
+      "building",
+      "ocean",
+      "galaxy",
+      "utopia",
+      "organism"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "```json\n[\"nebula\", \"algorithm\", \"pebble\", \"eulogy\", \"quorum\", \"axiom\", \"facet\", \"bias\", \"entropy\", \"hypothesis\"]\n```",
+    "words": [
+      "nebula",
+      "algorithm",
+      "pebble",
+      "eulogy",
+      "quorum",
+      "axiom",
+      "facet",
+      "bias",
+      "entropy",
+      "hypothesis"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "```json\n[\"entropy\", \"paradox\", \"zeitgeist\", \"epiphany\", \"nexus\", \"quagmire\", \"algorithm\", \"anachronism\", \"obfuscation\", \"semblance\"]\n```\n",
+    "words": [
+      "entropy",
+      "paradox",
+      "zeitgeist",
+      "epiphany",
+      "nexus",
+      "quagmire",
+      "algorithm",
+      "anachronism",
+      "obfuscation",
+      "semblance"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "```json\n[\"oxygen\", \"equation\", \"melody\", \"lumber\", \"theory\", \"patience\", \"granite\", \"vacuum\", \"whimsy\", \"paradox\"]\n```\n",
+    "words": [
+      "oxygen",
+      "equation",
+      "melody",
+      "lumber",
+      "theory",
+      "patience",
+      "granite",
+      "vacuum",
+      "whimsy",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "```json\n[\"entropy\", \"serenity\", \"quantum\", \"theorem\", \"axiom\", \"garden\", \"ocean\", \"fossil\", \"galaxy\", \"synergy\"]\n```\n",
+    "words": [
+      "entropy",
+      "serenity",
+      "quantum",
+      "theorem",
+      "axiom",
+      "garden",
+      "ocean",
+      "fossil",
+      "galaxy",
+      "synergy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "```json\n[\"equation\", \"oxygen\", \"silence\", \"journey\", \"galaxy\", \"fabric\", \"belief\", \"castle\", \"enzyme\", \"rhythm\"]\n```\n",
+    "words": [
+      "equation",
+      "oxygen",
+      "silence",
+      "journey",
+      "galaxy",
+      "fabric",
+      "belief",
+      "castle",
+      "enzyme",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "```json\n[\"oxygen\", \"equation\", \"harmonica\", \"galaxy\", \"particle\", \"nuance\", \"obelisk\", \"algorithm\", \"entropy\", \"carpet\"]\n```\n",
+    "words": [
+      "oxygen",
+      "equation",
+      "harmonica",
+      "galaxy",
+      "particle",
+      "nuance",
+      "obelisk",
+      "algorithm",
+      "entropy",
+      "carpet"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "```json\n[\"oxygen\", \"spiral\", \"fiction\", \"enzyme\", \"melody\", \"theorem\", \"velocity\", \"harbor\", \"garnet\", \"axiom\"]\n```\n",
+    "words": [
+      "oxygen",
+      "spiral",
+      "fiction",
+      "enzyme",
+      "melody",
+      "theorem",
+      "velocity",
+      "harbor",
+      "garnet",
+      "axiom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "```json\n[\"entropy\", \"quill\", \"algorithm\", \"fern\", \"axiom\", \"melody\", \"quartz\", \"galaxy\", \"canvas\", \"nectar\"]\n```\n",
+    "words": [
+      "entropy",
+      "quill",
+      "algorithm",
+      "fern",
+      "axiom",
+      "melody",
+      "quartz",
+      "galaxy",
+      "canvas",
+      "nectar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "```json\n[\"entropy\", \"theorem\", \"symphony\", \"galaxy\", \"proton\", \"algorithm\", \"axiom\", \"pigment\", \"quorum\", \"organism\"]\n```",
+    "words": [
+      "entropy",
+      "theorem",
+      "symphony",
+      "galaxy",
+      "proton",
+      "algorithm",
+      "axiom",
+      "pigment",
+      "quorum",
+      "organism"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "```json\n[\"entropy\", \"symphony\", \"quantum\", \"ointment\", \"dystopia\", \"galaxy\", \"equation\", \"fabric\", \"algorithm\", \"oblivion\"]\n```\n",
+    "words": [
+      "entropy",
+      "symphony",
+      "quantum",
+      "ointment",
+      "dystopia",
+      "galaxy",
+      "equation",
+      "fabric",
+      "algorithm",
+      "oblivion"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "```json\n[\"entropy\", \"algebra\", \"tranquility\", \"hurricane\", \"cell\", \"novel\", \"quantum\", \"ascent\", \"fabric\", \"rhythm\"]\n```\n",
+    "words": [
+      "entropy",
+      "algebra",
+      "tranquility",
+      "hurricane",
+      "cell",
+      "novel",
+      "quantum",
+      "ascent",
+      "fabric",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "```json\n[\"theorem\", \"galaxy\", \"oxygen\", \"symphony\", \"algorithm\", \"tragedy\", \"fabric\", \"quartz\", \"axiom\", \"sphere\"]\n```",
+    "words": [
+      "theorem",
+      "galaxy",
+      "oxygen",
+      "symphony",
+      "algorithm",
+      "tragedy",
+      "fabric",
+      "quartz",
+      "axiom",
+      "sphere"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "```json\n[\"entropy\", \"galaxy\", \"irony\", \"wisdom\", \"molecule\", \"rhythm\", \"canvas\", \"algorithm\", \"quantum\", \"nostalgia\"]\n```",
+    "words": [
+      "entropy",
+      "galaxy",
+      "irony",
+      "wisdom",
+      "molecule",
+      "rhythm",
+      "canvas",
+      "algorithm",
+      "quantum",
+      "nostalgia"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "```json\n[\"oxygen\", \"algorithm\", \"rhythm\", \"quantum\", \"hypothesis\", \"skyscraper\", \"melody\", \"sphinx\", \"entropy\", \"polymer\"]\n```\n",
+    "words": [
+      "oxygen",
+      "algorithm",
+      "rhythm",
+      "quantum",
+      "hypothesis",
+      "skyscraper",
+      "melody",
+      "sphinx",
+      "entropy",
+      "polymer"
+    ],
+    "api_error": null
+  }
+]

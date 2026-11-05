@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"apple\", \"river\", \"guitar\", \"cloud\", \"book\", \"knife\", \"mountain\", \"chair\", \"flower\", \"table\"]",
+    "words": [
+      "apple",
+      "river",
+      "guitar",
+      "cloud",
+      "book",
+      "knife",
+      "mountain",
+      "chair",
+      "flower",
+      "table"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"chair\", \"apple\", \"cloud\", \"shoe\", \"river\", \"guitar\", \"snowflake\", \"telescope\", \"atom\", \"flower\"]",
+    "words": [
+      "chair",
+      "apple",
+      "cloud",
+      "shoe",
+      "river",
+      "guitar",
+      "snowflake",
+      "telescope",
+      "atom",
+      "flower"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"apple\", \"chair\", \"book\", \"flower\", \"hammer\", \"cloud\", \"ocean\", \"guitar\", \"desk\", \"feather\"]",
+    "words": [
+      "apple",
+      "chair",
+      "book",
+      "flower",
+      "hammer",
+      "cloud",
+      "ocean",
+      "guitar",
+      "desk",
+      "feather"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"apple\", \"book\", \"chair\", \"dress\", \"egg\", \"flower\", \"hammer\", \"igloo\", \"jacket\", \"kite\"]",
+    "words": [
+      "apple",
+      "book",
+      "chair",
+      "dress",
+      "egg",
+      "flower",
+      "hammer",
+      "igloo",
+      "jacket",
+      "kite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"bird\", \"book\", \"chair\", \"flower\", \"house\", \"knife\", \"ocean\", \"pen\", \"table\", \"tree\"]",
+    "words": [
+      "bird",
+      "book",
+      "chair",
+      "flower",
+      "house",
+      "knife",
+      "ocean",
+      "pen",
+      "table",
+      "tree"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"apple\", \"book\", \"cloud\", \"desk\", \"feather\", \"guitar\", \"hammer\", \"kettle\", \"leaf\", \"moon\"]",
+    "words": [
+      "apple",
+      "book",
+      "cloud",
+      "desk",
+      "feather",
+      "guitar",
+      "hammer",
+      "kettle",
+      "leaf",
+      "moon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"apple\", \"chair\", \"cloud\", \"book\", \"guitar\", \"river\", \"camera\", \"flower\", \"wheel\", \"hat\"]",
+    "words": [
+      "apple",
+      "chair",
+      "cloud",
+      "book",
+      "guitar",
+      "river",
+      "camera",
+      "flower",
+      "wheel",
+      "hat"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"apple\", \"book\", \"chair\", \"dance\", \"engine\", \"flower\", \"hammer\", \"ink\", \"knife\", \"leaf\"]",
+    "words": [
+      "apple",
+      "book",
+      "chair",
+      "dance",
+      "engine",
+      "flower",
+      "hammer",
+      "ink",
+      "knife",
+      "leaf"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"apple\", \"table\", \"window\", \"leaf\", \"cloud\", \"mountain\", \"pen\", \"ocean\", \"book\", \"flower\"]",
+    "words": [
+      "apple",
+      "table",
+      "window",
+      "leaf",
+      "cloud",
+      "mountain",
+      "pen",
+      "ocean",
+      "book",
+      "flower"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"apple\", \"flower\", \"table\", \"piano\", \"cloud\", \"hammer\", \"book\", \"river\", \"shirt\", \"wheel\"]",
+    "words": [
+      "apple",
+      "flower",
+      "table",
+      "piano",
+      "cloud",
+      "hammer",
+      "book",
+      "river",
+      "shirt",
+      "wheel"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"chair\", \"cloud\", \"apple\", \"symphony\", \"hammer\", \"butterfly\", \"ocean\", \"pencil\", \"guitar\", \"mountain\"]",
+    "words": [
+      "chair",
+      "cloud",
+      "apple",
+      "symphony",
+      "hammer",
+      "butterfly",
+      "ocean",
+      "pencil",
+      "guitar",
+      "mountain"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"apple\", \"table\", \"cloud\", \"book\", \"hammer\", \"flower\", \"river\", \"guitar\", \"chair\", \"watch\"]",
+    "words": [
+      "apple",
+      "table",
+      "cloud",
+      "book",
+      "hammer",
+      "flower",
+      "river",
+      "guitar",
+      "chair",
+      "watch"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"butterfly\", \"laptop\", \"banana\", \"trumpet\", \"engine\", \"pillow\", \"painting\", \"hammer\", \"waterfall\", \"microscope\"]",
+    "words": [
+      "butterfly",
+      "laptop",
+      "banana",
+      "trumpet",
+      "engine",
+      "pillow",
+      "painting",
+      "hammer",
+      "waterfall",
+      "microscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"table\", \"apple\", \"book\", \"paper\", \"chair\", \"cloud\", \"flower\", \"tree\", \"sun\", \"ocean\"]",
+    "words": [
+      "table",
+      "apple",
+      "book",
+      "paper",
+      "chair",
+      "cloud",
+      "flower",
+      "tree",
+      "sun",
+      "ocean"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"tree\", \"book\", \"cloud\", \"hammer\", \"chair\", \"apple\", \"ocean\", \"music\", \"bicycle\", \"butterfly\"]",
+    "words": [
+      "tree",
+      "book",
+      "cloud",
+      "hammer",
+      "chair",
+      "apple",
+      "ocean",
+      "music",
+      "bicycle",
+      "butterfly"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"apple\", \"chair\", \"hammer\", \"cloud\", \"ocean\", \"book\", \"tulip\", \"bicycle\", \"mountain\", \"song\"]",
+    "words": [
+      "apple",
+      "chair",
+      "hammer",
+      "cloud",
+      "ocean",
+      "book",
+      "tulip",
+      "bicycle",
+      "mountain",
+      "song"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"apple\", \"cloud\", \"hammer\", \"ocean\", \"violin\", \"butterfly\", \"table\", \"volcano\", \"poem\", \"pencil\"]",
+    "words": [
+      "apple",
+      "cloud",
+      "hammer",
+      "ocean",
+      "violin",
+      "butterfly",
+      "table",
+      "volcano",
+      "poem",
+      "pencil"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"apple\", \"chair\", \"book\", \"flower\", \"guitar\", \"cloud\", \"mountain\", \"ocean\", \"telescope\", \"pencil\"]",
+    "words": [
+      "apple",
+      "chair",
+      "book",
+      "flower",
+      "guitar",
+      "cloud",
+      "mountain",
+      "ocean",
+      "telescope",
+      "pencil"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"piano\", \"bridge\", \"flower\", \"house\", \"chair\", \"book\", \"cloud\", \"apple\", \"song\", \"leaf\"]",
+    "words": [
+      "piano",
+      "bridge",
+      "flower",
+      "house",
+      "chair",
+      "book",
+      "cloud",
+      "apple",
+      "song",
+      "leaf"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"cloud\", \"book\", \"chair\", \"flower\", \"hammer\", \"key\", \"ocean\", \"song\", \"tree\", \"window\"]",
+    "words": [
+      "cloud",
+      "book",
+      "chair",
+      "flower",
+      "hammer",
+      "key",
+      "ocean",
+      "song",
+      "tree",
+      "window"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"apple\", \"book\", \"chair\", \"dog\", \"egg\", \"fork\", \"house\", \"lamp\", \"music\", \"window\"]",
+    "words": [
+      "apple",
+      "book",
+      "chair",
+      "dog",
+      "egg",
+      "fork",
+      "house",
+      "lamp",
+      "music",
+      "window"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"apple\", \"window\", \"hammer\", \"cloud\", \"journal\", \"feather\", \"wheel\", \"sword\", \"flower\", \"book\"]",
+    "words": [
+      "apple",
+      "window",
+      "hammer",
+      "cloud",
+      "journal",
+      "feather",
+      "wheel",
+      "sword",
+      "flower",
+      "book"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"book\", \"chair\", \"flower\", \"apple\", \"guitar\", \"river\", \"cloud\", \"hammer\", \"shirt\", \"tree\"]",
+    "words": [
+      "book",
+      "chair",
+      "flower",
+      "apple",
+      "guitar",
+      "river",
+      "cloud",
+      "hammer",
+      "shirt",
+      "tree"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"book\", \"cloud\", \"chair\", \"flower\", \"hammer\", \"ocean\", \"guitar\", \"mouse\", \"bridge\", \"apple\"]",
+    "words": [
+      "book",
+      "cloud",
+      "chair",
+      "flower",
+      "hammer",
+      "ocean",
+      "guitar",
+      "mouse",
+      "bridge",
+      "apple"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"apple\", \"window\", \"book\", \"cloud\", \"hammer\", \"violin\", \"river\", \"desk\", \"rose\", \"butterfly\"]",
+    "words": [
+      "apple",
+      "window",
+      "book",
+      "cloud",
+      "hammer",
+      "violin",
+      "river",
+      "desk",
+      "rose",
+      "butterfly"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"apple\", \"chair\", \"cloud\", \"hammer\", \"ocean\", \"pottery\", \"quilt\", \"spoon\", \"violin\", \"waterfall\"]",
+    "words": [
+      "apple",
+      "chair",
+      "cloud",
+      "hammer",
+      "ocean",
+      "pottery",
+      "quilt",
+      "spoon",
+      "violin",
+      "waterfall"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"apple\", \"book\", \"chair\", \"dog\", \"egg\", \"flower\", \"hammer\", \"ink\", \"jar\", \"key\"]",
+    "words": [
+      "apple",
+      "book",
+      "chair",
+      "dog",
+      "egg",
+      "flower",
+      "hammer",
+      "ink",
+      "jar",
+      "key"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"chair\", \"apple\", \"ocean\", \"hammer\", \"melody\", \"elephant\", \"window\", \"candle\", \"cloud\", \"feather\"]",
+    "words": [
+      "chair",
+      "apple",
+      "ocean",
+      "hammer",
+      "melody",
+      "elephant",
+      "window",
+      "candle",
+      "cloud",
+      "feather"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"apple\", \"cloud\", \"hammer\", \"ocean\", \"guitar\", \"butterfly\", \"telescope\", \"table\", \"volcano\", \"pencil\"]",
+    "words": [
+      "apple",
+      "cloud",
+      "hammer",
+      "ocean",
+      "guitar",
+      "butterfly",
+      "telescope",
+      "table",
+      "volcano",
+      "pencil"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"apple\", \"chair\", \"hammer\", \"cloud\", \"violin\", \"molecule\", \"ocean\", \"feather\", \"novel\", \"telescope\"]",
+    "words": [
+      "apple",
+      "chair",
+      "hammer",
+      "cloud",
+      "violin",
+      "molecule",
+      "ocean",
+      "feather",
+      "novel",
+      "telescope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"apple\", \"book\", \"chair\", \"dog\", \"egg\", \"flower\", \"guitar\", \"hammer\", \"ink\", \"leaf\"]",
+    "words": [
+      "apple",
+      "book",
+      "chair",
+      "dog",
+      "egg",
+      "flower",
+      "guitar",
+      "hammer",
+      "ink",
+      "leaf"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"chair\", \"cloud\", \"pencil\", \"apple\", \"hammer\", \"ocean\", \"violin\", \"butterfly\", \"telescope\", \"window\"]",
+    "words": [
+      "chair",
+      "cloud",
+      "pencil",
+      "apple",
+      "hammer",
+      "ocean",
+      "violin",
+      "butterfly",
+      "telescope",
+      "window"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"chair\", \"apple\", \"cloud\", \"hammer\", \"song\", \"mountain\", \"pencil\", \"flower\", \"ocean\", \"book\"]",
+    "words": [
+      "chair",
+      "apple",
+      "cloud",
+      "hammer",
+      "song",
+      "mountain",
+      "pencil",
+      "flower",
+      "ocean",
+      "book"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"table\", \"umbrella\", \"pencil\", \"flower\", \"apple\", \"cloud\", \"guitar\", \"river\", \"chair\", \"book\"]",
+    "words": [
+      "table",
+      "umbrella",
+      "pencil",
+      "flower",
+      "apple",
+      "cloud",
+      "guitar",
+      "river",
+      "chair",
+      "book"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"table\", \"apple\", \"cloud\", \"hammer\", \"book\", \"feather\", \"ocean\", \"guitar\", \"butterfly\", \"shoe\"]",
+    "words": [
+      "table",
+      "apple",
+      "cloud",
+      "hammer",
+      "book",
+      "feather",
+      "ocean",
+      "guitar",
+      "butterfly",
+      "shoe"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"umbrella\", \"feather\", \"engine\", \"violin\", \"mountain\", \"sugar\", \"cloud\", \"bone\", \"piano\", \"flower\"]",
+    "words": [
+      "umbrella",
+      "feather",
+      "engine",
+      "violin",
+      "mountain",
+      "sugar",
+      "cloud",
+      "bone",
+      "piano",
+      "flower"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"apple\", \"cloud\", \"hammer\", \"violin\", \"diamond\", \"carrot\", \"whistle\", \"river\", \"umbrella\", \"feather\"]",
+    "words": [
+      "apple",
+      "cloud",
+      "hammer",
+      "violin",
+      "diamond",
+      "carrot",
+      "whistle",
+      "river",
+      "umbrella",
+      "feather"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"umbrella\", \"notebook\", \"squirrel\", \"laptop\", \"feather\", \"ruler\", \"butterfly\", \"hammer\", \"ocean\", \"calculator\"]",
+    "words": [
+      "umbrella",
+      "notebook",
+      "squirrel",
+      "laptop",
+      "feather",
+      "ruler",
+      "butterfly",
+      "hammer",
+      "ocean",
+      "calculator"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"horse\", \"book\", \"sun\", \"mountain\", \"flower\", \"table\", \"river\", \"hat\", \"guitar\", \"apple\"]",
+    "words": [
+      "horse",
+      "book",
+      "sun",
+      "mountain",
+      "flower",
+      "table",
+      "river",
+      "hat",
+      "guitar",
+      "apple"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"apple\", \"chair\", \"ocean\", \"book\", \"guitar\", \"cloud\", \"hammer\", \"flower\", \"bicycle\", \"telescope\"]",
+    "words": [
+      "apple",
+      "chair",
+      "ocean",
+      "book",
+      "guitar",
+      "cloud",
+      "hammer",
+      "flower",
+      "bicycle",
+      "telescope"
+    ],
+    "api_error": null
+  }
+]

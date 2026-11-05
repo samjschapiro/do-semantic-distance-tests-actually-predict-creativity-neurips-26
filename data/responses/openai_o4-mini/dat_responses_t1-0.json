@@ -1,0 +1,711 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"mountain\", \"idea\", \"atom\", \"melody\", \"skyscraper\", \"screwdriver\", \"antibiotic\", \"algorithm\", \"tomato\", \"democracy\"]",
+    "words": [
+      "mountain",
+      "idea",
+      "atom",
+      "melody",
+      "skyscraper",
+      "screwdriver",
+      "antibiotic",
+      "algorithm",
+      "tomato",
+      "democracy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"mountain\",\"algorithm\",\"emotion\",\"microbe\",\"photon\",\"anchor\",\"jewel\",\"fabric\",\"zephyr\",\"sculpture\"]",
+    "words": [
+      "mountain",
+      "algorithm",
+      "emotion",
+      "microbe",
+      "photon",
+      "anchor",
+      "jewel",
+      "fabric",
+      "zephyr",
+      "sculpture"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"mountain\",\"justice\",\"quark\",\"whale\",\"perfume\",\"democracy\",\"galaxy\",\"piano\",\"skyscraper\",\"computer\"]",
+    "words": [
+      "mountain",
+      "justice",
+      "quark",
+      "whale",
+      "perfume",
+      "democracy",
+      "galaxy",
+      "piano",
+      "skyscraper",
+      "computer"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"mountain\",\"electron\",\"idea\",\"giraffe\",\"guitar\",\"justice\",\"rainbow\",\"hospital\",\"ocean\",\"cabbage\"]",
+    "words": [
+      "mountain",
+      "electron",
+      "idea",
+      "giraffe",
+      "guitar",
+      "justice",
+      "rainbow",
+      "hospital",
+      "ocean",
+      "cabbage"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"apple\",\"mountain\",\"computer\",\"justice\",\"squirrel\",\"ocean\",\"painting\",\"philosophy\",\"diamond\",\"virus\"]",
+    "words": [
+      "apple",
+      "mountain",
+      "computer",
+      "justice",
+      "squirrel",
+      "ocean",
+      "painting",
+      "philosophy",
+      "diamond",
+      "virus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RuntimeError: provider returned null content"
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"elephant\", \"skyscraper\", \"democracy\", \"tungsten\", \"guitar\", \"bacteria\", \"glacier\", \"fragrance\", \"oxygen\", \"marathon\"]",
+    "words": [
+      "elephant",
+      "skyscraper",
+      "democracy",
+      "tungsten",
+      "guitar",
+      "bacteria",
+      "glacier",
+      "fragrance",
+      "oxygen",
+      "marathon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"apple\", \"rock\", \"elephant\", \"justice\", \"ocean\", \"electron\", \"oxygen\", \"hammer\", \"city\", \"mountain\"]",
+    "words": [
+      "apple",
+      "rock",
+      "elephant",
+      "justice",
+      "ocean",
+      "electron",
+      "oxygen",
+      "hammer",
+      "city",
+      "mountain"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"apple\", \"mountain\", \"freedom\", \"microscope\", \"elephant\", \"galaxy\", \"melody\", \"democracy\", \"algorithm\", \"theorem\"]",
+    "words": [
+      "apple",
+      "mountain",
+      "freedom",
+      "microscope",
+      "elephant",
+      "galaxy",
+      "melody",
+      "democracy",
+      "algorithm",
+      "theorem"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"apple\", \"neuron\", \"galaxy\", \"democracy\", \"antibiotic\", \"elephant\", \"melody\", \"algorithm\", \"volcano\", \"justice\"]",
+    "words": [
+      "apple",
+      "neuron",
+      "galaxy",
+      "democracy",
+      "antibiotic",
+      "elephant",
+      "melody",
+      "algorithm",
+      "volcano",
+      "justice"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"quartz\",\"cacophony\",\"narwhal\",\"hammock\",\"algorithm\",\"meadow\",\"fjord\",\"senescence\",\"cartographer\",\"miasma\"]",
+    "words": [
+      "quartz",
+      "cacophony",
+      "narwhal",
+      "hammock",
+      "algorithm",
+      "meadow",
+      "fjord",
+      "senescence",
+      "cartographer",
+      "miasma"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"apple\", \"mountain\", \"idea\", \"river\", \"computer\", \"happiness\", \"vacuum\", \"piano\", \"currency\", \"molecule\"]",
+    "words": [
+      "apple",
+      "mountain",
+      "idea",
+      "river",
+      "computer",
+      "happiness",
+      "vacuum",
+      "piano",
+      "currency",
+      "molecule"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"mountain\",\"giraffe\",\"algorithm\",\"quark\",\"kaleidoscope\",\"democracy\",\"hurricane\",\"kilogram\",\"sandwich\",\"symphony\"]",
+    "words": [
+      "mountain",
+      "giraffe",
+      "algorithm",
+      "quark",
+      "kaleidoscope",
+      "democracy",
+      "hurricane",
+      "kilogram",
+      "sandwich",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"whale\",\"quartz\",\"computer\",\"happiness\",\"chair\",\"justice\",\"atom\",\"melody\",\"island\",\"oxygen\"]",
+    "words": [
+      "whale",
+      "quartz",
+      "computer",
+      "happiness",
+      "chair",
+      "justice",
+      "atom",
+      "melody",
+      "island",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"mountain\", \"electron\", \"melody\", \"beetle\", \"quartz\", \"oasis\", \"algorithm\", \"orchestra\", \"vitamin\", \"galaxy\"]",
+    "words": [
+      "mountain",
+      "electron",
+      "melody",
+      "beetle",
+      "quartz",
+      "oasis",
+      "algorithm",
+      "orchestra",
+      "vitamin",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"elephant\", \"cactus\", \"mountain\", \"algorithm\", \"happiness\", \"bucket\", \"democracy\", \"electron\", \"melody\", \"skyscraper\"]",
+    "words": [
+      "elephant",
+      "cactus",
+      "mountain",
+      "algorithm",
+      "happiness",
+      "bucket",
+      "democracy",
+      "electron",
+      "melody",
+      "skyscraper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"kangaroo\",\"mountain\",\"microscope\",\"justice\",\"hurricane\",\"oxygen\",\"pyramid\",\"spatula\",\"canyon\",\"passport\"]",
+    "words": [
+      "kangaroo",
+      "mountain",
+      "microscope",
+      "justice",
+      "hurricane",
+      "oxygen",
+      "pyramid",
+      "spatula",
+      "canyon",
+      "passport"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"mountain\", \"atom\", \"happiness\", \"computer\", \"ocean\", \"idea\", \"pizza\", \"language\", \"galaxy\", \"beetle\"]",
+    "words": [
+      "mountain",
+      "atom",
+      "happiness",
+      "computer",
+      "ocean",
+      "idea",
+      "pizza",
+      "language",
+      "galaxy",
+      "beetle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"mountain\", \"electron\", \"elephant\", \"democracy\", \"piano\", \"apple\", \"finger\", \"ocean\", \"museum\", \"algorithm\"]",
+    "words": [
+      "mountain",
+      "electron",
+      "elephant",
+      "democracy",
+      "piano",
+      "apple",
+      "finger",
+      "ocean",
+      "museum",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"apple\",\"mountain\",\"justice\",\"algorithm\",\"canvas\",\"whisper\",\"galaxy\",\"oxygen\",\"piano\",\"child\"]",
+    "words": [
+      "apple",
+      "mountain",
+      "justice",
+      "algorithm",
+      "canvas",
+      "whisper",
+      "galaxy",
+      "oxygen",
+      "piano",
+      "child"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"elephant\",\"quartz\",\"symphony\",\"nebula\",\"algorithm\",\"perfume\",\"justice\",\"velocity\",\"skyscraper\",\"retina\"]",
+    "words": [
+      "elephant",
+      "quartz",
+      "symphony",
+      "nebula",
+      "algorithm",
+      "perfume",
+      "justice",
+      "velocity",
+      "skyscraper",
+      "retina"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"table\",\"whale\",\"justice\",\"forest\",\"idea\",\"electron\",\"happiness\",\"mountain\",\"algorithm\",\"painting\"]",
+    "words": [
+      "table",
+      "whale",
+      "justice",
+      "forest",
+      "idea",
+      "electron",
+      "happiness",
+      "mountain",
+      "algorithm",
+      "painting"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"atom\", \"mountain\", \"democracy\", \"tomato\", \"piano\", \"virus\", \"quilt\", \"galaxy\", \"skyscraper\", \"justice\"]",
+    "words": [
+      "atom",
+      "mountain",
+      "democracy",
+      "tomato",
+      "piano",
+      "virus",
+      "quilt",
+      "galaxy",
+      "skyscraper",
+      "justice"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"elephant\", \"spoon\", \"democracy\", \"symphony\", \"neuron\", \"galaxy\", \"fragrance\", \"freedom\", \"volcano\", \"algorithm\"]",
+    "words": [
+      "elephant",
+      "spoon",
+      "democracy",
+      "symphony",
+      "neuron",
+      "galaxy",
+      "fragrance",
+      "freedom",
+      "volcano",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"atom\",\"cactus\",\"democracy\",\"glacier\",\"neuron\",\"skyscraper\",\"jelly\",\"galaxy\",\"algorithm\",\"violin\"]",
+    "words": [
+      "atom",
+      "cactus",
+      "democracy",
+      "glacier",
+      "neuron",
+      "skyscraper",
+      "jelly",
+      "galaxy",
+      "algorithm",
+      "violin"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"whale\", \"atom\", \"guitar\", \"forest\", \"justice\", \"cloud\", \"pyramid\", \"oasis\", \"algorithm\", \"metaphor\"]",
+    "words": [
+      "whale",
+      "atom",
+      "guitar",
+      "forest",
+      "justice",
+      "cloud",
+      "pyramid",
+      "oasis",
+      "algorithm",
+      "metaphor"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"mountain\", \"computer\", \"freedom\", \"cat\", \"pizza\", \"galaxy\", \"happiness\", \"river\", \"skyscraper\", \"violin\"]",
+    "words": [
+      "mountain",
+      "computer",
+      "freedom",
+      "cat",
+      "pizza",
+      "galaxy",
+      "happiness",
+      "river",
+      "skyscraper",
+      "violin"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"mountain\",\"algorithm\",\"fungus\",\"quartz\",\"rocket\",\"happiness\",\"currency\",\"mirror\",\"melody\",\"tapestry\"]",
+    "words": [
+      "mountain",
+      "algorithm",
+      "fungus",
+      "quartz",
+      "rocket",
+      "happiness",
+      "currency",
+      "mirror",
+      "melody",
+      "tapestry"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"whale\", \"mountain\", \"idea\", \"hammer\", \"galaxy\", \"emotion\", \"fabric\", \"algorithm\", \"democracy\", \"nectar\"]",
+    "words": [
+      "whale",
+      "mountain",
+      "idea",
+      "hammer",
+      "galaxy",
+      "emotion",
+      "fabric",
+      "algorithm",
+      "democracy",
+      "nectar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"mountain\",\"atom\",\"melody\",\"desert\",\"microscope\",\"whale\",\"nebula\",\"algorithm\",\"justice\",\"skyscraper\"]",
+    "words": [
+      "mountain",
+      "atom",
+      "melody",
+      "desert",
+      "microscope",
+      "whale",
+      "nebula",
+      "algorithm",
+      "justice",
+      "skyscraper"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"apple\", \"mountain\", \"justice\", \"elephant\", \"pencil\", \"music\", \"computer\", \"oil\", \"ocean\", \"galaxy\"]",
+    "words": [
+      "apple",
+      "mountain",
+      "justice",
+      "elephant",
+      "pencil",
+      "music",
+      "computer",
+      "oil",
+      "ocean",
+      "galaxy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"mountain\",\"ocean\",\"idea\",\"computer\",\"jungle\",\"justice\",\"atom\",\"poem\",\"hurricane\",\"broccoli\"]",
+    "words": [
+      "mountain",
+      "ocean",
+      "idea",
+      "computer",
+      "jungle",
+      "justice",
+      "atom",
+      "poem",
+      "hurricane",
+      "broccoli"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"cat\", \"mountain\", \"justice\", \"quill\", \"melody\", \"entropy\", \"nebula\", \"carbon\", \"market\", \"oak\"]",
+    "words": [
+      "cat",
+      "mountain",
+      "justice",
+      "quill",
+      "melody",
+      "entropy",
+      "nebula",
+      "carbon",
+      "market",
+      "oak"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"mountain\", \"electron\", \"poem\", \"cactus\", \"justice\", \"ocean\", \"caterpillar\", \"freedom\", \"microphone\", \"pyramid\"]",
+    "words": [
+      "mountain",
+      "electron",
+      "poem",
+      "cactus",
+      "justice",
+      "ocean",
+      "caterpillar",
+      "freedom",
+      "microphone",
+      "pyramid"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"mountain\",\"whale\",\"justice\",\"cactus\",\"symphony\",\"oxygen\",\"pyramid\",\"guitar\",\"diamond\",\"algorithm\"]",
+    "words": [
+      "mountain",
+      "whale",
+      "justice",
+      "cactus",
+      "symphony",
+      "oxygen",
+      "pyramid",
+      "guitar",
+      "diamond",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"apple\", \"democracy\", \"galaxy\", \"melody\", \"cactus\", \"skyscraper\", \"algorithm\", \"sculpture\", \"bacteria\", \"currency\"]",
+    "words": [
+      "apple",
+      "democracy",
+      "galaxy",
+      "melody",
+      "cactus",
+      "skyscraper",
+      "algorithm",
+      "sculpture",
+      "bacteria",
+      "currency"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"mountain\", \"cactus\", \"penguin\", \"democracy\", \"algorithm\", \"whistle\", \"oxygen\", \"pixel\", \"jail\", \"quark\"]",
+    "words": [
+      "mountain",
+      "cactus",
+      "penguin",
+      "democracy",
+      "algorithm",
+      "whistle",
+      "oxygen",
+      "pixel",
+      "jail",
+      "quark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"mountain\",\"electron\",\"harmony\",\"cactus\",\"planet\",\"book\",\"virus\",\"umbrella\",\"algorithm\",\"democracy\"]",
+    "words": [
+      "mountain",
+      "electron",
+      "harmony",
+      "cactus",
+      "planet",
+      "book",
+      "virus",
+      "umbrella",
+      "algorithm",
+      "democracy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"mountain\", \"microbe\", \"idea\", \"guitar\", \"ocean\", \"algorithm\", \"democracy\", \"anxiety\", \"diamond\", \"spaceship\"]",
+    "words": [
+      "mountain",
+      "microbe",
+      "idea",
+      "guitar",
+      "ocean",
+      "algorithm",
+      "democracy",
+      "anxiety",
+      "diamond",
+      "spaceship"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"apple\", \"mountain\", \"justice\", \"music\", \"algorithm\", \"canvas\", \"planet\", \"ant\", \"gold\", \"thermometer\"]",
+    "words": [
+      "apple",
+      "mountain",
+      "justice",
+      "music",
+      "algorithm",
+      "canvas",
+      "planet",
+      "ant",
+      "gold",
+      "thermometer"
+    ],
+    "api_error": null
+  }
+]

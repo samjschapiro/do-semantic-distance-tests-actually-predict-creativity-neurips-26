@@ -1,0 +1,667 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"Galaxy\", \"Pineapple\", \"Microscope\", \"Surfboard\", \"Fountain\", \"Luggage\", \"Harp\", \"Snowflake\", \" Perfume\", \"Submarine\"]",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "microscope",
+      "surfboard",
+      "fountain",
+      "luggage",
+      "harp",
+      "snowflake",
+      "perfume",
+      "submarine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"Galaxy\", \"Saffron\", \"Submarine\", \"Piano\", \"Glacier\", \"Microchip\", \"Saddle\", \"Nebula\", \"Croissant\", \"Fjord\"]",
+    "words": [
+      "galaxy",
+      "saffron",
+      "submarine",
+      "piano",
+      "glacier",
+      "microchip",
+      "saddle",
+      "nebula",
+      "croissant",
+      "fjord"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Saffron\",\n  \"Submarine\",\n  \"Harmonica\",\n  \"Snowflake\",\n  \"Perfume\",\n  \"Lumber\",\n  \"Kaleidoscope\",\n  \"Fjord\",\n  \"Microchip\"\n]\n```",
+    "words": [
+      "galaxy",
+      "saffron",
+      "submarine",
+      "harmonica",
+      "snowflake",
+      "perfume",
+      "lumber",
+      "kaleidoscope",
+      "fjord",
+      "microchip"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"Quasar\", \"Saffron\", \"Submarine\", \"Luggage\", \"Glacier\", \"Banjo\", \"Nanoparticle\", \"Sandalwood\", \"Fjord\", \"Croissant\"]",
+    "words": [
+      "quasar",
+      "saffron",
+      "submarine",
+      "luggage",
+      "glacier",
+      "banjo",
+      "nanoparticle",
+      "sandalwood",
+      "fjord",
+      "croissant"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Piano\",\n  \"Saffron\",\n  \"Submarine\",\n  \" Glacier\",\n  \"Saddle\",\n  \"Microchip\",\n  \"Fjord\",\n  \"Kaleidoscope\",\n  \"Bonsai\"\n]\n```",
+    "words": [
+      "galaxy",
+      "piano",
+      "saffron",
+      "submarine",
+      "glacier",
+      "saddle",
+      "microchip",
+      "fjord",
+      "kaleidoscope",
+      "bonsai"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"Nebula\", \"Saffron\", \"Submarine\", \"Piano\", \"Glacier\", \"Sphinx\", \"Starfish\", \"Locket\", \"Quartz\", \"Tractor\"]",
+    "words": [
+      "nebula",
+      "saffron",
+      "submarine",
+      "piano",
+      "glacier",
+      "sphinx",
+      "starfish",
+      "locket",
+      "quartz",
+      "tractor"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Pineapple\",\n  \"Microscope\",\n  \"Harmonica\",\n  \"Submarine\",\n  \"Saffron\",\n  \"Gargoyle\",\n  \"Quartz\",\n  \"Starfish\",\n  \"Typewriter\"\n]\n```",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "microscope",
+      "harmonica",
+      "submarine",
+      "saffron",
+      "gargoyle",
+      "quartz",
+      "starfish",
+      "typewriter"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Pineapple\",\n  \"Submarine\",\n  \"Library\",\n  \"Harmonica\",\n  \"Snowflake\",\n  \"Perfume\",\n  \"Locket\",\n  \"Fjord\",\n  \"Scaffold\"\n]\n```",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "submarine",
+      "library",
+      "harmonica",
+      "snowflake",
+      "perfume",
+      "locket",
+      "fjord",
+      "scaffold"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Piano\",\n  \"Snowflake\",\n  \"Submarine\",\n  \"Saffron\",\n  \"Fossil\",\n  \"Bicycle\",\n  \"Llama\",\n  \"Harbor\",\n  \"Quartz\"\n]\n```",
+    "words": [
+      "galaxy",
+      "piano",
+      "snowflake",
+      "submarine",
+      "saffron",
+      "fossil",
+      "bicycle",
+      "llama",
+      "harbor",
+      "quartz"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"Galaxy\", \"Sushi\", \"Harmonica\", \"Submarine\", \"Papyrus\", \"Glacier\", \"Starfish\", \"Luggage\", \"Microchip\", \"Waterfall\"]",
+    "words": [
+      "galaxy",
+      "sushi",
+      "harmonica",
+      "submarine",
+      "papyrus",
+      "glacier",
+      "starfish",
+      "luggage",
+      "microchip",
+      "waterfall"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"Galaxy\", \"Piano\", \"Saffron\", \"Submarine\", \"Glacier\", \"Kite\", \"Fungus\", \"Loom\", \"Saddle\", \"Microchip\"]",
+    "words": [
+      "galaxy",
+      "piano",
+      "saffron",
+      "submarine",
+      "glacier",
+      "kite",
+      "fungus",
+      "loom",
+      "saddle",
+      "microchip"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"Galaxy\", \"Saffron\", \"Submarine\", \"Piano\", \"Glacier\", \"Nutmeg\", \"Fountain\", \"Microscope\", \"Bungalow\", \"Surfboard\"]",
+    "words": [
+      "galaxy",
+      "saffron",
+      "submarine",
+      "piano",
+      "glacier",
+      "nutmeg",
+      "fountain",
+      "microscope",
+      "bungalow",
+      "surfboard"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "```\n[\n  \"Nebula\",\n  \"Pineapple\",\n  \"Gargoyle\",\n  \"Submarine\",\n  \"Saffron\",\n  \"Glacier\",\n  \"Kazoo\",\n  \"Fjord\",\n  \"Spectacle\",\n  \"Bonsai\"\n]\n```",
+    "words": [
+      "nebula",
+      "pineapple",
+      "gargoyle",
+      "submarine",
+      "saffron",
+      "glacier",
+      "kazoo",
+      "fjord",
+      "spectacle",
+      "bonsai"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Saffron\",\n  \"Submarine\",\n  \"Harmonica\",\n  \"Glacier\",\n  \"Starfish\",\n  \"Quartz\",\n  \"Saddle\",\n  \"Paprika\",\n  \"Loom\"\n]\n```",
+    "words": [
+      "galaxy",
+      "saffron",
+      "submarine",
+      "harmonica",
+      "glacier",
+      "starfish",
+      "quartz",
+      "saddle",
+      "paprika",
+      "loom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Pineapple\",\n  \"Microscope\",\n  \"Saxophone\",\n  \"Submarine\",\n  \"Quartz\",\n  \"Library\",\n  \"Surfboard\",\n  \"Furnace\",\n  \"Butterfly\"\n]\n```",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "microscope",
+      "saxophone",
+      "submarine",
+      "quartz",
+      "library",
+      "surfboard",
+      "furnace",
+      "butterfly"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"Galaxy\", \"Piano\", \"Snowflake\", \"Surgeon\", \"Harvest\", \"Bonsai\", \"Submarine\", \"Saffron\", \"Fjord\", \"Microchip\"]",
+    "words": [
+      "galaxy",
+      "piano",
+      "snowflake",
+      "surgeon",
+      "harvest",
+      "bonsai",
+      "submarine",
+      "saffron",
+      "fjord",
+      "microchip"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"Galaxy\", \"Pineapple\", \"Submarine\", \"Harpsichord\", \"Glacier\", \"Saffron\", \"Fjord\", \"Kaleidoscope\", \"Meteorite\", \"Sphinx\"]",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "submarine",
+      "harpsichord",
+      "glacier",
+      "saffron",
+      "fjord",
+      "kaleidoscope",
+      "meteorite",
+      "sphinx"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"Galaxy\", \"Mango\", \"Submarine\", \"Viola\", \"Saffron\", \"Glacier\", \"Kite\", \"Furnace\", \"Starfish\", \"Typewriter\"]",
+    "words": [
+      "galaxy",
+      "mango",
+      "submarine",
+      "viola",
+      "saffron",
+      "glacier",
+      "kite",
+      "furnace",
+      "starfish",
+      "typewriter"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"Fjord\", \"Saffron\", \"Hologram\", \"Microchip\", \"Kazoo\", \"Saddle\", \"Starfish\", \"Gargoyle\", \"Meteorite\", \"Spectacle\"]",
+    "words": [
+      "fjord",
+      "saffron",
+      "hologram",
+      "microchip",
+      "kazoo",
+      "saddle",
+      "starfish",
+      "gargoyle",
+      "meteorite",
+      "spectacle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"Galaxy\", \"Pineapple\", \"Microscope\", \"Saxophone\", \"Submarine\", \"Snowflake\", \"Perfume\", \"Ladder\", \"Fossil\", \"Quilt\"]",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "microscope",
+      "saxophone",
+      "submarine",
+      "snowflake",
+      "perfume",
+      "ladder",
+      "fossil",
+      "quilt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Pineapple\",\n  \"Submarine\",\n  \"Library\",\n  \"Fiddle\",\n  \"Snowflake\",\n  \"Perfume\",\n  \"Pipeline\",\n  \"Saddle\",\n  \"Microchip\"\n]\n```",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "submarine",
+      "library",
+      "fiddle",
+      "snowflake",
+      "perfume",
+      "pipeline",
+      "saddle",
+      "microchip"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"Galaxy\", \"Saffron\", \"Submarine\", \"Piano\", \"Glacier\", \"Starfish\", \"Luggage\", \"Pepper\", \"Microscope\", \"Bungalow\"]",
+    "words": [
+      "galaxy",
+      "saffron",
+      "submarine",
+      "piano",
+      "glacier",
+      "starfish",
+      "luggage",
+      "pepper",
+      "microscope",
+      "bungalow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "```\n[\n  \"Quasar\",\n  \"Saffron\",\n  \"Submarine\",\n  \"Gargoyle\",\n  \"Spectrum\",\n  \"Mangrove\",\n  \"Kettlebell\",\n  \"Fjord\",\n  \"Carousel\",\n  \"Nanoparticle\"\n]\n```",
+    "words": [
+      "quasar",
+      "saffron",
+      "submarine",
+      "gargoyle",
+      "spectrum",
+      "mangrove",
+      "kettlebell",
+      "fjord",
+      "carousel",
+      "nanoparticle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"Nebula\", \"Piano\", \"Saffron\", \"Submarine\", \"Glacier\", \"Bonsai\", \"Linen\", \"Fjord\", \"Spectacle\", \"Microchip\"]",
+    "words": [
+      "nebula",
+      "piano",
+      "saffron",
+      "submarine",
+      "glacier",
+      "bonsai",
+      "linen",
+      "fjord",
+      "spectacle",
+      "microchip"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "```\n[\n  \"Nebula\",\n  \"Piano\",\n  \"Saffron\",\n  \"Submarine\",\n  \"Glacier\",\n  \"Falcon\",\n  \"Sushi\",\n  \"Microchip\",\n  \"Tapestry\",\n  \"Fungus\"\n]\n```",
+    "words": [
+      "nebula",
+      "piano",
+      "saffron",
+      "submarine",
+      "glacier",
+      "falcon",
+      "sushi",
+      "microchip",
+      "tapestry",
+      "fungus"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Pineapple\",\n  \"Submarine\",\n  \"Library\",\n  \"Snowflake\",\n  \"Banjo\",\n  \"Fjord\",\n  \"Spectacle\",\n  \"Quartz\",\n  \"Saddle\"\n]\n```",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "submarine",
+      "library",
+      "snowflake",
+      "banjo",
+      "fjord",
+      "spectacle",
+      "quartz",
+      "saddle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Saffron\",\n  \"Submarine\",\n  \"Piano\",\n  \"Glacier\",\n  \"Nebula\",\n  \"Quilt\",\n  \"Fjord\",\n  \"Bonsai\",\n  \"Harvester\"\n]\n```",
+    "words": [
+      "galaxy",
+      "saffron",
+      "submarine",
+      "piano",
+      "glacier",
+      "nebula",
+      "quilt",
+      "fjord",
+      "bonsai",
+      "harvester"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Piano\",\n  \"Saffron\",\n  \"Submarine\",\n  \"Gargoyle\",\n  \"Quartz\",\n  \"Starfish\",\n  \"Luggage\",\n  \"Furnace\",\n  \"Blossom\"\n]\n```",
+    "words": [
+      "galaxy",
+      "piano",
+      "saffron",
+      "submarine",
+      "gargoyle",
+      "quartz",
+      "starfish",
+      "luggage",
+      "furnace",
+      "blossom"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Pineapple\",\n  \"Microscope\",\n  \"Surfboard\",\n  \"Luggage\",\n  \"Banjo\",\n  \"Snowflake\",\n  \"Submarine\",\n  \"Perfume\",\n  \"Bricklayer\"\n]\n```",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "microscope",
+      "surfboard",
+      "luggage",
+      "banjo",
+      "snowflake",
+      "submarine",
+      "perfume",
+      "bricklayer"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"Fjord\", \"Saffron\", \"Quark\", \"Saxophone\", \"Starfish\", \"Luggage\", \"Glacier\", \"Papyrus\", \"Submarine\", \"Bonsai\"]",
+    "words": [
+      "fjord",
+      "saffron",
+      "quark",
+      "saxophone",
+      "starfish",
+      "luggage",
+      "glacier",
+      "papyrus",
+      "submarine",
+      "bonsai"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "```\n[\n  \"Galaxy\",\n  \"Pineapple\",\n  \"Submarine\",\n  \"Saxophone\",\n  \"Glacier\",\n  \"Starfish\",\n  \"Fountain\",\n  \"Microchip\",\n  \"Quilt\",\n  \"Lighthouse\"\n]\n```",
+    "words": [
+      "galaxy",
+      "pineapple",
+      "submarine",
+      "saxophone",
+      "glacier",
+      "starfish",
+      "fountain",
+      "microchip",
+      "quilt",
+      "lighthouse"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"Nebula\", \"Piano\", \"Saffron\", \"Submarine\", \"Glacier\", \"Fjord\", \"Spectrum\", \"Starfish\", \"Microchip\", \"Kiln\"]",
+    "words": [
+      "nebula",
+      "piano",
+      "saffron",
+      "submarine",
+      "glacier",
+      "fjord",
+      "spectrum",
+      "starfish",
+      "microchip",
+      "kiln"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"Galaxy\", \"Saffron\", \"Submarine\", \"Fjord\", \"Piano\", \"Starfish\", \"Microchip\", \"Llama\", \"Waterfall\", \"Spectacle\"]",
+    "words": [
+      "galaxy",
+      "saffron",
+      "submarine",
+      "fjord",
+      "piano",
+      "starfish",
+      "microchip",
+      "llama",
+      "waterfall",
+      "spectacle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"Fjord\", \"Saffron\", \"Quasar\", \"Kite\", \"Sperm Whale\", \"Glacier\", \"Harpsichord\", \"Nanoparticle\", \"Bamboo\", \"Meteorite\"]",
+    "words": [
+      "fjord",
+      "saffron",
+      "quasar",
+      "kite",
+      "sperm whale",
+      "glacier",
+      "harpsichord",
+      "nanoparticle",
+      "bamboo",
+      "meteorite"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "```\n[\"Fjord\", \"Piano\", \"Saffron\", \"Galaxy\", \"Submarine\", \"Sandal\", \"Meteorite\", \"Harmonica\", \"Bungalow\", \"Glacier\"]\n```",
+    "words": [
+      "fjord",
+      "piano",
+      "saffron",
+      "galaxy",
+      "submarine",
+      "sandal",
+      "meteorite",
+      "harmonica",
+      "bungalow",
+      "glacier"
+    ],
+    "api_error": null
+  }
+]

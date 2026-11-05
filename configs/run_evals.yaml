@@ -1,0 +1,138 @@
+# Config for running DAT, CDAT, and PACE evaluations.
+# The 75 models in the paper (OpenRouter IDs). Responses used in the paper are in
+# data/responses/; this config writes to a new folder.
+output_dir: "outputs/responses_new"
+
+# Optional budget cap in USD (0 = no cap). With a cap, list prices under `pricing:`
+# as {model_id: [usd_per_M_input, usd_per_M_output]}; unpriced models stop the run.
+budget_usd: 0.0
+# pricing:
+#   openai/gpt-4o: [2.5, 10.0]
+
+# Max concurrent in-flight API calls. OpenRouter's rate ceiling scales with
+# credit balance (~$34 ≈ 30 req/s). 20 leaves headroom for retries.
+concurrency: 20
+
+# Reasoning control for reasoning-enabled models (QwQ, o-series, DeepSeek R1,
+# Claude extended thinking). Forwarded to OpenRouter's unified reasoning API.
+# Low effort + hard cap on thinking tokens keeps reasoning models from spending
+# minutes on each simple word-generation task.
+reasoning:
+  effort: "low"
+  exclude: true
+
+# Per-eval temperature lists
+# DAT/CDAT: temps 1.0, 1.5, 2.0 to get meaningful variance — lower temps produce
+# near-deterministic "canonical answers" even with seed variation
+# PACE: temp=0.0 per the original Qiu & Hu paper (variance from 50 distinct seeds)
+dat_temperatures: [1.0, 1.5, 2.0]
+cdat_temperatures: [1.0, 1.5, 2.0]
+pace_temperatures: [0.0]
+
+# Sampling controls — for DAT/CDAT we want maximum diversity, so disable nucleus
+# and top-k filtering. Provider defaults often apply top_p~0.9 which suppresses
+# tail tokens and prevents temperature from breaking canonical-answer priors.
+dat_top_p: 1.0
+dat_top_k: 0
+cdat_top_p: 1.0
+cdat_top_k: 0
+# PACE: leave at provider defaults (paper doesn't specify; only sets temp=0)
+
+# Max output tokens per call — these are BASE values for non-reasoning models.
+# Reasoning models automatically get `base * reasoning_max_tokens_multiplier`
+# (default 4x) since reasoning tokens count toward the cap.
+# Keeping base tight prevents runaway token generation at high temperatures
+# on non-reasoning models.
+dat_max_tokens: 256           # 10 words in JSON
+cdat_max_tokens: 256          # 10 words in JSON
+pace_stage1_max_tokens: 400   # 3 words with reasons
+pace_stage2_max_tokens: 1200  # 20 words with reasons (can get verbose)
+reasoning_max_tokens_multiplier: 4  # reasoning models get 4× the base
+
+dat_trials: 40
+
+evals:
+  - dat
+  - cdat
+  - pace
+
+# Models ordered: non-reasoning cheap-to-expensive first, then reasoning models last.
+# Reasoning models (qwq, o3*, o4-mini, deepseek-r1) are much slower per-call even with
+# low reasoning effort. Running them last means we still get data from everyone else
+# if we hit the budget cap or time out.
+models:
+  - amazon/nova-lite-v1
+  - amazon/nova-pro-v1
+  - anthropic/claude-3-haiku
+  - anthropic/claude-3.5-haiku
+  - anthropic/claude-3.5-sonnet
+  - anthropic/claude-3.7-sonnet
+  - anthropic/claude-haiku-4.5
+  - anthropic/claude-opus-4.5
+  - anthropic/claude-opus-4.6
+  - anthropic/claude-sonnet-4
+  - anthropic/claude-sonnet-4.5
+  - anthropic/claude-sonnet-4.6
+  - cohere/command-a
+  - cohere/command-r-08-2024
+  - cohere/command-r-plus-08-2024
+  - cohere/command-r7b-12-2024
+  - deepseek/deepseek-chat
+  - deepseek/deepseek-chat-v3-0324
+  - deepseek/deepseek-r1
+  - deepseek/deepseek-r1-distill-llama-70b
+  - deepseek/deepseek-r1-distill-qwen-32b
+  - google/gemini-2.0-flash-001
+  - google/gemini-2.0-flash-lite-001
+  - google/gemini-2.0-pro-exp-02-05
+  - google/gemini-2.5-flash
+  - google/gemini-2.5-pro
+  - google/gemini-3-flash-preview
+  - google/gemini-3.1-pro-preview
+  - google/gemini-pro-1.5
+  - google/gemma-2-27b-it
+  - google/gemma-2-2b-it
+  - google/gemma-2-9b-it
+  - google/gemma-3-27b-it
+  - meta-llama/llama-3.1-405b-instruct
+  - meta-llama/llama-3.1-70b-instruct
+  - meta-llama/llama-3.1-8b-instruct
+  - meta-llama/llama-3.2-1b-instruct
+  - meta-llama/llama-3.2-3b-instruct
+  - meta-llama/llama-3.3-70b-instruct
+  - meta-llama/llama-4-maverick
+  - meta-llama/llama-4-scout
+  - microsoft/phi-4
+  - mistralai/mistral-7b-instruct-v0.1
+  - mistralai/mistral-large-2407
+  - mistralai/mistral-large-2411
+  - mistralai/mistral-nemo
+  - mistralai/mistral-small-24b-instruct-2501
+  - nvidia/llama-3.1-nemotron-70b-instruct
+  - openai/gpt-3.5-turbo
+  - openai/gpt-4-turbo
+  - openai/gpt-4.1
+  - openai/gpt-4.1-mini
+  - openai/gpt-4.1-nano
+  - openai/gpt-4o
+  - openai/gpt-4o-mini
+  - openai/gpt-5
+  - openai/gpt-5-mini
+  - openai/gpt-5-nano
+  - openai/gpt-5.2
+  - openai/gpt-5.4
+  - openai/gpt-5.4-mini
+  - openai/gpt-5.4-nano
+  - openai/o3
+  - openai/o3-mini
+  - openai/o4-mini
+  - qwen/qwen-2.5-72b-instruct
+  - qwen/qwen-2.5-7b-instruct
+  - qwen/qwen-2.5-coder-32b-instruct
+  - qwen/qwen-max
+  - qwen/qwen3-14b
+  - qwen/qwen3-235b-a22b
+  - qwen/qwen3-32b
+  - qwen/qwen3-8b
+  - qwen/qwq-32b
+  - x-ai/grok-4

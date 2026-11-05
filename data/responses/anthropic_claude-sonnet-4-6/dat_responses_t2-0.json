@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"grief\", \"anvil\", \"spore\", \"tide\", \"dungeon\", \"axiom\", \"marrow\", \"cobalt\", \"whim\", \"eclipse\"]",
+    "words": [
+      "grief",
+      "anvil",
+      "spore",
+      "tide",
+      "dungeon",
+      "axiom",
+      "marrow",
+      "cobalt",
+      "whim",
+      "eclipse"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"nebula\", \"chisel\", \"grief\", \"squid\", \"vinegar\", \"elbow\", \"justice\", \"chord\", \"moss\", \"debt\"]",
+    "words": [
+      "nebula",
+      "chisel",
+      "grief",
+      "squid",
+      "vinegar",
+      "elbow",
+      "justice",
+      "chord",
+      "moss",
+      "debt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"justice\", \"fungus\", \"chimney\", \"telescope\", \"grief\", \"cobblestone\", \"membrane\", \"eclipse\", \"debt\", \"larva\"]",
+    "words": [
+      "justice",
+      "fungus",
+      "chimney",
+      "telescope",
+      "grief",
+      "cobblestone",
+      "membrane",
+      "eclipse",
+      "debt",
+      "larva"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"elephant\", \"justice\", \"fungus\", \"tide\", \"grief\", \"circuit\", \"debt\", \"myth\", \"needle\", \"ratio\"]",
+    "words": [
+      "elephant",
+      "justice",
+      "fungus",
+      "tide",
+      "grief",
+      "circuit",
+      "debt",
+      "myth",
+      "needle",
+      "ratio"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"grief\", \"boulder\", \"algorithm\", \"fungus\", \"melody\", \"debt\", \"scaffold\", \"tide\", \"vapor\", \"ritual\"]",
+    "words": [
+      "grief",
+      "boulder",
+      "algorithm",
+      "fungus",
+      "melody",
+      "debt",
+      "scaffold",
+      "tide",
+      "vapor",
+      "ritual"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"anvil\", \"democracy\", \"fungus\", \"grief\", \"transistor\", \"brine\", \"theorem\", \"ritual\", \"sediment\", \"horizon\"]",
+    "words": [
+      "anvil",
+      "democracy",
+      "fungus",
+      "grief",
+      "transistor",
+      "brine",
+      "theorem",
+      "ritual",
+      "sediment",
+      "horizon"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"anvil\", \"justice\", \"spore\", \"glacier\", \"debt\", \"algorithm\", \"grief\", \"myth\", \"tide\", \"elbow\"]",
+    "words": [
+      "anvil",
+      "justice",
+      "spore",
+      "glacier",
+      "debt",
+      "algorithm",
+      "grief",
+      "myth",
+      "tide",
+      "elbow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"rock\", \"justice\", \"fungus\", \"grief\", \"nebula\", \"treaty\", \"quark\", \"epoch\", \"fragrance\", \"theorem\"]",
+    "words": [
+      "rock",
+      "justice",
+      "fungus",
+      "grief",
+      "nebula",
+      "treaty",
+      "quark",
+      "epoch",
+      "fragrance",
+      "theorem"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"quark\", \"grief\", \"anvil\", \"spore\", \"nebula\", \"justice\", \"epoch\", \"tribe\", \"vinegar\", \"membrane\"]",
+    "words": [
+      "quark",
+      "grief",
+      "anvil",
+      "spore",
+      "nebula",
+      "justice",
+      "epoch",
+      "tribe",
+      "vinegar",
+      "membrane"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"quark\", \"grief\", \"ladder\", \"treaty\", \"fungus\", \"debt\", \"melody\", \"epoch\", \"myth\", \"oxygen\"]",
+    "words": [
+      "quark",
+      "grief",
+      "ladder",
+      "treaty",
+      "fungus",
+      "debt",
+      "melody",
+      "epoch",
+      "myth",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"stone\", \"grief\", \"nebula\", \"enzyme\", \"treaty\", \"melody\", \"fungus\", \"justice\", \"lever\", \"oath\"]",
+    "words": [
+      "stone",
+      "grief",
+      "nebula",
+      "enzyme",
+      "treaty",
+      "melody",
+      "fungus",
+      "justice",
+      "lever",
+      "oath"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"grief\", \"algorithm\", \"fungus\", \"epoch\", \"quartz\", \"ritual\", \"debris\", \"justice\", \"cavity\", \"vertigo\"]",
+    "words": [
+      "grief",
+      "algorithm",
+      "fungus",
+      "epoch",
+      "quartz",
+      "ritual",
+      "debris",
+      "justice",
+      "cavity",
+      "vertigo"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"nebula\", \"grief\", \"anvil\", \"fungus\", \"equation\", \"hierarchy\", \"velvet\", \"century\", \"vinegar\", \"labyrinth\"]",
+    "words": [
+      "nebula",
+      "grief",
+      "anvil",
+      "fungus",
+      "equation",
+      "hierarchy",
+      "velvet",
+      "century",
+      "vinegar",
+      "labyrinth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"rock\", \"justice\", \"fungus\", \"grief\", \"circuit\", \"epoch\", \"quark\", \"ritual\", \"melody\", \"debt\"]",
+    "words": [
+      "rock",
+      "justice",
+      "fungus",
+      "grief",
+      "circuit",
+      "epoch",
+      "quark",
+      "ritual",
+      "melody",
+      "debt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"quartz\", \"grief\", \"algorithm\", \"tide\", \"fungus\", \"jury\", \"melody\", \"debt\", \"shadow\", \"myth\"]",
+    "words": [
+      "quartz",
+      "grief",
+      "algorithm",
+      "tide",
+      "fungus",
+      "jury",
+      "melody",
+      "debt",
+      "shadow",
+      "myth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"stone\", \"justice\", \"fungus\", \"tide\", \"debt\", \"quark\", \"nebula\", \"socket\", \"grief\", \"algorithm\"]",
+    "words": [
+      "stone",
+      "justice",
+      "fungus",
+      "tide",
+      "debt",
+      "quark",
+      "nebula",
+      "socket",
+      "grief",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"quark\", \"grief\", \"anvil\", \"fungus\", \"epoch\", \"lagoon\", \"theorem\", \"ritual\", \"velvet\", \"glacier\"]",
+    "words": [
+      "quark",
+      "grief",
+      "anvil",
+      "fungus",
+      "epoch",
+      "lagoon",
+      "theorem",
+      "ritual",
+      "velvet",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"stone\", \"justice\", \"melody\", \"fungus\", \"debt\", \"telescope\", \"grief\", \"current\", \"ballot\", \"marrow\"]",
+    "words": [
+      "stone",
+      "justice",
+      "melody",
+      "fungus",
+      "debt",
+      "telescope",
+      "grief",
+      "current",
+      "ballot",
+      "marrow"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"quartz\", \"grief\", \"fungus\", \"debt\", \"nebula\", \"melody\", \"enzyme\", \"labyrinth\", \"tide\", \"verdict\"]",
+    "words": [
+      "quartz",
+      "grief",
+      "fungus",
+      "debt",
+      "nebula",
+      "melody",
+      "enzyme",
+      "labyrinth",
+      "tide",
+      "verdict"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"justice\", \"mushroom\", \"wrench\", \"octopus\", \"grief\", \"nitrogen\", \"threshold\", \"epoch\", \"debt\", \"rhythm\"]",
+    "words": [
+      "justice",
+      "mushroom",
+      "wrench",
+      "octopus",
+      "grief",
+      "nitrogen",
+      "threshold",
+      "epoch",
+      "debt",
+      "rhythm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"rock\", \"justice\", \"spore\", \"grief\", \"nebula\", \"treaty\", \"bucket\", \"fraction\", \"myth\", \"membrane\"]",
+    "words": [
+      "rock",
+      "justice",
+      "spore",
+      "grief",
+      "nebula",
+      "treaty",
+      "bucket",
+      "fraction",
+      "myth",
+      "membrane"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"justice\", \"glacier\", \"fungus\", \"socket\", \"grief\", \"algorithm\", \"tusk\", \"thunder\", \"debt\", \"membrane\"]",
+    "words": [
+      "justice",
+      "glacier",
+      "fungus",
+      "socket",
+      "grief",
+      "algorithm",
+      "tusk",
+      "thunder",
+      "debt",
+      "membrane"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"glacier\", \"justice\", \"fungus\", \"debt\", \"nebula\", \"grief\", \"theorem\", \"spoon\", \"democracy\", \"quartz\"]",
+    "words": [
+      "glacier",
+      "justice",
+      "fungus",
+      "debt",
+      "nebula",
+      "grief",
+      "theorem",
+      "spoon",
+      "democracy",
+      "quartz"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"justice\", \"fungus\", \"nebula\", \"grief\", \"transistor\", \"sediment\", \"chord\", \"brine\", \"myth\", \"lattice\"]",
+    "words": [
+      "justice",
+      "fungus",
+      "nebula",
+      "grief",
+      "transistor",
+      "sediment",
+      "chord",
+      "brine",
+      "myth",
+      "lattice"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"nebula\", \"grief\", \"anvil\", \"fungus\", \"epoch\", \"ritual\", \"glacier\", \"algorithm\", \"membrane\", \"debt\"]",
+    "words": [
+      "nebula",
+      "grief",
+      "anvil",
+      "fungus",
+      "epoch",
+      "ritual",
+      "glacier",
+      "algorithm",
+      "membrane",
+      "debt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"galaxy\", \"grief\", \"fungus\", \"theorem\", \"jaw\", \"verdict\", \"pixel\", \"tide\", \"bronze\", \"debt\"]",
+    "words": [
+      "galaxy",
+      "grief",
+      "fungus",
+      "theorem",
+      "jaw",
+      "verdict",
+      "pixel",
+      "tide",
+      "bronze",
+      "debt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"nebula\", \"grief\", \"fungus\", \"treaty\", \"gravel\", \"chord\", \"circuit\", \"tide\", \"census\", \"brine\"]",
+    "words": [
+      "nebula",
+      "grief",
+      "fungus",
+      "treaty",
+      "gravel",
+      "chord",
+      "circuit",
+      "tide",
+      "census",
+      "brine"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"rock\", \"justice\", \"fungus\", \"debt\", \"nebula\", \"grief\", \"vinegar\", \"tendon\", \"algorithm\", \"mythology\"]",
+    "words": [
+      "rock",
+      "justice",
+      "fungus",
+      "debt",
+      "nebula",
+      "grief",
+      "vinegar",
+      "tendon",
+      "algorithm",
+      "mythology"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"spoon\", \"justice\", \"fungus\", \"nebula\", \"grief\", \"tide\", \"algorithm\", \"chord\", \"membrane\", \"ritual\"]",
+    "words": [
+      "spoon",
+      "justice",
+      "fungus",
+      "nebula",
+      "grief",
+      "tide",
+      "algorithm",
+      "chord",
+      "membrane",
+      "ritual"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"justice\", \"fungus\", \"quartz\", \"debt\", \"whisker\", \"orbit\", \"syllable\", \"marrow\", \"threshold\", \"tide\"]",
+    "words": [
+      "justice",
+      "fungus",
+      "quartz",
+      "debt",
+      "whisker",
+      "orbit",
+      "syllable",
+      "marrow",
+      "threshold",
+      "tide"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"rock\", \"justice\", \"fungus\", \"melody\", \"debt\", \"nebula\", \"grief\", \"circuit\", \"tide\", \"ceremony\"]",
+    "words": [
+      "rock",
+      "justice",
+      "fungus",
+      "melody",
+      "debt",
+      "nebula",
+      "grief",
+      "circuit",
+      "tide",
+      "ceremony"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"electron\", \"glacier\", \"justice\", \"fungus\", \"melody\", \"debt\", \"vertebra\", \"circuit\", \"myth\", \"eclipse\"]",
+    "words": [
+      "electron",
+      "glacier",
+      "justice",
+      "fungus",
+      "melody",
+      "debt",
+      "vertebra",
+      "circuit",
+      "myth",
+      "eclipse"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"theorem\", \"mud\", \"grief\", \"fungus\", \"epoch\", \"voltage\", \"ritual\", \"larva\", \"anvil\", \"nebula\"]",
+    "words": [
+      "theorem",
+      "mud",
+      "grief",
+      "fungus",
+      "epoch",
+      "voltage",
+      "ritual",
+      "larva",
+      "anvil",
+      "nebula"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"rock\", \"justice\", \"fungus\", \"grief\", \"electron\", \"ritual\", \"tide\", \"debt\", \"threshold\", \"myth\"]",
+    "words": [
+      "rock",
+      "justice",
+      "fungus",
+      "grief",
+      "electron",
+      "ritual",
+      "tide",
+      "debt",
+      "threshold",
+      "myth"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"quartz\", \"justice\", \"fungus\", \"grief\", \"nebula\", \"algorithm\", \"vinegar\", \"epoch\", \"labyrinth\", \"pixel\"]",
+    "words": [
+      "quartz",
+      "justice",
+      "fungus",
+      "grief",
+      "nebula",
+      "algorithm",
+      "vinegar",
+      "epoch",
+      "labyrinth",
+      "pixel"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"fungus\", \"grief\", \"nebula\", \"anvil\", \"treaty\", \"algorithm\", \"vinegar\", \"justice\", \"chord\", \"rock\"]",
+    "words": [
+      "fungus",
+      "grief",
+      "nebula",
+      "anvil",
+      "treaty",
+      "algorithm",
+      "vinegar",
+      "justice",
+      "chord",
+      "rock"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"justice\", \"anvil\", \"kelp\", \"vertex\", \"grief\", \"crevice\", \"oath\", \"fungus\", \"debt\", \"eclipse\"]",
+    "words": [
+      "justice",
+      "anvil",
+      "kelp",
+      "vertex",
+      "grief",
+      "crevice",
+      "oath",
+      "fungus",
+      "debt",
+      "eclipse"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"mud\", \"justice\", \"fungus\", \"nebula\", \"debt\", \"melody\", \"glacier\", \"algorithm\", \"grief\", \"circuit\"]",
+    "words": [
+      "mud",
+      "justice",
+      "fungus",
+      "nebula",
+      "debt",
+      "melody",
+      "glacier",
+      "algorithm",
+      "grief",
+      "circuit"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"anvil\", \"theorem\", \"glacier\", \"grief\", \"fungus\", \"treaty\", \"epoch\", \"shadow\", \"lullaby\", \"debt\"]",
+    "words": [
+      "anvil",
+      "theorem",
+      "glacier",
+      "grief",
+      "fungus",
+      "treaty",
+      "epoch",
+      "shadow",
+      "lullaby",
+      "debt"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"nebula\", \"justice\", \"fungus\", \"bucket\", \"algorithm\", \"marrow\", \"ritual\", \"epoch\", \"debt\", \"sonata\"]",
+    "words": [
+      "nebula",
+      "justice",
+      "fungus",
+      "bucket",
+      "algorithm",
+      "marrow",
+      "ritual",
+      "epoch",
+      "debt",
+      "sonata"
+    ],
+    "api_error": null
+  }
+]

@@ -1,0 +1,808 @@
+{
+  "rock": {
+    "seed": 2000,
+    "raw_response": "[\n  \"Boulder\",\n  \"Guitar\",\n  \"Quarry\",\n  \"Foundation\",\n  \"Gemsstone\",\n  \"Cliff\",\n  \"Drumstick\",\n  \"Anchor\",\n  \"Mineral\",\n  \"Headland\"\n]",
+    "words": [
+      "boulder",
+      "guitar",
+      "quarry",
+      "foundation",
+      "gemsstone",
+      "cliff",
+      "drumstick",
+      "anchor",
+      "mineral",
+      "headland"
+    ],
+    "api_error": null
+  },
+  "rain": {
+    "seed": 2001,
+    "raw_response": "[\"Cloud\", \"Umbrella\", \"Flood\", \"Pond\", \"Misty\", \"Storm\", \"Puddle\", \"Drain\", \"Sleet\", \"Fog\"]",
+    "words": [
+      "cloud",
+      "umbrella",
+      "flood",
+      "pond",
+      "misty",
+      "storm",
+      "puddle",
+      "drain",
+      "sleet",
+      "fog"
+    ],
+    "api_error": null
+  },
+  "fire": {
+    "seed": 2002,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "ocean": {
+    "seed": 2003,
+    "raw_response": "[\"Coral\", \"Lighthouse\", \"Submarine\", \"Sail\", \"Triton\", \"Iceberg\", \"Kelp\", \"Buoy\", \"Nautilus\", \"Harbor\"]",
+    "words": [
+      "coral",
+      "lighthouse",
+      "submarine",
+      "sail",
+      "triton",
+      "iceberg",
+      "kelp",
+      "buoy",
+      "nautilus",
+      "harbor"
+    ],
+    "api_error": null
+  },
+  "shadow": {
+    "seed": 2004,
+    "raw_response": "[\n\"Silhouette\",\n\"Ghost\",\n\"Umbra\",\n\"Reflection\",\n\"Specter\",\n\"Darkness\",\n\"Profile\",\n\"Apparition\",\n\"Eclipse\",\n\"Silence\"\n]",
+    "words": [
+      "silhouette",
+      "ghost",
+      "umbra",
+      "reflection",
+      "specter",
+      "darkness",
+      "profile",
+      "apparition",
+      "eclipse",
+      "silence"
+    ],
+    "api_error": null
+  },
+  "eagle": {
+    "seed": 2005,
+    "raw_response": "```\n[\"Talon\", \"Sky\", \"Hunter\", \"Feather\", \"Perch\", \"Swoop\", \"Talonite\", \"Mountain\", \"Wing\", \"Scout\"]\n```\n**Rationale for selection:**\n\n* **Shared association with \"eagle\"**:\n\t+ Physical/Anatomical: Talon, Feather, Wing\n\t+ Environmental/Habitat: Sky, Mountain, Perch\n\t+ Behavioral/Characteristic: Hunter, Swoop, Scout\n\t+ Mineral/Indirect (Talonite, a mineral, is an indirect association as talons are eagle features)\n* **Maximal difference in meanings and uses**:\n\t+ Varied parts of speech are avoided (only nouns used as per request)\n\t+ Different semantic fields (environment, anatomy, behavior, etc.)\n\t+ Unrelated connotations (e.g., \"Hunter\" implies action, \"Feather\" implies structure)",
+    "words": [
+      "talon",
+      "sky",
+      "hunter",
+      "feather",
+      "perch",
+      "swoop",
+      "talonite",
+      "mountain",
+      "wing",
+      "scout"
+    ],
+    "api_error": null
+  },
+  "spider": {
+    "seed": 2006,
+    "raw_response": "[\"Arachnid\", \"Web\", \"Poison\", \"Tarantella\", \"Silk\", \"Cobweb\", \"Entangler\", \"Venusflytrap\", \"Exoskeleton\", \"Predator\"]",
+    "words": [
+      "arachnid",
+      "web",
+      "poison",
+      "tarantella",
+      "silk",
+      "cobweb",
+      "entangler",
+      "venusflytrap",
+      "exoskeleton",
+      "predator"
+    ],
+    "api_error": null
+  },
+  "whale": {
+    "seed": 2007,
+    "raw_response": "[\"Kelp\", \"Harpoon\", \"Ocean\", \"Mammal\", \"Fathom\", \"Buoy\", \"Siren\", \"Krill\", \"Iceberg\", \"Navigator\"]",
+    "words": [
+      "kelp",
+      "harpoon",
+      "ocean",
+      "mammal",
+      "fathom",
+      "buoy",
+      "siren",
+      "krill",
+      "iceberg",
+      "navigator"
+    ],
+    "api_error": null
+  },
+  "butterfly": {
+    "seed": 2008,
+    "raw_response": "[\"Wing\", \"Flower\", \"Migration\", \"Metamorphosis\", \"Net\", \"Cloud\", \"Pollen\", \"Spectrum\", \"Emergence\", \"Habitat\"]",
+    "words": [
+      "wing",
+      "flower",
+      "migration",
+      "metamorphosis",
+      "net",
+      "cloud",
+      "pollen",
+      "spectrum",
+      "emergence",
+      "habitat"
+    ],
+    "api_error": null
+  },
+  "wolf": {
+    "seed": 2009,
+    "raw_response": "[\"Pack\", \"Claw\", \"Moonlight\", \"Hunt\", \"Fang\", \"Shepherd\", \"Forest\", \"Prey\", \"Den\", \"Howl\"]",
+    "words": [
+      "pack",
+      "claw",
+      "moonlight",
+      "hunt",
+      "fang",
+      "shepherd",
+      "forest",
+      "prey",
+      "den",
+      "howl"
+    ],
+    "api_error": null
+  },
+  "bread": {
+    "seed": 2010,
+    "raw_response": "[\"Crust\", \"Harvest\", \"Oven\", \"Flour\", \"Butter\", \"Table\", \"Slice\", \"Mixer\", \"Grain\", \"Yeast\"]",
+    "words": [
+      "crust",
+      "harvest",
+      "oven",
+      "flour",
+      "butter",
+      "table",
+      "slice",
+      "mixer",
+      "grain",
+      "yeast"
+    ],
+    "api_error": null
+  },
+  "pepper": {
+    "seed": 2011,
+    "raw_response": "[\"Saffron\", \"Harvest\", \"Mallet\", \"Recipe\", \"Spicebot\", \"Gastronomy\", \"Aroma\", \" Mill\", \"Seedling\", \"Condiment\"]",
+    "words": [
+      "saffron",
+      "harvest",
+      "mallet",
+      "recipe",
+      "spicebot",
+      "gastronomy",
+      "aroma",
+      "mill",
+      "seedling",
+      "condiment"
+    ],
+    "api_error": null
+  },
+  "honey": {
+    "seed": 2012,
+    "raw_response": "[\"Bee\", \"Nectar\", \"Apiary\", \"Sweetener\", \"Goldenrod\", \"Floral\", \"Pollen\", \"Comb\", \"Harvest\", \"Apiologist\"]",
+    "words": [
+      "bee",
+      "nectar",
+      "apiary",
+      "sweetener",
+      "goldenrod",
+      "floral",
+      "pollen",
+      "comb",
+      "harvest",
+      "apiologist"
+    ],
+    "api_error": null
+  },
+  "salt": {
+    "seed": 2013,
+    "raw_response": "[\"Crystal\", \"Fishery\", \"Dehydration\", \"Flavor\", \"Injury\", \"Preservative\", \"Mineral\", \"Ocean\", \"Seasoning\", \"Geode\"]",
+    "words": [
+      "crystal",
+      "fishery",
+      "dehydration",
+      "flavor",
+      "injury",
+      "preservative",
+      "mineral",
+      "ocean",
+      "seasoning",
+      "geode"
+    ],
+    "api_error": null
+  },
+  "wine": {
+    "seed": 2014,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "heart": {
+    "seed": 2015,
+    "raw_response": "[\"Avatar\", \"Pulse\", \"Jewel\", \"Cavern\", \"Emotion\", \"Core\", \"Valve\", \"Soulmate\", \"Organism\", \"Vessel\"]",
+    "words": [
+      "avatar",
+      "pulse",
+      "jewel",
+      "cavern",
+      "emotion",
+      "core",
+      "valve",
+      "soulmate",
+      "organism",
+      "vessel"
+    ],
+    "api_error": null
+  },
+  "bone": {
+    "seed": 2016,
+    "raw_response": "[\"Fossil\", \"Marrow\", \"Skeleton\", \"Cartilage\", \"Tendon\", \"Vertebra\", \"Exoskeleton\", \"Tissue\", \"Joint\", \"Palate\"]",
+    "words": [
+      "fossil",
+      "marrow",
+      "skeleton",
+      "cartilage",
+      "tendon",
+      "vertebra",
+      "exoskeleton",
+      "tissue",
+      "joint",
+      "palate"
+    ],
+    "api_error": null
+  },
+  "blood": {
+    "seed": 2017,
+    "raw_response": "[\"Vein\", \"Sacrifice\", \"Ruby\", \"Origin\", \"Vaccine\", \"Wound\", \"Vampire\", \"Stain\", \"Heritage\", \"Plasma\"]",
+    "words": [
+      "vein",
+      "sacrifice",
+      "ruby",
+      "origin",
+      "vaccine",
+      "wound",
+      "vampire",
+      "stain",
+      "heritage",
+      "plasma"
+    ],
+    "api_error": null
+  },
+  "skin": {
+    "seed": 2018,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "eye": {
+    "seed": 2019,
+    "raw_response": null,
+    "words": [],
+    "api_error": "RateLimitError: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'nvidia/llama-3.1-nemotron-70b-instruct is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'DeepInfra', 'is_byok': False}}, 'user_id': 'user_3CEalzUKWyVdCUAKqNxpTpwGk19'}"
+  },
+  "anger": {
+    "seed": 2020,
+    "raw_response": "[\"Fury\", \"Brawl\", \"Scorn\", \"Menace\", \"Rage\", \"Spite\", \"Vendetta\", \"Hostility\", \"Outburst\", \"Confrontation\"]",
+    "words": [
+      "fury",
+      "brawl",
+      "scorn",
+      "menace",
+      "rage",
+      "spite",
+      "vendetta",
+      "hostility",
+      "outburst",
+      "confrontation"
+    ],
+    "api_error": null
+  },
+  "joy": {
+    "seed": 2021,
+    "raw_response": "[\"Ecstasy\", \"Balloon\", \"Symphony\", \"Sunflower\", \"Laughter\", \"Dynamite\", \"Paradise\", \"Kitten\", \"Rainbow\", \"Holiday\"]",
+    "words": [
+      "ecstasy",
+      "balloon",
+      "symphony",
+      "sunflower",
+      "laughter",
+      "dynamite",
+      "paradise",
+      "kitten",
+      "rainbow",
+      "holiday"
+    ],
+    "api_error": null
+  },
+  "fear": {
+    "seed": 2022,
+    "raw_response": "[\"Phobia\", \"Threat\", \"Panic\", \"Apprehension\", \"Dread\", \"Anxiety\", \"Paranoia\", \"Trauma\", \"Vulnerability\", \"Menace\"]",
+    "words": [
+      "phobia",
+      "threat",
+      "panic",
+      "apprehension",
+      "dread",
+      "anxiety",
+      "paranoia",
+      "trauma",
+      "vulnerability",
+      "menace"
+    ],
+    "api_error": null
+  },
+  "grief": {
+    "seed": 2023,
+    "raw_response": "[\"Mourner\", \"Cemetery\", \"Orphan\", \"Regret\", \"Solace\", \"Eulogy\", \"Memorial\", \"Sorrow\", \"Sympathy\", \"Requiem\"]",
+    "words": [
+      "mourner",
+      "cemetery",
+      "orphan",
+      "regret",
+      "solace",
+      "eulogy",
+      "memorial",
+      "sorrow",
+      "sympathy",
+      "requiem"
+    ],
+    "api_error": null
+  },
+  "hope": {
+    "seed": 2024,
+    "raw_response": "[\"Sanctuary\", \"Lifeline\", \"Dream\", \"Oasis\", \"Respite\", \"Beacon\", \"Harbor\", \"Miracle\", \"Refuge\", \"Promise\"]",
+    "words": [
+      "sanctuary",
+      "lifeline",
+      "dream",
+      "oasis",
+      "respite",
+      "beacon",
+      "harbor",
+      "miracle",
+      "refuge",
+      "promise"
+    ],
+    "api_error": null
+  },
+  "dawn": {
+    "seed": 2025,
+    "raw_response": "[\"Horizon\", \"Sunrise\", \"Morningstar\", \"Awakening\", \"Light\", \"Sky\", \"Nocturne\", \"Twilight\", \"Aurora\", \"Daybreak\"]",
+    "words": [
+      "horizon",
+      "sunrise",
+      "morningstar",
+      "awakening",
+      "light",
+      "sky",
+      "nocturne",
+      "twilight",
+      "aurora",
+      "daybreak"
+    ],
+    "api_error": null
+  },
+  "winter": {
+    "seed": 2026,
+    "raw_response": "[\"Frost\", \"Mittens\", \"Evergreen\", \"Avalanche\", \"Skates\", \"HotChocolate\", \"Snowflake\", \"Parka\", \"Sled\", \"Icicle\"]",
+    "words": [
+      "frost",
+      "mittens",
+      "evergreen",
+      "avalanche",
+      "skates",
+      "hotchocolate",
+      "snowflake",
+      "parka",
+      "sled",
+      "icicle"
+    ],
+    "api_error": null
+  },
+  "midnight": {
+    "seed": 2027,
+    "raw_response": "[\n\"Nocturne\", \n\"Shadow\", \n\"Specter\", \n\"Starlight\", \n\"Silence\", \n\"Velvet\", \n\"Lantern\", \n\"Bats\", \n\"Moonstone\", \n\"Whisper\"\n]",
+    "words": [
+      "nocturne",
+      "shadow",
+      "specter",
+      "starlight",
+      "silence",
+      "velvet",
+      "lantern",
+      "bats",
+      "moonstone",
+      "whisper"
+    ],
+    "api_error": null
+  },
+  "decay": {
+    "seed": 2028,
+    "raw_response": "[\"Fossil\", \"Rust\", \"Mushroom\", \"Toxin\", \"Cemetery\", \"Plaque\", \"Erosion\", \"Necrosis\", \"Hazard\", \"Detritus\"]",
+    "words": [
+      "fossil",
+      "rust",
+      "mushroom",
+      "toxin",
+      "cemetery",
+      "plaque",
+      "erosion",
+      "necrosis",
+      "hazard",
+      "detritus"
+    ],
+    "api_error": null
+  },
+  "rhythm": {
+    "seed": 2029,
+    "raw_response": "[\"Beat\", \"Harmony\", \"Pulse\", \"Cadence\", \"Melody\", \"Tempo\", \"Synchronization\", \"Flow\", \"Meter\", \"Symphony\"]",
+    "words": [
+      "beat",
+      "harmony",
+      "pulse",
+      "cadence",
+      "melody",
+      "tempo",
+      "synchronization",
+      "flow",
+      "meter",
+      "symphony"
+    ],
+    "api_error": null
+  },
+  "crown": {
+    "seed": 2030,
+    "raw_response": "[\"Jewel\", \"Scepter\", \"Throne\", \"Laurel\", \"Summit\", \"Milestone\", \"Diadem\", \"Monarch\", \"Headpiece\", \"Apex\"]",
+    "words": [
+      "jewel",
+      "scepter",
+      "throne",
+      "laurel",
+      "summit",
+      "milestone",
+      "diadem",
+      "monarch",
+      "headpiece",
+      "apex"
+    ],
+    "api_error": null
+  },
+  "prison": {
+    "seed": 2031,
+    "raw_response": "```\n[\n  \"Handcuff\",\n  \"Trial\",\n  \"Barricade\",\n  \"Rehabilitation\",\n  \"Sentencing\",\n  \"Cellblock\",\n  \"Probation\",\n  \"Misdemeanor\",\n  \"Detainee\",\n  \"Parole\"\n]\n```",
+    "words": [
+      "handcuff",
+      "trial",
+      "barricade",
+      "rehabilitation",
+      "sentencing",
+      "cellblock",
+      "probation",
+      "misdemeanor",
+      "detainee",
+      "parole"
+    ],
+    "api_error": null
+  },
+  "market": {
+    "seed": 2032,
+    "raw_response": "[\"Commodity\", \"Broker\", \"Vendor\", \"Consumer\", \"Advertisement\", \"Currency\", \"Warehouse\", \"Merchant\", \"Auction\", \"Merchandise\"]",
+    "words": [
+      "commodity",
+      "broker",
+      "vendor",
+      "consumer",
+      "advertisement",
+      "currency",
+      "warehouse",
+      "merchant",
+      "auction",
+      "merchandise"
+    ],
+    "api_error": null
+  },
+  "temple": {
+    "seed": 2033,
+    "raw_response": "[\"Shrine\", \"Brain\", \"Sanctum\", \"Architecture\", \"Priest\", \"Ritual\", \"Altar\", \"Sacrifice\", \"Meditation\", \"Hierarchy\"]",
+    "words": [
+      "shrine",
+      "brain",
+      "sanctum",
+      "architecture",
+      "priest",
+      "ritual",
+      "altar",
+      "sacrifice",
+      "meditation",
+      "hierarchy"
+    ],
+    "api_error": null
+  },
+  "bridge": {
+    "seed": 2034,
+    "raw_response": "[\"Tunnel\", \"Span\", \"Pier\", \"Arch\", \"Abutment\", \"Viaduct\", \"Overpass\", \"Beam\", \"Pylon\", \"Causeway\"]",
+    "words": [
+      "tunnel",
+      "span",
+      "pier",
+      "arch",
+      "abutment",
+      "viaduct",
+      "overpass",
+      "beam",
+      "pylon",
+      "causeway"
+    ],
+    "api_error": null
+  },
+  "silence": {
+    "seed": 2035,
+    "raw_response": "[\"Sanctuary\", \"Muteness\", \"Stillness\", \"Solitude\", \"Secrecy\", \"Quietude\", \"Contemplation\", \"Tranquility\", \"Solace\", \"Repose\"]",
+    "words": [
+      "sanctuary",
+      "muteness",
+      "stillness",
+      "solitude",
+      "secrecy",
+      "quietude",
+      "contemplation",
+      "tranquility",
+      "solace",
+      "repose"
+    ],
+    "api_error": null
+  },
+  "chaos": {
+    "seed": 2036,
+    "raw_response": "[\"Anarchy\", \"Maelstrom\", \"Bedlam\", \"Entanglement\", \"Catharsis\", \"Turmoil\", \"Frenzy\", \"Disarray\", \"Pandemonium\", \"Cacophony\"]",
+    "words": [
+      "anarchy",
+      "maelstrom",
+      "bedlam",
+      "entanglement",
+      "catharsis",
+      "turmoil",
+      "frenzy",
+      "disarray",
+      "pandemonium",
+      "cacophony"
+    ],
+    "api_error": null
+  },
+  "truth": {
+    "seed": 2037,
+    "raw_response": "```\n[\n  \"Paradox\",\n  \"Honesty\",\n  \"Clarity\",\n  \"Reality\",\n  \"Integrity\",\n  \"Sincerity\",\n  \"Transparency\",\n  \"Verdict\",\n  \"Testimony\",\n  \"Certainty\"\n]\n```",
+    "words": [
+      "paradox",
+      "honesty",
+      "clarity",
+      "reality",
+      "integrity",
+      "sincerity",
+      "transparency",
+      "verdict",
+      "testimony",
+      "certainty"
+    ],
+    "api_error": null
+  },
+  "dream": {
+    "seed": 2038,
+    "raw_response": "```\n[\n  \"Fantasy\",\n  \"Slumber\",\n  \"Visionary\",\n  \"Aspiration\",\n  \"Subconscious\",\n  \"Imagination\",\n  \"Ambition\",\n  \"Somnium\",\n  \"Illusion\",\n  \"Utopia\"\n]\n```",
+    "words": [
+      "fantasy",
+      "slumber",
+      "visionary",
+      "aspiration",
+      "subconscious",
+      "imagination",
+      "ambition",
+      "somnium",
+      "illusion",
+      "utopia"
+    ],
+    "api_error": null
+  },
+  "memory": {
+    "seed": 2039,
+    "raw_response": "[\"Archive\", \"Brain\", \"Chip\", \"Diary\", \"Evidence\", \"Heirloom\", \"Legacy\", \"Photograph\", \"Relic\", \"Testimony\"]",
+    "words": [
+      "archive",
+      "brain",
+      "chip",
+      "diary",
+      "evidence",
+      "heirloom",
+      "legacy",
+      "photograph",
+      "relic",
+      "testimony"
+    ],
+    "api_error": null
+  },
+  "needle": {
+    "seed": 2040,
+    "raw_response": "[\"Suture\", \"Ultraviolet\", \"Thimble\", \"Vaccine\", \"Magnet\", \"Sewing\", \"Harpoon\", \"Cactus\", \"Compass\", \"Splinter\"]",
+    "words": [
+      "suture",
+      "ultraviolet",
+      "thimble",
+      "vaccine",
+      "magnet",
+      "sewing",
+      "harpoon",
+      "cactus",
+      "compass",
+      "splinter"
+    ],
+    "api_error": null
+  },
+  "mirror": {
+    "seed": 2041,
+    "raw_response": "[\"Reflection\", \"Glass\", \"Vanity\", \"Lacquer\", \"Silhouette\", \"Echo\", \"Prism\", \"Lens\", \"Gaze\", \"Surface\"]",
+    "words": [
+      "reflection",
+      "glass",
+      "vanity",
+      "lacquer",
+      "silhouette",
+      "echo",
+      "prism",
+      "lens",
+      "gaze",
+      "surface"
+    ],
+    "api_error": null
+  },
+  "wheel": {
+    "seed": 2042,
+    "raw_response": "[\n\"Axis\",\n\"Tire\",\n\"Spindle\",\n\"Cycle\",\n\"Hubcap\",\n\"Cart\",\n\"Gyro\",\n\"Cog\",\n\"Chassis\",\n\"Automobile\"\n]",
+    "words": [
+      "axis",
+      "tire",
+      "spindle",
+      "cycle",
+      "hubcap",
+      "cart",
+      "gyro",
+      "cog",
+      "chassis",
+      "automobile"
+    ],
+    "api_error": null
+  },
+  "candle": {
+    "seed": 2043,
+    "raw_response": "[\"Wax\", \"Illuminate\", \"Fragrance\", \"Holder\", \"Spark\", \"Scented\", \"Oil\", \"Lantern\", \"Ember\", \"Matches\"]",
+    "words": [
+      "wax",
+      "illuminate",
+      "fragrance",
+      "holder",
+      "spark",
+      "scented",
+      "oil",
+      "lantern",
+      "ember",
+      "matches"
+    ],
+    "api_error": null
+  },
+  "bell": {
+    "seed": 2044,
+    "raw_response": "[\"Clapper\", \"Tower\", \"Shepherd\", \"Wedding\", \"Alarm\", \"Gong\", \"Chime\", \"Sleigh\", \"School\", \"Buoy\"]",
+    "words": [
+      "clapper",
+      "tower",
+      "shepherd",
+      "wedding",
+      "alarm",
+      "gong",
+      "chime",
+      "sleigh",
+      "school",
+      "buoy"
+    ],
+    "api_error": null
+  },
+  "forest": {
+    "seed": 2045,
+    "raw_response": "```\n[\n  \"Canopy\",\n  \"Mushroom\",\n  \"Ranger\",\n  \"Timber\",\n  \"Sapling\",\n  \"Foliage\",\n  \"Wildlife\",\n  \"Clearing\",\n  \"Underbrush\",\n  \"Lumber\"\n]\n```",
+    "words": [
+      "canopy",
+      "mushroom",
+      "ranger",
+      "timber",
+      "sapling",
+      "foliage",
+      "wildlife",
+      "clearing",
+      "underbrush",
+      "lumber"
+    ],
+    "api_error": null
+  },
+  "river": {
+    "seed": 2046,
+    "raw_response": "[\"Delta\", \"Sediment\", \"Fish\", \"Canoe\", \"Waterfall\", \"Diver\", \"Reed\", \"Tributary\", \"Aqueduct\", \"Estuary\"]",
+    "words": [
+      "delta",
+      "sediment",
+      "fish",
+      "canoe",
+      "waterfall",
+      "diver",
+      "reed",
+      "tributary",
+      "aqueduct",
+      "estuary"
+    ],
+    "api_error": null
+  },
+  "storm": {
+    "seed": 2047,
+    "raw_response": "```\n[\n  \"Hurricane\",\n  \"Lighthouse\",\n  \"Surge\",\n  \"Tornado\",\n  \"Floodgate\",\n  \"Meteorologist\",\n  \"Lightning\",\n  \"Buoy\",\n  \"Tsunami\",\n  \"Shelter\"\n]\n```",
+    "words": [
+      "hurricane",
+      "lighthouse",
+      "surge",
+      "tornado",
+      "floodgate",
+      "meteorologist",
+      "lightning",
+      "buoy",
+      "tsunami",
+      "shelter"
+    ],
+    "api_error": null
+  },
+  "dust": {
+    "seed": 2048,
+    "raw_response": "[\"Particle\", \"Vacuum\", \"Ceiling\", \"Fossil\", \"Polish\", \"Desert\", \"Erosion\", \"Mold\", \"Grave\", \"Cosmic\"]",
+    "words": [
+      "particle",
+      "vacuum",
+      "ceiling",
+      "fossil",
+      "polish",
+      "desert",
+      "erosion",
+      "mold",
+      "grave",
+      "cosmic"
+    ],
+    "api_error": null
+  },
+  "crystal": {
+    "seed": 2049,
+    "raw_response": "[\n\"Facet\",\n\"Mineral\",\n\"Chandelier\",\n\"Clarity\",\n\"Geode\",\n\"Ornament\",\n\"Transparency\",\n\"Spectrum\",\n\"Refraction\",\n\"Prism\"\n]",
+    "words": [
+      "facet",
+      "mineral",
+      "chandelier",
+      "clarity",
+      "geode",
+      "ornament",
+      "transparency",
+      "spectrum",
+      "refraction",
+      "prism"
+    ],
+    "api_error": null
+  }
+}

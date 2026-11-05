@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"quark\", \"anvil\", \"orchid\", \"tornado\", \"myth\", \"algorithm\", \"empathy\", \"fungus\", \"parliament\", \"sunscreen\"]",
+    "words": [
+      "quark",
+      "anvil",
+      "orchid",
+      "tornado",
+      "myth",
+      "algorithm",
+      "empathy",
+      "fungus",
+      "parliament",
+      "sunscreen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"quark\",\"orchid\",\"justice\",\"saddle\",\"monsoon\",\"lullaby\",\"calculus\",\"antler\",\"mirage\",\"telescope\"]",
+    "words": [
+      "quark",
+      "orchid",
+      "justice",
+      "saddle",
+      "monsoon",
+      "lullaby",
+      "calculus",
+      "antler",
+      "mirage",
+      "telescope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"quasar\",\"mushroom\",\"paradox\",\"solder\",\"lullaby\",\"iceberg\",\"antibody\",\"gavel\",\"algorithm\",\"tornado\"]",
+    "words": [
+      "quasar",
+      "mushroom",
+      "paradox",
+      "solder",
+      "lullaby",
+      "iceberg",
+      "antibody",
+      "gavel",
+      "algorithm",
+      "tornado"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"quark\",\"avalanche\",\"sonnet\",\"dandelion\",\"scalpel\",\"telescope\",\"paradox\",\"saffron\",\"sarcophagus\",\"algorithm\"]",
+    "words": [
+      "quark",
+      "avalanche",
+      "sonnet",
+      "dandelion",
+      "scalpel",
+      "telescope",
+      "paradox",
+      "saffron",
+      "sarcophagus",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"quark\", \"hurricane\", \"thimble\", \"justice\", \"lichen\", \"symphony\", \"antenna\", \"cinnamon\", \"algorithm\", \"sarcasm\"]",
+    "words": [
+      "quark",
+      "hurricane",
+      "thimble",
+      "justice",
+      "lichen",
+      "symphony",
+      "antenna",
+      "cinnamon",
+      "algorithm",
+      "sarcasm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"quark\", \"cathedral\", \"mildew\", \"democracy\", \"avalanche\", \"enzyme\", \"lullaby\", \"riddle\", \"plankton\", \"aftertaste\"]",
+    "words": [
+      "quark",
+      "cathedral",
+      "mildew",
+      "democracy",
+      "avalanche",
+      "enzyme",
+      "lullaby",
+      "riddle",
+      "plankton",
+      "aftertaste"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"quark\",\"thunder\",\"mildew\",\"justice\",\"saffron\",\"asteroid\",\"lullaby\",\"hinge\",\"octopus\",\"avalanche\"]",
+    "words": [
+      "quark",
+      "thunder",
+      "mildew",
+      "justice",
+      "saffron",
+      "asteroid",
+      "lullaby",
+      "hinge",
+      "octopus",
+      "avalanche"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"quasar\", \"spoon\", \"justice\", \"moss\", \"eclipse\", \"lullaby\", \"algebra\", \"volcano\", \"perfume\", \"skeleton\"]",
+    "words": [
+      "quasar",
+      "spoon",
+      "justice",
+      "moss",
+      "eclipse",
+      "lullaby",
+      "algebra",
+      "volcano",
+      "perfume",
+      "skeleton"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"quark\", \"cathedral\", \"sandal\", \"algorithm\", \"lichen\", \"hammock\", \"avalanche\", \"microscope\", \"justice\", \"nectar\"]",
+    "words": [
+      "quark",
+      "cathedral",
+      "sandal",
+      "algorithm",
+      "lichen",
+      "hammock",
+      "avalanche",
+      "microscope",
+      "justice",
+      "nectar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"quark\", \"tornado\", \"symphony\", \"fungus\", \"sarcophagus\", \"equation\", \"kindness\", \"satellite\", \"marathon\", \"pollen\"]",
+    "words": [
+      "quark",
+      "tornado",
+      "symphony",
+      "fungus",
+      "sarcophagus",
+      "equation",
+      "kindness",
+      "satellite",
+      "marathon",
+      "pollen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"quark\", \"thunder\", \"moss\", \"democracy\", \"umbrella\", \"regret\", \"octagon\", \"bacteria\", \"volcano\", \"lullaby\"]",
+    "words": [
+      "quark",
+      "thunder",
+      "moss",
+      "democracy",
+      "umbrella",
+      "regret",
+      "octagon",
+      "bacteria",
+      "volcano",
+      "lullaby"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"quark\",\"volcano\",\"sonnet\",\"mildew\",\"abacus\",\"hammock\",\"syringe\",\"comet\",\"verdict\",\"nectar\"]",
+    "words": [
+      "quark",
+      "volcano",
+      "sonnet",
+      "mildew",
+      "abacus",
+      "hammock",
+      "syringe",
+      "comet",
+      "verdict",
+      "nectar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"spoon\",\"justice\",\"algae\",\"volcano\",\"algorithm\",\"toddler\",\"upholstery\",\"neutron\",\"fragrance\",\"quasar\"]",
+    "words": [
+      "spoon",
+      "justice",
+      "algae",
+      "volcano",
+      "algorithm",
+      "toddler",
+      "upholstery",
+      "neutron",
+      "fragrance",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"quasar\",\"spoon\",\"mildew\",\"democracy\",\"ankle\",\"saffron\",\"avalanche\",\"barcode\",\"lullaby\",\"caterpillar\"]",
+    "words": [
+      "quasar",
+      "spoon",
+      "mildew",
+      "democracy",
+      "ankle",
+      "saffron",
+      "avalanche",
+      "barcode",
+      "lullaby",
+      "caterpillar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"quark\", \"hammock\", \"justice\", \"mildew\", \"telescope\", \"carnation\", \"algorithm\", \"thunder\", \"velvet\", \"barnacle\"]",
+    "words": [
+      "quark",
+      "hammock",
+      "justice",
+      "mildew",
+      "telescope",
+      "carnation",
+      "algorithm",
+      "thunder",
+      "velvet",
+      "barnacle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"quark\", \"galaxy\", \"magma\", \"lichen\", \"thimble\", \"sonnet\", \"treaty\", \"algorithm\", \"anemia\", \"sandal\"]",
+    "words": [
+      "quark",
+      "galaxy",
+      "magma",
+      "lichen",
+      "thimble",
+      "sonnet",
+      "treaty",
+      "algorithm",
+      "anemia",
+      "sandal"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"quark\", \"thunder\", \"moss\", \"algorithm\", \"cradle\", \"justice\", \"nectar\", \"hinge\", \"volcano\", \"microscope\"]",
+    "words": [
+      "quark",
+      "thunder",
+      "moss",
+      "algorithm",
+      "cradle",
+      "justice",
+      "nectar",
+      "hinge",
+      "volcano",
+      "microscope"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"quark\", \"cathedral\", \"tangerine\", \"justice\", \"lathe\", \"plankton\", \"mortgage\", \"thunder\", \"lullaby\", \"glacier\"]",
+    "words": [
+      "quark",
+      "cathedral",
+      "tangerine",
+      "justice",
+      "lathe",
+      "plankton",
+      "mortgage",
+      "thunder",
+      "lullaby",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"quasar\",\"koala\",\"entropy\",\"jurisdiction\",\"sandal\",\"silicon\",\"moss\",\"lullaby\",\"harpoon\",\"cottage\"]",
+    "words": [
+      "quasar",
+      "koala",
+      "entropy",
+      "jurisdiction",
+      "sandal",
+      "silicon",
+      "moss",
+      "lullaby",
+      "harpoon",
+      "cottage"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"quark\", \"mountain\", \"regret\", \"screwdriver\", \"orchid\", \"eclipse\", \"plankton\", \"democracy\", \"saffron\", \"algorithm\"]",
+    "words": [
+      "quark",
+      "mountain",
+      "regret",
+      "screwdriver",
+      "orchid",
+      "eclipse",
+      "plankton",
+      "democracy",
+      "saffron",
+      "algorithm"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"spoon\",\"thunder\",\"justice\",\"moss\",\"galaxy\",\"algorithm\",\"perfume\",\"volcano\",\"truce\",\"antenna\"]",
+    "words": [
+      "spoon",
+      "thunder",
+      "justice",
+      "moss",
+      "galaxy",
+      "algorithm",
+      "perfume",
+      "volcano",
+      "truce",
+      "antenna"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"quark\",\"orchid\",\"magma\",\"justice\",\"symphony\",\"scalpel\",\"galaxy\",\"algorithm\",\"hammock\",\"mildew\"]",
+    "words": [
+      "quark",
+      "orchid",
+      "magma",
+      "justice",
+      "symphony",
+      "scalpel",
+      "galaxy",
+      "algorithm",
+      "hammock",
+      "mildew"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"quark\", \"hammock\", \"sarcophagus\", \"rainbow\", \"thimble\", \"algorithms\", \"mushroom\", \"tundra\", \"metronome\", \"nostril\"]",
+    "words": [
+      "quark",
+      "hammock",
+      "sarcophagus",
+      "rainbow",
+      "thimble",
+      "algorithms",
+      "mushroom",
+      "tundra",
+      "metronome",
+      "nostril"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"quark\", \"cathedral\", \"saffron\", \"glacier\", \"algorithm\", \"lullaby\", \"microscope\", \"hammock\", \"fungus\", \"democracy\"]",
+    "words": [
+      "quark",
+      "cathedral",
+      "saffron",
+      "glacier",
+      "algorithm",
+      "lullaby",
+      "microscope",
+      "hammock",
+      "fungus",
+      "democracy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"quark\",\"cabbage\",\"thunder\",\"justice\",\"saffron\",\"asteroid\",\"mosquito\",\"tapestry\",\"algorithm\",\"glacier\"]",
+    "words": [
+      "quark",
+      "cabbage",
+      "thunder",
+      "justice",
+      "saffron",
+      "asteroid",
+      "mosquito",
+      "tapestry",
+      "algorithm",
+      "glacier"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"quark\", \"cathedral\", \"microscope\", \"tornado\", \"currency\", \"fungus\", \"justice\", \"melody\", \"satellite\", \"perfume\"]",
+    "words": [
+      "quark",
+      "cathedral",
+      "microscope",
+      "tornado",
+      "currency",
+      "fungus",
+      "justice",
+      "melody",
+      "satellite",
+      "perfume"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"quark\", \"volcano\", \"sonnet\", \"suture\", \"giraffe\", \"cradle\", \"algorithm\", \"mildew\", \"compass\", \"justice\"]",
+    "words": [
+      "quark",
+      "volcano",
+      "sonnet",
+      "suture",
+      "giraffe",
+      "cradle",
+      "algorithm",
+      "mildew",
+      "compass",
+      "justice"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"quasar\", \"saffron\", \"democracy\", \"barnacle\", \"algorithm\", \"canyon\", \"microscope\", \"lullaby\", \"molecule\", \"bankruptcy\"]",
+    "words": [
+      "quasar",
+      "saffron",
+      "democracy",
+      "barnacle",
+      "algorithm",
+      "canyon",
+      "microscope",
+      "lullaby",
+      "molecule",
+      "bankruptcy"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"quark\",\"cathedral\",\"diatom\",\"casserole\",\"avalanche\",\"semaphore\",\"lullaby\",\"mortgage\",\"sandal\",\"perfume\"]",
+    "words": [
+      "quark",
+      "cathedral",
+      "diatom",
+      "casserole",
+      "avalanche",
+      "semaphore",
+      "lullaby",
+      "mortgage",
+      "sandal",
+      "perfume"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"quasar\",\"ladle\",\"fungus\",\"democracy\",\"saffron\",\"igloo\",\"entropy\",\"barnacle\",\"tarmac\",\"lullaby\"]",
+    "words": [
+      "quasar",
+      "ladle",
+      "fungus",
+      "democracy",
+      "saffron",
+      "igloo",
+      "entropy",
+      "barnacle",
+      "tarmac",
+      "lullaby"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"quark\",\"galaxy\",\"pebble\",\"orchid\",\"bacterium\",\"algorithm\",\"sonata\",\"justice\",\"eclipse\",\"teapot\"]",
+    "words": [
+      "quark",
+      "galaxy",
+      "pebble",
+      "orchid",
+      "bacterium",
+      "algorithm",
+      "sonata",
+      "justice",
+      "eclipse",
+      "teapot"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"quark\", \"hurricane\", \"cinnamon\", \"equinox\", \"anvil\", \"orchid\", \"algorithm\", \"dandruff\", \"parliament\", \"lullaby\"]",
+    "words": [
+      "quark",
+      "hurricane",
+      "cinnamon",
+      "equinox",
+      "anvil",
+      "orchid",
+      "algorithm",
+      "dandruff",
+      "parliament",
+      "lullaby"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"quark\",\"saxophone\",\"mushroom\",\"algorithm\",\"avalanche\",\"morality\",\"archipelago\",\"hinge\",\"lullaby\",\"harvest\"]",
+    "words": [
+      "quark",
+      "saxophone",
+      "mushroom",
+      "algorithm",
+      "avalanche",
+      "morality",
+      "archipelago",
+      "hinge",
+      "lullaby",
+      "harvest"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"quark\", \"volcano\", \"sonnet\", \"mildew\", \"compass\", \"saffron\", \"jury\", \"nebula\", \"cradle\", \"anvil\"]",
+    "words": [
+      "quark",
+      "volcano",
+      "sonnet",
+      "mildew",
+      "compass",
+      "saffron",
+      "jury",
+      "nebula",
+      "cradle",
+      "anvil"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"quark\", \"avalanche\", \"lullaby\", \"treaty\", \"fungus\", \"compass\", \"saffron\", \"hammock\", \"tsunami\", \"microbe\"]",
+    "words": [
+      "quark",
+      "avalanche",
+      "lullaby",
+      "treaty",
+      "fungus",
+      "compass",
+      "saffron",
+      "hammock",
+      "tsunami",
+      "microbe"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"quark\",\"thunder\",\"moss\",\"teapot\",\"justice\",\"scar\",\"nebula\",\"algorithm\",\"canyon\",\"lullaby\"]",
+    "words": [
+      "quark",
+      "thunder",
+      "moss",
+      "teapot",
+      "justice",
+      "scar",
+      "nebula",
+      "algorithm",
+      "canyon",
+      "lullaby"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"quark\", \"cathedral\", \"hammock\", \"fungus\", \"algorithm\", \"volcano\", \"treaty\", \"nostalgia\", \"screwdriver\", \"ankle\"]",
+    "words": [
+      "quark",
+      "cathedral",
+      "hammock",
+      "fungus",
+      "algorithm",
+      "volcano",
+      "treaty",
+      "nostalgia",
+      "screwdriver",
+      "ankle"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"quasar\",\"moss\",\"thimble\",\"volcano\",\"algorithm\",\"lullaby\",\"neutron\",\"cathedral\",\"antibody\",\"saffron\"]",
+    "words": [
+      "quasar",
+      "moss",
+      "thimble",
+      "volcano",
+      "algorithm",
+      "lullaby",
+      "neutron",
+      "cathedral",
+      "antibody",
+      "saffron"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"algorithm\",\"volcano\",\"moss\",\"wrench\",\"toddler\",\"entropy\",\"melody\",\"quartz\",\"soup\",\"asteroid\"]",
+    "words": [
+      "algorithm",
+      "volcano",
+      "moss",
+      "wrench",
+      "toddler",
+      "entropy",
+      "melody",
+      "quartz",
+      "soup",
+      "asteroid"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"quasar\",\"fungus\",\"theorem\",\"hammock\",\"glacier\",\"syringe\",\"sonnet\",\"asphalt\",\"neuron\",\"igloo\"]",
+    "words": [
+      "quasar",
+      "fungus",
+      "theorem",
+      "hammock",
+      "glacier",
+      "syringe",
+      "sonnet",
+      "asphalt",
+      "neuron",
+      "igloo"
+    ],
+    "api_error": null
+  }
+]

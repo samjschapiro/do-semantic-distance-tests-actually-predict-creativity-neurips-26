@@ -1,0 +1,722 @@
+[
+  {
+    "trial": 0,
+    "seed": 1000,
+    "raw_response": "[\"Quantum\", \"Symphony\", \"Sphinx\", \"Mirage\", \"Hammer\", \"Lung\", \"Ocean\", \"Brioche\", \"Alibi\", \"Quasar\"]",
+    "words": [
+      "quantum",
+      "symphony",
+      "sphinx",
+      "mirage",
+      "hammer",
+      "lung",
+      "ocean",
+      "brioche",
+      "alibi",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 1,
+    "seed": 1001,
+    "raw_response": "[\"quantum\", \"tornado\", \"symphony\", \"skeleton\", \"lighthouse\", \"constellation\", \"quasar\", \"altruism\", \"quark\", \"ozone\"]",
+    "words": [
+      "quantum",
+      "tornado",
+      "symphony",
+      "skeleton",
+      "lighthouse",
+      "constellation",
+      "quasar",
+      "altruism",
+      "quark",
+      "ozone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 2,
+    "seed": 1002,
+    "raw_response": "[\"Quantum\", \"Symphony\", \"Sphinx\", \"Mirage\", \"Brioche\", \"Hammer\", \"Lung\", \"Ocean\", \"Alibi\", \"Quasar\"]",
+    "words": [
+      "quantum",
+      "symphony",
+      "sphinx",
+      "mirage",
+      "brioche",
+      "hammer",
+      "lung",
+      "ocean",
+      "alibi",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 3,
+    "seed": 1003,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"century\", \"bridge\", \"despair\", \"tornado\", \"justice\", \"gear\", \"quark\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "century",
+      "bridge",
+      "despair",
+      "tornado",
+      "justice",
+      "gear",
+      "quark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 4,
+    "seed": 1004,
+    "raw_response": "[\"quantum\", \"tornado\", \"symphony\", \"skeleton\", \"lighthouse\", \"constellation\", \"quasar\", \"altruism\", \"quark\", \"ozone\"]",
+    "words": [
+      "quantum",
+      "tornado",
+      "symphony",
+      "skeleton",
+      "lighthouse",
+      "constellation",
+      "quasar",
+      "altruism",
+      "quark",
+      "ozone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 5,
+    "seed": 1005,
+    "raw_response": "[\"grief\", \"volcano\", \"hammer\", \"quasar\", \"lung\", \"equilibrium\", \"currency\", \"thorn\", \"sapphire\", \"paradox\"]",
+    "words": [
+      "grief",
+      "volcano",
+      "hammer",
+      "quasar",
+      "lung",
+      "equilibrium",
+      "currency",
+      "thorn",
+      "sapphire",
+      "paradox"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 6,
+    "seed": 1006,
+    "raw_response": "[\"Galaxy\", \"Hammer\", \"Desert\", \"Fable\", \"Siren\", \"Tornado\", \"Bridge\", \"Mirror\", \"Symphony\", \"Oxygen\"]",
+    "words": [
+      "galaxy",
+      "hammer",
+      "desert",
+      "fable",
+      "siren",
+      "tornado",
+      "bridge",
+      "mirror",
+      "symphony",
+      "oxygen"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 7,
+    "seed": 1007,
+    "raw_response": "[\"quantum\", \"sphinx\", \"altruism\", \"vortex\", \"labyrinth\", \"symphony\", \"nebula\", \"symbiosis\", \"orbit\", \"quasar\"]",
+    "words": [
+      "quantum",
+      "sphinx",
+      "altruism",
+      "vortex",
+      "labyrinth",
+      "symphony",
+      "nebula",
+      "symbiosis",
+      "orbit",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 8,
+    "seed": 1008,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"freedom\", \"dust\", \"symphony\", \"galaxy\", \"sponge\", \"equinox\", \"nebulas\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "freedom",
+      "dust",
+      "symphony",
+      "galaxy",
+      "sponge",
+      "equinox",
+      "nebulas"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 9,
+    "seed": 1009,
+    "raw_response": "[\"quantum\", \"tornado\", \"symphony\", \"skeleton\", \"lighthouse\", \"constellation\", \"quasar\", \"altruism\", \"quark\", \"ozone\"]",
+    "words": [
+      "quantum",
+      "tornado",
+      "symphony",
+      "skeleton",
+      "lighthouse",
+      "constellation",
+      "quasar",
+      "altruism",
+      "quark",
+      "ozone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 10,
+    "seed": 1010,
+    "raw_response": "[\"Quantum\", \"Symphony\", \"Sphinx\", \"Mirage\", \"Hammer\", \"Lung\", \"Ocean\", \"Brioche\", \"Alibi\", \"Quasar\"]",
+    "words": [
+      "quantum",
+      "symphony",
+      "sphinx",
+      "mirage",
+      "hammer",
+      "lung",
+      "ocean",
+      "brioche",
+      "alibi",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 11,
+    "seed": 1011,
+    "raw_response": "[\"quantum\", \"tornado\", \"symphony\", \"skeleton\", \"lighthouse\", \"constellation\", \"quasar\", \"altruism\", \"quark\", \"ozone\"]",
+    "words": [
+      "quantum",
+      "tornado",
+      "symphony",
+      "skeleton",
+      "lighthouse",
+      "constellation",
+      "quasar",
+      "altruism",
+      "quark",
+      "ozone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 12,
+    "seed": 1012,
+    "raw_response": "[\"cell\", \"ion\", \"volcano\", \"ocean\", \"algorithm\", \"canvas\", \"freedom\", \"star\", \"cloud\", \"quasar\"]",
+    "words": [
+      "cell",
+      "ion",
+      "volcano",
+      "ocean",
+      "algorithm",
+      "canvas",
+      "freedom",
+      "star",
+      "cloud",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 13,
+    "seed": 1013,
+    "raw_response": "[\"asteroid\", \"echidna\", \"syllable\", \"turbocharger\", \"volcano\", \"xenon\", \"circuit\", \"glacier\", \"infinity\", \"observatory\"]",
+    "words": [
+      "asteroid",
+      "echidna",
+      "syllable",
+      "turbocharger",
+      "volcano",
+      "xenon",
+      "circuit",
+      "glacier",
+      "infinity",
+      "observatory"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 14,
+    "seed": 1014,
+    "raw_response": "[\"quantum\", \"quintessence\", \"quasar\", \"quilt\", \"quince\", \"quinine\", \"quilt\", \"quart\", \"quiver\", \"quokka\"]",
+    "words": [
+      "quantum",
+      "quintessence",
+      "quasar",
+      "quilt",
+      "quince",
+      "quinine",
+      "quilt",
+      "quart",
+      "quiver",
+      "quokka"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 15,
+    "seed": 1015,
+    "raw_response": "[\"quantum\", \"tornado\", \"symphony\", \"skeleton\", \"lighthouse\", \"constellation\", \"quasar\", \"altruism\", \"quark\", \"ozone\"]",
+    "words": [
+      "quantum",
+      "tornado",
+      "symphony",
+      "skeleton",
+      "lighthouse",
+      "constellation",
+      "quasar",
+      "altruism",
+      "quark",
+      "ozone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 16,
+    "seed": 1016,
+    "raw_response": "[\"Quantum\", \"Symphony\", \"Fjord\", \"Algorithm\", \"Lighthouse\", \"Volcano\", \"Star\", \"Bridge\", \"Mole\", \"Clock\"]",
+    "words": [
+      "quantum",
+      "symphony",
+      "fjord",
+      "algorithm",
+      "lighthouse",
+      "volcano",
+      "star",
+      "bridge",
+      "mole",
+      "clock"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 17,
+    "seed": 1017,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"freedom\", \"dust\", \"symphony\", \"galaxy\", \"sponge\", \"equinox\", \"nebulas\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "freedom",
+      "dust",
+      "symphony",
+      "galaxy",
+      "sponge",
+      "equinox",
+      "nebulas"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 18,
+    "seed": 1018,
+    "raw_response": "[\"quantum\", \"labyrinth\", \"riddle\", \"chronology\", \"hamstring\", \"equinox\", \"hypothesis\", \"dervish\", \"oasis\", \"custard\"]",
+    "words": [
+      "quantum",
+      "labyrinth",
+      "riddle",
+      "chronology",
+      "hamstring",
+      "equinox",
+      "hypothesis",
+      "dervish",
+      "oasis",
+      "custard"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 19,
+    "seed": 1019,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"freedom\", \"dust\", \"symphony\", \"galaxy\", \"sponge\", \"equinox\", \"nebulas\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "freedom",
+      "dust",
+      "symphony",
+      "galaxy",
+      "sponge",
+      "equinox",
+      "nebulas"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 20,
+    "seed": 1020,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"century\", \"bridge\", \"despair\", \"tornado\", \"justice\", \"gear\", \"quark\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "century",
+      "bridge",
+      "despair",
+      "tornado",
+      "justice",
+      "gear",
+      "quark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 21,
+    "seed": 1021,
+    "raw_response": "[\"Quantum\", \"Symphony\", \"Fjord\", \"Quasar\", \"Lung\", \"Sphinx\", \"Mosaic\", \"Hurricane\", \"Algorithm\", \"Siren\"]",
+    "words": [
+      "quantum",
+      "symphony",
+      "fjord",
+      "quasar",
+      "lung",
+      "sphinx",
+      "mosaic",
+      "hurricane",
+      "algorithm",
+      "siren"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 22,
+    "seed": 1022,
+    "raw_response": "[\"ocean\", \"quantum\", \"laughter\", \"ladder\", \"abstract\", \"jellyfish\", \"canyon\", \"altruism\", \"paradox\", \"umbrella\"]",
+    "words": [
+      "ocean",
+      "quantum",
+      "laughter",
+      "ladder",
+      "abstract",
+      "jellyfish",
+      "canyon",
+      "altruism",
+      "paradox",
+      "umbrella"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 23,
+    "seed": 1023,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"century\", \"bridge\", \"despair\", \"tornado\", \"justice\", \"gear\", \"quark\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "century",
+      "bridge",
+      "despair",
+      "tornado",
+      "justice",
+      "gear",
+      "quark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 24,
+    "seed": 1024,
+    "raw_response": "[\"galaxy\", \"algorithm\", \"ocean\", \"symphony\", \"quantum\", \"volcano\", \"fjord\", \"quasar\", \"lung\", \"sphinx\"]",
+    "words": [
+      "galaxy",
+      "algorithm",
+      "ocean",
+      "symphony",
+      "quantum",
+      "volcano",
+      "fjord",
+      "quasar",
+      "lung",
+      "sphinx"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 25,
+    "seed": 1025,
+    "raw_response": "[\"altruism\", \"moon\", \"hammer\", \"ocean\", \"quark\", \"symphony\", \"volcano\", \"sphinx\", \"lung\", \"quasar\"]",
+    "words": [
+      "altruism",
+      "moon",
+      "hammer",
+      "ocean",
+      "quark",
+      "symphony",
+      "volcano",
+      "sphinx",
+      "lung",
+      "quasar"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 26,
+    "seed": 1026,
+    "raw_response": "[\"quantum\", \"tundra\", \"fountain\", \"symphony\", \"quasar\", \"quill\", \"lagoon\", \"scepter\", \"volcano\", \"quinoa\"]",
+    "words": [
+      "quantum",
+      "tundra",
+      "fountain",
+      "symphony",
+      "quasar",
+      "quill",
+      "lagoon",
+      "scepter",
+      "volcano",
+      "quinoa"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 27,
+    "seed": 1027,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"freedom\", \"lung\", \"forest\", \"illusion\", \"epoch\", \"oxygen\", \"artifact\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "freedom",
+      "lung",
+      "forest",
+      "illusion",
+      "epoch",
+      "oxygen",
+      "artifact"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 28,
+    "seed": 1028,
+    "raw_response": "[\"quantum\", \"symphony\", \"lava\", \"sphinx\", \"fahrenheit\", \"moss\", \"quasar\", \"tornado\", \"wasp\", \"olive\"]",
+    "words": [
+      "quantum",
+      "symphony",
+      "lava",
+      "sphinx",
+      "fahrenheit",
+      "moss",
+      "quasar",
+      "tornado",
+      "wasp",
+      "olive"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 29,
+    "seed": 1029,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"symphony\", \"ant\", \"galaxy\", \"cloud\", \"lung\", \"spoon\", \"time\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "symphony",
+      "ant",
+      "galaxy",
+      "cloud",
+      "lung",
+      "spoon",
+      "time"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 30,
+    "seed": 1030,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"century\", \"bridge\", \"quark\", \"justice\", \"tornado\", \"gear\", \"art\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "century",
+      "bridge",
+      "quark",
+      "justice",
+      "tornado",
+      "gear",
+      "art"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 31,
+    "seed": 1031,
+    "raw_response": "[\"galaxy\", \"quantum\", \"ocean\", \"hammer\", \"symphony\", \"volcano\", \"lung\", \"quasar\", \"flock\", \"sphinx\"]",
+    "words": [
+      "galaxy",
+      "quantum",
+      "ocean",
+      "hammer",
+      "symphony",
+      "volcano",
+      "lung",
+      "quasar",
+      "flock",
+      "sphinx"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 32,
+    "seed": 1032,
+    "raw_response": "[\"quasar\", \"algorithm\", \"symphony\", \"lumber\", \"hologram\", \"ferment\", \"lattice\", \"quantum\", \"sculpture\", \"volcano\"]",
+    "words": [
+      "quasar",
+      "algorithm",
+      "symphony",
+      "lumber",
+      "hologram",
+      "ferment",
+      "lattice",
+      "quantum",
+      "sculpture",
+      "volcano"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 33,
+    "seed": 1033,
+    "raw_response": "[\"quantum\", \"tornado\", \"symphony\", \"skeleton\", \"lighthouse\", \"constellation\", \"quasar\", \"altruism\", \"quark\", \"ozone\"]",
+    "words": [
+      "quantum",
+      "tornado",
+      "symphony",
+      "skeleton",
+      "lighthouse",
+      "constellation",
+      "quasar",
+      "altruism",
+      "quark",
+      "ozone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 34,
+    "seed": 1034,
+    "raw_response": "[\"quantum\", \"tornado\", \"symphony\", \"skeleton\", \"lighthouse\", \"constellation\", \"quasar\", \"altruism\", \"quark\", \"ozone\"]",
+    "words": [
+      "quantum",
+      "tornado",
+      "symphony",
+      "skeleton",
+      "lighthouse",
+      "constellation",
+      "quasar",
+      "altruism",
+      "quark",
+      "ozone"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 35,
+    "seed": 1035,
+    "raw_response": "[\"Quantum\", \"Symphony\", \"Quasar\", \"Galaxy\", \"Paradox\", \"Bridge\", \"Glacier\", \"Justice\", \"Sail\", \"Sunset\"]",
+    "words": [
+      "quantum",
+      "symphony",
+      "quasar",
+      "galaxy",
+      "paradox",
+      "bridge",
+      "glacier",
+      "justice",
+      "sail",
+      "sunset"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 36,
+    "seed": 1036,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"century\", \"bridge\", \"currency\", \"tornado\", \"justice\", \"gear\", \"quark\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "century",
+      "bridge",
+      "currency",
+      "tornado",
+      "justice",
+      "gear",
+      "quark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 37,
+    "seed": 1037,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"century\", \"bridge\", \"currency\", \"tornado\", \"justice\", \"gear\", \"quark\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "century",
+      "bridge",
+      "currency",
+      "tornado",
+      "justice",
+      "gear",
+      "quark"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 38,
+    "seed": 1038,
+    "raw_response": "[\"quark\", \"symphony\", \"volcano\", \"star\", \"spoon\", \"ocean\", \"joke\", \"honey\", \"hound\", \"mirror\"]",
+    "words": [
+      "quark",
+      "symphony",
+      "volcano",
+      "star",
+      "spoon",
+      "ocean",
+      "joke",
+      "honey",
+      "hound",
+      "mirror"
+    ],
+    "api_error": null
+  },
+  {
+    "trial": 39,
+    "seed": 1039,
+    "raw_response": "[\"hope\", \"hammer\", \"volcano\", \"century\", \"bridge\", \"currency\", \"tornado\", \"justice\", \"gear\", \"quark\"]",
+    "words": [
+      "hope",
+      "hammer",
+      "volcano",
+      "century",
+      "bridge",
+      "currency",
+      "tornado",
+      "justice",
+      "gear",
+      "quark"
+    ],
+    "api_error": null
+  }
+]
