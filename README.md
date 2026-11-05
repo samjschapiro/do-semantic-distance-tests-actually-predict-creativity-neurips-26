@@ -2,7 +2,7 @@
 
 Code and data for the NeurIPS 2026 paper by Samuel Schapiro, Alexi Gladstone, Jonah Black and Heng Ji.
 
-[Project page](PROJECT_PAGE_URL) · [Paper](PAPER_URL)
+[Project page](https://schapiro.ai/semantic-distance-tests/) · [Paper](https://openreview.net/forum?id=VflIpUsCvC)
 
 We give LLMs the semantic distance tests used to measure human creativity, the Divergent Association Task (DAT), the Conditional DAT (CDAT, with its novelty and appropriateness parts) and PACE, plus the Remote Associates Test (RAT). Then we ask whether their scores predict creativity benchmarks in four areas: creative writing, output diversity, combinatorial creativity and scientific ideation. For each test and benchmark we report validity (the correlation with the benchmark) and specificity (the correlation with the part of the benchmark that general ability, measured by MMLU-Pro, does not explain). This repository holds the model responses behind the paper's numbers, the scores computed from them, and the scripts that produce the paper's tables and figures.
 
