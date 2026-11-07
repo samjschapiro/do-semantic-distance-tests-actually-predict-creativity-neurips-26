@@ -1,6 +1,6 @@
 <div align="center">
 
-# Do Semantic Distance Tests *Actually* Predict Creativity in Large Language Models?
+# Do Semantic Distance Tests *Actually* Predict Creativity in LLMs? Evidence for Jagged Creativity
 
 **Samuel Schapiro, Alexi Gladstone, Jonah Black, Heng Ji**
 
@@ -119,7 +119,7 @@ Notes on the saved data:
 
 ```bibtex
 @inproceedings{schapiro2026semantic,
-  title     = {Do Semantic Distance Tests \emph{Actually} Predict Creativity in Large Language Models?},
+  title     = {Do Semantic Distance Tests \emph{Actually} Predict Creativity in LLMs? Evidence for Jagged Creativity},
   author    = {Schapiro, Samuel and Gladstone, Alexi and Black, Jonah and Ji, Heng},
   booktitle = {Advances in Neural Information Processing Systems},
   year      = {2026}
